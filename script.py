@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 
 urls_list = []
-with open('./object_html.json') as f:
+with open('./Object_html_json/kettle_html.json') as f:
     urls = json.load(f)
 
 for url in urls:
@@ -26,14 +26,16 @@ def get_product_image(sess, url, img_number):
     f.write(requests.get(link[0]['data-old-hires']).content)
     f.close()
     # print(link[0]['src'])
-
+###########################################################################
+# Download images
 # Now download the image to the ./Images/<object>/folder
 # get_product_image(sess, urls_list[10], 11)
-for i in range(len(urls_list)):
-    try:
-        get_product_image(sess, urls_list[i], i+1)
-    except:
-        print("Mug " + str(i+1) + " has exception, cannot be downloaded automatically")
+# for i in range(len(urls_list)):
+#     try:
+#         get_product_image(sess, urls_list[i], i+1)
+#     except:
+#         print("Mug " + str(i+1) + " has exception, cannot be downloaded automatically")
+###########################################################################
 
 def get_product_info(sess, url):
     # URL = ('https://www.amazon.co.uk/Opard-Coffee-Insulation-Stainless-Leakproof/dp/B086DKTVQ1/ref=sr_1_21?dchild=1&keywords=mug&qid=1608929241&sr=8-21&th=1')
@@ -41,8 +43,8 @@ def get_product_info(sess, url):
     soup = BeautifulSoup(res.content, "lxml")
     output = ''
 
-    product_title = soup.find(id='title').text.strip()
-    print('Product title is :{}'.format(product_title))
+    product_title = soup.find(id='productTitle').text.strip()
+    # print('Product title is :{}'.format(product_title.strip()))
     # print('\n=====Printing product title=====\n')
     # print(product_title)
     output = output + product_title + '\n'
@@ -97,22 +99,25 @@ def get_product_info(sess, url):
 
 ###########################################################################
 #  Now writing to xlsx file
-# import xlsxwriter
-
+import xlsxwriter
+# 
 # output1 = get_product_info(sess, urls_list[0])
 # # print(output1)
 # # print(len(urls_list))
-# workbook = xlsxwriter.Workbook('WebScrapeMug.xlsx')
-# worksheet = workbook.add_worksheet()
-# for i in range(1, len(urls_list) + 1):
-    
-#     try:
-#         output = get_product_info(sess, urls_list[i-1])
-#         worksheet.write('A' + str(i), output)
-#         print('*** Successfully writen to A{} cell'.format(i))
-#     except:
-#         print('Exception in {}', urls_list[i-1])
-    
-# workbook.close()
+workbook = xlsxwriter.Workbook('./SpreadSheet/WebScrapeKettle.xlsx')
+worksheet = workbook.add_worksheet()
+for i in range(1, len(urls_list) + 1):
+    try:
+        output = get_product_info(sess, urls_list[i-1])
+        worksheet.write('A' + str(i), output)
+        print('*** Successfully writen to A{} cell'.format(str(i)))
+    except:
+        print('Exception in {}', urls_list[i-1])
+workbook.close()
+
 ###########################################################################
-# Now download the image to ./Images/<object>
+
+# Testing individual link
+# testUrl = "https://www.amazon.co.uk/Russell-Hobbs-23910-Adventure-Stainless/dp/B07F8HZVFS/ref=sr_1_1_sspa?dchild=1&keywords=kettle&qid=1610975588&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTDBPRU5ISlAxTEhaJmVuY3J5cHRlZElkPUEwMjY5MTI2RUJGTEM2VTJUN1RRJmVuY3J5cHRlZEFkSWQ9QTA3NDYxNDQyOVFJMzg4QzE3SktYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+# test_output = get_product_info(sess, testUrl)
+# print(test_output)
