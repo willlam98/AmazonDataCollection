@@ -1,4 +1,4 @@
-﻿Input,Generic_Material_Softmax,Generic_Colour_Softmax
+﻿Input,Material,Colour,Weight
 "Russell Hobbs 23910 Adventure Brushed Stainless Steel Electric Kettle, Open Handle, 3000 W, 1.7 Litre
 Brand Russell Hobbs
 Colour Brushed Steel
@@ -20,7 +20,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Energy Efficiency Class A to G
 Item Weight 998 g
-",steel,steel
+",metal,other,998g
 "iKich Eco Glass Electric Kettle, 1.7L Cordless Water kettle with Blue LED Illuminated, Fast Boil Tea Water Kettle, Auto Shut-Off & Boil-Dry Protection, Stainless Steel Inner Lid & Bottom, 2200W, Grey
 Brand IKICH
 Colour Grey
@@ -44,7 +44,7 @@ Auto Shutoff Yes
 Noise Level 50 dB
 Special Features 1. Glass design, visible boiling. 2. BPA-free, 100% No plastic.  3. Overheating & boil-dry protection tec.   4. Stay-cool ergonomic handle.  5. Fast boiling: 0.5L for just 2mins.
 Item Weight 1.2 kg
-",glass,grey
+",glass,grey,1.2kg
 "Russell Hobbs Mode Kettle 21400 - Black
 Brand Russell Hobbs
 Colour Black
@@ -69,7 +69,7 @@ Energy Efficiency Class A
 Noise Level 5 dB
 Runtime 3 minutes
 Item Weight 1.18 kg
-",plastic,black
+",plastic,black,1.18kg
 "Russell Hobbs 26050 Cordless Electric Kettle - Contemporary Honeycomb Design with Fast Boil and Boil Dry Protection, 1.7 Litre, 3000 W, White
 Brand Russell Hobbs
 Colour White
@@ -92,7 +92,7 @@ Voltage 240
 Material Plastic
 Special Features Water window with internal illumination, Boil dry protection, Rapid boil zone markers - Boils one cup in 43 seconds*, 360 base with cord storage, Perfect pour spout
 Item Weight 1.1 kg
-",plastic,white
+",plastic,white,1.1kg
 "Breville Impressions Electric Kettle, 1.7 Litre, 3 KW Fast Boil, Red [VKJ956]
 Brand Breville
 Colour Red
@@ -115,7 +115,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Concealed_Heating
 Item Weight 1.14 kg
-",plastic,red
+",plastic,red,1.14kg
 "Russell Hobbs 21600-10 Illuminating Glass Kettle, Black, 1.7 Litre, 3000 Watt
 Brand Russell Hobbs
 Colour Black
@@ -141,7 +141,7 @@ Noise Level 1 dB
 Runtime 1 minute
 Special Features Concealed_Heating
 Item Weight 1.2 kg
-",glass,black
+",glass,black,1.2kg
 "Luxbe - Gooseneck Swan Pour-Over Coffee Teapot Kettle - 40oz 1200ml 4-5 Cups - Hand Drip-Less Adjustable Temperature Control - Stove-Top Heat-Resistant - Water Boiler with Thermometer - Beech Handle
 Material Birch
 Colour Steel
@@ -156,7 +156,7 @@ Colour Steel
 Package Dimensions 27.3 x 16.2 x 14.3 cm; 633 Grams
 Material Birch
 Item Weight 633 g
-",birch,steel
+",other,other,633g
 "HadinEEon Variable Temperature Electric Kettle, 2200W Electric Tea Kettle, 8 Big Cups 2.0L Glass Water Boiler With 4Hrs Keep Warm Function & Boil-Dry Protection, Cordless Tea Kettle Electric
 Brand HadinEEon
 Colour Silver
@@ -178,7 +178,7 @@ Power / Wattage 2200 watts
 Voltage 120 Volts
 Material Borosilicate Glass\304 Stainless Steel
 Item Weight 1.54 kg
-",glass,silver
+",glass,silver,1.54kg
 "ANSIO Electric Kettle 2200W 1.7L Cordless, Glass Kettle with Auto Shut Off & Boil Dry Protection,Otter Controller
 Brand ANSIO
 Colour Transparent
@@ -199,7 +199,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Material Glass
 Item Weight 1.52 kg
-",glass,transparent
+",glass,other,1.52kg
 "Swan SK14610GRYN, Nordic Rapid Boil Jug Kettle, Wood Effect Handle, Soft Touch Housing and Matt Finish, 3kw, 1.7 Litre, Slate Grey
 Brand Swan
 Colour Grey
@@ -222,7 +222,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Removable / Washable scale filter, Blue On/Off switch with LED indicator, Rapid Boil, Automatic Switch off and Dry boil protection, Cordless, Streamline design with Intergrated spout
 Item Weight 1.72 kg
-",steel,grey
+",metal,grey,1.72kg
 "Decen Glass Kettle, Electric Kettle Temperature Control with 5 Colors LED Lights Variable, Keep Warm 2H, Fast Boiling Electric Kettle, Stainless Steel Inner Lid & Bottom, 1.7L, BPA Free
 Brand Decen
 Colour Black
@@ -238,7 +238,7 @@ Package Dimensions 27.4 x 22.4 x 20.1 cm; 1.35 Kilograms
 Volume Capacity 1.7 litres
 Material Glass
 Item Weight 1.35 kg
-",glass,black
+",glass,black,1.35kg
 "SQ Professional Epoque Green Electric Kettle with Rose Gold Accents & Temperature Display - 2200W - 1.8L Stainless Steel
 Brand SQ Professional
 Colour Green
@@ -257,7 +257,7 @@ Volume Capacity 1.8 litres
 Power / Wattage 2200 watts
 Material Stainless Steel
 Special Features Water Filter, Cordless
-",steel,green
+",metal,green,1.8kg
 "Russell Hobbs 20460 Quiet Boil Kettle, Brushed Stainless Steel, Silver, 3000 W, 1.7 Litre
 Brand Russell Hobbs
 Colour Stainless Steel
@@ -284,7 +284,7 @@ Noise Level 1 dB
 Runtime 1 minute
 Special Features Boil Dry Protection, Concealed Heating, Cordless, Water Filter
 Item Weight 1.2 kg
-",steel,steel
+",metal,other,1.2kg
 "Kettle AICOK 1.7L Glass Electric with LED Blue Light, Auto Shut-Off & Boil-Dry Protection, BPA-Free Cordless Electric Kettle, Quiet Fast Boil, Durable Schott Glass
 Brand AICOK
 Colour Blue
@@ -302,7 +302,7 @@ Product Dimensions 27.18 x 24.64 x 19.05 cm; 1.43 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 1500 watts
 Item Weight 1.43 kg
-",glass,blue
+",glass,blue,1.43kg
 "Breville VKT090 Flow Electric Kettle, 1.7 L, 3 KW Fast Boil, Black
 Brand Breville
 Colour Black
@@ -321,7 +321,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Special Features Concealed_Heating
 Item Weight 1.42 kg
-",unknown,black
+",other,black,1.42kg
 "Morphy Richards 108268 Jug Kettle Dune, Plastic, 1.5 liters, Green
 Brand Morphy Richards
 Colour Green
@@ -345,7 +345,7 @@ Material Plastic
 Energy Efficiency Class A to G
 Special Features 360 degree base, Cord storage, 1.5L Capacity, Easy View Water Window, Rapid Boil
 Item Weight 1.14 kg
-",plastic,green
+",plastic,green,1.14kg
 "Kettle Decen 1.7L Tea Kettle with Removable Tea Infuser, LCD Display Stainless Steel Glass Kettle with 6 Temperature Presets, 120 Mins Smart Keep Warm, Auto Shut-Off & Boil-Dry Protection, BPA Free
 Brand Decen
 Capacity 1.7 litres
@@ -363,7 +363,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 1200 watts
 Item Weight 2.46 kg
-",steel,unknown
+",metal,other,2.46kg
 "Russell Hobbs 20413 Colour Plus Kettle, Stainless Steel, 3000 W, 1.7 Litre, Jet Black
 Brand Russell Hobbs
 Colour Jet Black
@@ -385,7 +385,7 @@ Power / Wattage 3000
 Material Stainless Steel
 Auto Shutoff Yes
 Item Weight 990 g
-",steel,black
+",metal,black,990g
 "Tower T10052MNB Empire 1.7 Litre Kettle with Rapid Boil, Removable Filter, 3000 W, Midnight Blue with Brass Accents
 Brand Tower
 Colour Midnight Blue
@@ -408,7 +408,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel, Plastic
 Special Features Rapid boil, Removable filter, Boil dry safety shut off
 Item Weight 1.11 kg
-",steel,blue
+",metal,blue,1.11kg
 "Bonsenkitchen Glass Electric Kettle,1.7L Fast Boil Water Kettle with Illuminated LED, Auto-Off & Boil-Dry Protection, BPA-Free, 2200W
 Brand Bonsenkitchen
 Colour Silver
@@ -429,7 +429,7 @@ Power / Wattage 2200 watts
 Material 304 Stainless Steel & Borosilicate Glass
 Special Features Boil Dry Protection; Automatic shut-off; BPA-Free; Cordless, Blue LED Light
 Item Weight 1.42 kg
-",steel,silver
+",metal,silver,1.42kg
 "Russell Hobbs 21270 Textures Plastic Kettle, 1.7 Litre, 3000 W, White
 Brand Russell Hobbs
 Colour White
@@ -454,7 +454,7 @@ Energy Efficiency Class A+
 Runtime 0 minute
 Special Features Concealed_Heating
 Item Weight 1.05 kg
-",plastic,white
+",plastic,white,1.05kg
 "Kettle AICOK 1.7L Glass Electric with LED Blue Light, Auto Shut-Off & Boil-Dry Protection, BPA-Free Cordless Electric Kettle, Quiet Fast Boil, Durable Schott Glass
 Brand AICOK
 Colour Blue
@@ -472,7 +472,7 @@ Product Dimensions 27.18 x 24.64 x 19.05 cm; 1.43 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 1500 watts
 Item Weight 1.43 kg
-",steel,blue
+",metal,blue,1.43kg
 "Electric Kettle Stainless Steel,with Temperature Control, Retro Style, Boil Dry Protection, Auto Shut Off, 2200W, 1.7L, Black - Taylor Swoden Aladin 30QZU.
 Brand Taylor Swoden
 Colour Black
@@ -489,7 +489,7 @@ Package Dimensions 26.1 x 22.6 x 22.6 cm; 1.5 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Item Weight 1.5 kg
-",steel,black
+",metal,black,1.5kg
 "COMFEE' Electric Kettle 2200W Fast Boil, 1.7L Glass Kettle Cordless with Blue LED Indicator Light, Auto Shut-Off & Boil-Dry Protection, BPA-Free Material, 360° Rotating Base & Removable Filter
 Brand COMFEE'
 Colour Silver
@@ -505,7 +505,7 @@ Product Dimensions 22 x 16 x 24.4 cm; 1 Kilograms
 Volume Capacity 1.7 litres
 Special Features Stylish and crystal glass body design, Illumination ring on boil, Fast boil, more energy saving, Boil-dry protection
 Item Weight 1 kg
-",glass,silver
+",glass,silver,1.0kg
 "Tower T10044MNB Cavaletto 1.7 Litre Pyramid Kettle with Rapid Boil, Detachable Filter, Stainless Steel, 3000W, Midnight Blue and Rose Gold
 Brand Tower
 Colour Midnight Blue
@@ -525,7 +525,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Rapid boil technology, Automatic shut off, Boil dry protection
 Item Weight 1.72 kg
-",steel,blue
+",metal,blue,1.72kg
 "iKich Eco Glass Electric Kettle, 1.7L Cordless Water kettle with Blue LED Illuminated, Fast Boil Tea Water Kettle, Auto Shut-Off & Boil-Dry Protection, Stainless Steel Inner Lid & Bottom, 2200W, Grey
 Brand IKICH
 Colour Grey
@@ -549,7 +549,7 @@ Auto Shutoff Yes
 Noise Level 50 dB
 Special Features 1. Glass design, visible boiling. 2. BPA-free, 100% No plastic.  3. Overheating & boil-dry protection tec.   4. Stay-cool ergonomic handle.  5. Fast boiling: 0.5L for just 2mins.
 Item Weight 1.2 kg
-",glass,grey
+",glass,grey,1.2kg
 "COMFEE' Electric Kettle 2200W Fast Boil, 1.7L Glass Kettle Cordless with Blue LED Indicator Light, Auto Shut-Off & Boil-Dry Protection, BPA-Free Material, 360° Rotating Base & Removable Filter
 Brand COMFEE'
 Colour Silver
@@ -565,7 +565,7 @@ Product Dimensions 22 x 16 x 24.4 cm; 1 Kilograms
 Volume Capacity 1.7 litres
 Special Features Stylish and crystal glass body design, Illumination ring on boil, Fast boil, more energy saving, Boil-dry protection
 Item Weight 1 kg
-",glass,silver
+",glass,silver,1.0kg
 "Electric Kettle Temperature Control PHONECT Kettle with Color Changing LED Indicator, 100% BPA Free Stainless Steel Kettle, Auto Shut Off and Boil Dry Protection, 1.7L, Water Window
 Brand PHONECT
 Colour Black
@@ -581,7 +581,7 @@ Package Dimensions 24.8 x 23.4 x 19.4 cm; 1.32 Kilograms
 Volume Capacity 1.7 litres
 Material Stainless Steel
 Item Weight 1.32 kg
-",steel,black
+",metal,black,1.32kg
 "Tower T10046COP Kettle with Open Handle, Ombre Collection, 1.7L Capacity, 3KW, Copper, Steel
 Brand Tower
 Colour Copper Steel
@@ -600,7 +600,7 @@ Volume Capacity 1.7 litres
 Material Steel
 Special Features On/Off Indicator Light, Removable Filter, 360 Swivel Base, 1.7 L Capacity, 3KW
 Item Weight 1.16 kg
-",steel,steel
+",metal,other,1.16kg
 "Deik Kettle 3000W Quick Boil Electric Kettle, 1.7 Liter Stainless Steel Cordless Kettle, Auto Shut-Off & Boil-Dry Protection, BPA-Free, Boiler for Hot Water, Tea & Coffee Maker
 Brand Deik
 Capacity 1.7 litres
@@ -620,7 +620,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features <p>✔Fast Boiling within 2-5 mins</p> <p>✔Automatic-shut-off</p> <p>✔Boil Dry & Overheat Protection</p> <p>✔1.7L capacity</p> <p>✔Cordless</p> <p>✔Automatic-shut-off</p> <p>✔BPA free</p> <p>✔Non-slip 360-degrees rotary</p>
 Item Weight 1.34 kg
-",steel,unknown
+",metal,other,1.34kg
 "Russell Hobbs K65 Anniversary Electric Kettle - Retro Cordless Energy Saving Kettle with Rapid Boil, 1.2 Litre, 3000 W, Stainless Steel
 Brand Russell Hobbs
 Colour Brushed Steel
@@ -642,7 +642,7 @@ Power / Wattage 3000 watts
 Material Plastic, Metal
 Special Features Cordless
 Item Weight 1.58 kg
-",plastic,steel
+",plastic,other,1.58kg
 "iKich Illuminated Glass Electric Kettle, 1.7L Eco Water Kettle with Auto Shut-Off & Boil-Dry Protection, BPA-Free Cordless Hot Water Boiler, Quiet Fast Boil, 2200W
 Brand IKICH
 Colour Silver
@@ -666,7 +666,7 @@ Auto Shutoff Yes
 Noise Level 50 dB
 Special Features BPA-Free, Boil_Dry_Protection, Water_Filter, Automatic_shut_off, Cordless, Blue LED Light
 Item Weight 1.64 kg
-",steel,silver
+",metal,silver,1.64kg
 "Prestige 59896 2 in 1 Glass Kettle with Digital Base, 3000 W, 1.5 Litre, Transparent
 Brand PRESTIGE
 Colour Transparent
@@ -688,7 +688,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel/Glass
 Special Features Concealed Heating
 Item Weight 1.86 kg
-",steel,transparent
+",metal,other,1.86kg
 "Russell Hobbs 24364 Inspire Electric Kettle, 1.7 Litre Cordless Hot Water Dispenser with 1 Cup 45 Second Fast Boil, Cream, 3000 W
 Brand Russell Hobbs
 Colour Cream
@@ -710,7 +710,7 @@ Power / Wattage 3000 watts
 Voltage 240
 Special Features Concealed element, Cord storage in base, Rapid boil zone markers, Cordless, Removable, washable filter, 360° base
 Item Weight 1.2 kg
-",unknown,cream
+",other,cream,1.2kg
 "Electric Kettle Deik1.7L Light Weight Kettle 3000W Tea Kettle with BPA-Free, Auto Shut-Off & Boil-Dry Protection
 Brand Deik
 Colour Black
@@ -731,7 +731,7 @@ Material Plastic BPA free
 Compatible Models <p>✔1 X Electric Kettle</p> <p>✔1 X Seperate Base</p> <p>✔1 X Instruction</p>
 Special Features <p> ◆3000W, 1.7 Liter</p> <p> ◆Fast Boiling within 2-5 mins</p> <p> ◆Viewing_Window</p> <p> ◆washable_filter</p> <p> ◆wide mouthV <p> ◆ BPA FreeV <p> ◆Automatic-shut-off</p> <p> ◆Boil Dry & Overheat Protection</p> <p> ◆1.7L capacity</p> <p> ◆Cordless</p> <p> ◆Non-slip 360-degrees rotary</p>
 Item Weight 870 g
-",plastic,black
+",plastic,black,870g
 "Swan, SK31050BN, Symphony 1.7 Litre Jug Kettle with 360 Degree Rotational Base, 3000 Watts, Black
 Brand Swan
 Colour Black
@@ -752,7 +752,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features Boil_Dry_Protection, 360 Degree Rotational Base, 3000 Watt Concealed Heating Element
 Item Weight 1.33 kg
-",unknown,black
+",other,black,1.33kg
 "ASCOT Electric Kettle，Glass Kettle 1.5L Eco Water Tea Kettle Quiet Fast Boiling with BPA Free Auto Shut-Off & Boil-Dry Protection, 2200W
 【Fast Boiling Electric Kettle】Boil a full 1.7 Liter in only 3-4 minutes. Effectively saves more energy than your microwave, stove or your old kettle. Perfect for coffee, tea and much more.
 【100% Healthy Material & BPA Free】ASCOT glass kettle combined of borosilicate glass and 304 stainless steel. Stainless steel inner lid, bottom, filter and spout. All parts in contact with water are made of food grade materials. Without taste issue.
@@ -764,7 +764,7 @@ Colour Silver1
 Package Dimensions 29 x 26.8 x 20.2 cm; 1.72 Kilograms
 Volume Capacity 1.5 litres
 Item Weight 1.72 kg
-",steel,silver
+",metal,silver,1.72kg
 "Russell Hobbs Cambridge 1.7 Litre, 3000 W Kettle 20070, Brushed Stainless Steel Silver Kettle
 Brand Russell Hobbs
 Colour Brushed Steel
@@ -787,7 +787,7 @@ Material Stainless Steel, Plastic
 Auto Shutoff Yes
 Special Features Boil Dry Protection, Concealed Heating, Cordless
 Item Weight 990 g
-",steel,steel
+",metal,other,990g
 "Russell Hobbs Compact Home Small Glass Kettle, 0.85 Litre Cordless Mini Electric Jug Kettle, 24191
 Brand Russell Hobbs
 Colour Clear & Brushed & Polished Stainless Steel
@@ -805,7 +805,7 @@ Product Dimensions 11.4 x 18.9 x 21 cm; 1.28 Kilograms
 Power / Wattage 2200 watts
 Special Features Cordless
 Item Weight 1.28 kg
-",steel,steel
+",metal,steel,1.28kg
 "Electric Glass Pyramid Traditional Kettle. 1.7L Cordless Water Boiler for Tea and Water Retro Kettle with 2200W Strix Controls 100% Stainless Steel Inner Lid & Bottom
 [Sleek & Stylish Design ]- Combining glass, indicator light and retro appearance, provide great addition to complement your modern kitchen and office.
 [Maximum capacity 1.7L] - Do not ﬁll the water over the maximum level (1.7L) to avoid to spill out of the spout water when boiling and avoid to leak from the steam pipe when pouring water
@@ -818,7 +818,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel, Borosilicate Glass, Plastic
 Special Features Cordless
 Item Weight 1.66 kg
-",steel,steel
+",metal,steel,1.66kg
 "De'Longhi Brillante KBJ3001W Kettle - White
 Brand De'Longhi
 Colour White
@@ -845,7 +845,7 @@ Material Plastic;Stainless Steel
 Auto Shutoff Yes
 Special Features Concealed Heating^Cordless
 Item Weight 800 g
-",steel,white
+",metal,white,800g
 "Hommak Illuminated Glass Electric Kettle, 1.7L Water Kettle with Auto Shut-Off & Boil-Dry Protection, BPA-Free Cordless Hot Water Boiler, Quiet Fast Boil, 2200W，HK188
 Brand Hommak
 Colour Silver
@@ -867,7 +867,7 @@ Material 304 Stainless Steel & Borosilicate Glass
 Auto Shutoff Yes
 Special Features BPA-Free, Boil_Dry_Protection, Water_Filter, Automatic_shut_off, Cordless, Blue LED Light
 Item Weight 1.65 kg
-",steel,silver
+",metal,silver,1.65kg
 "Electric Kettle, AKZIM Temperature Control Glass Kettle 2200W Fast Boil Kettle with Keep Warm Function & Auto-off Boil-Dry Protection, BPA Free Glass Kettle,1.7 Litre
 Brand Deeplee
 Colour Transparent
@@ -882,7 +882,7 @@ Voltage 230 Volts
 Product Dimensions 18 x 20 x 22 cm; 1.76 Kilograms
 Finish types Glass& Stainless Steel
 Batteries required No
-",steel,transparent
+",metal,other,1.76kg
 "Electric Kettle Temperature Control PHONECT Kettle with Color Changing LED Indicator, 100% BPA Free Stainless Steel Kettle, Auto Shut Off and Boil Dry Protection, 1.7L, Water Window
 Brand PHONECT
 Colour Black
@@ -898,7 +898,7 @@ Package Dimensions 24.8 x 23.4 x 19.4 cm; 1.32 Kilograms
 Volume Capacity 1.7 litres
 Material Stainless Steel
 Item Weight 1.32 kg
-",steel,black
+",metal,black,1.32kg
 "Salter EK3931IND Opulence Kettle | 1.7 Litre Capacity | 3000 W | Rapid Boil-Dry Protection | Auto Shut-Off | Soft-Touch Finish | Indigo
 Brand Salter
 Colour Indigo
@@ -918,7 +918,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Item Weight 1.24 kg
-",unknown,indigo
+",other,indigo,1.24kg
 "Aicook Tea Kettle, Electric Kettle Glass 1.7L, Precision Tea Maker 6 Temperature Presets with LED Display, Food Grade Stainless Steel, Auto Shut Off, 60min Keep Warm, BPA Free
 Brand AICOOK
 Colour Red
@@ -936,7 +936,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 1500 watts
 Item Weight 1.84 kg
-",steel,red
+",metal,red,1.84kg
 "Bosch TWK8633GB Styline Collection Cordless Jug Kettle, 1.5 L - Black
 Brand Bosch
 Colour Black
@@ -963,7 +963,7 @@ Runtime 0 minute
 Compatible Models 1.5 liters
 Special Features Adjustable Temperature^Boil Dry Protection^Concealed Heating^Cool Wall^Keep Warm Function
 Item Weight 1.6 kg
-",steel,black
+",metal,black,1.6kg
 "HadinEEon Electric Kettle, Various Temperature Tea Kettle 1.7L, 2200W Fast Boil Glass Water Kettle w/ 1Hr Keep Warm Function, Premium Stainless Steel BPA-Free Electric Tea Kettle, Boil-Dry Protection
 Brand HadinEEon
 Capacity 1.7 litres
@@ -978,7 +978,7 @@ Product Dimensions 24.99 x 14.58 x 22.2 cm; 1.61 Kilograms
 Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Item Weight 1.61 kg
-",steel,unknown
+",metal,other,1.61kg
 "Morphy Richards 103010 Verve Electric Kettle, 1.7 liters, Black
 Brand Morphy Richards
 Colour Black
@@ -997,7 +997,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Voltage 240 Volts
 Item Weight 1.28 kg
-",unknown,black
+",other,black,1.28kg
 "1.7L Temperature Control Electric Kettle, Bonsenkitchen Cordless Glass Tea Pot with Keep Warm Function, Auto Off & Boil Dry Protection, 1500W Fast Boling Water Heater with Color Changing LED Indicator
 【Variable Temperature Control】 Various temperatures can be set from 50 ℃ to 100 ℃ depending on the type of beverage to be prepared. The different colors of the LEDs depend on the selected temperature: 50 ℃, 70 ℃, 80 ℃, 90 ℃ and 100 ℃. Also with the keep warm function, the water temperature remains between 85 ℃ and 100 ℃ for 1 hour.
 【Automatic Shut-Off & Boil Dry Protection】 Advanced safety technology, this tea kettle will turn off auto once reach your setting temperature. It also shut off for safe when automatically senses there is no water inside
@@ -1009,7 +1009,7 @@ Package Dimensions 26.2 x 22.5 x 20.2 cm; 1.3 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 1500 watts
 Item Weight 1.3 kg
-",glass,unknown
+",glass,other,1.3kg
 "Russell Hobbs 25240 Geo Steel Cordless Electric Kettle - Contemporary Design with Rapid Boil, Textured Stainless Steel, 1.7 Litre
 Brand Russell Hobbs
 Colour Silver
@@ -1032,7 +1032,7 @@ Voltage 240
 Material Metal
 Special Features Clear illuminating light ring, Rapid Boil Zone - with 1/2/3 cup markings ideal for faster boiling options, Soft opening push down lid, Removable, washable anti-scale filter, Cordless, Textured metal design
 Item Weight 1.5 kg
-",metal,silver
+",metal,silver,1.5kg
 "Breville Temperature Select Electric Kettle | 1.7 L | 3kW Fast Boil | Smart Digital Controls | Brushed Nickel (Silver/Grey), [VKT159]
 Brand Breville
 Colour Brushed Stainless Steel
@@ -1052,7 +1052,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3 KW
 Item Weight 1.84 kg
-",steel,steel
+",metal,steel,1.84kg
 "Aigostar Adam 30KHH - Glass Water Kettle with LED Lighting, 2200 Watts, 1.7 Liter, Boil-Dry Protection, BPA Free, Black. Exclusive Design
 Brand Aigostar
 Colour Adam
@@ -1074,7 +1074,7 @@ Material Glass
 Auto Shutoff No
 Special Features Boil Dry Protection
 Item Weight 1.42 kg
-",glass,black
+",glass,black,1.42kg
 "De'Longhi Active Line Kettle, anti-scale filter, 1.7 Liters, 360° swivel base, KBLA3001.R, Red
 Brand De'Longhi
 Colour Red
@@ -1092,7 +1092,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Material Plastic
 Item Weight 1.54 kg
-",plastic,red
+",plastic,red,1.54kg
 "Morphy Richards Vector Pyramid Kettle 108132 Traditional Kettle Cream
 Brand Morphy Richards
 Colour Cream
@@ -1117,7 +1117,7 @@ Auto Shutoff No
 Number of Slices 4
 Special Features Water_Filter
 Item Weight 1.25 kg
-",plastic,cream
+",plastic,cream,1.25kg
 "Electric Kettles Cordless 1.7L, NOVETE Glass Electric Tea Kettle 2200W, BPA-Free & 304 Stainless Steel Hot Water Kettle with LED Indicator Light, Auto Shut-Off & Boil-Dry Protection
 Brand NOVETE
 Colour Transparent
@@ -1135,7 +1135,7 @@ Volume Capacity 1.8 litres
 Material Stainless Steel, Borosilicate Glass, Plastic
 Special Features Boil Dry Protection, Concealed Heating
 Item Weight 1.4 kg
-",steel,transparent
+",metal,other,1.4kg
 "Electric Kettle, AKZIM Temperature Control Glass Kettle 2200W Fast Boil Kettle with Keep Warm Function & Auto-off Boil-Dry Protection, BPA Free Glass Kettle,1.7 Litre
 Brand Deeplee
 Colour Transparent
@@ -1150,7 +1150,7 @@ Voltage 230 Volts
 Product Dimensions 18 x 20 x 22 cm; 1.76 Kilograms
 Finish types Glass& Stainless Steel
 Batteries required No
-",steel,transparent
+",metal,other,1.76kg
 "Hommak Glass Electric Kettle, 1.7L Water Kettle with Blue LED Illuminated, Fast Boil Tea Water Kettle, Auto Shut-Off & Boil-Dry Protection, Stainless Steel Inner Lid & Bottom, 2200W, Grey [HK189]
 Brand Hommak
 Colour Grey
@@ -1167,7 +1167,7 @@ Package Dimensions 30.48 x 23.11 x 18.54 cm; 1.48 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Item Weight 1.48 kg
-",steel,grey
+",metal,grey,1.48kg
 "Tower Scandi T10037PNK Kettle with Rapid Boil and Boil Dry Protection, 1.7 Litre, 3 kW, Marshmallow Pink
 Brand Tower
 Colour Marshmallow Pink
@@ -1184,7 +1184,7 @@ Colour Marshmallow Pink
 Product Dimensions 23.5 x 16.5 x 24 cm; 1.16 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.16 kg
-",unknown,pink
+",other,pink,1.16kg
 "Kenwood ZJP05.A0CR Abbey Cream design kettle, 1.7L with flip top lid, 360⁰ swivel base, removable filter for easy cleaning, cord storage - Cream
 1. 7L capacity
 Removable filter - traps limescale for easy cleaning
@@ -1198,7 +1198,7 @@ Package Dimensions 25 x 23 x 19.4 cm; 1.32 Kilograms
 Volume Capacity 1.7 litres
 Special Features Water_Filter
 Item Weight 1.32 kg
-",unknown,cream
+",other,cream,1.32kg
 "Cuisinart Signature Collection Multi-Temp Jug Kettle | 1.7L Capacity | Stainless Steel | CPK17BPU
 Brand Cuisinart
 Colour Stainless Steel
@@ -1223,7 +1223,7 @@ Voltage 220
 Material Stainless Steel
 Special Features Concealed_Heating, LCD Display, 3kW concealed element, high quality one-touch lid, integral cord storage, larges pout for easy pouring.
 Item Weight 2 kg
-",steel,steel
+",metal,other,2kg
 "Breville Lustra Electric Kettle, 1.7 Litre, 3 KW Fast Boil, Storm Grey [VKT065]
 Brand Breville
 Colour Storm Grey
@@ -1245,7 +1245,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Concealed_Heating
 Item Weight 1.11 kg
-",steel,grey
+",metal,grey,1.11kg
 "Russell Hobbs 24361 Inspire Electric Fast Boil Kettle, 3000 W, 1.7 Litre, Black with Chrome Accents
 Brand Russell Hobbs
 Colour Black
@@ -1267,7 +1267,7 @@ Power / Wattage 3000 watts
 Material Plastic
 Auto Shutoff No
 Item Weight 1.58 kg
-",plastic,black
+",plastic,black,1.58kg
 "Swan 10 Litre (40 cup) Commercial Stainless Steel Catering Urn / Water Boiler
 Brand Swan
 Colour Silver
@@ -1290,7 +1290,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Keep Warm Function, Concealed Heating
 Item Weight 2.8 kg
-",steel,silver
+",metal,silver,2.8kg
 "Salter EK3931IND Opulence Kettle | 1.7 Litre Capacity | 3000 W | Rapid Boil-Dry Protection | Auto Shut-Off | Soft-Touch Finish | Indigo
 Brand Salter
 Colour Indigo
@@ -1310,7 +1310,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Item Weight 1.24 kg
-",unknown,indigo
+",other,indigo,1.24kg
 "Progress® EK3758PBLK Scandi Rapid Boil Jug Kettle with Wood Effect Finish | Boil-Dry Sensor | 360 ° Swivel Base | 1.5 Litre Capacity | Automatic Shut Off | 3000 W | Black
 Brand PROGRESS
 Colour Black
@@ -1327,7 +1327,7 @@ Product Dimensions 25.5 x 14.5 x 18.3 cm; 1.2 Kilograms
 Volume Capacity 1.5 litres
 Special Features Boil_Dry_Protection
 Item Weight 1.2 kg
-",unknown,black
+",other,black,1.2kg
 "Bosch TWK7105GB City Cordless Kettle, 1.7 Litre, 3000 W - Anthracite
 Brand Bosch
 Colour Anthracite
@@ -1353,7 +1353,7 @@ Auto Shutoff Yes
 Energy Efficiency Class A++ to B
 Special Features Boil Dry Protection, Cordless, Concealed Heating, Triple Safety Feature : automatic shut-off, overheat and boil-dry protection, switch-off when lifted off base
 Item Weight 1.5 kg
-",steel,anthracite
+",metal,other,1.5kg
 "Swan Retro 1.8 Litre Dome Kettle, Red, Fast Boil, 3KW, 360 Degree Rotational Base, Stainless Steel, SK14630RN, 18/8, 1.8 liters
 Brand Swan
 Colour Red
@@ -1375,7 +1375,7 @@ Volume Capacity 1.8 litres
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Generous 1.8 litre Capacity, Concealed_Heating, Cordless, 3kw Rapid Boil
 Item Weight 1.3 kg
-",steel,red
+",metal,red,1.3kg
 "Russell Hobbs 21889 Emma Bridgewater Kettle, Polka Dot Cordless Electric Kettle, 3000 W
 Brand Russell Hobbs
 Colour Polka Dot
@@ -1397,7 +1397,7 @@ Power / Wattage 3000 watts
 Voltage 240
 Special Features 360° base with cord storage, Boil dry protection, Removable and washable limescale filter, Rapid boil zone markers, Quiet boil
 Item Weight 1.8 kg
-",unknown,polka
+",other,other,1.8kg
 "Tower T10040BP Glass Kettle with LED Blue Light, Boil Dry Protection, Automatic Shut-Off, Durable Schott Glass, Concealed Heating Element, 3000 W, 1.7 Litre, Blush Pink Glitz Sparkle
 Brand Tower
 Colour Pink
@@ -1417,7 +1417,7 @@ Volume Capacity 1.7 litres
 Material Glass
 Special Features Sparkle color with SUS decoration, Boil_Dry_Protection, Concealed heating element, Schott glass, Automatic shut-off, Concealed_Heating, Automatic lid opening
 Item Weight 1.42 kg
-",glass,pink
+",glass,pink,1.42kg
 "Russell Hobbs 26050 Cordless Electric Kettle - Contemporary Honeycomb Design with Fast Boil and Boil Dry Protection, 1.7 Litre, 3000 W, White
 Brand Russell Hobbs
 Colour White
@@ -1440,7 +1440,7 @@ Voltage 240
 Material Plastic
 Special Features Water window with internal illumination, Boil dry protection, Rapid boil zone markers - Boils one cup in 43 seconds*, 360 base with cord storage, Perfect pour spout
 Item Weight 1.1 kg
-",plastic,white
+",plastic,white,1.1kg
 "Aigostar Cooltravel 30MBA - Travel Electric Kettle, 650W, 0.6L Mini Water Pot, Auto Shut Off with Boil-Dry Protection, BPA Free, Includes 2 Cups and 2 Spoons, Black.
 Brand Aigostar
 Colour Black
@@ -1462,7 +1462,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Boil Dry Protection
 Item Weight 540 g
-",plastic,black
+",plastic,black,540g
 "Salter EK3218TITANIUM Polaris Dome Kettle With Automatic Shut Off, 3000 W, 1.7 Litre, Titanium Edition With Anti Limescale Filter
 Brand Salter
 Colour Titanium
@@ -1479,7 +1479,7 @@ Product Dimensions 23 x 19.8 x 27.4 cm; 1.74 Kilograms
 Volume Capacity 1.7 litres
 Special Features Cordless
 Item Weight 1.74 kg
-",titanium,titanium
+",metal,other,1.74kg
 "Bosch TWK8631GB Styline Collection Kettle, 1.5 L - White/Silver
 Brand Bosch
 Colour White
@@ -1504,7 +1504,7 @@ Auto Shutoff Yes
 Energy Efficiency Class A+ to F
 Special Features Adjustable Temperature, Cool Wall, Boil Dry Protection, Cordless, Keep Warm Function, Concealed Heating
 Item Weight 1.6 kg
-",steel,white
+",metal,white,1.6kg
 "Daewoo Scandia 1.7L Stainless Steel Kettle (2500-3000W Power Output) Rapid Quiet Boil and Removable Washable Limescale Filter, 360º Rotational Base and Handy Cord Storage- Black
 Brand Daewoo
 Colour Black Kettle
@@ -1524,7 +1524,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Stainless Steel
 Item Weight 1.22 kg
-",steel,black
+",metal,black,1.14kg
 "Progress® EK3865PBLK Ombre Stainless Steel Kettle | 1.7 L | 3000 W | Rapid Boil | Anti-Limescale Filter | Boil-Dry Sensor | Black
 Brand PROGRESS
 Colour Black
@@ -1540,7 +1540,7 @@ Colour Black
 Product Dimensions 21.2 x 15.2 x 24.1 cm; 1.14 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.14 kg
-",steel,black
+",metal,black,1.14kg
 "Swan SK31040BN Retro Kettle with Temperature Dial, 360 Degree Rotational Base, 3000 W, 1.5 liters, Black
 Brand Swan
 Colour Black
@@ -1563,7 +1563,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Concealed_Heating, External Temperature Gauge, Cordless, 3000 Watt Rapid Boil
 Item Weight 1.33 kg
-",steel,black
+",metal,black,1.33kg
 "Swan SK18121REDN Jug Kettle, Cordless Design, 1.7L, 2.2Kw, Red
 Brand Swan
 Colour Red
@@ -1580,7 +1580,7 @@ Product Dimensions 13 x 22 x 25.5 cm; 820 Grams
 Volume Capacity 1.7 litres
 Special Features Removable filter, Cordless
 Item Weight 820 g
-",unknown,red
+",other,red,820g
 "Duronic Electric Kettle EK30 BK | 3KW Variable Temperature Control | BLACK | 1.5L Fast Boil 3000W Eco Kettle | Keep Warm Function | Energy Efficient | Insulated Cool Touch | Cordless 360 Base
 Brand Duronic
 Colour Black
@@ -1604,7 +1604,7 @@ Material Plastic and Stainless Steel
 Auto Shutoff Yes
 Special Features <p>✅ 3000W power</p> <p>✅ Adjustable temperature</p> <p>✅ 1.5 litre capacity</p> <p>✅ Keep-warm function</p> <p>✅ Ergonomic with easy-lift lid</p> <p>✅ 0.5L, 0.75L, 1L, 1.25L and 1.5L markings for easy filling</p> <p>✅ fast boil</p> <p>✅ 360 degree rotation</p>
 Item Weight 1 kg
-",steel,black
+",metal,black,1.0kg
 "Swan Professional Catering Urn 20 Litre, Stainless Steel, SWU20L
 Brand Swan
 Colour Stainless Steel
@@ -1627,7 +1627,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Keep Warm Function, Concealed Heating
 Item Weight 3.76 kg
-",steel,steel
+",metal,other,3.76kg
 "LIVIVO Sirius Electric Kettle Fast Boil Jug Hot Water Dispenser with Thermometer/Temperature Dial 3000W 1.7L BPA Free 360° Swivel Base Kitchen – White Retro Style
 RETRO KETTLE: LIVIVO Retro Kettle boils water within 2-5 minutes, 5mins to boil a full pot (1.7L), 0.5L for just 2 mins. Effectively saves more energy. 1.7L Large capacity makes enough water for 6-7 people, perfect match for coffee, tea, pasta, oatmeal etc.
 FAST BOILING MECHANISM: This LIVIVO kettle is built with faster heating tech that allows it to boil 1.7L water in 5mins or 40sec for 1 cup of water. No waiting, no energy waste.
@@ -1637,7 +1637,7 @@ WASHABLE FILTER: There is a removable, washable filter to keep your kettle and w
 Brand LIVIVO
 Colour White
 Volume Capacity 1.7 litres
-",unknown,white
+",other,white,1.7kg
 "ANSIO Kettle, Electric Kettle 3000W 1.7L Cordless, Stainless Steel Kettle, Boil Dry Protection & Auto Shut Off, Strix Controller
 Brand ANSIO
 Colour Stainless Steel - Silver
@@ -1656,7 +1656,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Boil Dry Protection, Cordless
 Item Weight 1.38 kg
-",steel,silver
+",metal,silver,1.38kg
 "Tower Bottega T10020WMRG Rapid Boil Traditional Kettle with Temperature Dial, Boil Dry Protection, Automatic Shut Off, Quiet, Stainless Steel, 3000 W, 1.7 Litre, Marble and Rose Gold
 Brand Tower
 Colour Marble and Rose Gold
@@ -1679,7 +1679,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Temperature dial, Boil dry protection, Automatic switch off, Quiet boil, 360 degree swivel base
 Item Weight 1.76 kg
-",steel,gold
+",metal,gold,1.76kg
 "Progress® EK3437P 1.7 L Plastic Kettle with Soft Grip Handle, 2200 W, White
 Brand PROGRESS
 Colour White
@@ -1695,7 +1695,7 @@ Colour White
 Product Dimensions 21.85 x 13.5 x 25.1 cm; 920 Grams
 Volume Capacity 1.7 litres
 Item Weight 920 g
-",plastic,white
+",plastic,white,920g
 "Morphy Richards Jug Kettle Evoke Jug Kettle 104407 Electric Kettle Cream
 Brand Morphy Richards
 Colour Cream
@@ -1719,7 +1719,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Water_Filter
 Item Weight 1.09 kg
-",steel,cream
+",metal,cream,1.09kg
 "De'Longhi Distinta X Design 1.7L Rapid Boil Metal Kettle, Stainless Steel, Anti-Limescale Filter, Cord Storage KBI3001.M - Brushed Steel
 Brand De'Longhi
 Colour Metal
@@ -1734,7 +1734,7 @@ Colour Metal
 Product Dimensions 18 x 22.5 x 25 cm; 1.84 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.84 kg
-",steel,metal
+",metal,other,1.84kg
 "Swan Gatsby Black and Gold 1.7 Litre Pyramid Kettle, 3 KW Rapid Boil, Diamond Pattern Design, Matte Black with Gold Accents, SK14080BLKN
 Brand Swan
 Colour Black and Gold
@@ -1751,7 +1751,7 @@ Colour Black and Gold
 Product Dimensions 29.1 x 21.1 x 23.4 cm; 1.64 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.64 kg
-",unknown,black
+",other,black,1.64kg
 "Daewoo SDA1780 Argyle 1.7L Plastic Removable & Washable Limescale Filter Lid Opening | Auto/Manual Switch Off Options | 220-240V/50-60Hz/3KW | Concealed Heating Element, White Kettle
 Brand Daewoo
 Colour White Kettle
@@ -1769,7 +1769,7 @@ Volume Capacity 1.7 litres
 Material Plastic
 Special Features Concealed_Heating
 Item Weight 1.19 kg
-",plastic,white
+",plastic,white,1.19kg
 "WEEKETT Smart WiFi Kettle | App Remote Control | Compatible with Alexa, Google Home and Siri | Digital Temperature Control 2200W with Keep Warm Function, Stainless Steel, 1.7L
 Smart Wi-Fi kettle that works with Amazon Alexa, Google Home and mobile app. The kettle that's ready whenever you are. 2 Year Manufacturer Guarantee with UK based customer services - Contact info@weekett.com for support
 For people with mobility issues: Switch on the kettle from anywhere in the home – only go to the kitchen when the kettle is boiled.
@@ -1781,7 +1781,7 @@ Package Dimensions 26.4 x 26 x 21.6 cm; 1.62 Kilograms
 Volume Capacity 1.7 litres
 Material Stainless Steel
 Item Weight 1.62 kg
-",steel,unknown
+",metal,other,1.62kg
 "Glass Kettle Electric, Homgeek Water Tea Kettle 2200W with Illuminated LED, 1.7L, Stainless Steel Inner Lid & Bottom, Auto-Off & Boil-Dry Protection, Wide Opening for Easy Clean, BPA-Free
 Brand Homgeek
 Capacity 1.7 litres
@@ -1801,7 +1801,7 @@ Material Glass
 Noise Level 55 dB
 Special Features Boil Dry Protection
 Item Weight 1.56 kg
-",glass,unknown
+",glass,other,1.56kg
 "iKich Glass Electric Kettle 1.7L Eco Cordless Glass Kettle Fast Boiling Quiet BPA Free Water Boiler Tea Kettle with LED Indicator, Auto Shut Off and Boil-Dry Protection, 2200W
 Brand IKICH
 Colour Black
@@ -1822,7 +1822,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Material Borosilicate Glass
 Item Weight 1.5 kg
-",glass,black
+",glass,black,1.5kg
 "Russell Hobbs 24362 Inspire Electric Kettle, 3000 W, 1.7 Litre, Red with Chrome Accents
 Brand Russell Hobbs
 Colour Red
@@ -1846,7 +1846,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Concealed element, Cord storage in base, Concealed_Heating, Rapid boil zone markers, Removable, washable filter, 360° base
 Item Weight 1.58 kg
-",plastic,red
+",plastic,red,1.58kg
 "Quest 35690 Compact Travel Electric Kettle Dual Voltage, 0.5 litres, 600 Watt, Plastic, 17.5x17x8cm, Black
 Brand Quest
 Colour Black
@@ -1867,7 +1867,7 @@ Volume Capacity 0.5 litres
 Power / Wattage 600 watts
 Material Plastic
 Item Weight 500 g
-",plastic,black
+",plastic,black,500g
 "Dualit Classic Kettle | Polished Stainless Steel with Black Trim | Quiet boiling kettle | 90 Second Boil Time | 1.7 L Capacity, 2.3 kW | 72796
 Brand Dualit
 Colour Polished
@@ -1887,7 +1887,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Material Stainless Steel
 Item Weight 2.12 kg
-",steel,polished
+",metal,other,2.12kg
 "ANSIO Electric Kettle 3000W - 1.7L Cordless, Stainless Steel, Boil Dry Protection & Auto Shut Off, Strix Controller
 Brand ANSIO
 Colour Silver
@@ -1904,7 +1904,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Auto Shutoff Yes
 Item Weight 1.33 kg
-",steel,silver
+",metal,silver,1.33kg
 "De'Longhi Distinta X KBIN3001.BK Designer Kettle, Brushed Steel, 360 Swivel Base, Cord Storage, 1.7 Litre, Anti-limescale Filter -Black
 Brand De'Longhi
 Colour Black
@@ -1919,7 +1919,7 @@ Colour Black
 Product Dimensions 18 x 22.5 x 25 cm; 1.84 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.84 kg
-",steel,black
+",metal,black,1.84kg
 "Morphy Richards 108020 Illumination Jug Kettle, 1.7 liters, Black
 Stunning illumination
 1.7L Capacity - perfect for large families or for entertaining
@@ -1934,7 +1934,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Voltage 240
 Item Weight 1.1 kg
-",unknown,black
+",other,black,1.1kg
 "LLIVEKIT 1.7L Glass Electric Kettle, 1500W Tea Kettle with Temperature Control & Keep-Warm Function, Auto Shut-Off & Boil-Dry Protection, Fast Boiling Water Boiler with Blue Light
 Large Capacity & Fast Boiling: 1.7L Large capacity makes enough water for 6-7 people, perfect match for Coffee, tea, pasta, oatmeal etc. Electric kettle boils water within 6mins, faster than microwave and stovetop. The water boiler with wide mouth, easy cleaning and filling.
 Temperature Control & Keep Warm: The electric glass kettle is designed with temperature control from 105°F ranging to 212°F, you can adjust the desired temperature via the button. With keep-warm function, the water kettle can auto boil water once the temp is below your set.
@@ -1946,7 +1946,7 @@ Colour Blue
 Package Dimensions 37.3 x 29.4 x 22.8 cm; 1.75 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.75 kg
-",glass,blue
+",glass,blue,1.75kg
 "Duronic Electric Kettle EK42 | Stainless Steel 1.7L Fast Boil Kettle | Eco 3000W Variable Temperature Control | Keep Warm Function | Energy Efficient | Cordless | Multi-Use…
 Brand Duronic
 Capacity 1.7 litres
@@ -1966,7 +1966,7 @@ Power / Wattage 3000.00
 Material Stainless Steel
 Auto Shutoff Yes
 Item Weight 1.58 kg
-",steel,unknown
+",metal,other,1.58kg
 "Dualit Lite Kettle | 1.5 L 2.4 kW Jug Kettle | Polished with White Trim, High Gloss Finish | Fast Boiling Kettle by Dualit | 72015
 Brand Dualit
 Colour White
@@ -1987,7 +1987,7 @@ Volume Capacity 1.5 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.72 kg
-",steel,white
+",metal,white,1.72kg
 "FINE ELEMENTS SDA1567 White Plastic Kettle 1.7Litre Capacity with Stainless Steel Heating Element, Clean Modern Design, External Water Gauge and Manual Opening Lid (UK Type G Plug)
 Brand Fine Elements
 Colour White
@@ -2005,7 +2005,7 @@ Volume Capacity 1.7 litres
 Material Plastic
 Special Features Water_Filter
 Item Weight 820 g
-",plastic,white
+",plastic,white,820g
 "YZY Kitchen Electric Kettles,Fast Electric Kettles,Large Capacity Electric Kettles, 2 litres, 1500W,360° Rotational Cordless Kettles,Stainless Steel Chief Electric Kettles (Orange, 2L)
 Brand Electric kettle
 Colour 2 Litres Orange
@@ -2025,7 +2025,7 @@ Volume Capacity 2 litres
 Power / Wattage 1500 watts
 Special Features Boils water quickly and safely with 1500W heating element, Easy cleanup, Built-in insurance tubes for safe use, 360° degree rotational base, Cordless, High quality commercial grade 304 stainless steel with eco-friendly PP materials are used for this classical kettle, Kettles feature a stay-cool handle and drip-free spout that makes pouring easy., A fully detachable base, Boil Dry Protection, Concealed Heating, Cordless
 Item Weight 1.27 kg
-",steel,orange
+",metal,orange,1.27kg
 "Aicook Z1 Electric Kettle 1.7L Stainless Steel Glass Tea Kettle, Intelligent Tea Maker with LCD Display, 120 Mins Keep Warm & Variable Temperature, Auto Shut off & Boil Dry Protection, BPA free, 2200W
 Brand AICOOK
 Colour Silver
@@ -2044,7 +2044,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Material Stainless Steel
 Item Weight 2.47 kg
-",steel,silver
+",metal,silver,2.47kg
 "Salter EK3564BLACK Skandi 3 kW and 1.7 Litre Jug Kettle, Black
 Brand Salter
 Colour Black
@@ -2062,7 +2062,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.32 kg
-",steel,black
+",metal,black,1.32kg
 "Glass Electric Kettle, Morpilot 1.7L Temperature Control Kettle with 5 Colors LED Light, 2 Hours Warm Keep Cordless Water Boiler, Auto Off, 100% BPA Free Water Kettle for Coffee, Tea, Espresso, 2200W
 Brand Morpilot
 Colour Red
@@ -2079,7 +2079,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel, Borosilicate Glass
 Special Features Cordless
 Item Weight 1.69 kg
-",steel,red
+",metal,red,1.69kg
 "Aigostar Electric Glass Kettle with Variable Temperature, Keep-Warm, Detachable Tea Filter, British Otter Controller, Auto Shut-Off & Boil-Dry Protection, 2200W, 1.7L, BPA-Free - CRIS 30OSX.
 Brand Aigostar
 Material Stainless Steel
@@ -2096,7 +2096,7 @@ Power / Wattage 2200 watts
 Material Stainless Steel
 Special Features Boil Dry Protection, Keep Warm Function
 Item Weight 1.41 kg
-",steel,unknown
+",metal,other,1.41kg
 "Kettle Decen 1.7L Tea Kettle with Removable Tea Infuser, LCD Display Stainless Steel Glass Kettle with 6 Temperature Presets, 120 Mins Smart Keep Warm, Auto Shut-Off & Boil-Dry Protection, BPA Free
 Brand Decen
 Capacity 1.7 litres
@@ -2114,7 +2114,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 1200 watts
 Item Weight 2.46 kg
-",steel,unknown
+",metal,other,2.46kg
 "Breville VKT143 New York Collection Jug Kettle, 3 KW Fast Boil, 1.7 Litres, Matt Black Stainless Steel
 Brand Breville
 Colour Matt Black
@@ -2137,7 +2137,7 @@ Voltage 240
 Material Stainless Steel
 Special Features Matt black stainless steel finish, textured metal details; White feature illumination around the base and water window, Cordless
 Item Weight 1.46 kg
-",steel,black
+",metal,black,1.46kg
 "Upgraded Food Grade Silicone Travel Foldable Electric Kettle Boil Dry Protection Portable with Dual Voltage and Separable Power Cord,0.6L 110-220V UK Plug Blue
 Brand LOUTYTUO
 Colour Blue
@@ -2158,7 +2158,7 @@ Power / Wattage 680 watts
 Material Stainless Steel, Plastic
 Special Features Boil Dry Protection
 Item Weight 820 g
-",steel,blue
+",metal,blue,820g
 "Salter EK3216TITANIUM Metallics Polaris Jug Kettle with Boil Dry Sensor and Washable Anti-Scale Filter, 3000 W, 1.7 Litre, Titanium Edition
 Brand Salter
 Colour Titanium
@@ -2175,7 +2175,7 @@ Product Dimensions 22.15 x 15.7 x 23 cm; 1.46 Kilograms
 Volume Capacity 1.7 litres
 Special Features Water_Filter, Cordless
 Item Weight 1.46 kg
-",titanium,titanium
+",metal,other,1.46kg
 "Tefal KI780N40 Kettle, Retra, 1.7L, 3000 W, 1.7 liters, Black
 Brand Tefal
 Colour Matt Black
@@ -2196,7 +2196,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features Concealed_Heating
 Item Weight 1.82 kg
-",unknown,black
+",other,black,1.82kg
 "Swan SK27010N Dual Voltage Fast Boil Lightweight & Compact Travel Kettle with Two Tea Cups, Plastic, 1000 W, White/Purple
 Brand Swan
 Colour White/Purple
@@ -2220,7 +2220,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Dual Voltage for Worldwide Use
 Item Weight 560 g
-",plastic,white
+",plastic,white,560g
 "Tower T10012 Colour Changing LED Jug Kettle with Removable Washable Filter, Non-Slip Rubber Feet, Concealed Heating Element, 2200 W, 1.7 Litre, Black
 Brand Tower
 Colour Black
@@ -2244,7 +2244,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Concealed_Heating
 Item Weight 1.24 kg
-",steel,black
+",metal,black,1.24kg
 "Living Nostalgia Kettle Whistling Cream - 1.3L
 Brand KitchenCraft
 Colour Cream
@@ -2264,7 +2264,7 @@ Capacity 450 Cups
 Volume Capacity 1.3 litres
 Material Metal
 Item Weight 453 g
-",metal,cream
+",metal,cream,453g
 "PureMate 3000W Cordless Electric Glass Kettle 1.7L - Rapid Fast Boil Kettle with Blue lllumination Light & UK Strix Control Swivel Base Flip Top Lid Removable & Reusable Filter
 Brand PureMate
 Colour Glass
@@ -2287,7 +2287,7 @@ Material Glass/Stainless Steel
 Auto Shutoff Yes
 Special Features Blue illumination LED • Boil Dry & Overheat Protection • Non-slip 360-degrees rotary • Removable Filter • Fast boil kettle
 Item Weight 1.47 kg
-",steel,glass
+",metal,glass,1.47kg
 "Daewoo SDA1666GE 1.7L Kettle Colour Changing Indicator Lights-Stainless Steel Safety Locking Lid-Cordless Design-Black
 Brand Daewoo
 Colour Black
@@ -2305,7 +2305,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.24 kg
-",steel,black
+",metal,black,1.24kg
 "Electric Kettle, 1.7L Glass Water Kettle with Blue LED Indicator Light, BPA-Free Electric Tea Kettle with Boil-Dry Protection and Auto Shut-Off, Fast Boiling
 【Maximum Safety】 Built with a Heat-Resistant Anti-Slip Grip Handle. Features British STRIX thermostat technology, advanced auto shut-off and boil-dry protection function ensure 100% electrical safety. All material is BPA-free.
 【Blue LED Indicator】 Equipped with bright LED lights to indicate when the kettle is heating. Simple design looks lovely on your counter while the blue LED light is on, providing you the better visual enjoyment.
@@ -2317,7 +2317,7 @@ Package Dimensions 26.8 x 24.2 x 20.5 cm; 1.1 Kilograms
 Volume Capacity 1.7 litres
 Material Borosilicate glass, Food-grade stainless steel, BPA-free
 Item Weight 1.1 kg
-",glass,unknown
+",glass,other,1.1kg
 "Electric Kettle Stainless Steel,with Temperature Control, Retro Style, Boil Dry Protection, Auto Shut Off, 2200W, 1.7L, Black - Taylor Swoden Aladin 30QZU.
 Brand Taylor Swoden
 Colour Black
@@ -2334,7 +2334,7 @@ Package Dimensions 26.1 x 22.6 x 22.6 cm; 1.5 Kilograms
 Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Item Weight 1.5 kg
-",steel,black
+",metal,black,1.5kg
 "Russell Hobbs Mode Kettle 21400 - Black (Renewed)
 Brand Russell Hobbs
 Colour Black
@@ -2355,7 +2355,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Plastic
 Item Weight 1.18 kg
-",plastic,black
+",plastic,black,1.18kg
 "Haden 189844 Stainless Steel Catering Kettle 1.85-2.2kW - 2.5 Litre
 Automatic Turn Off Feature
 Ergonomic Easy Grip Handle
@@ -2369,7 +2369,7 @@ Volume Capacity 2.5 litres
 Auto Shutoff No
 Special Features Boil Dry Protection
 Item Weight 1.1 kg
-",steel,silver
+",metal,silver,1.1kg
 "Stellar SEA39 Electrical 1.7lt Kettle, Stainless Steel
 Brand Stellar
 Colour Stainless Steel
@@ -2392,7 +2392,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features Boil_Dry_Protection, Concealed_Heating, Cordless
 Item Weight 1.27 kg
-",steel,steel
+",metal,other,1.27kg
 "Tefal KI780N40 Kettle, Retra, 1.7L, 3000 W, 1.7 liters, Black
 Brand Tefal
 Colour Matt Black
@@ -2413,7 +2413,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features Concealed_Heating
 Item Weight 1.82 kg
-",unknown,black
+",other,black,1.82kg
 "Dualit Domus Kettle | 1.5 L 3KW Jug Kettle | Grey | Dual Measuring Windows | Fast Boiling Kettle With Patented Sure Pour™ Technology | BPA Free Electric Kettles
 Brand Dualit
 Colour Grey
@@ -2434,7 +2434,7 @@ Volume Capacity 1.5 litres
 Power / Wattage 3000 watts
 Special Features Cordless
 Item Weight 2.26 kg
-",steel,grey
+",metal,grey,2.26kg
 "Salter EK2649RG Pyramid Kettle with Rapid, Washable Anti-Scale Filter and Boil Dry Sensor, 1.7 Litre, 3000 W, Rose Gold Edition
 Brand Salter
 Colour Rose Gold
@@ -2456,7 +2456,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Water_Filter
 Item Weight 1.66 kg
-",steel,gold
+",metal,gold,1.66kg
 "Prestige - Heritage - Cream Electric Kettle - Cordless - Fast Boil - Stainless Steel - Retro - 3000 W - 1.5L
 Brand PRESTIGE
 Colour Almond
@@ -2478,7 +2478,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features ✔ Boil dry safety cut out, ✔ 300W rapid boil concealed element, ✔ Stay cool handle and easy pour spout, Cordless, ✔ 360° swivel base with non-slip rubber feet, ✔ High grade stainless steel colour coated body
 Item Weight 1.2 kg
-",steel,almond
+",metal,other,1.2kg
 "Kalorik JK48812 Kettle, Stainless Steel, 3000 W, 1.7 liters, Shutter Green
 Brand Kalorik
 Colour Shutter Green
@@ -2501,7 +2501,7 @@ Voltage 230
 Material Stainless Steel
 Special Features Rapid Boil Technology ; Boil-Dry Protection, Removable and washable limescale filter, Cool-Touch handle, 360 Degree rotational base
 Item Weight 1.15 kg
-",steel,green
+",metal,green,1.15kg
 "iNNOWARE 1000W Dual Voltage Travel Stainless Steel Fast Boil Kettle with 0.5L Capacity
 Travel Around the World – Easy to switch between 230V/ 120V worldwide voltages anytime, anywhere
 Automatic Safety System - Automatic power cut after the water is boiled
@@ -2512,7 +2512,7 @@ Package Dimensions 17.8 x 16.8 x 11.3 cm; 640 Grams
 Volume Capacity 0.5 litres
 Auto Shutoff No
 Item Weight 640 g
-",steel,unknown
+",metal,other,640g
 "Arendo - 0.5l Stainless Steel Water Kettle with Temperature Control Double Walled Design - 0.5l Water Fill Level Scale- 5 Temperature Values Selectable - Keep Warm Function - Energy Saving
 Brand Arendo
 Colour White
@@ -2536,7 +2536,7 @@ Auto Shutoff Yes
 Number of Speeds 5
 Special Features 1100 W, Easy use with 2 buttons = 1 x Power On (100 °C)/OFF - function + press long = keep warm, 1 x temperature selection, Strix-controller, 50 °C - green/70 °C - blue/80 °C - pink/90 °C - yellow/100 °C - red
 Item Weight 665 g
-",plastic,white
+",plastic,white,665g
 "ecHome 0.6L Foldable Wide Voltage Kettle 100-240V 700-1000W CE, FDA, LFGB, Reach, RoHS EK1000WV
 Auto adjust 100-240V wide voltage for peace of mind around the world. Foldable body and handle design saves every inch of bag; the best travel companion you will need.
 High power 700-1000W for high speed water boiling. Can set 40-90℃ boiling temperature and keep warm for preparation of beverages including coffee, tea and milk which require different temperatures. Also a device to keep milk bottle warm.
@@ -2547,7 +2547,7 @@ Brand EcHome
 Colour White
 Package Dimensions 16.3 x 16.1 x 12.1 cm; 715 Grams
 Item Weight 715 g
-",silicone,white
+",other,white,715g
 "Russell Hobbs 23603 Henley Kettle-Black 1.7 Liters, Steel
 Brand Russell Hobbs
 Colour Black
@@ -2568,7 +2568,7 @@ Volume Capacity 1.7 litres
 Material Steel
 Special Features Concealed Heating
 Item Weight 1 kg
-",steel,black
+",metal,black,1.0kg
 "Russell Hobbs 23603 Henley Kettle-Black 1.7 Liters, Steel
 Brand Russell Hobbs
 Colour Black
@@ -2589,7 +2589,7 @@ Volume Capacity 1.7 litres
 Material Steel
 Special Features Concealed Heating
 Item Weight 1 kg
-",steel,black
+",metal,black,1.0kg
 "Cuisinart Jug Kettle, 3 KW, White, Stainless Steel, Matte Finish, 1.5 L Capacity, CJK429WU
 Brand Cuisinart
 Colour Pebble
@@ -2605,7 +2605,7 @@ Colour Pebble
 Product Dimensions 17 x 20.5 x 25 cm; 1.88 Kilograms
 Volume Capacity 1.5 litres
 Item Weight 1.88 kg
-",steel,pebble
+",metal,other,1.88kg
 "Russell Hobbs 23840 Compact Travel Electric Kettle, Plastic, 1000 W, White
 Brand Russell Hobbs
 Colour White & Grey
@@ -2628,7 +2628,7 @@ Voltage 240
 Material Plastic
 Auto Shutoff No
 Item Weight 615 g
-",plastic,white
+",plastic,white,615g
 "Salter® EK2841IR Iridescent Glass Kettle with Blue to Red Dual Illumination | 1.7 L | 2200 W | Stainless Steel Accents | Built-in Limescale Filter
 Brand Salter
 Colour Iridescent
@@ -2649,7 +2649,7 @@ Power / Wattage 2200 watts
 Material Glass
 Special Features Boil_Dry_Protection, Concealed_Heating
 Item Weight 1.46 kg
-",glass,iridescent
+",glass,other,1.46kg
 "Russell Hobbs 23604 Henley Kettle-Cream 1.7 Liters, Steel
 Brand Russell Hobbs
 Colour Cream
@@ -2670,7 +2670,7 @@ Volume Capacity 1.7 litres
 Material Steel
 Special Features Concealed Heating
 Item Weight 1.16 kg
-",steel,cream
+",metal,cream,1.16kg
 "Morphy Richards 108010 Vetro Glass Kettle, stainless steel, Blue Illumination
 Brand Morphy Richards
 Colour Blue Illumination
@@ -2688,7 +2688,7 @@ Volume Capacity 1.5 litres
 Material Stainless steel, Glass
 Special Features Blue Illumination, Water_Filter
 Item Weight 1.8 kg
-",steel,blue
+",metal,blue,1.8kg
 "Tower T10040 Fast Rapid Boil Glass Kettle, Cordless with Easy Grip Touch Handle, Durable Schott Glass Body with Blue LED Illuminations, 3000 W, 1.7 Litre, Stainless Steel Finish
 Brand Tower
 Colour Silver
@@ -2710,7 +2710,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel, Glass
 Special Features LED Illumination, Auto Cut Off and Boil Dry Protection, Rapid Boil, Cordless, SCHOTT Glass Body
 Item Weight 1.42 kg
-",steel,silver
+",metal,silver,1.42kg
 "Salter EK3564GRY Skandi 3 kW and 1.7 Litre Jug Kettle, Grey
 Brand Salter
 Colour Grey
@@ -2728,7 +2728,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.32 kg
-",steel,grey
+",metal,grey,1.32kg
 "Braun Purease Serie 3 WK3110WH plastic Kettle 1.7L, 3000 W, rapid boil system - White
 Brand Braun
 Colour White
@@ -2751,7 +2751,7 @@ Material Acrylic
 Energy Efficiency Class A to G
 Special Features Boil_Dry_Protection
 Item Weight 1.1 kg
-",acrylic,white
+",other,white,1.1kg
 "PureMate PM1794 Stainless Steel Electric Kettle 1.7L with Removable & Reusable Filter, Boil-Dry Protection and Auto Shut - 3000W
 Brand PureMate
 Colour Silver
@@ -2774,7 +2774,7 @@ Material Stainless Steel
 Auto Shutoff Yes
 Special Features Boil Dry & Overheat Protection • Non-slip 360-degrees rotary • Removable Filter and BPA Free • 3000W fast boil kettle • Automatic Shutoff
 Item Weight 1.16 kg
-",steel,silver
+",metal,silver,1.16kg
 "Progress® EK3864PGRY Chevron Kettle, 1.7 Litre Capacity, Grey
 Brand PROGRESS
 Colour Grey
@@ -2794,7 +2794,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Item Weight 770 g
-",unknown,grey
+",other,grey,770g
 "Le Creuset Kone Stove-Top Kettle with Whistle, Suitable for All Hob Types Including Induction and Cast Iron, Enamelled Steel, Capacity: 1.6 L, Cerise, 92000200060000
 Brand LE CREUSET
 Colour Cerise
@@ -2814,7 +2814,7 @@ Capacity 1.6 litres
 Volume Capacity 1.6 litres
 Material Ceramic
 Item Weight 331 g
-",ceramic,cerise
+",ceramic,cerise,331g
 "Diguo Variable Temperature Digital Electric Gooseneck Kettle, Pour Over Coffee Kettle Hand Drip Kettle Narrow Spout Premium Stainless Steel Gooseneck Tea Kettle, DG-1738 (Black)
 Brand Diguo
 Colour Black
@@ -2830,7 +2830,7 @@ Package Dimensions 28.45 x 22.35 x 19.56 cm; 1.26 Kilograms
 Material Stainless Steel
 Special Features Boil Dry Protection
 Item Weight 1.26 kg
-",steel,black
+",metal,black,1.26kg
 "Glass Kettle with LED Blue Light, 1.7L Electric Kettle, Fast Boil Tea Kettle Cordless with Auto Shutoff and Boil Dry Protection, BPA Free
 Brand KIKET
 Colour Clear
@@ -2851,7 +2851,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 1500 watts
 Voltage 110 Volts
 Item Weight 1.3 kg
-",glass,clear
+",glass,other,1.3kg
 "Travel Car Kettle, 750ml 24V Portable Travel Car Truck Electric Kettle Water Heater Bottle Fast Boiling with Cigarette Lighter Plug for self-Driving Tour, Suitable for Tea Coffee Drinking
 Brand Tosuny
 Material Plastic
@@ -2868,7 +2868,7 @@ Volume Capacity 0.75 litres
 Material Plastic
 Special Features Boil Dry Protection
 Item Weight 586 g
-",plastic,unknown
+",plastic,other,586g
 "Cookworks Perfect For Your Morning Illumination Kettle (White)
 Brand CFB
 Colour White
@@ -2886,7 +2886,7 @@ Volume Capacity 1.7 litres
 Auto Shutoff No
 Special Features Water Filter
 Item Weight 1.09 kg
-",unknown,white
+",other,white,1.09kg
 "Daewoo SDA1815 Astoria Stainless Steel Lid Opening and Auto/Manual Switch Off Options (220-240V) Boil Dry Protection and Cord Storage, Timeless Design for Any Kitchen, 1.7L Kettle (Navy Blue)
 BOIL DRY PROTECTION - The boil-dry protection function automatically switches off the heating element when there is no water in the water tank or if the water runs out during use
 CORD STORAGE - The handy cord storage feature allows you to keep kitchen work surfaces clear of wires - Remove the sturdy lid to fill up the kettle easily and quickly
@@ -2900,7 +2900,7 @@ Package Dimensions 26.1 x 21.5 x 20.3 cm; 1.35 Kilograms
 Volume Capacity 1.7 litres
 Special Features Boil_Dry_Protection
 Item Weight 1.35 kg
-",steel,blue
+",metal,blue,1.35kg
 "De'Longhi Distinta Flair Kettle, anti-scale filter, 1.7 Liters, Matt metallic finish, KBI3001.S, Silver
 Brand De'Longhi
 Colour Silver
@@ -2916,7 +2916,7 @@ Package Dimensions 28 x 24 x 23.62 cm; 1.88 Kilograms
 Volume Capacity 1.7 litres
 Material Steel
 Item Weight 1.88 kg
-",steel,silver
+",metal,silver,1.88kg
 "Chefman Colour-Changing Electric Kettle with Auto Shut-off Fast-Boiling Water Heater, Lifts from Base for Cordless Pouring, Stainless Steel BPA-Free Interior, Black/Red
 WATCH IT CHANGE COLOUR: Beautiful and practical in equal measure, this kettle transitions from black to red when boiling so you instantly know when your water is hot. It’s the perfect talking point when enjoying your coffee or a meal with friends. Perfect for tea, coffee, instant oats and more
 RAPID-BOIL: It boils water more rapidly than traditional kettles so you spend less time waiting for delicious, hot beverages. For added safety, the kettle automatically shuts off once the water reaches boiling point
@@ -2929,7 +2929,7 @@ Colour Black/Red
 Package Dimensions 23 x 23 x 23 cm; 500 Grams
 Volume Capacity 1.7 litres
 Item Weight 500 g
-",steel,black
+",metal,black,500g
 "Russell Hobbs 26080 Kettle, 3000 W, 1.7 liters, Glass
 Glass kettle with black plastic and stainless steel accents
 Artisan inspired design
@@ -2945,7 +2945,7 @@ Power / Wattage 3000 KW
 Voltage 240
 Special Features Pull off lid, Glass kettle with Stainless Steel accents​, Appealing hourglass shape – carafe styling​, Unique glass spout, Blue internal illumination
 Item Weight 1.13 kg
-",steel,black
+",metal,black,1.13kg
 "Travel Kettle, 500ML Electric Car Kettle Stainless Steel Coffee Mug Vacuum Flask Thermal Heated Travel Cigarette Lighter Kettle for Tea, Coffee, 12V
 Brand Yosoo Health Gear
 Colour Silver
@@ -2960,7 +2960,7 @@ Model Number Yosoo Health Gearft3a41hg8w
 Colour Silver
 Capacity 500 Millilitres
 Item Weight 360 g
-",steel,silver
+",metal,silver,360g
 "SANON 24V Travel Car Truck Kettle Water Heater Bottle for Tea Coffee Drinking 750ml
 Brand SANON
 Colour É“+é»‘
@@ -2978,7 +2978,7 @@ Item model number 1381222/120878AM52US11
 Manufacturer Part Number 1381222/120878AM52US11
 Special Features Boil Dry Protection
 Item Weight 600 g
-",steel,unknown
+",metal,other,600g
 "AmazonBasics Double-Walled Stainless Steel Kettle - 1.7 Liter
 Brand AmazonBasics
 Material 18/8 Stainless Steel, Plastic
@@ -2994,7 +2994,7 @@ Product Dimensions 26.59 x 22.3 x 16.21 cm; 1.19 Kilograms
 Volume Capacity 1.7 litres
 Material 18/8 Stainless Steel, Plastic
 Item Weight 1.19 kg
-",steel,unknown
+",metal,other,1.19kg
 "Salter EK3670 Illuminating Glass Kettle with Boil-Dry Sensor and Auto Shut-Off, 1.7 Litre, 2200 W, Clear
 Brand Salter
 Colour Clear
@@ -3013,7 +3013,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Concealed_Heating
 Item Weight 1.34 kg
-",steel,clear
+",metal,other,1.34kg
 "Prestige Enamel 1.4 Litre Retro Stove Top Kettle - Almond
 Brand Prestige
 Colour Almond
@@ -3033,7 +3033,7 @@ Capacity 1.4 litres
 Volume Capacity 1.4 litres
 Material Steel
 Item Weight 1.1 kg
-",steel,almond
+",metal,other,1.1kg
 "Geepas 1800W 1.8L Electric Kettle - Stainless Steel Cordless Kettle - Auto Shut-Off & Boil-Dry Protection - Heats up Quickly & Easily - Boiler for Hot Water, Tea & Coffee Maker - 2 Year Warranty
 Brand Geepas
 Capacity 1.8 litres
@@ -3054,7 +3054,7 @@ Power / Wattage 1500 watts
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Boil-Dry Protection, Automatic Shut-Off After Boiling, Capacity 1.8L, Stainless Steel, Concealed_Heating, Compact, Safety Lock Lid & 360° Rotational Base
 Item Weight 920 g
-",steel,unknown
+",metal,other,920g
 "YZY™ SH3002 Home Kitchen Electric Kettle, 1500W, 2 litres Yellow Kettle Electric
 Brand YZYTM
 Colour Yellow
@@ -3072,7 +3072,7 @@ Product Dimensions 20.83 x 20.83 x 16 cm; 1.54 Kilograms
 Volume Capacity 2 litres
 Special Features Boils water quickly and safely with 1500W heating element, Easy cleanup, Built-in insurance tubes for safe use, 360° degree rotational base, Cordless, High quality commercial grade 304 stainless steel with eco-friendly PP materials are used for this classical kettle, Kettles feature a stay-cool handle and drip-free spout that makes pouring easy., A fully detachable base, Boil Dry Protection, Concealed Heating, Cordless
 Item Weight 1.54 kg
-",steel,yellow
+",metal,yellow,1.54kg
 "De'Longhi Argento Flora KBX3016.AZ Kettle, 360 Swivel base & cord storage, Blue
 Exclusive agave blue paint finish – will not show finger prints
 Boil dry protection - automatically switches off when the kettle is empty
@@ -3085,7 +3085,7 @@ Colour Blue
 Package Dimensions 27.8 x 23.6 x 21.6 cm; 1.68 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.68 kg
-",unknown,blue
+",other,blue,1.68kg
 "Foldable Electric Travel Kettle,0.6 Litre Squash Collapsible Electric Kettle Small Collapsible Dual Voltage Water Kettle - Portable Low Folding Kettle for Travel/Picnic/Work/Party(White)
 【High Quality】-The flexible folding silicone container made of BPA-free and food-safe and 304 stainless steel,to provide safely resists high temperatures (From -40 degree to 230 degree) and maintains structure stability with hot water.
 【Foldable Electric Travel Kettle】- The 600 ml kettle measures 14 x 16 cm when unfolded and squashes down to just 14 x 9 cm. The cable with plug is detachable, and a carry bag is included for easy, space-saving transport.
@@ -3097,7 +3097,7 @@ Model Number 13
 Colour White
 Package Dimensions 15.8 x 13.4 x 11.6 cm; 591 Grams
 Item Weight 591 g
-",steel,white
+",metal,white,591g
 "Gone Travelling Travel Kettle with Mugs - 500ml Dual Voltage Small Travel Kettle with Cups - 0.5l Mains Electric Portable Water Kettle - 550 to 650W
 Brand Gone Travelling
 Colour Multi-coloured
@@ -3122,7 +3122,7 @@ Manufacturer Gone Travelling
 Item model number RY723
 Product Dimensions 26.01 x 23.01 x 11 cm; 480.81 Grams
 ASIN B00JJI9AL4
-",plastic,multi
+",plastic,other,480g
 "Sage the Compact Glass Kettle [BKE395UK] , 1L, Silver
 Brand Sage
 Colour Silver
@@ -3147,7 +3147,7 @@ Material Stainless Steel^Glass
 Auto Shutoff Yes
 Special Features Boil Dry Protection^Concealed Heating^Cordless
 Item Weight 1.64 kg
-",steel,silver
+",metal,silver,1.64kg
 "FINE ELEMENTS SDA1567 White Plastic Kettle 1.7Litre Capacity with Stainless Steel Heating Element, Clean Modern Design, External Water Gauge and Manual Opening Lid (UK Type G Plug)
 Brand Fine Elements
 Colour White
@@ -3165,7 +3165,7 @@ Volume Capacity 1.7 litres
 Material Plastic
 Special Features Water_Filter
 Item Weight 820 g
-",plastic,white
+",plastic,white,820g
 "Callisto Glass 1.7L Capacity Kettle, 360° Rotational Base and Automatic Lid Opening, Removable Filter and LED Light Indicator, Illuminating Glass While Boiling, Auto/Manual Switch Off- Ombre Effect
 360° ROTATIONAL BASE- This Daewoo Callito kettle is fully rotational with an illuminated LED base - it's 360 degree rotation is perfect for easy and convenient usage
 REMOVABLE & WASHABLE LIMESCALE FILTER - Make cleaning your kettle easy and mess-free - This kettle features an easy-clean removable & washable limescale filter
@@ -3178,7 +3178,7 @@ Colour Black Ombre
 Package Dimensions 26.2 x 23.2 x 18.8 cm; 1.34 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.34 kg
-",glass,black
+",glass,black,1.34kg
 "Salter® EK3491BLACK Riga Kettle, 1.7 Litre, 3 kW, Sleek Black | Auto-Shut Off, Indicator Lights, Boil-Dry Sensor
 This Salter Riga kettle offers a generous 1. 7 L capacity with 3 kW rapid boil, making it a perfect addition to a busy, family kitchen.
 A removable, easy clean limescale filter helps to improve drink quality and boil-dry protection will ensure long-lasting performance.
@@ -3192,7 +3192,7 @@ Package Dimensions 22.5 x 20.6 x 16.9 cm; 1.17 Kilograms
 Volume Capacity 1.7 litres
 Special Features Boil_Dry_Protection
 Item Weight 1.17 kg
-",steel,black
+",metal,black,1.17kg
 "Judge JEA85 Electrical 1.2l Kettle, Steel
 Brand Judge
 Colour Steel
@@ -3209,7 +3209,7 @@ Product Dimensions 17.5 x 19.5 x 20 cm; 500 Grams
 Volume Capacity 1.2 litres
 Special Features Boil_Dry_Protection, Cordless
 Item Weight 500 g
-",steel,steel
+",metal,other,500g
 "Wilfa CWK-2000S Kettle, Silver
 Brand Wilfa
 Colour Silver
@@ -3229,7 +3229,7 @@ Capacity 1 litres
 Volume Capacity 1 litres
 Power / Wattage 2000 watts
 Item Weight 1.33 kg
-",unknown,silver
+",other,silver,1.33kg
 "Kettle Decen 1.7L Glass Kettle with LED Indicator Lights, Fast Boil Tea Electric Kettle with Auto Shut-Off & Boil-Dry Protection, BPA Free
 ❤Fast & Quiet Water Boiling❤Real fast water heating. Utilizing the newest water circling heating technology, Decen electric kettle can heat water faster and quieter than the most kettles on the market. Only takes 3-7 minutes to boil 1.7L water. No more long time waiting. Enjoy the fresh tea or coffee with your family right now.
 ❤Illuminated LED Light❤Featuring on illuminated display, the glass kettle can give you visual enjoyment while working, perfect for your kitchen or pantry.
@@ -3240,7 +3240,7 @@ Brand Decen
 Package Dimensions 39.9 x 27.4 x 24 cm; 1.48 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.48 kg
-",glass,unknown
+",glass,other,1.48kg
 "Breville Lustra Electric Kettle, 1.7 Litre, 3 KW Fast Boil, Shimmer Cream [VKT063]
 Brand Breville
 Colour Shimmer Cream
@@ -3262,7 +3262,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Concealed_Heating
 Item Weight 1.11 kg
-",steel,cream
+",metal,cream,1.1kg
 "Electric Glass Kettle, Bonsenkitchen 1.7L Temperature Control (40 ℃ - 100℃) Tea Filter Kettle with Keep Warm Function, 2200W Fast Heating,Auto Shut-Off & Boil-Dry Protection
 Brand Bonsenkitchen
 Colour Transparent
@@ -3278,7 +3278,7 @@ Product Dimensions 17 x 21 x 37 cm; 1.71 Kilograms
 Volume Capacity 1.7 litres
 Special Features Boil Dry Protection
 Item Weight 1.71 kg
-",glass,transparent
+",glass,other,1.71kg
 "Daewoo SDA1736 Stockholm 1.7L Wood Effect Handle | On/Off Switch with Light Indicator | Matte Finish Plastic Body with Chrome Detail | Otter Control | Cordless Design | 1850-2200W Power, Grey Kettle
 Brand Daewoo
 Colour Grey Kettle
@@ -3298,7 +3298,7 @@ Volume Capacity 1.7 litres
 Material Plastic
 Special Features Cordless
 Item Weight 1.16 kg
-",plastic,grey
+",plastic,grey,1.16kg
 "TOPINCN 1000ml In-car Truck Kettle Portable 12V Travel Electric Water Heater Bottle for Hot Water Tea Coffee Making Large Capacity
 Brand TOPINCN
 Colour White
@@ -3317,7 +3317,7 @@ Capacity 1 litres
 Manufacturer TOPINCN
 Manufacturer reference TOPINCNwx9nd8fpiu
 ASIN B07L4LBKWL
-",steel,white
+",metal,white,640g
 "Russell Hobbs 21888 Legacy Quiet Boil Electric Kettle, 3000 W, 1.7 Litre, Cream
 Brand Russell Hobbs
 Colour Cream
@@ -3337,7 +3337,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Plastic
 Item Weight 1.76 kg
-",plastic,cream
+",plastic,cream,1.76kg
 "Salter EK3931GRY Opulence Kettle | 1.7 Litre Capacity | 3000 W | Rapid Boil-Dry Protection | Auto Shut-Off | Soft-Touch Finish | Grey, Black
 Brand Salter
 Colour Black
@@ -3356,7 +3356,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Item Weight 1.26 kg
-",unknown,black
+",other,black,1.26kg
 "Tower T10051BLU Electric Kettle, Ice Diamond Collection, 1.7 Litre Capacity with 360 Degree Swivel Base, 3KW, Blue
 Brand Tower
 Colour Blue
@@ -3375,7 +3375,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features LED Indicator Light, Boil Dry Protection, 3000 Watts, 360 Degree Swivel Base, 1.7 Litre Capacity
 Item Weight 1.28 kg
-",unknown,blue
+",other,blue,1.28kg
 "Salter EK2898WHT Deco Collection Kitchen 1.7 L Kettle, 3000 W, White/Stainless Steel
 Brand Salter
 Colour White
@@ -3391,7 +3391,7 @@ Colour White
 Product Dimensions 22 x 12 x 24 cm; 1.16 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.16 kg
-",steel,white
+",metal,white,1.16kg
 "Cuisinart Style Collection 1.7L Traditional Kettle | Frosted Pearl | CTK17SU
 Brand Cuisinart
 Colour Frosted Pearl Silver
@@ -3414,7 +3414,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Concealed_Heating
 Item Weight 2.02 kg
-",steel,silver
+",metal,silver,2.02kg
 "YesUK 1.7L ELECTRIC KETTLE BLACK & BLUE 360° CORDLESS PORTABLE 2200W RAPID BOIL JUG
 Brand YesUK
 Colour Black/Silver
@@ -3434,7 +3434,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2000 watts
 Voltage 240 Volts
 Special Features Cordless
-",unknown,black
+",other,black,1.7kg
 "De'Longhi Avvolta Kettle, anti-scale filter, 1.7 Liters, 360° swivel base, KBA3001.BK, Black
 Brand De'Longhi
 Colour Black
@@ -3458,7 +3458,7 @@ Material Plastic
 Auto Shutoff No
 Energy Efficiency Class A to G
 Item Weight 1.4 kg
-",plastic,black
+",plastic,black,1.4kg
 "De'Longhi Vintage Icona Kettle, anti-scale filter, 1.7 Liters, 360° swivel base,KBOV3001BG - Cream
 Brand De'Longhi
 Colour Creme
@@ -3483,7 +3483,7 @@ Material Stainless Steel, Plastic
 Auto Shutoff Yes
 Special Features Cordless, Concealed Heating
 Item Weight 1 kg
-",steel,cream
+",metal,cream,1kg
 "Vektra VEK-1506 Vacuum Insulated Enviromentally Eco Friendly Easy Pour Cordless Kettle, 1.5 Litre, Stainless Steel
 Brand Vektra
 Colour Stainless Steel
@@ -3504,7 +3504,7 @@ Volume Capacity 1.5 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.7 kg
-",steel,steel
+",metal,other,1.7kg
 "Drew&Cole RediKettle, Variable Temperature Kettle, Thermal, Digital, 1.7 Litre, Charcoal
 Brand DREW & COLE
 Colour Charcoal
@@ -3524,7 +3524,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Special Features Boil_Dry_Protection
 Item Weight 2.52 kg
-",unknown,charcoal
+",other,other,2.52kg
 "Diguo Variable Temperature Digital Electric Gooseneck Kettle, Pour Over Coffee Kettle Hand Drip Kettle Narrow Spout Premium Stainless Steel Gooseneck Tea Kettle, DG-1738 (Sliver)
 Brand Diguo
 Colour Sliver
@@ -3540,7 +3540,7 @@ Package Dimensions 28.5 x 22.2 x 19 cm; 1.3 Kilograms
 Material Stainless Steel
 Special Features Boil Dry Protection
 Item Weight 1.3 kg
-",steel,silver
+",metal,silver,1.3kg
 "Tarente 12V Electric Kettle, 1200ML 12V Stainless Steel Electric In-car Kettle Travel Thermoses Heating Water Bottle
 Powered by cigarette lighter plug power source, enables to drink hot water on road
 Made of food grade 304 stainless and PP material, safe to drink the boiled water
@@ -3553,7 +3553,7 @@ Package Dimensions 30 x 18 x 11 cm; 820 Grams
 Volume Capacity 1.2 litres
 Power / Wattage 120 watts
 Item Weight 820 g
-",steel,unknown
+",metal,other,820g
 "Kenwood Turin SJM550 Kettle - Stainless steel
 Brand Kenwood
 Colour Stainless Steel
@@ -3578,7 +3578,7 @@ Energy Efficiency Class A
 Runtime 0 minute
 Special Features Boil_Dry_Protection
 Item Weight 1.7 kg
-",steel,steel
+",metal,other,1.7kg
 "De'Longhi Argento Flora KBX3016.PK Kettle, 360 Swivel base & cord storage, Pink
 Brand De'Longhi
 Colour Peony Pink
@@ -3595,7 +3595,7 @@ Product Dimensions 19 x 26 x 27 cm; 1.68 Kilograms
 Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Item Weight 1.68 kg
-",unknown,pink
+",other,pink,1.68kg
 "Kenwood SJM250 Kettle - Stainless steel
 Brand Kenwood
 Colour Stainless Steel
@@ -3620,7 +3620,7 @@ Energy Efficiency Class A+
 Runtime 0 minute
 Special Features Concealed Heating^Cordless
 Item Weight 1.1 kg
-",steel,steel
+",metal,other,1.1kg
 "De'Longhi Avvolta Kettle, anti-scale filter, 1.7 Liters, 360° swivel base, KBA3001R, Red
 Brand De'Longhi
 Colour Red
@@ -3640,7 +3640,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Plastic
 Item Weight 2.06 kg
-",plastic,red
+",plastic,red,2.06kg
 "Team Kalorik Electric Glass Kettle, 1.5 L, 2200 W, Lime Scale and Particle Filter, Apple Green, TKG JK 1022 AG
 Brand Team Kalorik
 Colour Green
@@ -3663,7 +3663,7 @@ Voltage 230 Volts
 Material Glass
 Auto Shutoff Yes
 Item Weight 1 kg
-",glass,green
+",glass,green,1kg
 "1L Litre Electric Cordless Kitchen Kettle Caravan Travel Hot Water Jug - Overheat Thermostat - White 900w - [Energy Class A] [Energy Class A]
 Brand FiNeWaY
 Colour White
@@ -3686,7 +3686,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Cordless
 Item Weight 600 g
-",plastic,white
+",plastic,white,600g
 "Morphy Richards White Brita Filter 120011 Electric Jug Kettle, 3000 W, New-White
 Brand Morphy Richards
 Colour White
@@ -3708,7 +3708,7 @@ Power / Wattage 3000 watts
 Voltage 240
 Special Features Cordless
 Item Weight 1.16 kg
-",unknown,white
+",other,white,1.16kg
 "Portable Stainless Steel Car Truck Travel Electric Kettle Pot Heated Water Cup Fast Boiling for Tea Coffee Milk 1300ml (24V)
 Brand Fdit
 Capacity 1300 Millilitres
@@ -3728,7 +3728,7 @@ Volume Capacity 1.3 litres
 Power / Wattage 120 watts
 Material Stainless Steel
 Item Weight 400 g
-",steel,unknown
+",metal,other,400g
 "Jean-Patrique Country Rose Electric Cordless Ceramic Kettle
 Brand White Country Rose Ceramic Kettle - 1L | Cordless kettle with retro design | From Jean Patrique
 Colour White
@@ -3749,7 +3749,7 @@ Volume Capacity 1 litres
 Material Ceramic
 Auto Shutoff No
 Item Weight 1.57 kg
-",ceramic,white
+",ceramic,white,1.57kg
 "Russell Hobbs 24990GCC Small Electric Kettle 1 Litre Fast Boil Cordless, Compact, 2400 W
 Brand Russell Hobbs
 Colour Silver
@@ -3769,7 +3769,7 @@ Power / Wattage 2400 watts
 Material Compact Kettle
 Special Features Cordless
 Item Weight 1.2 kg
-",steel,silver
+",metal,silver,1.2kg
 "Atyhao 12V / 24V 420ml Car Electric Kettle Travel Tea Mug Water Heating Cup Bottle Holder Vacuum Flasks Thermoses(Black)
 Brand Atyhao
 Colour Black
@@ -3787,7 +3787,7 @@ Product Dimensions 24 x 8 x 8 cm; 700 Grams
 Material Plastic
 Special Features Water Filter
 Item Weight 700 g
-",plastic,black
+",plastic,black,700g
 "LIVIVO 1L Cordless 900W Kettle in White Compact for Travel, Guest Room, Office Makes 4 Cups
 Brand LIVIVO
 Colour White
@@ -3811,7 +3811,7 @@ Auto Shutoff Yes
 Energy Efficiency Class A+++ to D
 Special Features Boil_Dry_Protection, Portable, Automatic_shut_off, Lightweight, Removable_Water_Filter, Cordless
 Item Weight 680 g
-",plastic,white
+",plastic,white,680g
 "Wilfa WSDK-2000B Kettle Black
 Brand Wilfa
 Colour Black
@@ -3829,7 +3829,7 @@ Product Dimensions 24.3 x 25 x 17.2 cm; 1.89 Kilograms
 Volume Capacity 1.25 litres
 Power / Wattage 2200 watts
 Item Weight 1.89 kg
-",steel,black
+",metal,black,1.89kg
 "Efbe-Schott Electric Kettle, 1.5 Litres, 2200 W, Particle Filter, Lemon Green, SC WK 5010 LEMON
 Brand Efbe-Schott
 Colour Green
@@ -3850,7 +3850,7 @@ Volume Capacity 1.5 litres
 Power / Wattage 2200 watts
 Voltage 230 Volts
 Item Weight 800 g
-",steel,green
+",metal,green,800g
 "Foldable Electric Kettle for Travel (BPA-Free),500ML Electric Silicone Water Boiler Hot Tea Heater, Dual Voltage Collapsible Kettle with Stainless Steel Bottom White 110-240V
 Brand Adirigo
 Colour White
@@ -3872,7 +3872,7 @@ Power / Wattage 600 watts
 Voltage 100 Volts
 Material Stainless Steel
 Item Weight 740 g
-",steel,white
+",metal,white,740g
 "De'Longhi Scolpito Kettle,1.5 liters, 360° swivel base, Stainless steel, KBZS3001.AZ, Mineral Blue
 Brand De'Longhi
 Colour Mineral Blue
@@ -3893,7 +3893,7 @@ Volume Capacity 1.5 litres
 Voltage 230
 Material Stainless steel, Resin, Plastic
 Item Weight 1.89 kg
-",steel,blue
+",metal,blue,1.89kg
 "Drew & Cole RediKettle, Precise Variable Temperature Control Smart Kettle, Digital Touch Display with Cup Count & Heat Lock Technology (1.2L, Red)
 Brand DREW & COLE
 Colour Red
@@ -3917,7 +3917,7 @@ Material Stainless Steel
 Number of Speeds 5
 Special Features Boil_Dry_Protection, Temperature Control, Digital Cup Count, Anti-Spill Lid, Cool Touch, Keep Warm For Up To 4 Hours
 Item Weight 2.2 kg
-",steel,red
+",metal,red,2.2kg
 "Prestige 59896 2 in 1 Glass Kettle with Digital Base, 3000 W, 1.5 Litre, Transparent
 Brand PRESTIGE
 Colour Transparent
@@ -3939,7 +3939,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel/Glass
 Special Features Concealed Heating
 Item Weight 1.86 kg
-",steel,transparent
+",metal,other,1.86kg
 "Quest 35929 Cordless Dual LED Illuminated Kettle, 1.7 Litre, 2200 W, Black
 Ideal for - creating the perfect hot drink at the flick of a button with this Quest Dual LED illuminating kettle.
 Easy to use - Automatic opening lid makes it easy to fill up to its 1. 7L capacity with 360° Cordless base.
@@ -3952,7 +3952,7 @@ Package Dimensions 22.4 x 22.2 x 16.4 cm; 1.04 Kilograms
 Volume Capacity 1.7 litres
 Special Features Cordless
 Item Weight 1.04 kg
-",unknown,black
+",other,black,1.04kg
 "SQ Professional Epoque Green Electric Kettle with Rose Gold Accents & Temperature Display - 2200W - 1.8L Stainless Steel
 Brand SQ Professional
 Colour Green
@@ -3971,7 +3971,7 @@ Volume Capacity 1.8 litres
 Power / Wattage 2200 watts
 Material Stainless Steel
 Special Features Water Filter, Cordless
-",steel,green
+",metal,green,1.8kg
 "Sage SKE735BTR Soft Top Luxe Kettle Black Truffle, Stainless Steel, 2400 W
 Brand Sage
 Colour Black Truffle Stainless Steel
@@ -3992,7 +3992,7 @@ Voltage 240
 Material Stainless Steel
 Special Features Cordless
 Item Weight 2.16 kg
-",steel,steel
+",metal,other,2.16kg
 "750ml 12V Compact Car Electric Kettle Boiler Mug Stainless Travel Thermoses
 Brand Bediffer
 Colour Popular
@@ -4009,7 +4009,7 @@ Manufacturer reference Bedifferpgzn5awq3t
 Manufacturer Part Number Bedifferpgzn5awq3t
 Wattage 120 watts
 Item Weight 610 g
-",steel,popular
+",metal,other,610g
 "Le Creuset Traditional Stove-Top Kettle with Whistle, Suitable for All Hob Types Including Induction and Cast Iron, Enamelled Steel, Capacity: 2.1 L, Marseille Blue, 92000800310000
 Brand LE CREUSET
 Colour Marseille Blue
@@ -4030,7 +4030,7 @@ Volume Capacity 2.1 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 500 g
-",steel,blue
+",metal,blue,500g
 "Morphy Richards Electric Kettle Prism Jug-Black 108251
 Brand Morphy Richards
 Colour Black
@@ -4051,7 +4051,7 @@ Power / Wattage 2200 watts
 Voltage 230 Volts
 Special Features Water_Filter
 Item Weight 1.15 kg
-",unknown,black
+",metal,black,1.15kg
 "Morphy Richards 102780 Stainless Steel Jug Kettle Rapid Boil, 3000 W, 1.7 liters, Black
 Brand Morphy Richards
 Colour Black
@@ -4074,7 +4074,7 @@ Voltage 240
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Boil dry protections, 360 degree base, removable limescale filter for clear water and cord storage.
 Item Weight 1.22 kg
-",steel,black
+",metal,black,1.22kg
 "Smoby ""Tefal"" Mini Electric Kettle (Multi-Colour)
 Brand Smoby
 Colour Multicoloured
@@ -4097,7 +4097,7 @@ Remote Control Included? No
 Color Multicoloured
 Mfg Recommended age 36 months - 6 years
 ASIN B00ZP3YZMG
-",plastic,multi
+",plastic,other,121g
 "Stainless Steel Electric Kettle, 1.7 L Rapid Boiling, Temperature Display, Double Wall Structure, Auto Shut-Off & Boil-Dry Protection, No Contact with Plastic, Quiet Boil, BPA Free, 1800 W
 Brand MeiShiLang
 Colour White
@@ -4114,7 +4114,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 1800 watts
 Special Features Cordless, Fast Boil Kettle, Auto Shut-Off & Boil-Dry Protection, BPA-Free, No Contact With Plastic, Quiet Boil, 360 degree base
 Item Weight 1.46 kg
-",steel,white
+",metal,white,1.46kg
 "Bosch TWK86103GB Styline Sensor Kettle, 1.5 Litre 3000 W - Black & Stainless Steel
 Brand Bosch
 Colour Black and Stainless Steel
@@ -4138,7 +4138,7 @@ Material Plastic^Stainless Steel
 Auto Shutoff Yes
 Special Features Adjustable Temperature^Boil Dry Protection^Concealed Heating^Cool Wall^Cordless^Keep Warm Function
 Item Weight 1.38 kg
-",steel,black
+",metal,black,1.38kg
 "Solomi Car Water Heater - Car Kettle, Portable Car Electric Kettle Water Heater Bottle for Tea Coffee 12V 1000ml
 Brand Solomi
 Capacity 1 litres
@@ -4156,7 +4156,7 @@ Capacity 1 litres
 Volume Capacity 1 litres
 Power / Wattage 250 watts
 Item Weight 625 g
-",steel,unknown
+",metal,other,625g
 "Alessi Plissè MDL06/1RUK - Design Electric Kettle in Thermoplastic Resin, English Plug, 100 cl, Red
 Design water kettle for tea and infusions with English plug
 Designer: Michele de Lucchi
@@ -4168,7 +4168,7 @@ Model Number MDL06/1RUK
 Colour Red
 Product Dimensions 21 x 16 x 20 cm; 1.49 Kilograms
 Item Weight 1.49 kg
-",thermoplastic,red
+",plastic,red,1.49kg
 "Kampa Cascade 1L Grey Stainless Steel Low Wattage Kettle
 Brand Kampa
 Colour Gray
@@ -4186,7 +4186,7 @@ Brand Kampa
 Manufacturer Kampa
 Package Dimensions 19.6 x 19.5 x 15.7 cm; 984 Grams
 ASIN B07C97CC4H
-",steel,gray
+",metal,grey,984g
 "Kenwood Discovery JKP250 Kettle - White
 Brand	Kenwood
 Colour	White
@@ -4217,7 +4217,7 @@ Special Features	Boil-Dry Protection^Concealed Heating Element^Water Filter
 Specification Met	
 UPC	000031645867
 Warranty Description	1
-Wattage	650 watts",plastic,white
+Wattage	650 watts",plastic,white,1.17kg
 "Wilfa WK-5W Kettle, White
 Brand Wilfa
 Colour White
@@ -4236,7 +4236,7 @@ Capacity 1 litres
 Volume Capacity 1 litres
 Power / Wattage 1500 watts
 Item Weight 1 kg
-",unknown,white
+",other,white,1.0kg
 "Judge Compact Kettle 500 ml, Black
 Brand Judge
 Colour Black
@@ -4253,7 +4253,7 @@ Item volume 0.5 Litres
 Is assembly required No
 Warranty description 2 year manufacturer.
 Batteries required No
-",plastic,black
+",plastic,black,680g
 "VonShef Electric Glass Kettle – Large 1.7L Capacity, with Striking Blue LED Illumination. Removable and Reusable Filter for Fresher Water - 3000W
 Brand VonShef
 Colour Transparent
@@ -4276,7 +4276,7 @@ Material Glass
 Auto Shutoff No
 Special Features Removable Washable Filter, Swivel Base, Boil Dry Protection, Automatic Shut Off, Cordless, Blue LED Illumination, SCHOTT Glass Body
 Item Weight 1.63 kg
-",glass,transparent
+",glass,other,1.63kg
 "Haden Salcombe Cordless Kettle - Electric Fast Boil Kettle, 3000W, 1.7 Litre, Black & Copper - CE01 SF105
 Brand HADEN
 Colour Black & Copper
@@ -4299,7 +4299,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Removable Washable Filter, Boil Dry Cut Off Protection, Concealed Heating Element, Water Level Gauge, Cordless, 360° Cordless Kettle
 Item Weight 100 g
-",steel,black
+",metal,black,100g
 "Salter EK3643GRG Pyramid Kettle | 1.7 Litre | 3000W, Grey/Rose Gold Edition | 360 ° Swivel Base | Auto Shut Off | Boil Dry Sensor | Strix Controller, Plastic
 Brand Salter
 Colour Grey
@@ -4317,7 +4317,7 @@ Product Dimensions 26 x 22 x 22 cm; 1.6 Kilograms
 Volume Capacity 1.7 litres
 Material Plastic
 Item Weight 1.6 kg
-",plastic,grey
+",plastic,grey,1.6kg
 "Prima Whilstling Kettle 2.5Ltr. Metalic Black
 Brand Prima
 Colour Black
@@ -4332,7 +4332,7 @@ Package Dimensions 20.2 x 19.8 x 17.4 cm; 400 Grams
 Item volume 2500 Millilitres
 Batteries required No
 Item weight 0.4 Kilograms
-",steel,black
+",metal,black,400g
 "Progress® EK3987P Illumi Glass Kettle with Blue LED Lights | 1.7 litres | 360° Swivel Base | Anti-Limescale Filter | Boil-Dry Sensor | Auto Shut-Off | 2200 W
 Brand PROGRESS
 Colour Transparent
@@ -4345,7 +4345,7 @@ Boasting a modern transparent glass body, the kettle will fit comfortably on an 
 Package Dimensions 26 x 23.5 x 18.7 cm; 1.38 Kilograms
 Batteries required No
 Item weight 1.38 Kilograms
-",glass,transparent
+",glass,other,1.38kg
 "CARAVAN 750 W LOW WATTAGE CORDLESS KETTLE IN WHITE
 Brand Pennine
 Colour White
@@ -4363,7 +4363,7 @@ Power / Wattage 750 watts
 Material Plastic
 Special Features Cordless
 Item Weight 815 g
-",plastic,white
+",plastic,white,815g
 "Ultrathin Upgraded Food Grade Silicone Travel Foldable Electric Kettle Boil Dry Protection Portable with Dual Voltage and Separable Power Cord,555ML 110-220V UK Plug (Pink)
 Brand LOUTYTUO
 Colour Pink
@@ -4383,7 +4383,7 @@ Power / Wattage 700 watts
 Material Stainless Steel
 Special Features Boil Dry Protection
 Item Weight 930 g
-",steel,pink
+",metal,pink,930g
 "Summit GY-350 Jug Kettle, White
 Truck Kettle, 24 V
 Manufacturer Summit
@@ -4394,7 +4394,7 @@ Item model number GY-350
 Manufacturer Part Number GY-350
 OEM Part Number GY-350
 Item Weight 500 g
-",unknown,unknown
+",other,other,500g
 "Keenso Electric Kettle, 1200ML Stainless Steel Auto Kettle Portable Electric Car Kettle with Cigarette Lighter Charger for Tea Coffee Milk Hot Water (12V)
 Brand Keenso
 Colour Default
@@ -4412,7 +4412,7 @@ Product Dimensions 10 x 10 x 10 cm; 819 Grams
 Manufacturer reference Keensokrs3xaw0bi-01
 Manufacturer Part Number Keensokrs3xaw0bi-01
 Item Weight 819 g
-",steel,default
+",metal,other,819g
 "Morphy Richards 108399 Arc Jug Kettle, 3 W, 1.7 liters, White
 Brand Morphy Richards
 Colour White
@@ -4433,7 +4433,7 @@ Volume Capacity 1.5 litres
 Power / Wattage 3 KW
 Voltage 240
 Item Weight 1.14 kg
-",unknown,white
+",other,white,1.14kg
 "LIVIVO Sirius Electric Kettle Fast Boil Jug Hot Water Dispenser with Thermometer/Temperature Dial 3000W 1.7L BPA Free 360° Swivel Base Kitchen – White Retro Style
 RETRO KETTLE: LIVIVO Retro Kettle boils water within 2-5 minutes, 5mins to boil a full pot (1.7L), 0.5L for just 2 mins. Effectively saves more energy. 1.7L Large capacity makes enough water for 6-7 people, perfect match for coffee, tea, pasta, oatmeal etc.
 FAST BOILING MECHANISM: This LIVIVO kettle is built with faster heating tech that allows it to boil 1.7L water in 5mins or 40sec for 1 cup of water. No waiting, no energy waste.
@@ -4443,7 +4443,7 @@ WASHABLE FILTER: There is a removable, washable filter to keep your kettle and w
 Brand LIVIVO
 Colour White
 Volume Capacity 1.7 litres
-",unknown,white
+",other,white,1.7kg
 "Dualit Lite Kettle | 1 L 2 kW Jug Kettle | Polished with Canvas White Trim, High Gloss Finish | Fast Boiling Kettle by Dualit | 72203
 Brand Dualit
 Colour Silver/White
@@ -4466,7 +4466,7 @@ Volume Capacity 0.8 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 920 g
-",steel,silver
+",metal,silver,920g
 "Keenso Car Kettle Boiler 1200ML 12V/24V Stainless Steel Electric In-car Kettle Car Heating Cup Travel Thermoses Heating Water Bottle for Water Tea Coffee Milk(24V)
 Brand Keenso
 Colour Default
@@ -4485,7 +4485,7 @@ Manufacturer reference Keensoo50a1gsrbk-02
 Manufacturer Part Number Keensoo50a1gsrbk-02
 Wattage 120 watts
 Item Weight 820 g
-",steel,default
+",metal,other,820g
 "KIMISS 12V/24V Kettle,1200ML Car Kettle Stainless Steel Car Electric Kettle Travel Drinking Cup Travel Coffee Mug Water Bottle(12V)
 Brand KIMISS
 Colour Default
@@ -4503,7 +4503,7 @@ Product Dimensions 10 x 10 x 10 cm; 820 Grams
 Manufacturer Part Number KIMISS
 Wattage 120 watts
 Item Weight 820 g
-",steel,default
+",metal,other,820g
 "Melitta Gooseneck Kettle, Compatible with All Types of Cookers, Insulated Handle, 0.7 L, Pour Over, Stainless Steel
 Brand Melitta
 Colour Silver
@@ -4521,7 +4521,7 @@ Capacity 0.7 litres
 Volume Capacity 0.7 litres
 Material Stainless Steel
 Item Weight 567 g
-",steel,silver
+",metal,silver,567g
 "Kampa Cascade 1L Cream Stainless Steel Low wattage Kettle
 Brand Kampa
 Colour Ivory
@@ -4538,7 +4538,7 @@ Brand Kampa
 Manufacturer Kampa
 Package Dimensions 19.6 x 19.4 x 15.6 cm; 980 Grams
 ASIN B07BPPKCZW
-",steel,ivory
+",metal,other,980g
 "12V / 24V 1000ml Car Electric Kettle Car Electric Kettle Durable Insulation Safety Anti Skid Base Smart insulation For Outdoor Travel
 【High Quality】: It is made of imported 304 double-layer stainless steel, with good heat insulation effect, high temperature resistance, sturdiness and durability, rust resistance and safe use. Fully sealed safety cup cover, the cup mouth is waterproof, to ensure that the drink will not overflow when consuming or placing.
 【Portable Comfortable】: Ergonomic handle, clean design, simple and comfortable to hold, easy to use, easy to pour water. It can be used as insulation on the car when not plugged in.
@@ -4550,7 +4550,7 @@ Model Number Garsentxq2x3g6nsk4
 Product Dimensions 1 x 1 x 1 cm; 901 Grams
 Volume Capacity 1 litres
 Item Weight 901 g
-",steel,unknown
+",metal,other,901g
 "Quest 35429 1.7 Litre Kettle | Cord Storage | Spout Filter | Water Level Indicator | BPA Free
 Brand Quest
 Colour Red
@@ -4567,7 +4567,7 @@ Package Dimensions 24.3 x 20.5 x 14.1 cm; 957 Grams
 Volume Capacity 1.7 litres
 Material Plastic
 Item Weight 957 g
-",plastic,red
+",plastic,red,957g
 "Qiilu 12v 750mL Car Kettle, Electric Car Kettle with Cigarette Lighter Heating Cup Stainless Steel
 Brand Qiilu
 Colour Black
@@ -4585,7 +4585,7 @@ Capacity 750 Millilitres
 Volume Capacity 0.75 litres
 Power / Wattage 120 watts
 Item Weight 700 g
-",steel,black
+",metal,black,700g
 "Bosch TWK7601GB Village Collection Kettle, 1.7 L - White
 Brand Bosch
 Colour White
@@ -4610,7 +4610,7 @@ Auto Shutoff Yes
 Energy Efficiency Class A+ to C
 Special Features Boil Dry Protection, Cordless, Concealed Heating
 Item Weight 940 g
-",plastic,white
+",plastic,white,940g
 "Spardar Water Heating Cup for Car Double Wall Vacuum Insulated Stainless Steel Automatic Working Car Cigarette Lighter DC12V Electric Kettle Boil Water (Gray)
 Brand Spardar
 Colour Gray
@@ -4633,7 +4633,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Boil Dry Protection
 Item Weight 700 g
-",steel,gray
+",metal,grey,700g
 "Portable Car Electric Kettle Travel Car Cigarette Lighter DC12V Hot Water Kettle Fast Boiling for Tea Coffee 1.0 -Liter Auto Shut Off(1000ml)
 Brand Fdit
 Colour Black
@@ -4651,7 +4651,7 @@ Capacity 1 litres
 Volume Capacity 1 litres
 Power / Wattage 150 watts
 Item Weight 780 g
-",steel,silver
+",metal,silver,780g
 "Venga! VG JK 3002 Kettle - 2200 W, Stainless Steel, Plastic, 1.7 L, Silver
 Brand Venga!
 Colour Silver
@@ -4670,7 +4670,7 @@ Material Stainless Steel, Plastic
 Energy Efficiency Class A to G
 Special Features Cordless
 Item Weight 1 kg
-",steel,silver
+",metal,silver,1.0kg
 "Garsent 750ml 24V Car Electric Kettle, Portable Stainless Steel Travel Car Cigarette Lighter Hot Water Kettle Electric Mug Kettle for Tea, Coffee. (24V)
 Brand Garsent
 Colour 24v
@@ -4689,7 +4689,7 @@ Volume Capacity 0.75 litres
 Material Stainless Steel
 Special Features Boil Dry Protection
 Item Weight 630 g
-",steel,24v
+",metal,other,630g
 "Car Cigarette Lighter Hot Water Kettle,12V 1000ML Car Electric Kettle Stainless Steel Travel Coffee Tea Thermos Water Heating Cup
 Brand EBTOOLS
 Colour Popular
@@ -4707,7 +4707,7 @@ Manufacturer reference EBTOOLSocb0yhp7iv
 Manufacturer Part Number EBTOOLSocb0yhp7iv
 Wattage 120 watts
 Item Weight 860 g
-",steel,popular
+",metal,other,860g
 "Sage STM500CLR the Smart Tea Infuser Compact Kettle, Stainless Steel, 1200 W, 1 Liter, Clear
 Brand Sage
 Colour Clear
@@ -4730,7 +4730,7 @@ Voltage 240
 Material Stainless Steel, Glass
 Special Features BPA Free, Dishwasher Safe
 Item Weight 2.56 kg
-",steel,clear
+",metal,other,2.56kg
 "J Jaksons Infapower Cordless Rapid Boil Stainless Steel Tea Kettle, Fast Boil Water Warmer - Auto Shut Off and Boil Dry 1.7L 3000W
 Brand J Jaksons
 Colour White
@@ -4750,7 +4750,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Stainless Steel
 Item Weight 1.18 kg
-",steel,black
+",metal,black,1.18kg
 "Daewoo SDA1684 1.7L Stainless Steel Housing | Auto Lid Opening Feature | On/Off Switch with Light Indicator | Strix Control | Cordless Design | 3000W Power, 220 W, 1.7 liters, Black Kettle
 Brand Daewoo
 Colour Black Kettle
@@ -4772,7 +4772,7 @@ Power / Wattage 220 watts
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.18 kg
-",steel,black
+",metal,black,1.18kg
 "Smeg KLF03WHUK Retro Style Kettle, Water Level Indicator, 360 Swivel Base, Anti-Slip Feet, Soft Opening Lid, Stainless Steel, 3000 W, 1.7 Litre, White
 Brand Smeg
 Colour White
@@ -4796,7 +4796,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Soft opening lid, 3kW fast boil, Auto shut-off at 100 degrees, Concealed_Heating, Stainless steel body; 360 swivel base; Cordless; Anti-slip feet;, Non Drip; Anti-limescale filter; Retro Style;
 Item Weight 2.3 kg
-",steel,white
+",metal,white,2.3kg
 "Hilitand 12V Travel Heating Cup 120W 450ml Electric In-car Stainless Steel Travel Heating Mug for Coffee Tea Car
 Brand Hilitand
 Colour Silver
@@ -4817,7 +4817,7 @@ Power / Wattage 120 watts
 Material Stainless Steel
 Special Features Boil Dry Protection, Concealed Heating
 Item Weight 280 g
-",steel,silver
+",metal,silver,280g
 "Wilfa WKR-2000W Kettle, White
 Brand Wilfa
 Colour White
@@ -4837,7 +4837,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 2000 watts
 Item Weight 1.42 kg
-",unknown,white
+",other,white,1.42kg
 "Stellar Horwood SV67 Traditional Kettle, 3.3L, Silver
 Brand Stellar
 Colour Silver
@@ -4859,7 +4859,7 @@ Volume Capacity 3 litres
 Material Stainless Steel
 Special Features Water_Filter
 Item Weight 1.7 kg
-",steel,silver
+",metal,silver,1.7kg
 "Prestige - Prism - 3 KW Kettle - Electric Kettle - Stainless Steel Kettle - Rose Gold - 1.7 Litre
 Brand Prestige
 Colour Rose Gold
@@ -4882,7 +4882,7 @@ Material Stainless steel, Plastic
 Auto Shutoff No
 Special Features ✅ Removable washable filter, ✅ Safety locking lid, ✅ 3KW rapid boil, ✅ 360 concealed element, ✅ Illuminated power switch
 Item Weight 1.52 kg
-",steel,gold
+",metal,gold,1.52kg
 "Sage BKE750CLR the Crystal Clear Classic Kettle
 Brand Sage
 Colour Glass
@@ -4898,7 +4898,7 @@ Package Dimensions 31.4 x 25.4 x 19.4 cm; 1.42 Kilograms
 Material Glass
 Special Features Cordless
 Item Weight 1.42 kg
-",glass,glass
+",glass,other,1.42kg
 "Travel Foldable Electric Kettle - Dual Voltage - Fast Water Boiling - Food Grade Silicone - Small, Collapsible, Portable - Boil Dry Protection - 100V-240V
 【DUAL VOLTAGE】Take along for readily accessible hot water on any continent! Features dual voltage for compatibility wherever your adventures lead you.
 【Compact & Portable】- this collapsible kettle with convenient size saves space in your kitchen, tent & travel pack/luggage. Can fill and boil up to 0.6L of water
@@ -4909,7 +4909,7 @@ Brand ORICH
 Package Dimensions 15.5 x 15.5 x 11 cm; 770 Grams
 Special Features Boil Dry Protection
 Item Weight 770 g
-",silicone,unknown
+",other,other,770g
 "Terisass Electric Kettle 350ML+150ML Stainless Steel Car Electric Heating Mug 12V Drinking Cup Travel Kettle Coffee Tea Thermos Water Heating Cup for Cars with 12V Cigarette Lighter
 Brand Terisass
 Colour Popular
@@ -4928,7 +4928,7 @@ Capacity 500 Millilitres
 Power / Wattage 60 watts
 Voltage 12 Volts
 Item Weight 369 g
-",steel,popular
+",metal,other,369g
 "Car Electric Kettle,1300ml 12V/24V Stainless Steel Car Truck Travel Electric Kettle Pot Heated Water Cup, for boil water, brew coffee, milk powder, boiled eggs(12V)
 Brand Hakeeta
 Colour 12v
@@ -4948,7 +4948,7 @@ Capacity 1300 Millilitres
 Volume Capacity 1.3 litres
 Power / Wattage 120 watts
 Item Weight 850 g
-",steel,12v
+",metal,other,850g
 "【Updated】NOVETE Electric Kettle 3000W with LED Indicator, BPA Free
 Brand NOVETE
 Colour Blue
@@ -4965,7 +4965,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Item Weight 1.53 kg
-",glass,blue
+",glass,blue,1.53kg
 "Breville Vista Polished Stainless Steel Jug Kettle, 1.7 L, Silver, 1.7 liters
 Brand Breville
 Colour Silver
@@ -4987,7 +4987,7 @@ Auto Shutoff No
 Number of Slices 2
 Special Features 360 degree base for left and right handed use
 Item Weight 692 g
-",steel,silver
+",metal,silver,692g
 "Wilfa CWK-2000MW Kettle, White
 Brand Wilfa
 Colour White
@@ -5003,7 +5003,7 @@ Colour White
 Product Dimensions 24.8 x 22.2 x 16.9 cm; 1.38 Kilograms
 Volume Capacity 1 litres
 Item Weight 1.38 kg
-",unknown,white
+",other,white,1.38kg
 "Russell Hobbs 22851 Brita Filter Purity Electric Kettle, Illuminating Filter Kettle with Brita Maxtra+ Cartridge Included, 3000 W, 1.5 Litre, Plastic
 Brand Russell Hobbs
 Colour Transparent
@@ -5026,7 +5026,7 @@ Material Plastic
 Auto Shutoff No
 Special Features Water_Filter
 Item Weight 1.1 kg
-",plastic,transparent
+",plastic,other,1.1kg
 "2.0L Glass Electric Kettle by HAEGER, Eco Water Kettle LED, 2000W, BPA Free Cordless Water Boiler with Stainless Steel Inner Lid & Bottom, Auto-Off & Boil-Dry Protection [Energy Class A+++]
 Brand SuperGift.com
 Colour Silver
@@ -5047,7 +5047,7 @@ Power / Wattage 2000 watts
 Material Stainless Steel / Glass
 Special Features Energy saving & auto shut-off: 4mins to boil a full pot (2.0L), 1L for just 2mins. Effectively saves more energy than your microwave, stove or your old kettle. When water boil, kettle will auto shut off within 30 seconds., Safe to use & low noise: heating elements can be used over 5000 times (if 3-4 times a day, approx. 5 years)., Satisfaction Guarantee: approved by CE/ROHS certification, 2-year warranty and lifetime support. Notes: Please clean your electric kettle once a week or two weeks if in an area that has hard water.
 Item Weight 1.3 kg
-",steel,silver
+",metal,silver,1.3kg
 "Daewoo Balmoral 1.6L Plastic Kettle (220-240V/50-60Hz/2520-3000W) with Removable & Washable Limescale Filter and 360° Rotation Base, Locking Lid with Auto & Manual Switch Off and LED Indicator - White
 Brand Daewoo
 Colour White 1.6l
@@ -5065,7 +5065,7 @@ Volume Capacity 1.6 litres
 Material Plastic
 Special Features Concealed_Heating
 Item Weight 1.04 kg
-",plastic,white
+",plastic,white,1.04kg
 "Neo® Cordless Nordic Illuminated Glass Kettle (Grey and Copper)
 Brand Neo
 Colour Grey and Copper
@@ -5088,7 +5088,7 @@ Material Glass
 Auto Shutoff No
 Special Features 360 degree base, Glass jug, Illuminating LED, Cordless
 Item Weight 2.2 kg
-",glass,grey
+",glass,grey,2.2kg
 "Morphy Richards 102781 Stainless Steel Jug Kettle Rapid Boil, 3000 W, 1.7 liters, Cream
 Brand Morphy Richards
 Colour Old English Cream
@@ -5111,7 +5111,7 @@ Voltage 240
 Material Stainless Steel
 Special Features Boil_Dry_Protection, Boil dry protections, 360 degree base, removable limescale filter for clear water and cord storage.
 Item Weight 1.18 kg
-",steel,crean
+",metal,other,1.18kg
 "SQ Professional Eleganto Jug Kettle - Matte Black - LED Illuminate -Fast-Boil 1.7L 3000w
 Brand SQ Professional
 Colour Black
@@ -5127,7 +5127,7 @@ Colour Black
 Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
-",unknown,black
+",other,black,1.7kg
 "LIVIVO Arian Electric Kettle Fast Boil Jug Hot Water Dispenser 3000W 1.7L BPA Free 360° Swivel Base – Stainless Steel Matt Finish (Grey/Silver)
 STYLISH KETTLE: LIVIVO Kettle boils water within 2-5 minutes, 5mins to boil a full pot (1.7L), 0.5L for just 2 mins. Effectively saves more energy. 1.7L Large capacity makes enough water for 6-7 people, perfect match for coffee, tea, pasta, oatmeal etc.
 FAST BOILING MECHANISM: This LIVIVO kettle is built with faster heating tech that allows it to boil 1.7L water in 5mins or 40sec for 1 cup of water. No waiting, no energy waste.
@@ -5137,7 +5137,7 @@ WASHABLE FILTER: There is a removable, washable filter to keep your kettle and w
 Brand LIVIVO
 Colour Grey / Silver
 Volume Capacity 1.7 litres
-",steel,grey
+",metal,grey,1.7kg
 "Bewinner Portable 750ml Car Kettle, 24V Travel Truck Kettle for Self-driving Tour to Heat and Boil Tea/Coffee with 304 Stainless Steel Kettle Body and Inner Heating Tube
 Brand	Bewinner
 Colour	Default
@@ -5164,7 +5164,7 @@ Max. Heating Temperature: 100℃ (auto power off after boiling)
 Heating Time: about 15 minutes
 Height: approx. 22cm / 8.66in
 Diameter: approx. 8.5cm / 3.35in
-Weight: approx. 622g",steel,default
+Weight: approx. 622g",metal,other,750g
 "Signature Cordless Jug Kettle, Boil Dry and Overheat Protection, Removable and Washable Filter, 1.7 Litre, White
 Brand Signature
 Colour White
@@ -5187,7 +5187,7 @@ Power / Wattage 2200 watts
 Material Plastic
 Auto Shutoff No
 Item Weight 735 g
-",plastic,white
+",plastic,white,735g
 "Caterlite Hotel Room Kettle Plastic White 1.0Ltr Kitchen Hot Water Jug
 Brand Caterlite
 Colour White
@@ -5207,7 +5207,7 @@ Volume Capacity 1 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 760 g
-",steel,white
+",metal,white,760g
 "NETTA Electric Glass Kettle - 1.7L Capacity - Temperature Control - Fast Boil - Blue LED Illumination - Swivel Base with Flip Top - 3000W
 Brand NETTA
 Capacity 1.7 litres
@@ -5225,7 +5225,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Special Features Boil_Dry_Protection, Concealed_Heating, Cordless
 Item Weight 1.46 kg
-",unknown,unknown
+",other,other,1.46kg
 "Salter EK2841SS Colour Changing Glass Kettle with Red-Blue LED Illumination, 2200 W, 1.7 Litre, Silver | Strix Controller | Anti-Scale Filter | 360°C Swivel Base
 Brand Salter
 Colour Red/Blue
@@ -5244,7 +5244,7 @@ Volume Capacity 1.7 litres
 Material Glass
 Special Features Water_Filter
 Item Weight 1.48 kg
-",glass,red
+",glass,red,1.48kg
 "1.7L Glass and Stainless-Steel Illuminating Kettle / Fast Boil 2200W / Spout Filter / Overheat Protection / Non-Slip Feet / Cord Storage / BPA Free
 Brand Quest
 Capacity 1.7 litres
@@ -5265,7 +5265,7 @@ Material Stainless Steel and Glass
 Auto Shutoff No
 Special Features Cordless
 Item Weight 1.1 kg
-",steel,unknown
+",metal,other,1.1kg
 "Fellow CD Stagg Black mat Ellectric Kettle Stag EKG with a Capacity of 900 ml
 Brand Fellow
 Colour Black
@@ -5284,7 +5284,7 @@ Volume Capacity 0.9 litres
 Power / Wattage 1200 watts
 Material Stainless Steel
 Item Weight 2.05 kg
-",steel,black
+",metal,black,2.05kg
 "Russell Hobbs Cambridge 1.7 Litre, 3000 W Kettle 20070, Brushed Stainless Steel Silver Kettle (Renewed)
 Brand Russell Hobbs
 Colour Silver
@@ -5306,7 +5306,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel, Plastic
 Special Features Boil Dry Protection, Cordless, Concealed Heating, Boil Dry Protection, Concealed Heating, Cordless
 Item Weight 990 g
-",steel,silver
+",metal,silver,990g
 "Wilfa WK-5B Kettle, Black
 Brand Wilfa
 Colour Black
@@ -5323,7 +5323,7 @@ Product Dimensions 21.3 x 22 x 15.6 cm; 1 Kilograms
 Volume Capacity 1 litres
 Power / Wattage 1500 watts
 Item Weight 1 kg
-",unknown,black
+",other,black,1kg
 "Electric Kettle Health Pot Full Automatic Thickened Glass Multifunctional Black Tea Boiled Medicine Home 1.8L
 Brand GHP
 Colour Black
@@ -5338,7 +5338,7 @@ Model Number 811A
 Colour Black
 Capacity 1.8 litres
 Volume Capacity 1.8 litres
-",steel,black
+",metal,black,1.8kg
 "Adler Black Kettle Made of Glass with Capacity of 1.7 liters and 2000 W Power AD 1274
 Brand Adler
 Colour Black
@@ -5358,7 +5358,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Special Features Water_Filter
 Item Weight 898 g
-",glass,black
+",glass,black,898g
 "Tefal Loft KO251440 Rapid Boil Traditional Kettle – 1.7L / Midnight Blue & Rose Gold Blue, Rose, Plastic, 3000 W
 Brand Tefal
 Colour Midnight Blue & Rose Gold
@@ -5378,7 +5378,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 3000 watts
 Material Plastic
 Item Weight 1.31 kg
-",plastic,blue
+",plastic,blue,1.31kg
 "Wilfa WSPOK-1000B Kettle, Black
 Brand Wilfa
 Colour Black
@@ -5398,7 +5398,7 @@ Capacity 0.8 litres
 Volume Capacity 0.8 litres
 Power / Wattage 1000 watts
 Item Weight 1.19 kg
-",steel,black
+",metal,black,1.19kg
 "Russell Hobbs Dorchester Kettle, Red, 1.7 Litre, 3000 Watt
 Brand Russell Hobbs
 Colour Red
@@ -5420,7 +5420,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Auto Shutoff No
 Item Weight 989 g
-",steel,red
+",metal,red,989g
 "3.5L Steel Matt Cream Whistling Kettle for Boat Hob Gas Electric
 Brand Prima
 Colour Beige
@@ -5439,7 +5439,7 @@ Capacity 14 Cups
 Volume Capacity 3.5 litres
 Material Steel
 Item Weight 1.15 kg
-",steel,beige
+",metal,beige,1.15kg
 "Ariete 2854B Moderna Cordless Electric Kettle, Stainless Steel Body, 1.7 Litre Capacity, Black
 Brand Ariete
 Colour Black
@@ -5457,7 +5457,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel
 Special Features Cordless
 Item Weight 2.1 kg
-",steel,black
+",metal,black,2.1kg
 "Haden Boston Cordless Kettle- Electric Pyramid Fast Boil Kettle, 3000W, 1.7 Litre, Cream - CE30 188106
 Brand	HADEN
 Colour	Cream
@@ -5476,7 +5476,7 @@ Ean	5021961188106
 Included Components	no_components
 Item Volume	1.70 litres
 Item Weight	100 grams
-Model Number	188106",steel,cream
+Model Number	188106",metal,cream,100g
 "Kitchen Perfected E886 Travel Kettle With Cups
 Brand Kitchen Perfected
 Colour White
@@ -5498,7 +5498,7 @@ Voltage 230 Volts
 Material Plastic
 Auto Shutoff Yes
 Special Features Boil Dry Protection
-",plastic,white
+",plastic,white,900g
 "Smarter SMKET01-UK iKettle, 3rd Generation, Stainless Steel Smart Kettle with WiFi, Digital temperatures, 3000 W, 1.8 litres, 1.8 liters
 Brand Smarter
 Colour Stainless Steel
@@ -5521,7 +5521,7 @@ Voltage 240
 Material Stainless Steel
 Auto Shutoff No
 Item Weight 1.5 kg
-",steel,steel
+",metal,other,1.5kg
 "Alcheringa Collapsible Travel Electric Silicone Kettle 0.6L
 Brand Alcheringa
 Colour Beige
@@ -5540,7 +5540,7 @@ Capacity 0.6 litres
 Volume Capacity 0.6 litres
 Material Stainless Steel
 Item Weight 750 g
-",steel,beige
+",metal,beige,750g
 "Russell Hobbs 23211 Luna Quiet Boil Electric Kettle, Stainless Steel, 3000 W, 1.7 Litre, Grey
 Brand Russell Hobbs
 Colour Grey
@@ -5563,7 +5563,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Boil_Dry_Protection, Concealed_Heating
 Item Weight 1.47 kg
-",steel,grey
+",metal,grey,1.47kg
 "WEEKETT Electric Kettle (Non WiFi) | 4 Temperature Control 2200W with Keep Warm Function, Stainless Steel, 1.7L
 Brand WEEKETT
 Material Stainless Steel
@@ -5579,7 +5579,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Material Stainless Steel
 Item Weight 1.64 kg
-",steel,unknown
+",metal,other,1.64kg
 "Kitchen Originals Polka Dot Electric Dome Kettle
 Brand Kalorik
 Colour Black
@@ -5601,7 +5601,7 @@ Voltage 230
 Material Stainless Steel
 Special Features Rapid Boil Technology & Boil Dry Protection, Concealed Heating & Cool Touch Handle, Removable & Washable Filter, Automatic Shut-Off, Hand printed Design
 Item Weight 1.21 kg
-",steel,black
+",metal,black,1.21kg
 "Geepas 1.7L Cordless Electric Kettle | Safety Lock, Boil Dry Protection & Auto Shut Off Feature | Fast Boil & Ease to Clean | Ideal for Hot Water, Tea & Coffee Maker | 2200W - 2 Year Warranty
 Brand Geepas
 Capacity 1.7 litres
@@ -5621,7 +5621,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 2200 watts
 Material Plastic
 Item Weight 880 g
-",plastic,unknown
+",plastic,other,880g
 "Vinekraft Traditional Kettle with Whistle Stainless Steel Teapot Induction Water Kettle 2.7 Litre -Black
 Brand Vinekraft
 Colour Black
@@ -5638,7 +5638,7 @@ Package Dimensions 20.32 x 19.56 x 16.51 cm; 700 Grams
 Volume Capacity 1 litres
 Material Stainless Steel
 Item Weight 700 g
-",steel,black
+",metal,black,700g
 "12V Car Electric Heating Cup, Stainless Steel Vacuum Car Heating Mug, Heated Travel Cup Electric Kettle 750ml
 Brand Yosoo Health Gear
 Capacity 0.75 litres
@@ -5656,7 +5656,7 @@ Volume Capacity 0.75 litres
 Power / Wattage 120 watts
 Material Stainless Steel
 Item Weight 520 g
-",steel,unknown
+",metal,other,520g
 "Severin Jug Electric Kettle with 2200 W of Power WK 3410, Black
 Brand Severin
 Colour Black
@@ -5675,7 +5675,7 @@ Volume Capacity 1 litres
 Power / Wattage 2200 watts
 Special Features Water_Filter
 Item Weight 794 g
-",steel,black
+",metal,black,794g
 "Team Kalorik TKG JK 1045 AG Electric Kettle, 2400 W, 1.7 liters, Applegreen
 Brand Team Kalorik
 Colour Applegreen
@@ -5698,7 +5698,7 @@ Voltage 230
 Material Metal
 Special Features Cordless
 Item Weight 1.15 kg
-",metal,applegreen
+",metal,green,1.15kg
 "Qiilu 12V 150+300ML Stainless Steel Travel Heating Cup Mug, Electric Travel Thermoses Cup Coffee with Lighter Cable
 Brand Qiilu
 Colour Silver
@@ -5715,7 +5715,7 @@ Package Dimensions 20.1 x 12.8 x 9.1 cm; 350 Grams
 Volume Capacity 0.3 litres
 Material Stainless Steel
 Item Weight 350 g
-",steel,silver
+",metal,silver,350g
 "Infapower 1.8L Stainless Steel Cordless Kettle
 Cordless
 Brand Infapower
@@ -5727,7 +5727,7 @@ Energy Efficiency Class A to E
 Runtime 0 minute
 Special Features Cordless
 Item Weight 1 kg
-",steel,steel
+",metal,other,1.0kg
 "1.6L Stove Top Kettle - Polished Stainless Steel | Large capacity and suitable for use with any hob. Heats quickly & efficiently| From Jean Patrique
 Brand Jean-Patrique
 Colour Silver
@@ -5744,7 +5744,7 @@ Care instructions No Require
 Number of pieces 1
 Batteries required No
 Item weight 0.63 Kilograms
-",steel,silver
+",metal,silver,0.63kg
 "Teaware Hot Water Kettle Coffee Kettle Stovetop Lid 1.5L/2L with Filter (2L)
 ★ This is meant to be an extraordinary quality KETTLES - Ergonomic cool touch handle, lift it up, then press the lid switch with your thumb and you will find out how good this fashionable kettle is.
 ★ The stainless steel corrugated base ensures uniform heating and good thermal conductivity when the kettle is heated.The self-contained filter is very easy to prepare tea and filter coffee waste.
@@ -5757,7 +5757,7 @@ Product Dimensions 24 x 18 x 15 cm; 290 Grams
 Volume Capacity 2 litres
 Special Features Water Filter
 Item Weight 290 g
-",steel,unknown
+",metal,other,290g
 "Ariete Retro Style Cordless Dome Kettle, Removable and Washable Filter, 1.7 Litre Capacity, Vintage Design, Green
 Retro design will bring a quirky style to your kitchen
 1.7 Litre capacity is enough to make a round of hot drinks
@@ -5770,7 +5770,7 @@ Colour Green
 Package Dimensions 28 x 23 x 20 cm; 1.35 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.35 kg
-",unknown,green
+",other,green,1.35kg
 "VonShef Electric Stainless Steel Kettle - Large 3000W, 1.7L Capacity Kettle with Fast Boil Time, Removable & Reusable Filter for Fresher Water & Heat Resistant Handle - for up to 7 Standard Cups
 Brand VonShef
 Colour Kettle
@@ -5791,7 +5791,7 @@ Power / Wattage 3000 watts
 Material Stainless Steel
 Special Features Water Filter
 Item Weight 1.2 kg
-",steel,kettle
+",metal,other,1.2kg
 "Kampa Travel 12v Electric Kettle 1L
 Brand Kampa
 Capacity 1 litres
@@ -5804,7 +5804,7 @@ Manufacturer Kampa
 Manufacturer reference ME0529
 Package Dimensions 18.6 x 16.7 x 15 cm; 600 Grams
 ASIN B07QV2M2W3
-",unknown,unknown
+",other,other,600g
 "Wilfa WSDK-2000S Kettle, Silver
 Brand Wilfa
 Colour Silver
@@ -5822,7 +5822,7 @@ Product Dimensions 24.3 x 25.3 x 16.9 cm; 1.84 Kilograms
 Volume Capacity 1.25 litres
 Power / Wattage 2200 watts
 Item Weight 1.84 kg
-",unknown,silver
+",other,silver,1.84kg
 "Nerthus FIH 563 Stainless Steel Electric Kettle
 Brand NERTHUS
 Capacity 1.8 litres
@@ -5834,7 +5834,7 @@ Its temperature can be adjusted and it has a stainless steel design that gives i
 Product Dimensions 18 x 17.5 x 22.5 cm; 800 Grams
 Batteries required No
 Item weight 0.8 Kilograms
-",steel,unknown
+",metal,other,800g
 "Stainless Steel Electric In-car Kettle Travel Thermoses Heating Water Bottle with Intelligent 1200ML 12V/24V (Bronze)
 Brand Bediffer
 Colour Bronze
@@ -5852,7 +5852,7 @@ Manufacturer reference Bediffertfrwcbns2v-01
 Manufacturer Part Number Bediffertfrwcbns2v-01
 Wattage 120 watts
 Item Weight 850 g
-",steel,bronze
+",metal,bronze,850g
 "Cookworks Stainless Steel And Transparent Glass Kettle
 This Cookworks glass kettle is ideal for catch-up-with-friend's cuppas and help-me-wake-up coffees. Its transparent glass design not only looks pretty swanky but means that you can always keep an eye on the water level.
 It also illuminates blue when in use, flashy ay! The cordless design allows you to easily transport it to the hob to boil some veggies and to the sink to refill it.
@@ -5863,7 +5863,7 @@ Colour Transparent
 Volume Capacity 1.7 litres
 Auto Shutoff No
 Special Features Boil Dry Protection, Cordless
-",steel,transparent
+",metal,other,1.7kg
 "SANON Stainless Steel Car Electric Kettle, Coffee Tea Thermos Water Heating Cup.(12V 350ML + 150ML)
 Brand SANON
 Colour Silver
@@ -5880,7 +5880,7 @@ Item model number 1360512/120144AM92-0117
 Manufacturer Part Number 1360512/120144AM92-0117
 Voltage 12 Volts
 Item Weight 365 g
-",steel,silver
+",metal,silver,365g
 "Stainless Steel Electric Kettle, 1.7 L Rapid Boiling, Temperature Display, Auto Shut-Off & Boil-Dry Protection, Double Wall Structure, No Contact with Plastic, Quiet Boil, BPA Free, 1800 W
 Brand MeiShiLang
 Colour White
@@ -5897,7 +5897,7 @@ Volume Capacity 1.7 litres
 Power / Wattage 1800 watts
 Special Features Cordless, Fast Boil Kettle, Auto Shut-Off & Boil-Dry Protection, BPA-Free, No Contact With Plastic, Quiet Boil, 360 degree base
 Item Weight 1.65 kg
-",steel,white
+",metal,white,1.65kg
 "Progress® EK3891PIND Ombre Glass Kettle | 3000 W | 1.5 L | 360° Swivel Base | Anti-limescale/Boil-Dry Sensor | Indigo
 Brand PROGRESS
 Colour Indigo
@@ -5913,7 +5913,7 @@ Colour Indigo
 Product Dimensions 22.3 x 14.2 x 24.3 cm; 1.55 Kilograms
 Volume Capacity 1.7 litres
 Item Weight 1.55 kg
-",glass,indigo
+",glass,indigo,1.55kg
 "Lacor 69590 Electric Kettle 2200 W, BPA Free, 1.30 L, Plastic, Grey
 Brand LACOR
 Colour Grey
@@ -5936,7 +5936,7 @@ Volume Capacity 30 litres
 Power / Wattage 2200 watts
 Material Plastic
 Item Weight 960 g
-",plastic,grey
+",plastic,grey,960g
 "Russell Hobbs 20441 Snowdon Kettle, 3000 W, 1.7 Litre, Brushed Stainless Steel Silver
 Brand Russell Hobbs
 Colour Stainless Steel
@@ -5958,7 +5958,7 @@ Material Stainless Steel, Plastic
 Auto Shutoff No
 Special Features Concealed Heating, Water Filter
 Item Weight 1.05 kg
-",steel,steel
+",metal,other,1.05kg
 "Neo® Rainbow LED Illuminated Electric Glass Copper Kettle 1.7L Cordless (Chrome)
 Brand Neo
 Colour Chrome
@@ -5980,7 +5980,7 @@ Power / Wattage 2200 watts
 Material Stainless_steel plastic
 Special Features This smart appliance with its attractive rainbow glass design will complement any kitchen. This illuminates from Blue to Red colour as the water boils which provides a dazzling light show during the boiling process.
 Item Weight 2 kg
-",steel,chrome
+",metal,other,2.0kg
 "Casdon 648 Morphy Richards Kettle, Multicoloured
 Brand Casdon
 Colour Multicoloured
@@ -6003,7 +6003,7 @@ Color Multicoloured
 Release date 8 Aug. 2012
 Mfg Recommended age 36 months - 7 years
 ASIN B00A2MJW14
-",unknown,multi
+",other,other,215g
 "Dainty Legacy Electric Kettle 2200W 1.8L Light Blue, Green or Pink (Seafoam)
 Brand SQ Professional
 Colour Seafoam
@@ -6025,4 +6025,4 @@ Power / Wattage 2200 watts
 Material Stainless Steel
 Special Features Cordless
 Item Weight 1.48 kg
-",steel,seafoam
+",metal,other,1.48kg

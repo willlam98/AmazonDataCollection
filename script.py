@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 
 urls_list = []
-with open('./Object_html_json/kettle_html.json') as f:
+with open('./object_html_json/bottle_html.json') as f:
     urls = json.load(f)
 
 for url in urls:
@@ -77,20 +77,21 @@ def get_product_info(sess, url):
     # print('\n=====Now printing Technical Details=====\n')
 
     technical_detail = soup.find("table", attrs={"class": "a-keyvalue prodDetTable"})
-    technical_detail_data = technical_detail.find_all("tr")
-    if technical_detail_data is not None:
-        for entry in technical_detail_data:
-            tds = entry.find_all("td")
-            ths = entry.find_all("th")
-            table_data = []
-            table_data_head = []
-            for th in ths:
-                table_data_head.append(th.text.strip())
-            for td in tds:
-                table_data.append(td.text.strip())
-            result = [list(zipped) for zipped in zip(table_data_head, table_data)]
-            for res in result:
-                output = output + ' '.join(res) + '\n'
+    if technical_detail is not None:
+        technical_detail_data = technical_detail.find_all("tr")
+        if technical_detail_data is not None:
+            for entry in technical_detail_data:
+                tds = entry.find_all("td")
+                ths = entry.find_all("th")
+                table_data = []
+                table_data_head = []
+                for th in ths:
+                    table_data_head.append(th.text.strip())
+                for td in tds:
+                    table_data.append(td.text.strip())
+                result = [list(zipped) for zipped in zip(table_data_head, table_data)]
+                for res in result:
+                    output = output + ' '.join(res) + '\n'
 
     # print('***Finished createing the string***')
     return output
@@ -99,25 +100,25 @@ def get_product_info(sess, url):
 
 ###########################################################################
 #  Now writing to xlsx file
-import xlsxwriter
-# 
+# import xlsxwriter
+
 # output1 = get_product_info(sess, urls_list[0])
 # # print(output1)
 # # print(len(urls_list))
-workbook = xlsxwriter.Workbook('./SpreadSheet/WebScrapeKettle.xlsx')
-worksheet = workbook.add_worksheet()
-for i in range(1, len(urls_list) + 1):
-    try:
-        output = get_product_info(sess, urls_list[i-1])
-        worksheet.write('A' + str(i), output)
-        print('*** Successfully writen to A{} cell'.format(str(i)))
-    except:
-        print('Exception in {}', urls_list[i-1])
-workbook.close()
+# workbook = xlsxwriter.Workbook('./SpreadSheet/web_scrape_bottle.xlsx')
+# worksheet = workbook.add_worksheet()
+# for i in range(1, len(urls_list) + 1):
+#     try:
+#         output = get_product_info(sess, urls_list[i-1])
+#         worksheet.write('A' + str(i), output)
+#         print('*** Successfully writen to A{} cell'.format(str(i)))
+#     except:
+#         print('Exception in {}', urls_list[i-1])
+# workbook.close()
 
 ###########################################################################
 
 # Testing individual link
-# testUrl = "https://www.amazon.co.uk/Russell-Hobbs-23910-Adventure-Stainless/dp/B07F8HZVFS/ref=sr_1_1_sspa?dchild=1&keywords=kettle&qid=1610975588&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTDBPRU5ISlAxTEhaJmVuY3J5cHRlZElkPUEwMjY5MTI2RUJGTEM2VTJUN1RRJmVuY3J5cHRlZEFkSWQ9QTA3NDYxNDQyOVFJMzg4QzE3SktYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
-# test_output = get_product_info(sess, testUrl)
-# print(test_output)
+testUrl = "https://www.amazon.co.uk/Minecraft-Bottle/dp/B07PZCZZ7S/ref=sr_1_136?dchild=1&keywords=bottle&qid=1620470167&sr=8-136"
+test_output = get_product_info(sess, testUrl)
+print(test_output)
