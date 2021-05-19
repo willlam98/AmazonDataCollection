@@ -3,6 +3,7 @@ import pprint
 import json
 import time
 import xlsxwriter
+import os
 from cli_parser.CLIParser import CLIParser
 from bs4 import BeautifulSoup
 
@@ -10,18 +11,24 @@ def get_product_image(sess, url, img_number, object):
     res = sess.get(url)
     soup = BeautifulSoup(res.content, "lxml")
     image_url = soup.find(id='imgTagWrapperId')
+
     link = image_url.find_all('img')
+    if not os.path.exists('./images/{}'.format(object)):
+        os.makedirs('./images/{}'.format(object))
     f = open('./images/{}/{}'.format(object, object) + str(img_number) + '.jpg', 'wb')
-    f.write(requests.get(link[0]['data-old-hires']).content)
+    try:
+        f.write(requests.get(link[0]['data-old-hires']).content)
+    except:
+        f.write(requests.get(link[0]['src']).content)
     f.close()
-    print('Successfully download image from {}'.format(img_number))
+    print('Successfully download image from link {}'.format(img_number))
 
 
 def get_product_info(sess, url):
     res = sess.get(url)
     soup = BeautifulSoup(res.content, "lxml")
     output = ''
-    print(soup)
+
     product_title = soup.find(id='productTitle').text.strip()
     output = output + product_title + '\n'
 
@@ -73,13 +80,14 @@ def get_product_info(sess, url):
 ###########################################################################
 #  Now writing to xlsx file
 def write_spreadsheet(sess, urls_list, obj):
-    workbook = xlsxwriter.Workbook('./spreadsheet/web_scrape_.xlsx'.format(obj))
+    workbook = xlsxwriter.Workbook('./spreadsheet/web_scrape_{}.xlsx'.format(obj))
     worksheet = workbook.add_worksheet()
+    worksheet.write('A1', 'Input')
     for i in range(1, len(urls_list) + 1):
         try:
             output = get_product_info(sess, urls_list[i-1])
-            worksheet.write('A' + str(i), output)
-            print('*** Successfully writen to A{} cell'.format(str(i)))
+            worksheet.write('A' + str(i+1), output)
+            print('*** Successfully writen to A{} cell'.format(str(i+1)))
         except:
             print('Exception in {}', urls_list[i-1])
     workbook.close()
@@ -99,17 +107,23 @@ def get_urls_list(json_file):
 
 def main():
     cli_parser = CLIParser()
-    json_file, obj, download_img= cli_parser.parse()
+    json_file, obj, download_img = cli_parser.parse()
 
     sess = requests.Session()
+    '''
+    sess.headers['User-Agent'] needs to be changed sometime as this might get blocked by
+    Amazon if high traffic (Apparently Amazon do not want bot to access their website)
+    Look at https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/ for more details
+    '''
     # sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0'
-    # sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
-    sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36'
+    sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
+    # sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36'
     urls_list = get_urls_list(json_file)
+
 
     if json_file is not None and obj is not None and download_img is None:
         write_spreadsheet(sess, urls_list, obj)
-    if download_img is not None and download_img == 'True':
+    if download_img is not None and download_img == 'true':
         err_log = []
         for i in range(len(urls_list)):
             try:
@@ -122,7 +136,7 @@ def main():
         for err in err_log:
             log_file.write(err)
 
-    ## Testing individual link
+    ## Testing individual link ---> need to uncomment the above
     # testUrl = "https://www.amazon.co.uk/Funny-mug-Humour-Christmas-Present/dp/B01M64Y51R/ref=sxin_9_ac_d_rm?ac_md=1-1-ZnVubnkgbXVn-ac_d_rm&cv_ct_cx=mug&dchild=1&keywords=mug&pd_rd_i=B01M64Y51R&pd_rd_r=6b991db5-8485-4e66-97c8-5d3192c5968f&pd_rd_w=orMxD&pd_rd_wg=6mERK&pf_rd_p=0c799c14-fd2d-4652-a647-3581649b0ff7&pf_rd_r=GZYCD9W91BQ6SNFC5774&psc=1&qid=1608929241&sr=1-2-fe323411-17bb-433b-b2f8-c44f2e1370d4"
     # test_output = get_product_info(sess, testUrl)
     # print(test_output)
