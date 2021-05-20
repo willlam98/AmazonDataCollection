@@ -1,4 +1,4 @@
-﻿Input,Material,Colour,Weight
+﻿Input,Material,Colour,Weight,Volume
 "FRETREE Sports Water Bottle 1L, BPA Free Tritan Non-Toxic Plastic Drinking Bottle, Leakproof Design for Teenager, Adult, Sports, Gym, Fitness, Outdoor, Cycling, School & Office
 Colour Matte Grey
 Material Plastic
@@ -18,7 +18,7 @@ Manufacturer FRETREE
 Manufacturer reference Y4
 Product Dimensions 7.5 x 7.5 x 30 cm; 260 Grams
 ASIN B08HWDFN6L
-",plastic,grey,260g
+",plastic,grey,260g,1000ml
 "Simple Modern 17 Ounce Wave Water Bottle - Stainless Steel Double Wall Vacuum Insulated Reusable Leakproof Pattern: Carrara Marble
 Colour Pattern: Carrara Marble
 Material Stainless Steel
@@ -35,7 +35,7 @@ Number of pieces 1
 Batteries required No
 Included components Wave Bottle
 Item weight 10.6 Ounces
-",metal,other,300g
+",metal,other,300g,482g
 "ADORIC Sports Water Bottle, BPA Free Tritan Non-Toxic Plastic Sport Water Cup, Durable Leak Proof Water Bottle with Filter, Flip Top (Grey -1000ML)
 Colour Grey -1000ml
 Material Plastic
@@ -53,7 +53,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 230 g
-",plastic,grey,230g
+",plastic,grey,230g,1000ml
 "Science in Sport Drinks Bottle, 800 ml, Yellow
 Colour 800 Ml Sports Bottle Yellow
 Material Other
@@ -66,7 +66,7 @@ Volume 27 Fluid Ounces
 Units 1 count
 Brand Science in Sport
 Format Powder
-",other,yellow,0.2kg
+",other,yellow,0.2kg,800ml;27oz
 "Love-KANKEI Water Bottle Vacuum Insulated Bottle 500ml/24hrs Cold/12hrs Hot - Stainless Steel Double Walled BPA Free - Travel Flask
 Colour Black
 Material Stainless Steel
@@ -84,7 +84,7 @@ Package Dimensions 24.6 x 7.6 x 7.4 cm; 340 Grams
 Capacity 500 Millilitres
 Material Stainless Steel
 Item Weight 340 g
-",metal,black,340g
+",metal,black,340g,500ml
 "Sistema 802-0117 Hydrate Twist 'n' Sip Water Bottle, 460 ml - Pink
 Colour Pink
 Material Plastic
@@ -102,7 +102,7 @@ Product Dimensions 18.59 x 6.2 x 5.59 cm; 58.97 Grams
 Capacity 425 Grams
 Material Plastic
 Item Weight 59 g
-",plastic,pink,59g
+",plastic,pink,59g,460ml
 "HYDRATE Motivational 900ml Straw Water Bottle – with Time Markings, BPA-Free
 Colour Pink
 Material Plastic
@@ -122,7 +122,7 @@ Brand HYDRATE
 Manufacturer HYDRATE
 Package Dimensions 26 x 8 x 6 cm; 120 Grams
 ASIN B07D8FRDZM
-",plastic,pink,120g
+",plastic,pink,120g,900ml
 "Mango Water Bottle With Straw - 900ml Motivational Time Markings - BPA Free Sports Bottles With Flip Nozzle And Leakproof Cap… (Grey)
 Colour Grey
 Material Plastic
@@ -142,7 +142,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 200 g
-",plastic,grey,200g
+",plastic,grey,200g,900ml
 "FitBeast 2.2 Litre Water Bottle, BPA Free Large Gym Water Bottle- with Wide Mouth, Flip Cap, Handle Leakproof, Reusable, Sports Gallon Water Jug Ideal for Gym, Training, Hiking, Travel, Outdoor Sport, Home & Office- Men & Women
 Colour Black
 Material Stainless Steel, Plastic
@@ -164,7 +164,7 @@ Brand FitBeast
 Manufacturer FitBeast
 Product Dimensions 14 x 14 x 28 cm; 380 Grams
 ASIN B08JXKYC6V
-",plastic,black,0.39kg
+",plastic,black,0.39kg,2.2L
 "Single Wall Stainless Steel Water Bottle | 1 Litre Water Bottle | Eco Friendly Reusable Bottle | Campfire Proof | Plastic Free and Leakproof Metal Water Bottle | 1l Eco Water Bottle | Bambaw
 Material Alloy Steel
 Capacity 1000 Millilitres
@@ -179,7 +179,7 @@ Package Dimensions 26.16 x 8.89 x 8.64 cm; 1 Kilograms
 Capacity 1000 Millilitres
 Material Alloy Steel
 Item Weight 1 kg
-",metal,other,1kg
+",metal,other,1kg,1L
 "GHONLZIN Water Bottle, 1L Fitness Sports Water Bottle with Time Marker Tracker for Measuring Daily Water Intake 100% BPA-Free Dishwasher Safe for Athletic,Excerise
 Colour 1l-2
 Material Plastic
@@ -199,7 +199,7 @@ Manufacturer GHONLZIN
 Manufacturer reference 11
 Package Dimensions 30.3 x 12.8 x 9.1 cm; 196 Grams
 ASIN B087X17M7X
-",plastic,other,196g
+",plastic,other,196g,1000ml
 "Joseph Joseph Dot, Hydration-Tracking Water Bottle, 600 ml-Grey
 Colour Grey
 Brand Joseph Joseph
@@ -218,7 +218,7 @@ Product Dimensions 7.01 x 7.01 x 23.52 cm; 90.72 Grams
 Capacity 567 Grams
 Material Plastic
 Item Weight 90.7 g
-",plastic,grey,90g
+",plastic,grey,90g,600ml
 "Fancytimes Stainless Steel Water Bottle Vacuum Insulated Water Bottles Reusable Double Walled Drinks Bottle 500ml/750ml/1000ml - BPA Free,Leak-Proof Sports Flask Keeps Cold for 24 Hrs, Hot for 12 Hrs
 Colour Champagne Gold
 Brand Fancytimes
@@ -239,7 +239,7 @@ Brand Fancytimes
 Manufacturer Fancytimes
 Package Dimensions 23.4 x 7.7 x 7.7 cm; 300 Grams
 ASIN B08JCXBMS9
-",metal,gold,300g
+",metal,gold,300g,1000ml
 "Ion8 Leak Proof Slim Water Bottle
 Colour Grey
 Material BPA free, phthalate free, non-toxic TRITAN
@@ -267,7 +267,7 @@ Manufacturer ion8
 Item model number I8500FGRY
 Product Dimensions 7 x 6.5 x 23 cm; 141 Grams
 ASIN B01L76THX6
-",other,grey,141g
+",other,grey,141g,500ml
 "Taspire 1 Litre Time Marked Water Bottle with Straw, Leakproof BPA-free Tritan Water Bottle with Time Markings, Motivational Water Bottle with Times to Drink (Grey)
 Material Tritan
 Capacity 907 Grams
@@ -283,7 +283,7 @@ Material Tritan
 Batteries included? No
 Batteries Required? No
 Item Weight 280 g
-",other,grey,280g
+",other,grey,280g,1L
 "Sistema 795 Water Bottle | Twist 'n' Sip Sports Water Bottle | 620 ml | BPA-Free | Assorted Colours
 Colour Assorted Colours
 Material Plastic
@@ -301,7 +301,7 @@ Product Dimensions 6.7 x 22.5 x 6.7 cm; 60 Grams
 Capacity 620 Millilitres
 Material Plastic
 Item Weight 60 g
-",plastic,other,60g
+",plastic,other,60g,620ml
 "Sistema Hydrate Tritan Active Bottle-800 ml, Black, 800 ml
 Colour Black
 Material Plastic
@@ -319,7 +319,7 @@ Product Dimensions 9.5 x 7.9 x 23.5 cm; 131.54 Grams
 Capacity 800 Millilitres
 Material Plastic
 Item Weight 132 g
-",plastic,black,132g
+",plastic,black,132g,800ml
 "MEITAGIE 1000ml Sports Water Bottle with Motivational Time Marker & Straw, Leak-proof Drink Bottle with BPA Free Non-Toxic Tritan Material; 1-Click Open for Sports/Cycling/Camping
 Colour Blue Gradual Pink
 Material Plastic
@@ -342,7 +342,7 @@ Brand MEITAGIE
 Manufacturer MEITAGIE
 Product Dimensions 7 x 7 x 28 cm; 205 Grams
 ASIN B08PTSW8M7
-",plastic,blue,205g
+",plastic,blue,205g,1000ml
 "OMORC Stainless Steel Water Bottle 1000ml/600ml【5 Layers Powerful Insulated Vacuum Flask】 Keeps Hot to 14Hrs,Cold to 28+Hrs,BPA-Free Reusable Drink Flask,Portable & Leak-Proof with Neoprene Sleeve
 Colour Black
 Material Stainless Steel
@@ -367,7 +367,7 @@ Manufacturer OMORC
 Item model number CYMEOD225UK
 Product Dimensions 30.5 x 7.5 x 7.5 cm; 480 Grams
 ASIN B07MFVMPM1
-",metal,black,600g
+",metal,black,600g,600ml
 "Polar Gear Aqua Grip Bottle – BPA-Free Reusable Sports Water Bottle & Foldable Straw – Drink at the Gym, in the Car & Outdoors – Clear Tritan Plastic & Dishwasher Safe – Black, 650ml
 Colour Black
 Material Tritan
@@ -387,7 +387,7 @@ Capacity 650 Millilitres
 Volume Capacity 650 Millilitres
 Material Tritan
 Item Weight 100 g
-",other,black,100g
+",other,black,100g,650ml
 "king do way Insulated Stainless Steel Water Vacuum Bottle Double-Walled for Outdoor Sports Hiking Running, 500ml/17 oz (Rose Gold)
 Colour Rose Gold
 Material Stainless Steel
@@ -409,7 +409,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 68 g
-",metal,gold,68g
+",metal,gold,68g,500ml
 "Chilly's Bottles | Leak-Proof, No Sweating | BPA-Free Stainless Steel | Reusable Water Bottle | Double Walled Vacuum Insulated | Keeps Cold for 24+ Hrs, Hot for 12 Hrs
 Colour All Black
 Brand Chilly's
@@ -435,7 +435,7 @@ Manufacturer Chilly's
 Item model number B260MOABL
 Product Dimensions 6.4 x 6.4 x 20.6 cm; 300 Grams
 ASIN B07N921ZGS
-",metal,black,300g
+",metal,black,300g,260ml
 "Water Bottle, 1.5 Litre Water Bottle with Straw and Handle BPA-Free, Daily Water Intake Bottle with Time Markings Tracker to Remind the Drinking Time, Ideal for Gym Office Hydration
 Colour White
 Material Plastic
@@ -456,7 +456,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 250 g
-",plastic,white,250g
+",plastic,white,250g,1.5L
 "ETDW Gallon BPA Free Water Bottle with Time Marker and Straw, 3.78/2.2 Litre Big Water Jug with Handle Leakproof Daily Water Intake Bottle Pop Up Open
 Colour Black
 Material PETG(100% BPA&DEHP FREE )
@@ -474,7 +474,7 @@ Brand ETDW
 Manufacturer ETDW
 Package Dimensions 31.4 x 17.4 x 14.4 cm; 500 Grams
 ASIN B087QFGC5V
-",plastic,black,500g
+",plastic,black,500g,2.2L
 "Super Sparrow Sports Water Bottle - 350ml & 500ml & 750ml & 1000ml - Non-Toxic BPA Free & Eco-Friendly Tritan Co-Polyester Plastic - For Running, Gym, Yoga, Outdoors and Camping
 Colour Black
 Material Non-Toxic BPA Free Tritan
@@ -499,7 +499,7 @@ Manufacturer Super Sparrow
 Item model number X-Black-12oz
 Product Dimensions 6.8 x 6.8 x 17 cm; 280 Grams
 ASIN B07BLP5LCV
-",other,black,other
+",other,black,other,350ml
 "Ion8 Leak Proof Kids' Water Bottle, BPA Free
 Colour Blue
 Material BPA free, phthalate free, non-toxic TRITAN
@@ -527,7 +527,7 @@ Manufacturer ion8
 Item model number B01N9HLFGA
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B01N9HLFGA
-",plastic,blue,109g
+",plastic,blue,109g,350ml
 "Gym Water Bottle Jug 2.2 Litre - BPA Free Extra Large Gallon Flask - Simple Drinking with Carrying Handle Strap - Ideal to Hydrate During Exercise Workouts Sports Fitness Hiking (Clear Pink)
 Colour Clear Pink
 Material Plastic
@@ -545,7 +545,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 310 g
-",plastic,pink,310g
+",plastic,pink,310g,2200ml
 "Be-Active Kids Water Bottle with Straw | BPA Free | flip nozzle | Childs water bottle | 450ml | Kid School girls boys sports bottles
 Colour Yellow
 Material Plastic
@@ -565,7 +565,7 @@ Manufacturer Be-Active
 Manufacturer reference shoulder-handbags
 Package Dimensions 23.8 x 17.7 x 8.5 cm; 135 Grams
 ASIN B08QG11X7H
-",plastic,yellow,135g
+",plastic,yellow,135g,450ml
 "Opard 2 Litre Motivational Water Bottle with Time Markings & Straw Half Gallon Water Bottle with 2 Lids (Chug and Straw) Leakproof BPA Free Reusable 2L Large Water Jug for Sports and Gym
 Colour Orange & Green Gradient
 Brand Opard
@@ -586,7 +586,7 @@ Manufacturer Shenzhen City LeTu Technology Co., Ltd
 Manufacturer reference WB39-OR
 Product Dimensions 15 x 15 x 30 cm; 292 Grams
 ASIN B08D99FCJZ
-",plastic,orange,292g
+",plastic,orange,292g,2000ml
 "OMORC Fruit Infuser Water Bottle, 1L Leakproof Sport Water Bottle BPA Free Large Capacity with Cleaning Brush & Fruit Recipe for Outdoor Hiking Camping Climbing Traveling School Gift Office and Home
 Colour Black
 Material BPA-Free ABS Plastic
@@ -605,7 +605,7 @@ Capacity 1 litres
 Material BPA-Free ABS Plastic
 Special Features Fruit infuser
 Item Weight 209 g
-",plastic,black,209g
+",plastic,black,209g,1L
 "Sistema Water Bottle, Assorted Color, 475 ml
 Colour Assorted Color
 Material Plastic
@@ -623,7 +623,7 @@ Product Dimensions 6 x 6 x 19 cm; 50 Grams
 Capacity 475 Millilitres
 Material Plastic
 Item Weight 50 g
-",plastic,other,50g
+",plastic,other,50g,475ml
 "SYOSIN Sports Water Bottle with Straw, 1000ml & 2000ml Large Water Bottles with Marker, Leak Proof & No Sweat Gym Bottle, Tritan BPA Free Reusable Jugs with Handle For Gym, Outdoors and Camping
 Colour Pink
 Material Plastic
@@ -640,7 +640,7 @@ Colour Pink
 Material Plastic
 Batteries Required? No
 Item Weight 355 g
-",plastic,pink,355g
+",plastic,pink,355g,1L
 "Taspire 1 Litre Time Marked Water Bottle with Straw, Leakproof BPA-free Tritan Water Bottle with Time Markings, Motivational Water Bottle with Times to Drink (Rose Gold)
 【FUNCTIONAL DESIGN】The flip top lid is designed with a secure lock, making it dust and leak proof. Simply open with one hand by clicking the button, one removable straw allows you to enjoy spill-proof sipping or fast water flow, with a portable strap and carry loop handle it is easy for clip-on and on-the-go hydration, Perfect for gym, workout, office and any outdoor recreations.
 【BPA & TOXIN FREE】Made of eco-friendly food grade Tritan material, water bottle is 100% BPA free, non-toxic, odour free, reusable, durable, leakproof, safe and healthy to use.
@@ -653,7 +653,7 @@ Material Tritan
 Batteries included? No
 Batteries Required? No
 Item Weight 280 g
-",other,gold,280g
+",other,gold,280g,1L
 "Sundried BPA Free Leakproof Outdoor, Sports, Fitness & Gym Water Bottle 750ml
 Colour Transparent
 Material BPA Free Tritan
@@ -671,7 +671,7 @@ Product Dimensions 7.5 x 7.5 x 26 cm; 160 Grams
 Capacity 737 Grams
 Material BPA Free Tritan
 Item Weight 160 g
-",plastic,other,160g
+",plastic,other,160g,750ml
 "PRIMA CUMCE 2.2L Water Bottle with Snap-Fasten Cap - Leakproof Reusable Water Bottle with Handle & Strong Nylon Carry Strap - Sports Water Bottle
 EASY TO CARRY - The non-slip built-in plastic handle to the side and the extra-strong nylon strap on the top make carrying this leakproof water bottle so much easier!
 2.2 LITRE CAPACITY - Our BPA free water bottle holds plenty enough water to meet your required and desired water intake regardless of the activity.
@@ -684,7 +684,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 180 g
-",plastic,other,180g
+",plastic,other,180g,2.2L
 "RYACO Borosilicate Glass Water Bottle 550ml BPA-Free Leak Proof Ideal for School Home Office Travel Sport Yoga Gym Hot Cold Drinks with Portable Neoprene Carrying Sleeve and Sponge Brush
 Colour Black
 Material Stainless Steel, Glass
@@ -708,7 +708,7 @@ Manufacturer RYACO
 Item model number 96WB-GS18-2BR
 Package Dimensions 24.2 x 9.8 x 7.4 cm; 410 Grams
 ASIN B06ZXSWDZG
-",metal,black,410g
+",metal,black,410g,550ml
 "Amazon Brand - Umi Water Bottle, 750ml/ 500ml Vacuum Insulated Sport Bottle, 12 Hours Hot/24 Hours Cold, Double Walled 18/8 Stainless Steel Water Flask for Kids, Outdoor, School, Run
 Colour Stainless Steel
 Material Stainless Steel
@@ -726,7 +726,7 @@ Product Dimensions 8.42 x 8.42 x 31.7 cm; 500 Grams
 Capacity 750 Millilitres
 Material Stainless Steel
 Item Weight 500 g
-",metal,other,500g
+",metal,other,500g,750ml
 "Unicorn Water Bottle for Kids - Collapsible Water Bottle - Unicorn Gift for Girls - BPA Free, Leakproof Rainbow Water Bottle with Flip Spout - 550 ml (Rainbow)
 Colour Rainbow
 Material Silicone
@@ -740,7 +740,7 @@ THE PERFECT GIFT - Our children's drinking bottle comes in a charming and eye-ca
 Product Dimensions 8.7 x 8.7 x 10 cm; 196 Grams
 Is mould resistant BPA Free
 Batteries required No
-",plastic,other,196g
+",plastic,other,196g,550ml
 "HoneyHolly Stainless Steel Water Bottle 350/500/600/750ml, Double Walled Vacuum Insulated, Bpa Free, 12 Hours Hot/24 Hours Cold, Reusable Leakproof Water Bottles for Kids, Gym,Yoga, Cycling, Outdoors
 Colour Deep Purple & Rose Red
 Brand HoneyHolly
@@ -761,7 +761,7 @@ Manufacturer HoneyHolly
 Manufacturer reference HH-350ML-PKLB 2685+213
 Package Dimensions 23 x 7.8 x 7.6 cm; 300 Grams
 ASIN B07Z7NVQ4T
-",metal,purple,300g
+",metal,purple,300g,350ml;12oz
 "Polar Gear Aqua Style Bottle – Pattern Water Bottle & Straw – Leakproof & Dishwasher Safe – Sports, Eco-Friendly, Indoors or Outdoors – Lightweight Tritan & BPA Free – 700ml
 Material Tritan
 Capacity 700 Millilitres
@@ -780,7 +780,7 @@ Manufacturer DNC UK Ltd
 Manufacturer reference shoulder-handbags
 Package Dimensions 23.5 x 8.3 x 6.8 cm; 110 Grams
 ASIN B08M6JS6LR
-",plastic,other,110g
+",plastic,other,110g,700ml
 "Hydrate 2.One BPA Free Water Bottle with Straw & Motivational Time Markers | Leakproof Sports Bottle for Camping Workouts Gym & Outdoor Activity | 750ml
 Colour Pink
 Material Plastic
@@ -798,7 +798,7 @@ Brand HYDRATE 2.ONE
 Manufacturer Hydrate 2.One
 Package Dimensions 24 x 10 x 10 cm; 210 Grams
 ASIN B08K7XXDDG
-",plastic,pink,210g
+",plastic,pink,210g,750ml
 "HYDRATE Tracker 900ml Straw Water Bottle - with Motivational Time Markings, BPA-Free
 Colour Purple
 Material Plastic
@@ -817,7 +817,7 @@ Brand HYDRATE
 Manufacturer HYDRATE
 Package Dimensions 28.4 x 9.8 x 8.2 cm; 220 Grams
 ASIN B01M98LU7I
-",plastic,purple,220g
+",plastic,purple,220g,900ml
 "Gritin Stainless Steel Water Bottle, Leak-Proof Double Walled Vacuum Insulated Drink Bottle-BPA Free Vacuum Flask with Cleaning Brush, 24 Hrs Cold/12 Hrs Hot, Suitable for Sports/Work/Travel-500ml
 Material Stainless Steel
 Capacity 500 Millilitres
@@ -833,7 +833,7 @@ Material Stainless Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 391 g
-",metal,other,391g
+",metal,other,391g,500ml
 "Newdora Kids Water Bottle, BPA Free Drinking Flaks with Safe Straw, Leakproof Cap and Carrying Loop, Ideal for School, Travel, Sports, Boys and Girls
 【High-quality Material】The water bottle is made of BPA free material, eco-friendly and safe for drinking without obvious plastic smell. Suitable for both cold and warm drinks.
 【Convenient Lid Design】The soft flex silicone spout that pops open with one push of a button. Your kids can easily sip at any time without splashing and it is also good for kids’ teeth.
@@ -846,7 +846,7 @@ Brand Newdora
 Manufacturer Newdora
 Package Dimensions 21.1 x 9.2 x 9 cm; 250 Grams
 ASIN B08X44QK7S
-",plastic,other,250g
+",plastic,other,250g,other
 "Elyxir Water Bottle With Straw & Cleaning Brush| 900 ml Sports Water Bottle With Times & Volume Markings| BPA free Motivational Water bottle for Hiking, Fitness & Gym Workouts
 Colour Orange
 Material Plastic
@@ -863,7 +863,7 @@ Brand Elyxir
 Manufacturer Elyxir
 Package Dimensions 29.1 x 8.5 x 8.5 cm; 200 Grams
 ASIN B08D9W4F32
-",plastic,orange,200g
+",plastic,orange,200g,900ml
 "PROIRON Water Bottle for Bike, Running, Cycling, Gym, Leak Proof Sports Water Bottles 500ml/1l with Flip Top Lid, Filter & Protein Shaker Included
 Colour #1 Grey-500ml
 Material Non-Toxic BPA Free Tritan
@@ -884,7 +884,7 @@ Manufacturer Shanxi Regent works Inc.
 Manufacturer reference renatofavvshopp
 Product Dimensions 6.6 x 6.6 x 23 cm; 210 Grams
 ASIN B07WZCHSFB
-",plastic,grey,210g
+",plastic,grey,210g,500ml
 "Water Bottle with Straw BPA-Free 500ml&750ml Sports Water Bottle Leakproof Tritan Reusable Drinking Bottle for Gym, Fitness, Yoga, Running, School and Camping (Nevy Blue, 750ml)
 Colour Nevy Blue
 Material BPA Free Tritan
@@ -905,7 +905,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 200 g
-",plastic,blue,200g
+",plastic,blue,200g,750ml
 "Opard Sports Water Bottle, 600ml BPA Free Non-Toxic Tritan Plastic Drinking Bottle with Leak Proof Flip Top Lid for Gym Yoga Fitness Camping
 Colour Black
 Material Plastic
@@ -924,7 +924,7 @@ Manufacturer Opard
 Manufacturer reference WB12-R
 Package Dimensions 25.4 x 8.3 x 8.2 cm; 190 Grams
 ASIN B07PZRZKMH
-",plastic,black,190g
+",plastic,black,190g,600ml
 "VENNERLI Water Bottle with Straw and Time Marking, Sports Water Bottle BPA Free Leak Proof Dishwasher Safe Reusable Tritan Drinks Bottle Durable Motivational for Adults Outdoor 800ml
 Colour Black
 Material Plastic
@@ -946,7 +946,7 @@ Manufacturer BOTTLED JOY
 Item model number XGB001_BK
 Package Dimensions 29.69 x 14.2 x 10.39 cm; 200 Grams
 ASIN B07G842L75
-",plastic,black,200g
+",plastic,black,200g,800ml
 "Sports Water Bottle, LEHOM 1 Litre Motivational Water Bottle with Time Markings Tritan Plastic Drinking Bottle with Filter Cleaning Brush BPA Free, Purple/Green/Yellow Gradient
 Colour Purple/Green/Yellow Gradient
 Material Plastic
@@ -963,7 +963,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 270 g
-",plastic,purple,270g
+",plastic,purple,270g,1L
 "BuildLife Motivational Water Bottle 2.2L - Large Capacity Water Jug with Straw & Time Marker & BPA Free Ensure Enough Water-Drinking Throughout The Day
 Colour Light Blue
 Material Plastic
@@ -983,7 +983,7 @@ Brand BuildLife
 Manufacturer BuildLife
 Package Dimensions 29.2 x 15 x 14.3 cm; 270 Grams
 ASIN B08VRYZTSS
-",plastic,blue,270g
+",plastic,blue,270g,2L
 "PANKIO 2.2 Litre Large Water Bottle | Sport Big Water Bottle | Safe & BPA Free | Durable & Extra Strong Gym Water Bottle | Large Half Gallon Water Jug, Ideal for Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office
 Colour Black
 Material Plastic
@@ -1001,7 +1001,7 @@ Brand PANKIO
 Manufacturer PANKIO
 Package Dimensions 26.7 x 17.3 x 17.1 cm; 200 Grams
 ASIN B07SG4QGH9
-",plastic,black,200g
+",plastic,black,200g,2000ml
 "IWILCS Girls Water Bottle Leakproof BPA Free Children Drinking Bottle Kids Water Bottles Collapsible Drinks Bottles 500ml for School Travel Sports Camping
 Safe Material: Our childrens water bottle is BPA-free food grade silicone, which is the perfect gift for girls. Cold and heat resistant, can be used in the range of -40Â°-100Â°.
 With Hiking Buckle: The bottle is light and easy to fold. Our lightweight cup has a metal hiking buckle for easy carrying.
@@ -1013,7 +1013,7 @@ Model Number S-SH-W00819TN
 Product Dimensions 7.5 x 23 x 22 cm; 170 Grams
 Material Plastic
 Item Weight 170 g
-",other,other,170g
+",other,other,170g,500ml
 "Neon Kactus Glass Water Bottles 1L (Super Sonic)
 Colour Super Sonic
 Material Glass
@@ -1030,7 +1030,7 @@ Material Glass
 Batteries included? No
 Batteries Required? No
 Item Weight 592 g
-",glass,other,592g
+",glass,other,592g,1L
 "ZOUNICH Sports Water Bottle Kids with Times to Drink Leakproof 1.2L / 1L / 700ml / 500ml 1Litre Drink Bottles BPA Free Motivational Adults, Gym, School, Running, Travel, Girls, Boys Filter Reusable
 Colour Black
 Material BPA Free Tritan
@@ -1049,7 +1049,7 @@ Brand ZOUNICH
 Manufacturer ZOUNICH
 Package Dimensions 23 x 7.4 x 7.2 cm; 160 Grams
 ASIN B07GXRYFR3
-",plastic,black,160g
+",plastic,black,160g,500ml
 "WOODFIB Sport Water Bottle with Spray Mist for Outdoor Hydration, 1L Motivational Water Bottle with Time Marker, Flip Straw & BPA Free Tritan Plastic, Ideal for Running, Fitness and Cycling
 Colour Yellow Blue Purple
 Material Plastic
@@ -1066,7 +1066,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 270 g
-",plastic,blue,270g
+",plastic,blue,270g,1000ml
 "Sistema Traverse Tritan Bottle, Assorted Colours, 850 ml
 Colour Assorted
 Material Tritan Plastic
@@ -1084,7 +1084,7 @@ Product Dimensions 8 x 7.5 x 25.3 cm; 100 Grams
 Capacity 850 Millilitres
 Material Tritan Plastic
 Item Weight 100 g
-",plastic,other,100g
+",plastic,other,100g,850ml
 "Mango 2.2 Litre Water Bottle With Straw and Time markings - BPA Free Xl Jug - Extra Large Durable Sports Bottles With Flip Cap - Ideal For Gym
 Colour Peach
 Material Plastic
@@ -1104,7 +1104,7 @@ Voltage 2 Volts
 Batteries included? No
 Batteries Required? No
 Item Weight 380 g
-",plastic,other,380g
+",plastic,other,380g,2.2L
 "Foxberry 300ml Children's Small Reusable Water Bottles - 4 Pack - Hands Free Lid - Spill Proof - Leakproof Spout - BPA Free - Dishwasher Safe - Blank For DIY Decoration - Sports - School - Clubs
 Colour Multi
 Material Plastic
@@ -1123,7 +1123,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 180 g
-",plastic,other,180g
+",plastic,other,180g,300ml
 "MYFOREST 2.2Litre Motivating Water Bottle with Straw & Leakproof Flip Top Lid, 2200ml Tritan Water Bottle with Time Marker, 2.2L Water Storage Container for any fitness goals CLEAR BLACK
 Colour Clear Black
 Material 100% BPA Free Tritan
@@ -1139,7 +1139,7 @@ Colour Clear Black
 Material 100% BPA Free Tritan
 Batteries Required? No
 Item Weight 230 g
-",plastic,black,230g
+",plastic,black,230g,2.2L
 "Stainless Steel Water Bottle + Straw (3 Lids) - Leak-Proof & BPA-free | Vacuum Insulated ACTIVE FLASK Drinking Bottles - 24h Cold / 12h Hot, 1l/500ml Outdoor Thermos Mug, Tea Coffee, Sport Camping Gym
 Colour Aquatic Cyan | 410ml
 Material Stainless Steel
@@ -1157,7 +1157,7 @@ Brand BeMaxx
 Manufacturer BeMaxx
 Package Dimensions 29 x 10.2 x 10.2 cm; 420 Grams
 ASIN B0828YTGYL
-",metal,other,420g
+",metal,other,420g,410ml
 "Sahara Sailor Water Bottle,32oz/1000ml Sports Water Bottle with Motivational Time Marker,Non Toxic Plastic,Leak Proof Drinks Bottle BPA Free,for Sports,Cycling,Camping (Bubble Gum)
 Colour Bubble Gum
 Capacity 1000 Millilitres
@@ -1172,7 +1172,7 @@ Package Dimensions 29.11 x 8.71 x 8.71 cm; 272 Grams
 Colour Bubble Gum
 Batteries Required? No
 Item Weight 272 g
-",plastic,other,272g
+",plastic,other,272g,1000ml
 "HZLIEIY 2 Litre Water Bottle with Straw & Time Marker, Large Sports Water Bottles, Bpa Free Plastic Reusable Gym Water Jug with Handle, Leakproof Drinking Bottle with Lock Cover, Clear
 Colour Pink
 Material Plastic
@@ -1193,7 +1193,7 @@ Brand HZLIEIY
 Manufacturer HZLIEIY
 Package Dimensions 30 x 10 x 10 cm; 270 Grams
 ASIN B08PPFQZPG
-",plastic,pink,270g
+",plastic,pink,270g,2L
 "Ion8 Leak Proof 1 Litre Water Bottle, BPA Free
 Colour Blue
 Material BPA free, phthalate free, non-toxic TRITAN
@@ -1225,7 +1225,7 @@ Manufacturer ion8
 Item model number B01NCLMNNK
 Product Dimensions 8 x 7.5 x 28 cm; 90.72 Grams
 ASIN B01NCLMNNK
-",plastic,blue,91g
+",plastic,blue,91g,1000ml
 "Opard 1 Litre Motivational Water Bottle with Time Markings to Drink, Reusable Plastic Bottle with BPA Free Tritan for Gym and Sports
 Colour Dark Green
 Material Plastic
@@ -1244,7 +1244,7 @@ Brand Opard
 Manufacturer Shenzhen City LeTu Technology Co., Ltd
 Package Dimensions 28.8 x 8.2 x 8.1 cm; 180 Grams
 ASIN B08C7FL8P9
-",plastic,green,180g
+",plastic,green,180g,1000ml
 "Bearactive 2 x Running Bottle Lightweight 500 ml Handheld Sports Water Bottles with Valve Sprout - BPA Free Plastic and Leak Proof - Runners Hand Grip Bottle for Jogging, Hiking, Gym - Black & Pink
 Colour Black, Pink, Clear
 Material Plastic
@@ -1264,7 +1264,7 @@ Brand Bearactive
 Manufacturer Bearactive
 Product Dimensions 7 x 7.5 x 20.2 cm; 128 Grams
 ASIN B08DZLB9PM
-",plastic,black,128g
+",plastic,black,128g,500ml
 "Teknifit Running Grip Water Bottles for Jogging, Hiking, Gym - Pair (one for each hand) - Reusable Non-Toxic BPA Free Plastic - Leak Proof Design and Dishwasher Safe (Black 2x 350ml - 700ml Total)
 Colour Black
 Material Plastic
@@ -1284,7 +1284,7 @@ Material Plastic
 Number Of Pieces 2
 Batteries Required? No
 Item Weight 140 g
-",plastic,black,140g
+",plastic,black,140g,700ml
 "ZOMAKE Gallon Water Bottle(3.78L/2.2L) with Time Marker & Straw, Motivational Water Jug BPA Free Leakproof Large Water Bottles for Fitness, Gym and Outdoor Sports
 Colour Green/Red Gradient
 Material Plastic
@@ -1305,7 +1305,7 @@ Manufacturer ZOMAKE
 Manufacturer reference ZOMAKE TM0150B
 Product Dimensions 32.51 x 14.48 x 14.48 cm; 400 Grams
 ASIN B08DKYKDZV
-",plastic,green,400g
+",plastic,green,400g,other
 "Navaris Stainless Steel Water Bottle - 2.2 Litre Large Metal Sports, Camping, Gym Canteen for Drinking Water, Liquid, Drinks
 Colour Blue
 Material Stainless Steel
@@ -1324,7 +1324,7 @@ Manufacturer KW-Commerce
 Item model number 51084.04_m001294
 Product Dimensions 27.2 x 13.5 x 13 cm; 460 Grams
 ASIN B08D3L1M36
-",metal,blue,460g
+",metal,blue,460g,2.2L
 "Azebo 1000ml/750ml/500ml Large Water Bottle with Time Marker & Removable Strainer Tritan BPA Free Non-Toxic 32/26/16oz for Fitness Sports Outdoors and Office-E3UK21ESH002-Gray-750ML
 Colour 2.gray
 Material Tritan
@@ -1344,7 +1344,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 220 g
-",plastic,grey,220g
+",plastic,grey,220g,750ml
 "BUZIO Vacuum Insulated Stainless Steel Water Bottle (Cold for 48 Hrs/Hot for 24 Hrs), 1000ml 1800ml Double Walled Wide Mouth Sports Drink Flask with BPA Free Straw Lid and Flex Cap
 Colour Black 32oz
 Material Stainless Steel
@@ -1363,7 +1363,7 @@ Brand BUZIO
 Manufacturer BUZIO
 Package Dimensions 30.3 x 10.3 x 10.1 cm; 600 Grams
 ASIN B082YB7BPC
-",metal,black,600g
+",metal,black,600g,940ml
 "Nike TR Hypercharger Straw Bottle 24 OZ Bottle Fitness and Exercise, Adult Unisex, Multicoloured (BluGreWhi), One Size
 Colour Blue - Black - White
 Material Compound
@@ -1374,7 +1374,7 @@ Unisex Adult Fitness and Exercise Bottle
 Nike Tr Hypercharge Straw Bottle 24Oz (Ac9711-430)
 Package Dimensions 26.9 x 8.4 x 7.5 cm; 180 Grams
 Batteries required No
-",other,blue,180g
+",other,blue,180g,24oz
 "Water Bottle 1.5L - ADORIC Leak Proof Drinks Bottle with Filter, BPA Free Tritan Non-Toxic Plastic Sport Water Cup, Flip Top, for Work, Gym, Travel, Sports (Black-1500ml)
 Colour Black-1500ml
 Material Plastic
@@ -1391,7 +1391,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 290 g
-",plastic,black,290g
+",plastic,black,290g,1500ml
 "FORWEWAY 2.2l Water Bottle with Straw Gym Jug BPA-Free Leak Proof Reusable Large Durable 2.2 Litre Half Gallon Water Bottle with Handle Portable for Sports Cycling Running Work
 Colour Clear
 Material Plastic
@@ -1410,7 +1410,7 @@ Brand FORWEWAY
 Manufacturer FORWEWAY
 Product Dimensions 16 x 14.4 x 28.5 cm; 260 Grams
 ASIN B088BKV735
-",plastic,other,290g
+",plastic,other,290g,2.2L
 "nuoshen Boys Water Bottle Camouflage Color Personalised Collapsible Water Bottle For Kids Water Bottle
 ❤SAFTY MATERIAL:Our kids water bottle is BPA FREE & LFGB，Food grade silicone and it is the perfect gifts for boys
 ❤ COLLAPSIBLE DESIGN: This water bottle is its lightweight and collapsible design that makes it super easy to carry around
@@ -1423,7 +1423,7 @@ Brand Nuoshen
 Manufacturer nuoshen
 Package Dimensions 14.3 x 8 x 7.9 cm; 174 Grams
 ASIN B08M9BFNTW
-",other,blue,174g
+",other,blue,174g,other
 "32oz Leakproof Water Bottle with Time Markings & Straw lid to Ensure You Drink Enough Water Throughout The Day for Fitness and Outdoor Enthusiasts, BPA Free, With straw Brush
 Colour Ombre Green Blue
 Material Tritan
@@ -1437,7 +1437,7 @@ Brand XACIOA
 Package Dimensions 28.5 x 8.3 x 7.8 cm; 180 Grams
 Is mould resistant BPA Free
 Batteries required No
-",plastic,green,180g
+",plastic,green,180g,32oz
 "NEW NOAM Clear Milk Carton Water Bottle Plastic Crystal Water Bottle 500ml Portable Cute Milk Bottles 2 Pcs, With 6 Cute Stickers and 2 Cup Brushes, For Outdoor, Indoor, Travel and Camping Activities
 Material Plastic
 Capacity 17 Fluid Ounces
@@ -1454,7 +1454,7 @@ Brand NEW NOAM
 Manufacturer NEW NOAM
 Package Dimensions 29.6 x 14.3 x 7.6 cm; 380 Grams
 ASIN B08H8JGKN1
-",plastic,other,380g
+",plastic,other,380g,500ml
 "Triple Insulated Stainless Steel Water Bottle With Straw Lid - Flip Top Lid - Wide Mouth Cap (750 ML) Insulated Water Bottles, Keeps Hot and Cold - Great for Hiking & Biking
 Colour Dreamy Purple
 Material Stainless Steel
@@ -1473,7 +1473,7 @@ Brand FineDine
 Manufacturer FINEDINE
 Package Dimensions 35.31 x 9.65 x 9.4 cm; 386 Grams
 ASIN B08MFSPHL5
-",metal,purple,386g
+",metal,purple,386g,750ml
 "BOZ Stainless Steel Water Bottle XL (1 L / 32oz) Wide Mouth, BPA Free, Vacuum Double Wall Insulated
 Colour Blush
 Capacity 907 Grams
@@ -1489,7 +1489,7 @@ Brand BOZ
 Manufacturer BOZ
 Package Dimensions 26 x 9.9 x 9.7 cm; 490 Grams
 ASIN B08G8XS423
-",metal,other,490g
+",metal,other,490g,1L
 "Owill 2L Motivational Time Marker Water Bottle with Straw,Tritan Leakproof BPA Free Water Bottle,for Fitness, Gym and Outdoor Sports
 Colour Blue Purple
 Material Plastic
@@ -1506,7 +1506,7 @@ Brand Owill
 Manufacturer OWill
 Package Dimensions 37.2 x 14.6 x 13.3 cm; 240 Grams
 ASIN B08M9VPDJ4
-",plastic,blue,240g
+",plastic,blue,240g,2000ml
 "Moon Bottles - Stainless Steel Metal Water Bottle & Vacuum Flask - 24 Hrs Cold & 12 Hot - Insulated Drinks Bottles, Double Walled Reusable Water Bottles, BPA Free, Leakproof (260ml, Pastel Red)
 Colour Pastel Red
 Brand Moon bottles
@@ -1525,7 +1525,7 @@ Product Dimensions 1.97 x 0.65 x 0.65 cm; 200 Grams
 Volume Capacity 260 Millilitres
 Material Stainless Steel, Metal
 Item Weight 200 g
-",metal,red,200g
+",metal,red,200g,260ml
 "Protein Shaker Bottle 800ml Shaker Cup with Mixer Ball BPA Free Plastic Leakproof Sports Water Bottle for Fitness Sports and Travel Non-Slip Mix Drinking Bottle 34oz / 800ml
 Colour Black 800ml
 Material Plastic
@@ -1546,7 +1546,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",plastic,black,160g
+",plastic,black,160g,800ml
 "MARVEL 1325 1698 Spider-Man Hero Reusable Water Bottle, polypropylene, Blue and red, 600ml
 Colour Blue and Red
 Material Reusuable PP Plastic
@@ -1566,7 +1566,7 @@ Capacity 600 Millilitres
 Material Reusuable PP Plastic
 Special Features Flip top straw
 Item Weight 92 g
-",plastic,blue,92g
+",plastic,blue,92g,600ml
 "nuoshen Girls Water Bottle,Kids Water Bottle Personalised Collapsible Water Bottle For School Camping
 Colour Pink
 Material Silicone
@@ -1585,7 +1585,7 @@ Department Girls
 Manufacturer nuoshen
 Package Dimensions 23 x 22 x 7.5 cm; 200 Grams
 ASIN B08FFQXC68
-",other,pink,200g
+",other,pink,200g,500ml
 "HYDRATE XL Jug 2.2 Litre Water Bottle - BPA Free, Flip Cap, Ideal for Gym - Colour Options
 Colour Matte Mint
 Material Plastic
@@ -1604,7 +1604,7 @@ Brand HYDRATE
 Manufacturer HYDRATE
 Package Dimensions 27.8 x 13.5 x 13.3 cm; 349 Grams
 ASIN B07QHDHQWT
-",plastic,other,349g
+",plastic,other,349g,2.2L
 "Sports Water Bottles 100% Leak Proof Tough Tritan BPA Free Non-Toxic Plastic Reusable Durable 1.5 Litre Water Bottle with Flip Top Filter Portable Ideal for Gym Cycling Camping Hiking School Outdoor Adults 1500ml/1.5l Drink Bottle 32oz
 Colour Pink
 Material Plastic
@@ -1625,7 +1625,7 @@ Manufacturer FORWEWAY
 Item model number JGB01
 Product Dimensions 9.5 x 9.5 x 29.5 cm; 360 Grams
 ASIN B088BVQRPW
-",plastic,pink,360g
+",plastic,pink,360g,1500ml
 "OMORC Stainless Steel Sports Water Bottle,1200ml/40ozl BPA Free Vacuum Insulated Drink Bottle,28h Cold/14h Hot,Leakproof,Wide Mouth Thermo Metal Flask for Gym,School,Travel,Camping,Fitness+Straw Lid
 Colour Green
 Material Stainless Steel
@@ -1642,7 +1642,7 @@ Colour Green
 Material Stainless Steel
 Batteries Required? No
 Item Weight 720 g
-",metal,green,720g
+",metal,green,720g,1200ml;40oz
 "QuiFit 1 Litre/32 oz Motivational Water Bottle - Time Marker,Non-Toxic BPA Free,Leak-Proof,for Cycling Fitness Outdoor Enthusiasts
 Colour Straw Lid-green/Purple
 Material Plastic
@@ -1663,7 +1663,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Package Dimensions 36.9 x 13.3 x 7.9 cm; 200 Grams
 ASIN B08HPTFWDV
-",plastic,green,200g
+",plastic,green,200g,1000ml
 "Minecraft Creeper Zombie Steve and Skeleton 16oz/473ml Reusable Sports Bottle
 Colour Black
 Material Polypropylene
@@ -1680,7 +1680,7 @@ Colour Black
 Capacity 454 Grams
 Material Polypropylene
 Item Weight 100 g
-",plastic,black,100g
+",plastic,black,100g,473ml;16oz
 "ETDW Gallon Water Bottle Time Marker, 2.2/3.78Litre BPA Free Large Water Jug with Handle, LeakProof Pop Up Daily Water Intake Bottle
 Colour Black
 Material PETG(100% BPA&DEHP FREE )
@@ -1698,7 +1698,7 @@ Brand ETDW
 Manufacturer ETDW
 Package Dimensions 31.8 x 17.3 x 13.7 cm; 220 Grams
 ASIN B087R4Q97Q
-",plastic,black,220g
+",plastic,black,220g,2.2L
 "HYDRATE 2.ONE BPA Free Water Bottle with Straw & Motivational Time Markers | Leakproof Sports Bottle for Camping Workouts Gym & Outdoor Activity | 750ml (Black)
 Colour Black
 Material Tritan
@@ -1722,7 +1722,7 @@ Department Unisex-Adult
 Manufacturer Hydrate 2.One
 Product Dimensions 8 x 8 x 24 cm; 117.93 Grams
 ASIN B0739BK4HN
-",plastic,black,0.15kg
+",plastic,black,0.15kg,750ml
 "Taspire 1 Litre Time Marked Water Bottle with Straw, Leakproof BPA-free Tritan Water Bottle with Time Markings, Motivational Water Bottle with Times to Drink (Green)
 【FUNCTIONAL DESIGN】The flip top lid is designed with a secure lock, making it dust and leak proof. Simply open with one hand by clicking the button, one removable straw allows you to enjoy spill-proof sipping or fast water flow, with a portable strap and carry loop handle it is easy for clip-on and on-the-go hydration, Perfect for gym, workout, office and any outdoor recreations.
 【BPA & TOXIN FREE】Made of eco-friendly food grade Tritan material, water bottle is 100% BPA free, non-toxic, odour free, reusable, durable, leakproof, safe and healthy to use.
@@ -1735,7 +1735,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 270 g
-",plastic,other,270g
+",plastic,other,270g,1L
 "Best Sports Water Bottle Leak Proof 1L/700ml/500ml/400ml BPA Free Tritan Drink Bottles|Kids,Adults,Gym,School,Sport,Cycling| with Times to Drink & Fruit Infuser Filter & Lock Cover|BPA Free Reusable Large
 Colour Black
 Material BPA Free Tritan
@@ -1756,7 +1756,7 @@ Manufacturer ZOUNICH
 Manufacturer reference jingang-4
 Package Dimensions 19.2 x 7.4 x 7 cm; 180 Grams
 ASIN B07D2CNGK2
-",plastic,black,180g
+",plastic,black,180g,400ml
 "Maximuscle Water Bottle, White, 80 g
 Colour White
 Material Plastic
@@ -1772,7 +1772,7 @@ Volume 750 Millilitres
 Units 80.0 gram
 Country of origin Gb
 Brand Maximuscle
-",plastic,white,80g
+",plastic,white,80g,750ml
 "Ion8 Leak Proof Kids' Water Bottle, BPA Free, Space
 Colour Space
 Material Phthalate free, non-toxic, BPA free plastic
@@ -1799,7 +1799,7 @@ Manufacturer ion8
 Item model number B08HQM29RB
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08HQM29RB
-",plastic,other,109g
+",plastic,other,109g,350ml
 "2L Water Bottle with Straw Sports Water Jug Tough Leak Proof BPA Free Reusable Durable Half Gallon Gym Bottle Portable for Outdoor Fitness Work School
 Colour 2l-clear
 Material Plastic
@@ -1816,7 +1816,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 260 g
-",plastic,other,260g
+",plastic,other,260g,2L
 "HYDRATE 2.ONE BPA Free Water Bottle with Straw & Motivational Time Markers | Leakproof Sports Bottle for Camping Workouts Gym & Outdoor Activity | 750ml (Teal)
 Colour Teal
 Material Tritan
@@ -1837,7 +1837,7 @@ Department Unisex Kids
 Manufacturer Hydrate 2.One
 Product Dimensions 8 x 8 x 25 cm; 150 Grams
 ASIN B07BFJ839H
-",plastic,other,150g
+",plastic,other,150g,750ml
 "2L Water Bottle with Straw Sports Water Jug Tough Leak Proof BPA Free Reusable Durable Half Gallon Gym Bottle Portable for Outdoor Fitness Work School
 Colour 2l-clear
 Material Plastic
@@ -1854,7 +1854,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 260 g
-",plastic,other,260g
+",plastic,other,260g,2L
 "OMORC Stainless Steel Sports Water Bottle,1200ml/40ozl BPA Free Vacuum Insulated Drink Bottle,28h Cold/14h Hot,Leakproof,Wide Mouth Thermo Metal Flask for Gym,School,Travel,Camping,Fitness+Straw Lid
 Colour Green
 Material Stainless Steel
@@ -1871,7 +1871,7 @@ Colour Green
 Material Stainless Steel
 Batteries Required? No
 Item Weight 720 g
-",metal,green,720g
+",metal,green,720g,1200ml;40oz
 "HYDRATE 2.ONE BPA Free Water Bottle with Straw & Motivational Time Markers | Leakproof Sports Bottle for Camping Workouts Gym & Outdoor Activity | 750ml (Black)
 Colour Black
 Material Tritan
@@ -1895,7 +1895,7 @@ Department Unisex-Adult
 Manufacturer Hydrate 2.One
 Product Dimensions 8 x 8 x 24 cm; 117.93 Grams
 ASIN B0739BK4HN
-",plastic,black,0.15kg
+",plastic,black,0.15kg,750ml
 "NERTHUS FIH 707 Double Wall Insulated Bottle for Hot and Cold Stainless Steel Hearts Design 500 ml BPA Free, 18/8, 17oz
 Colour Hearts
 Brand NERTHUS
@@ -1911,7 +1911,7 @@ Product Dimensions 7 x 7 x 27 cm; 200 Grams
 Is assembly required No
 Batteries required No
 Item weight 0.2 Kilograms
-",plastic,other,200g
+",plastic,other,200g,500ml
 "AIDEAMART Water Bottle - Water Bottle with Straw, Motivational Time Markings, Fruit Filter,2 Different Lids, 350ML 500ML Leak Proof Kids Water Bottle, BPA Free Water Bottle for adults,Kids,Outdoors
 Colour Green-purple
 Material Tritan
@@ -1929,7 +1929,7 @@ Colour Green-purple
 Material Tritan
 Batteries Required? No
 Item Weight 220 g
-",plastic,green,220g
+",plastic,green,220g,500ml
 "The Gym Keg Official Sports Water Bottle (2.2 L) Insulated Sleeve | Built-In Carry Handle | Fitness, Exercise, Large Gym Water Bottles | Ecofriendly, BPA Free, 40% Thicker Plastic
 Colour Bare Nude
 Material Plastic
@@ -1948,7 +1948,7 @@ Manufacturer The Gym Keg
 Manufacturer reference Bare Nude
 Package Dimensions 30.48 x 17.78 x 15.24 cm; 454 Grams
 ASIN B07Z3WX4F2
-",plastic,other,454g
+",plastic,other,454g,2.2L
 "Maximuscle Water Bottle, White, 80 g
 Colour White
 Material Plastic
@@ -1964,7 +1964,7 @@ Volume 750 Millilitres
 Units 80.0 gram
 Country of origin Gb
 Brand Maximuscle
-",plastic,white,80g
+",plastic,white,80g,750ml
 "Favofit Water Bottle with Time Markings, Premium 1 Litre Sports Water Bottle with Fruit Infuser for Boys Girls Men & Women, Reusable & BPA Free, 1 Click Open, with Cleaning Brush
 Colour Blue/Purple Gradient
 Material Plastic
@@ -1988,7 +1988,7 @@ Manufacturer Favofit
 Manufacturer reference Favofit-FWB2
 Package Dimensions 28.9 x 8.5 x 8.2 cm; 340 Grams
 ASIN B08ZMZKRVZ
-",plastic,blue,340g
+",plastic,blue,340g,1L
 "Protein Shaker Bottle 800ml Shaker Cup with Mixer Ball BPA Free Plastic Leakproof Sports Water Bottle for Fitness Sports and Travel Non-Slip Mix Drinking Bottle 34oz / 800ml
 Colour Black 800ml
 Material Plastic
@@ -2009,7 +2009,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",plastic,black,160g
+",plastic,black,160g,800ml
 "750ml Stainless Steel Water Bottle, Thermal Bottle, Vacuum Insulated Bottle | 12hrs /24hrs Cold Hot Drinks Flask, Double Walled BPA Free Reusable Leakproof Sport Water Cup Travel Coffee Mug
 Colour Wooden Brown
 Material Stainless Steel
@@ -2030,7 +2030,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 300 g
-",metal,brown,300g
+",metal,brown,300g,750ml
 "Amazlife 1 Gallon Water Bottle with Straw Lid and Time Markings Motivational Sport Water Bottles Jug to Drink Large BPA Free Gym Daily Water Intake Bottle with Strap Handle for Fitness Outdoor 128oz
 Colour Purple
 Material Plastic
@@ -2050,7 +2050,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 560 g
-",plastic,purple,560g
+",plastic,purple,560g,3780ml
 "Polar Gear Water Tracker Bottle – Measure Hydration & Set Drinking Goals At Home Or On The Go – Leakproof, BPA Free & Dishwasher Safe – With Straw – For the Gym/Car & Outdoors – Mint Green, 750ml
 Colour Mint
 Material Eastman Tritan
@@ -2070,7 +2070,7 @@ Capacity 750 Millilitres
 Volume Capacity 750 Millilitres
 Material Eastman Tritan
 Item Weight 150 g
-",plastic,other,150g
+",plastic,other,150g,750ml
 "Ion8 Kids Water Bottle, Dinosaur, 400ml
 Colour Dinosaur
 Material Phthalate free, non-toxic, BPA free plastic
@@ -2095,7 +2095,7 @@ Manufacturer ion8
 Item model number B08XY82SCQ
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08XY82SCQ
-",plastic,other,109g
+",plastic,other,109g,400ml
 "QuiFit 3.78/2.2 Litre Motivational Water Bottle - with Straw & Time Marker,Wide Mouth,BPA Free,Reusable,Ideal for Gym,Outdoor Sport,Home & Office
 Colour Midnight Black
 Material Plastic
@@ -2114,7 +2114,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Package Dimensions 29.2 x 13.6 x 13.2 cm; 200 Grams
 ASIN B07VKSVXGM
-",plastic,black,200g
+",plastic,black,200g,2.2L
 "POP Design Stainless Steel Vacuum Insulated Water Bottle, Keeps Cold 24hrs or Hot for 12hrs, Sweat & Leak-Proof, Narrow Mouth & BPA Free, 25 Oz (740ml), Onyx
 Colour Onyx
 Material Stainless Steel
@@ -2145,7 +2145,7 @@ Manufacturer POP Design
 Item model number POP-SSB25-BK
 Product Dimensions 8.89 x 8.89 x 29.97 cm; 410 Grams
 ASIN B06XKPNWBP
-",metal,other,410g
+",metal,other,410g,750ml
 "Opard Motivational Water Bottle with Fruit Infuser 1 Litre with Times to Drink Flip-Top Sports Lid 100% BPA Free Tritan with Full Length Infusion Rod (Blue)
 Colour Blue
 Material Plastic
@@ -2163,7 +2163,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 320 g
-",metal,blue,320g
+",metal,blue,320g,1L
 "Harry Potter Gold Crest 600ml Plastic Black School Sports Water Drinks Bottle
 Colour Black
 Material Plastic
@@ -2179,7 +2179,7 @@ Colour Black
 Product Dimensions 20 x 22.5 x 7 cm; 90 Grams
 Material Plastic
 Item Weight 90 g
-",plastic,black,90g
+",plastic,black,90g,600ml
 "Best Sports Water Bottle Leak Proof 1L/700ml/500ml/400ml BPA Free Tritan Drink Bottles|Kids,Adults,Gym,School,Sport,Cycling| with Times to Drink & Fruit Infuser Filter & Lock Cover|BPA Free Reusable Large
 Colour Black
 Material BPA Free Tritan
@@ -2200,7 +2200,7 @@ Manufacturer ZOUNICH
 Manufacturer reference jingang-4
 Package Dimensions 19.2 x 7.4 x 7 cm; 180 Grams
 ASIN B07D2CNGK2
-",plastic,black,180g
+",plastic,black,180g,1000ml
 "Grsta Sports Water Bottle, 350ml/500ml/800ml/1L/1.5 L Drink Bottles with Time Marker & Filter One Click Flip Lid BPA Free Tritan Plastic Eco-Friendly Sports Water Cup for Kids, Gym, Hiking, Bicycle
 Colour Glossy Blue Green
 Material Plastic
@@ -2220,7 +2220,7 @@ Manufacturer Grsta
 Item model number 350ML Sportwasserflasche
 Package Dimensions 18 x 7 x 7 cm; 160 Grams
 ASIN B08DJ59GM6
-",plastic,blue,160g
+",plastic,blue,160g,350ml
 "BICASLOVE Insulated Water Bottle, 500ml Double Wall Stainless Steel Vacuum Bottle Keep 18 Hours Hot & 24 Hours Cold - BPA Free for Outdoor Sports, Fitness, Camping, Hiking, Office,School (Black)
 Colour 01-black
 Material Stainless Steel
@@ -2239,7 +2239,7 @@ Manufacturer BICASLOVE
 Manufacturer reference renatofavvshopp
 Product Dimensions 26.4 x 7.1 x 7.1 cm; 351 Grams
 ASIN B07YSCWGRH
-",metal,black,351g
+",metal,black,351g,500ml
 "Ion8 Leak Proof Slim Water Bottle, BPA Free, 600ml, Unicorns
 Colour Unicorns
 Material Phthalate free, non-toxic, BPA free plastic
@@ -2265,7 +2265,7 @@ Manufacturer ion8
 Item model number B079C47M4F
 Product Dimensions 6.6 x 6.6 x 23.11 cm; 132 Grams
 ASIN B079C47M4F
-",plastic,other,132g
+",plastic,other,132g,600ml
 "1.3 Litre Water Jug/Gym Bottle - BPA Free Ideal For Gym, Dieting and Bodybuilding, 100% Food safe materials (1.5 Liter, Matt Black)
 Colour Matt Black
 Material Plastic
@@ -2284,7 +2284,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 149 g
-",plastic,black,149g
+",plastic,black,149g,1.5L
 "Favofit Water Bottle with Time Markings, Premium 1 Litre Sports Water Bottle for Boys Girls Men & Women, Reusable & BPA Free, 1 Click Open, with Strainer & Cleaning Brush, Grey
 Colour Grey
 Brand Favofit
@@ -2299,7 +2299,7 @@ Item dimensions L x W x H 7.4 x 7.4 x 28.5 centimetres
 Product Dimensions 7.4 x 7.4 x 28.5 cm; 259 Grams
 Is mould resistant BPA Free
 Batteries required No
-",plastic,grey,259g
+",plastic,grey,259g,1L
 "POP Design Stainless Steel Vacuum Insulated Water Bottle - Keeps Cold 24hrs. or Hot for 12hrs. - Sweat & Leak-Proof - Narrow Mouth & BPA Free - 17 Oz (500ml) or 25 Oz (740ml) - 3 Colors
 Colour Titanium
 Material Stainless Steel
@@ -2331,7 +2331,7 @@ Manufacturer POP Design
 Manufacturer reference POP-SSB17-ST
 Product Dimensions 6.35 x 6.35 x 25.4 cm; 300.5 Grams
 ASIN B06XKMM62C
-",metal,other,300g
+",metal,other,300g,500ml
 "Glass Water Bottle 550ml with Sports Cap | Removable Straw | Leak Proof Borosilicate BPA-Free | Eco-Friendly | Reusable Water Bottle | Ideal for Detox School Home Office Travel Sports Yoga Gym | Flask
 Sports Cap
 Detachable Straw
@@ -2342,7 +2342,7 @@ Brand Generic
 Package Dimensions 25.8 x 8.4 x 8.2 cm; 385 Grams
 Material Glass
 Item Weight 385 g
-",glass,other,385g
+",glass,other,385g,550ml
 "Minecraft - Minecraft Water Bottle - Stainless Steel Water Bottle - Water Bottle with Green Creeper Design - Kids Water Bottles, Reusable Water Bottle - 750 ml - Minecraft Merchandise
 Colour Green
 Capacity 0.75 litres
@@ -2357,7 +2357,7 @@ Colour Green
 Package Dimensions 27.1 x 7.5 x 7.4 cm; 210 Grams
 Capacity 0.75 litres
 Item Weight 210 g
-",metal,green,210g
+",metal,green,210g,0.75L
 "Minecraft Bottle
 Material Composition 100% Plastic
 Care Instructions Wipe clean
@@ -2371,7 +2371,7 @@ This bottle is leak proof and BPA free.
 Wipe clean
 Has comfortable soft spout and detachable straw.
 Comes with a leakproof lid with built-in carrying loop.
-100% officially licensed product.",plastic,green,454g
+100% officially licensed product.",plastic,green,454g,other
 "LAKEN Futura Aluminium Bottle 1 L, Adult Unisex, Pink (Pink), 1 L
 Colour Pink
 Material Compound
@@ -2385,7 +2385,7 @@ Suitable for alcoholic and citrus drinks
 Package Dimensions 26.1 x 7.9 x 7.7 cm; 140 Grams
 Item volume 34 Fluid Ounces
 Batteries required No
-",other,pink,140g
+",other,pink,140g,1L
 "Azebo 3800ml/2000ml/1600ml Large Water Bottle with Time Marker & Removable Strainer Tritan BPA Free Non-Toxic 128/64/54oz for Fitness Sports Outdoors and Office-E3SHD001-Mint Green/Pink Gradient-2L
 Colour 1.mint Green/Pink Gradient
 Material Tritan
@@ -2407,7 +2407,7 @@ Batteries included? No
 Batteries Required? No
 Assembled Diameter 3 Inches
 Item Weight 250 g
-",plastic,green,250g
+",plastic,green,250g,2L
 "JOYSHAKER 1 Gallon Water Bottle with Wide Mouth Loop-Top, BPA Free Large Water Bottle with Motivational Time Marker Leak-Proof Daily Perfect Big Water Jug for Fitness Gym Camping and Outdoor Activity
 Colour Clear
 Material BPA-Free
@@ -2427,7 +2427,7 @@ Colour Clear
 Material BPA-Free
 Batteries Required? No
 Item Weight 318 g
-",plastic,other,318g
+",plastic,other,318g,500ml
 "Kids Water Bottles Rainbow- 500ml Children Water Bottle - Girls Water Bottle Leakproof - BPA Free Children Drinking Bottle - Collapsible Drinks bottles
 Colour Rainbow
 Material Silicone Rubber
@@ -2448,7 +2448,7 @@ Manufacturer KingGrit
 Manufacturer reference Onetour-vsd16
 Product Dimensions 7 x 7 x 11 cm; 140 Grams
 ASIN B07XTNDRCD
-",other,other,140g
+",other,other,140g,500ml
 "Gapezioo Best 36oz Leak Proof Water Bottle with Motivational Times and Brush - BPA Free Non-Toxic Plastic
 Colour Grey
 Material Plastic
@@ -2473,7 +2473,7 @@ Manufacturer Gapezioo
 Manufacturer reference Onetour-vsd94
 Product Dimensions 28.7 x 7.7 x 7.7 cm; 260 Grams
 ASIN B07QF1VP3R
-",plastic,grey,260g
+",plastic,grey,260g,1000ml
 "GEMFUL Sports Water Bottle Large 2.5 Litre BPA-Free Drinking Big Jug
 Colour Black
 Material Plastic
@@ -2492,7 +2492,7 @@ Manufacturer GEMFUL
 Manufacturer reference BJ02
 Product Dimensions 15.24 x 15.24 x 25.4 cm; 286 Grams
 ASIN B08PQP6YR4
-",plastic,black,286g
+",plastic,black,286g,2.5L
 "AORIN Sports Water Bottle - 350ml/500ml/750ml/1L,Tritan Gym Bottle BPA-Free & Drinking Bottles, Leakproof，One Click Flip Lid/Kids,Adults,Gym,Outdoor Sport
 Colour Bark Red
 Material BPA free, phthalate free, non-toxic TRITAN
@@ -2522,7 +2522,7 @@ Manufacturer AORIN
 Item model number B089Y2WTX1
 Product Dimensions 7.8 x 7.8 x 28.6 cm; 150 Grams
 ASIN B08886GFQC
-",plastic,red,150g
+",plastic,red,150g,1000ml
 "FEIJIAN FJbottle 316 Stainless Steel Vacuum Insulated Water Bottle 750ml/1000ml with carabiner, Bpa-Free flasks, double-walled reusable bottles, leakproof sport flask for sport, work, and travel
 Colour Green/1000ml
 Material Stainless Steel
@@ -2543,7 +2543,7 @@ Department Unisex
 Manufacturer FEIJIAN
 Package Dimensions 33.4 x 9.9 x 9.7 cm; 470 Grams
 ASIN B08P4DQR1B
-",metal,green,470g
+",metal,green,470g,1000ml
 "KEPLIN Premium 900ml Water Bottle with Straw and Time Markings (Grey)
 Colour Grey
 Material Plastic
@@ -2561,7 +2561,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 180 g
-",plastic,grey,180g
+",plastic,grey,180g,900ml
 "QuiFit 3.8 L/2 Litre Motivational Straw Water Bottle - with Time Marker,BPA Free,Leak-Proof Durable,for Fitness Outdoor Enthusiasts
 Colour Black
 Material BPA FREE
@@ -2582,7 +2582,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Package Dimensions 38.4 x 16 x 13.1 cm; 280 Grams
 ASIN B0888M5LT5
-",plastic,black,280g
+",plastic,black,280g,2000ml
 "Official Spiderman Graffiti Aluminium Sports Bottle 400ml - Holiday, Back to School Water Drinking Kids Lunch Children Includes Spiderman Keyring
 High quality aluminium sports bottle with plastic screw top lid, with leak-proof sports cap
 Great item for back to school
@@ -2592,7 +2592,7 @@ Not suitable for the mircowave or dishwasher
 Brand STORLINE
 Product Dimensions 6.5 x 6.5 x 17.5 cm; 110 Grams
 Item Weight 110 g
-",metal,other,110g
+",metal,other,110g,400ml
 "howson london Personalised Insulated Water Bottle Vacuum Flask | Stainless Steel | 12 Hours Hot & 24 Hours Cold 500ML / 17oz | Bottles for School, Office & Hiking, Outdoor
 Colour Blue to Red to Gold
 Brand Howson london
@@ -2612,7 +2612,7 @@ Manufacturer Howson London
 Manufacturer reference 171101
 Item Weight 481.94 Grams
 ASIN B07L8BC875
-",metal,blue,481g
+",metal,blue,481g,500ml
 "Collapsible Water Bottle Folding Silicone Portable Leakproof Sports Outdoor Water Bottle for Camping Drinking (Gray)
 Material: food-grade silicone material allows you to use more assured. Soft and comfortable, elastic, comfortable touch, will not be deformed.It can withstand the temperature difference from -50℃ to 200℃.
 Foldable: the height after folding is only 3 cm, whether it is put in the bag or put in the pocket is easy, will not take up a lot of space, can give you the maximum convenience.
@@ -2623,7 +2623,7 @@ Manufacturer Foreveryoung9
 Package Dimensions 25 x 7 x 3 cm; 130 Grams
 Colour Gray
 Item Weight 130 g
-",other,grey,130g
+",other,grey,130g,other
 "HZLIEIY Water Bottle with Straw, BPA Free Sports Water Bottles, 850ml Cycling Running Gym Reusable Bottle, Leakproof Drinking Bottle for Adults Kids, Tritan Plastic, One-Click Flip Lid
 Colour Transparent Blue
 Material BPA Free TRITAN
@@ -2643,7 +2643,7 @@ Department Unisex-Kids
 Manufacturer HZLIEIY
 Product Dimensions 7.49 x 7.49 x 25.98 cm; 260 Grams
 ASIN B08H851XZQ
-",plastic,blue,260g
+",plastic,blue,260g,850ml
 "HZLIEIY 2 Litre Water Bottle with Straw, Large Leakproof Sports Water Bottles, Fitness Oversized Drinking Bottle, Bpa Free Plastic Reusable Water Jug, Eco Friendly with Carry Handle, Clear, Durable
 Colour Blue
 Material Plastic
@@ -2662,7 +2662,7 @@ Brand HZLIEIY
 Manufacturer HZLIEIY
 Product Dimensions 10 x 10 x 32 cm; 380 Grams
 ASIN B089QN9MMT
-",plastic,blue,380g
+",plastic,blue,380g,2L
 "Hydracy Water Bottle with Time Marker - Large 1 Liter BPA Free Water Bottle - Leak Proof & No Sweat Gym Bottle with Fruit Infuser Strainer for Fitness or Sport & Outdoors
 💧DRINK MORE WATER 100% Leakproof and Zero Condensation! No more puddle or sweating thanks to its insulating sleeve. This large water bottle keeps inside all the healthy hydration that your body needs!
 🕒WATER BOTTLE WITH TIME MARKER A quick glance at the intuitive timeline will tell you when to take your next sip throughout the day. No more guesswork, you will conquer your daily water intake goal like clockwork!
@@ -2678,7 +2678,7 @@ Brand Hydracy
 Manufacturer Hydracy
 Product Dimensions 7.37 x 7.37 x 27.94 cm; 299 Grams
 ASIN B08PCPVPVS
-",plastic,blue,399g
+",plastic,blue,399g,1000ml
 "NAVIVVA SPLENDID Large 2L Water Bottle with Neoprene Cover and Straw Lid - Dishwasher Safe, Portable, Eco-friendly with Carry Handle – Huge 2.2 litre Capacity – Refill Once per Day – Great for Sports Gym Fitness & Travel
 Colour Black
 Material Plastic
@@ -2699,7 +2699,7 @@ Brand NAVIVVA SPLENDID
 Manufacturer NAVIVVA SPLENDID
 Product Dimensions 27 x 14 x 14 cm; 538 Grams
 ASIN B089SC9R7D
-",plastic,black,538g
+",plastic,black,538g,2.2L
 "TOPLUS Water Bottles Drink Flasks Cycling Bottles，500ml，1 litre，1.5 litre Hydrate BPA Free Non-Toxic Plastic Sports Drinking Bottle for Kids, Gym, Fitness, Outdoor, Cycling, School，Black
 Colour Gradient-black
 Material Plastic
@@ -2717,7 +2717,7 @@ Colour Gradient-black
 Material Plastic
 Batteries Required? No
 Item Weight 160 g
-",plastic,black,160g
+",plastic,black,160g,other
 "Smitave Water Bottle with Straw, Motivational Water Bottle with Time Markings, BPA-Free with Flip Nozzle and Leakproof - Ideal for School Kids Girls, Sports, Gift (Flamingo)
 Colour Flamingo
 Material Plastic
@@ -2736,7 +2736,7 @@ Brand Smitave
 Manufacturer Smitave
 Package Dimensions 25.2 x 9 x 7.3 cm; 149 Grams
 ASIN B089GHPBQH
-",plastic,other,149g
+",plastic,other,149g,550ml
 "Navaris Water Bottle Jug 2.2 Litre - XXL Half Gallon Gym Bottle BPA Free - Ideal for Gym, Outdoor Sports, Fitness, Hiking, Camping, Home
 Colour Anthracite
 Material Tritan
@@ -2757,7 +2757,7 @@ Manufacturer KW-Commerce
 Item model number 45150.73_m001294
 Product Dimensions 12.5 x 12.5 x 12.5 cm; 160 Grams
 ASIN B07LBXSRD8
-",plastic,other,160g
+",plastic,other,160g,2.2L
 "Camelbak Podium Chill 21oz Black Bottle - 001 Black/Grey, N
 Colour 001 Black/Grey
 Material Other
@@ -2789,7 +2789,7 @@ Manufacturer Camelbak Products LLC (CAQ2S)
 Item model number 1874001062
 Product Dimensions 7.3 x 7.3 x 23.8 cm; 99 Grams
 ASIN B07HGR3YZ7
-",other,black,99g
+",other,black,99g,21oz
 "BuildLife 2 Litre Motivational Water Bottle - With Time Marker Wide Mouth Leak Proof Reusable BPA Free Water Jug for Fitness Gym Camping Outdoor Sports
 Colour Black
 Material Plastic
@@ -2809,7 +2809,7 @@ Brand BuildLife
 Manufacturer BuildLife
 Package Dimensions 33.1 x 18.4 x 15.8 cm; 300 Grams
 ASIN B08VVZX6NM
-",plastic,black,300g
+",plastic,black,300g,2L
 "Neon Kactus Glass Water Bottles 550ml
 Colour Happy Camper
 Material Glass
@@ -2827,7 +2827,7 @@ Brand Neon Kactus
 Manufacturer Neon Kactus
 Package Dimensions 25.1 x 7.8 x 7.8 cm; 408 Grams
 ASIN B08SCJJLTV
-",glass,other,408g
+",glass,other,408g,550ml
 "Z.GERO Water Bottles with Leak Proof Flip Top Lid, Eco Friendly & BPA Free Tritan Plastic, Best Choice for Cycling, Running, Camping or Office Work Drinking Water Bottle. Blue
 Colour Blue
 Material Plastic
@@ -2849,7 +2849,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 150 g
-",plastic,blue,150g
+",plastic,blue,150g,700ml
 "Opard Sports Water Bottle, 900ml BPA Free Non-Toxic Tritan Plastic Drinking Bottle with Leak Proof Flip Top Lid for Gym Yoga Fitness Camping
 Colour Orange Blue Gradient
 Material Plastic
@@ -2867,7 +2867,7 @@ Brand Opard
 Manufacturer Shenzhen City LeTu Technology Co., Ltd
 Package Dimensions 26.8 x 8.4 x 8.4 cm; 210 Grams
 ASIN B08HRVL8V5
-",plastic,orange,210g
+",plastic,orange,210g,900ml
 "POYAKU 32 oz Vacuum Insulated Leak Proof Stainless Steel Sports Water Bottle —Wide Mouth with New Straw Lid
 Colour Hydrangea
 Capacity 907 Grams
@@ -2883,7 +2883,7 @@ Size 32 oz
 Colour Hydrangea
 Batteries Required? No
 Item Weight 500 g
-",metal,other,500g
+",metal,other,500g,32oz
 "Polar Gear 1529 1743P4 Childrens Panda Drinks Bottle, polypropylene plastic, Black and White, 500ml
 Colour Black and White
 Material Polypropylene
@@ -2902,7 +2902,7 @@ Capacity 500 Millilitres
 Material Polypropylene
 Special Features Flip up drinking straw
 Item Weight 90 g
-",plastic,black,90g
+",plastic,black,90g,500ml
 "HYDRATE XL Jug 1.3 Litre Water Bottle - BPA Free, Flip Cap, Ideal for Gym - Colour Options
 Colour Matte Pink
 Material Plastic
@@ -2920,7 +2920,7 @@ Brand HYDRATE
 Manufacturer HYDRATE
 Package Dimensions 24.9 x 12.2 x 12.2 cm; 10.59 Kilograms
 ASIN B07SN3V19Y
-",plastic,pink,10.59kg
+",plastic,pink,10.59kg,1.3L
 "TOPLUS Stainless Steel Thermos Water Bottle 500ml, BPA-free Double Vacuum Insulation Flask 24 Hours Cooling & 15 Hours Heat Preservation 100% Sealed for Outdoor Sports, Fitness Travel
 Colour Black
 Material Stainless Steel
@@ -2938,7 +2938,7 @@ Manufacturer TOPLUS
 Manufacturer reference 1
 Product Dimensions 27.5 x 8 x 8 cm; 364 Grams
 ASIN B08L3GSCZ7
-",metal,black,364g
+",metal,black,364g,500ml
 "Minecraft Torch Bottle, Break Resistant Water Bottle with Screw-on Lid, Portable & Reusable, Perfect Gift for Gamer - (Torch Shape, 650ml, Plastic)
 Colour Multi
 Material Plastic
@@ -2957,7 +2957,7 @@ Is assembly required No
 Warranty description No warranty.
 Batteries required No
 Included components 1 x Minecraft Torch Bottle, Break Resistant Water Bottle with Screw-on Lid, Portable & Reusable, Perfect Gift for Gamer - (Torch Shape, 650ml, Plastic)
-",plastic,other,220g
+",plastic,other,220g,650ml
 "Smiggle Sports Stainless Steel Insulated Water Drink Bottle for Boys & Girls with Screw Lid & 640ml Capacity | Rainbow Print
 Colour Mix
 Brand Smiggle
@@ -2973,7 +2973,7 @@ Model Number 186728
 Colour Mix
 Product Dimensions 7.3 x 7.3 x 25.7 cm; 520 Grams
 Item Weight 520 g
-",metal,other,520g
+",metal,other,520g,640ml
 "VENNERLI Sports Water Bottles 1L Water Bottle with Straw and Brush Tritan BPA Free Leak proof Durable Reusable Straw Bottle 1litre 1000ML with Measurement Marking
 Colour 1l Black
 Material Plastic
@@ -2994,7 +2994,7 @@ Manufacturer BOTTLED JOY
 Item model number TR1000
 Package Dimensions 26.6 x 9 x 8.2 cm; 220 Grams
 ASIN B07JJ7ZCWL
-",plastic,black,220g
+",plastic,black,220g,1000ml
 "Water bottle with straw - Motivational water bottles with times to drink; time markings measurements for Sports Gym Office - BPA free leak proof reusable Tritan plastic + Extra Straws + Cleaning brush
 Colour Purple
 Material Triton BPA Free Plastic
@@ -3017,7 +3017,7 @@ Department Men, women,
 Manufacturer Creation Cloud
 Product Dimensions 6 x 7.5 x 27 cm; 220 Grams
 ASIN B07GJZMDLP
-",plastic,purple,220g
+",plastic,purple,220g,900ml
 "2 Litre Water Bottle 2L 2ltr With Straw Time Markings Large Bottle Sports 2lt Flask Water Bottle D22
 LARGE CAPACITY : Tired of running out of water and having to refill all the time?Diller large capacity water bottle,ensure you drink enough of water throughout the day.2L(70 ounce),there is always one for you.
 SAFETY MATERIAL: Made of durable material, high quality food grade safety, durable, BPA-free.
@@ -3031,7 +3031,7 @@ Brand Diller
 Manufacturer Diller
 Package Dimensions 31.4 x 11 x 11 cm; 340 Grams
 ASIN B07TY19QMF
-",plastic,red,320g
+",plastic,red,320g,2000ml
 "Water Bottle Vacuum Insulated Bottle, Stainless Steel Double Walled and BPA Free, 12hrs Hot Drinks Water Coffee Milk White Thermal Flask Travel Flask, White 350 ml
 Colour White
 Brand QLPFS
@@ -3046,7 +3046,7 @@ Model Number QLPFS-Bottle2
 Colour White
 Package Dimensions 19.2 x 7.5 x 7.3 cm; 230 Grams
 Item Weight 230 g
-",metal,white,230g
+",metal,white,230g,350ml
 "BUZIO 1180ml Stainless Steel Insulated Water Bottle, BUZIO Water Bottle with Straw Lids, Canteen Metal Thermo Mug Hydro Cup Jug, Double Vacuum Hot Cold Water Bottles with Carrying Pouch,Indigo Crush
 Colour Indigo Crush 40oz
 Capacity 1.13 Kilograms
@@ -3063,7 +3063,7 @@ Colour Indigo Crush 40oz
 Batteries included? No
 Batteries Required? No
 Item Weight 100 g
-",metal,other,100g
+",metal,other,100g,1180ml
 "National Geographic Water Bottle | birthday gifts for her | birthday gifts for him | gym water bottle | hydrate water bottle | presents for women | 1 litre water bottle
 ♻️ NATIONAL GEOGRAPHIC - Drink in style with this National Geographic water bottle, perfect for commuting to work, on days out or even at the gym! Making these water bottles great gifts for her and gifts for him to keep them hydrated through-out the day.
 ♻️ TOP QUALITY - This drinking bottle can hold up to 1 litre so is the perfect way stay hydrated, while helping the environment. By having a clear bottle, it makes it easier for you to keep track of your water intake. This drink bottle is perfect stocking fillers for everyone with its classic Gold Fish design.
@@ -3077,7 +3077,7 @@ Brand Nat Geo
 Manufacturer Blueprint Collections
 Product Dimensions 22.5 x 9 x 9 cm; 140 Grams
 ASIN B08KJ71WXF
-",plastic,other,140g
+",plastic,other,140g,1000ml
 "Fringoo Silicone Collapsible Drink Bottle For Kids 500 ml / 17 oz with Carabiner Clip Leak Proof BPA Free Travel Sports Drink Bottle
 Colour Football
 Material Silicone
@@ -3100,7 +3100,7 @@ Manufacturer Fringoo
 Manufacturer reference Onetour-vsd15
 Package Dimensions 12.8 x 9.8 x 7.2 cm; 160 Grams
 ASIN B07KX4SDCH
-",other,other,160g
+",other,other,160g,550ml
 "Diller Water Bottle With Straw Kids Bottles Boy Girl Sports 500ml Bpa Free Plastic Hydration Flask K8849
 Colour Pink
 Material Plastic
@@ -3118,7 +3118,7 @@ Brand Diller
 Manufacturer Diller
 Package Dimensions 23 x 12.1 x 8.2 cm; 190 Grams
 ASIN B0819S8KF9
-",plastic,pink,190g
+",plastic,pink,190g,550ml
 "More Water Bottle With Straw - 8 Colour Drinking Bottles - Motivational Times to Drink - 900ml BPA Free Plastic - All Sports
 Colour Electric Pink
 Material Plastic
@@ -3137,7 +3137,7 @@ Manufacturer More Water
 Item model number B072KH4V1W
 Product Dimensions 7.5 x 6 x 22 cm; 140 Grams
 ASIN B072KH4V1W
-",plastic,pink,140g
+",plastic,pink,140g,900ml
 "Camelbak Eddy+ Bottles - Dusty Lavender, 0.75 Litre/25 oz
 Colour Dusty Lavender
 Material Plastic
@@ -3168,7 +3168,7 @@ Manufacturer Camelbak
 Item model number 1643501075
 Product Dimensions 10.1 x 7.8 x 23.5 cm; 174 Grams
 ASIN B07HGSDRNT
-",plastic,other,190g
+",plastic,other,190g,750ml
 "Cath Kidston Pale Green Dinosaur Jungle Water Bottle 2021
 Colour Green
 Material Polypropylene
@@ -3188,7 +3188,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 113 g
-",other,green,113g
+",other,green,113g,320ml
 "Lyneun Water Bottle 500ml Vacuum Insulated - Double Walled Stainless Steel Thermal Flasks Bottle - Keep Drinkings 12 Hours Hot & 24 Hours Cold - Leak Proof & BPA Free
 Colour Grey
 Material Stainless Steel
@@ -3206,7 +3206,7 @@ Brand Lyneun
 Manufacturer Lyneun
 Package Dimensions 27.6 x 7.9 x 7.7 cm; 355 Grams
 ASIN B08GP3HKXP
-",metal,grey,355g
+",metal,grey,355g,500ml
 "Polar Gear Aqua Grip Bottle – BPA-Free Reusable Sports Water Bottle & Foldable Straw – Drink at the Gym, in the Car & Outdoors – Clear Tritan Plastic & Dishwasher Safe – Turquoise, 650ml
 Colour Turquoise
 Material Tritan
@@ -3232,7 +3232,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 132 g
-",plastic,other,160g
+",plastic,other,160g,650ml
 "HYCOPROT Gym Water Bottle Bike Water Bottles Cycling Water Bottles Hydrate bottle with Foldable Straw, BPA-Free Leak Proof Flip Cap 800ml (orange)
 Colour Orange
 Material Plastic
@@ -3249,7 +3249,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",plastic,orange,160g
+",plastic,orange,160g,800ml
 "Vigour UK - Camping/Hiking/Cycling Eco-friendly Collapsible water bottle - Black - 550ml at full capacity - light weight - portable trendy FDA approved – BPA free
 Colour Black
 Material Silicone
@@ -3268,7 +3268,7 @@ Brand Vigour UK
 Manufacturer Vigour UK
 Package Dimensions 14.6 x 7.9 x 7.9 cm; 200 Grams
 ASIN B08YP3LSX7
-",other,black,200g
+",other,black,200g,550ml
 "Puckator, enchanted rainbow unicorn drinking bottle with straw, pink, Mixed, Height 19cm Width Depth 7cm Strap 60cm
 Colour Mixed
 Brand Puckator
@@ -3285,7 +3285,7 @@ Product Dimensions 7 x 7 x 19 cm; 80 Grams
 Capacity 0.45 litres
 Material Plastic
 Item Weight 80 g
-",plastic,other,90g
+",plastic,other,90g,450ml
 "Keetan Kids Water Bottle with Straw, Reusable Drinking Bottle for School, BPA Free, Leak-Proof, 480ml
 Colour Blue
 Material Plastic
@@ -3303,7 +3303,7 @@ Colour Blue
 Material Plastic
 Batteries Required? No
 Item Weight 215 g
-",plastic,blue,215g
+",plastic,blue,215g,480ml
 "Sports Stainless Steel Water Bottle with Straw Tip - Vacuum Insulated Metal Water Bottles - Drinking Flask Leakproof with Flip Straw for Work Gym Travel Bike Running Hiking Yoga (Green, 750 ml)
 Colour Green
 Material Metal, 201/201 Stainless Steel
@@ -3324,7 +3324,7 @@ Usage Outside; Professional; Sports; Running; Cycling; Hiking; Yoga; Gym; Walk;
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,green,454g
+",metal,green,454g,750ml
 "2.2L Water Bottle - Extra-Strong Leakproof BPA Free 2.2 Litre Large Water Jug Half Gallon Hydrate Bottle with Handle Ideal for Adults Men Family Sports Gym Fitness Outdoor Cycling Bodybuilding 73oz
 Colour Black
 Material Plastic
@@ -3344,7 +3344,7 @@ Manufacturer VENNERLI
 Item model number SH2.2L_MB
 Product Dimensions 12.95 x 12.95 x 26.42 cm; 230 Grams
 ASIN B07WFN8P44
-",plastic,black,230g
+",plastic,black,230g,2L
 "Kids Water Bottle, Silicone Collapsible Drink Bottle for Kids, Personalised Collapsible 500ml Water Bottle for School Travel Sports Camping
 SAFE MATERIAL:Our kids water bottle is BPA FREE & LFGB，Food grade silicone and it is the perfect gifts for boys
 COLLAPSIBLE DESIGN: Our water bottle has a lightweight and collapsible design that makes it super easy to carry around
@@ -3356,7 +3356,7 @@ Package Dimensions 9 x 7 x 7 cm; 100 Grams
 Colour Blue Camo
 Batteries Required? No
 Item Weight 100 g
-",other,blue,100g
+",other,blue,100g,other
 "3 Data Collapsible Silicone Water Bottles-500ML,Medical Grade,BPA Free.Can Roll Up,Leak Proof Foldable Sports & Outdoor Water Bottles
 Colour Blue
 Material Silicone
@@ -3377,7 +3377,7 @@ Brand 3 Data
 Manufacturer 3 Data
 Product Dimensions 7.5 x 7.5 x 25 cm; 80 Grams
 ASIN B07V65DY9B
-",other,blue,80g
+",other,blue,80g,500ml
 "One Green Bottle – Tough Canteen Water Bottle with Sports Cap, Stainless Steel Water Bottle, Non-Insulated, Single-Skinned Eco Bottle, 500ml (Celeste Blue)
 Colour Celeste Blue
 Material Stainless Steel
@@ -3395,7 +3395,7 @@ Material Stainless Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 270 g
-",metal,blue,270g
+",metal,blue,270g,500ml
 "Zefal Unisex's Z Box Tool Bottle, Black
 Colour Black
 Material Polypropylene
@@ -3425,7 +3425,7 @@ Manufacturer Zefal
 Item model number 7080
 Product Dimensions 17 x 7 x 7 cm; 71 Grams
 ASIN B00RN48DXM
-",other,black,71g
+",other,black,71g,800ml
 "Smiggle Water Bottle 'Drink Up' Flip Spout ('Far Away' Blue/Pink Unicorns)
 Colour 'Far Away' Blue / Pink Unicorns
 Material Plastic
@@ -3440,7 +3440,7 @@ Colour 'Far Away' Blue / Pink Unicorns
 Package Dimensions 24.5 x 8 x 7.9 cm; 150 Grams
 Material Plastic
 Item Weight 150 g
-",plastic,blue,150g
+",plastic,blue,150g,other
 "Rzting Sports Water Bottle 1L,BPA Free Non-Toxic Tritan Plastic Water Cup with Filter， Leakproof One Click Flip Lid Design for Outdoor, Cycling, Gym, School & Office (Pink/Blue, 1000ml)
 Colour Pink/Blue
 Material Plastic
@@ -3458,7 +3458,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 256 g
-",plastic,pink,256g
+",plastic,pink,256g,1000ml
 "XtremePeak Smart Water Bottle with Temperature Display, 500ml/17oz Stainless Steel Water Bottle, Vacuum Insulated Flask, Leak Proof Metal Thermos for Cold & Hot Drinks, Free Reusable Straws Set
 Colour Pink
 Brand XtremePeak
@@ -3477,7 +3477,7 @@ Brand XtremePeak
 Manufacturer XtremePeak
 Package Dimensions 24.9 x 7.7 x 7.6 cm; 360 Grams
 ASIN B08YFGFPLX
-",metal,pink,360g
+",metal,pink,360g,500ml
 "OMORC Sports Water Bottle with Time Marker,17oz/500ml BPA Free Tritan Plastic Leakproof Drinking Bottle with Filter&Locking Flip-Flop Lid, Fitness Workout Water Bottle for School, Gym, Bicycle, Yoga
 Colour Grey
 Material Plastic
@@ -3497,7 +3497,7 @@ Volume 500 Millilitres
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",plastic,grey,160g
+",plastic,grey,160g,500ml
 "Alpha Bottle XXL - 2.4 Litre Water Jug/Gym Bottle - BPA Free Ideal For Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office, Half Gallon - Made in the UK 100% Food safe materials
 Colour Red
 Material Plastic
@@ -3518,7 +3518,7 @@ Manufacturer Alpha Designs
 Item model number AL03
 Product Dimensions 13 x 13 x 28 cm; 100 Grams
 ASIN B07F2LD3SJ
-",plastic,red,100g
+",plastic,red,100g,2400ml
 "Apobob Stainless Steel Water Bottles 500ml / 750ml, BPA Free Vacuum Drink Bottle, Insulated Metal Flasks for 12 Hrs Hot & 24 Hrs Cold, Reusable Thermos Bottles for Work, Study, Gym, Cycling, Sport
 💧【Outdoor Helper】: APOBOB's stainless steel water bottles is made of 18/8 (304) stainless steel, using ultra-modern double-wall vacuum technology. Lightweight bottle, you can carry it with you. Very suitable for sports, outdoor, travel, cycling, mountain climbing, fitness, camping, hiking, suitable for students, children and the elderly, men and women.
 💧【100% BPA Free Material】: APOBOB's stainless steel flask is made of Food grade stainless steel body and 100%BPA-free lid, and does not contain phthalates, lead or other toxin materials. The metal structure is used inside and outside to bring a lasting, fresh taste, including a sealed leak-proof screw top.
@@ -3538,7 +3538,7 @@ Department Men,women, kid,baby,Children,Drink
 Manufacturer Apobob
 Package Dimensions 27.2 x 7.5 x 7.5 cm; 370 Grams
 ASIN B08K8KP1HQ
-",metal,black,370g
+",metal,black,370g,750ml
 "Sistema 580 Hydrate Hourglass Bottle, 475 ml - Assorted Colours
 Colour Assorted
 Material Polypropylene
@@ -3556,7 +3556,7 @@ Product Dimensions 8.7 x 7.5 x 18.4 cm; 63 Grams
 Capacity 475 Millilitres
 Material Polypropylene
 Item Weight 63 g
-",other,other,63g
+",other,other,63g,475ml
 "OMORC Stainless Steel Sports Water Bottle,1200ml/40ozl BPA Free Vacuum Insulated Drink Bottle,28h Cold/14h Hot,Leakproof,Wide Mouth Thermo Metal Flask for Gym,School,Travel,Camping,Fitness+Straw Lid
 Colour Blue
 Material Stainless Steel
@@ -3573,7 +3573,7 @@ Colour Blue
 Material Stainless Steel
 Batteries Required? No
 Item Weight 730 g
-",metal,blue,730g
+",metal,blue,730g,1200ml
 "Navaris Stainless Steel Water Bottle - 2.2 Litre Large Metal Sports, Camping, Gym Canteen for Drinking Water, Liquid, Drinks
 Colour Turquoise
 Material Stainless Steel
@@ -3592,7 +3592,7 @@ Manufacturer KW-Commerce
 Item model number 51084.37_m001294
 Product Dimensions 27.2 x 13.5 x 13 cm; 460 Grams
 ASIN B08D3PW2XM
-",metal,other,460g
+",metal,other,460g,2.2L
 "GHONLZIN Water Bottle, 1 Gallon Fitness Sports Water Bottle with Time Marker Tracker for Measuring Daily Water Intake 100% BPA-Free for Athletic,Excerise
 Colour White
 Material Plastic
@@ -3614,7 +3614,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 390 g
-",plastic,white,390g
+",plastic,white,390g,1gallon
 "Smiggle Flow Kids Water Drink Bottle for Boys & Girls with Flip Top Spout and 650ml Capacity | Mermaid Print
 Colour Cornflower Blue
 Capacity 650 Millilitres
@@ -3630,7 +3630,7 @@ Colour Cornflower Blue
 Product Dimensions 6.5 x 6.5 x 24 cm; 120 Grams
 Capacity 650 Millilitres
 Item Weight 120 g
-",other,blue,120g
+",other,blue,120g,650ml
 "CARETTA - Stainless Steel Water Bottle, finances OCEAN PLASTIC REMOVAL, 350-750ml, Reusable Vacuum Insulated, Coffee Tea Milk Hot or Cold for a day, for adults and kids, Bpa Free Leak Proof
 ☕️ KEEPS YOUR DRINKS COLD OR HOT FOR 8 HOURS - Our premium stainless steel reusable bottle will keep your coffee or tea nice and warm for a whole day at the office, or your water cold for a whole day at the beach.
 💪🏼 MADE TO LAST - High quality stainless steel makes this bottle practically indestructible. The O ring that makes the lid leakproof is NOT plastic but silicone. 100% food safe and eco friendly.
@@ -3645,7 +3645,7 @@ Brand Undisposabl
 Manufacturer Undisposabl
 Package Dimensions 26.5 x 7.6 x 7.6 cm; 330 Grams
 ASIN B08HDG6PFB
-",metal,green,330g
+",metal,green,330g,350ml
 "QuiFit 2 Litre Water Bottle - with Strainer & Time Marker, Fruit Infuser Travel Water Bottle BPA Free Ideal for Sport Outdoor Fitness Gym
 Colour Light Pink
 Material TRITAN
@@ -3666,7 +3666,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Product Dimensions 5.08 x 5.08 x 15.24 cm; 240 Grams
 ASIN B07WPCWTQP
-",plastic,pink,240g
+",plastic,pink,240g,2000ml
 "Smiggle Illusion Silicone Roll-Up Water Drink Bottle for Girls & Boys with Flip Top Spout & 600ml Capacity | Food Print
 600ml
 Dia 7cm x H 20cm
@@ -3678,7 +3678,7 @@ Model Number 263365
 Colour Grey
 Product Dimensions 7 x 7 x 20 cm; 100 Grams
 Item Weight 100 g
-",other,grey,100g
+",other,grey,100g,600ml
 "BOGI 500ml Insulated Water Bottle Double Wall Vacuum Stainless Steel Bottle Leak Proof keeps Hot and Cold Drinks for Outdoor Sports Camping Hiking Cycling, Comes with a Cleaning Brush Gift
 Colour Mint
 Material Stainless Steel
@@ -3698,7 +3698,7 @@ Manufacturer BOGI
 Manufacturer reference BE08-Mint
 Package Dimensions 27.6 x 8.6 x 7.6 cm; 358.34 Grams
 ASIN B073S46N48
-",metal,other,358g
+",metal,other,358g,500ml
 "Ion8 Leak Proof Slim Water Bottle, BPA Cats
 Colour Rose (Cats)
 Material Phthalate free, non-toxic, BPA free plastic
@@ -3725,7 +3725,7 @@ Manufacturer ion8
 Item model number B08HQMLK5T
 Product Dimensions 7 x 6.5 x 23 cm; 141 Grams
 ASIN B08HQMLK5T
-",plastic,red,141g
+",plastic,red,141g,500ml
 "LEZFIT 2.2 Litre Large Water Bottle - Durable&Leakproof Big Water Bottles- BPA free Water Jug -Ideal for: Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office
 Colour Black
 Material Plastic
@@ -3743,7 +3743,7 @@ Brand LEZFIT
 Manufacturer LEZFIT
 Package Dimensions 27.6 x 13.8 x 13.6 cm; 290 Grams
 ASIN B07SN7SX7N
-",plastic,black,290g
+",plastic,black,290g,2.2L
 "Minecraft 91355Z , Plastic Drinking Bottle, Merchandise, PP
 Minecraft Drinks Bottle: This minecraft drinking bottle is made from good quality, durable plastic so you can use it over and over again
 Environmentally friendly Minecraft bottles: Reusable water bottles are environmentally friendly and a great way to keep your drink on hand wherever you travel, whether that’s to the gym, office, or a camping trip
@@ -3755,7 +3755,7 @@ Model Number 91355Z
 Product Dimensions 6 x 6 x 20.5 cm; 98 Grams
 Material Polypropylene
 Item Weight 98 g
-",other,other,98g
+",other,other,98g,other
 "Fringoo Kids Water Bottle with Straw 100% Leakproof BPA FREE 600ml Bottle For School Nursery | Travel Bottle for Children | Sport Water Bottle
 Colour Traffic Jam
 Material Tritan
@@ -3778,7 +3778,7 @@ Department Children's
 Manufacturer Fringoo
 Package Dimensions 12 x 8 x 8 cm; 20 Grams
 ASIN B083M44BBN
-",plastic,other,20g
+",plastic,other,20g,600ml
 "Contigo Pack of 3 BPA Brand Water Bottles 700 ml
 Material Plastic
 Capacity 700 Millilitres
@@ -3796,7 +3796,7 @@ Item Package Quantity 3
 Batteries included? No
 Batteries Required? No
 Item Weight 798 g
-",plastic,other,798g
+",plastic,other,798g,700ml
 "Smiggle Smiggler Kids Water Drink Bottle for Boys & Girls with Flip Top Spout and 650ml Capacity | Black
 650ml
 Dia. 6.5cm x H 24cm
@@ -3808,7 +3808,7 @@ Model Number 258980
 Colour Black
 Product Dimensions 6.5 x 6.5 x 24 cm; 140 Grams
 Item Weight 140 g
-",plastic,black,140g
+",plastic,black,140g,650ml
 "Opard 2 Litre Water Bottle with Time Markings to Drink Half Gallon Motivational Water Bottle with Straw and Handle Large BPA Free Water Jug for Sports Gym Fitness
 Colour Red & Purple
 Material Tritan
@@ -3834,7 +3834,7 @@ Manufacturer Shenzhen City LeTu Technology Co., Ltd
 Manufacturer reference WB27-FA1
 Product Dimensions 11 x 11 x 30 cm; 290 Grams
 ASIN B08736NRQ3
-",plastic,red,271g
+",plastic,red,271g,2000ml
 "adidas Glass Water Bottle
 Colour Clear Orange
 Material Synthetic, Glass
@@ -3856,7 +3856,7 @@ Manufacturer adidas (ADIEP)
 Item model number ADYG-40100CO
 Product Dimensions 6.1 x 21.8 x 21.8 cm; 320 Grams
 ASIN B07DWZHV42
-",glass,orange,320g
+",glass,orange,320g,410ml
 "FunKitZ by AToZ UK Kids Water Bottles - Collapsible, Silicone, Childrens Water Bottle - Birthday Gifts For Boys and Girls - BPA Free, Leakproof, Cleaning Brush, Durable - 550ml
 Colour Field
 Material Silicone
@@ -3880,7 +3880,7 @@ Manufacturer Shenzhen Jewelives Industrial Co. Ltd
 Manufacturer reference Football
 Product Dimensions 8 x 8 x 10 cm; 140 Grams
 ASIN B07PN5PJ8Q
-",other,other,140g
+",other,other,140g,550ml
 "SLUXKE 3.78L/2.2L Water Bottle Motivational Sports Water Bottle with Time Marker, BPA Free, Leakproof, Resuable Large Fitness Water Jug for Gym, Training, Hiking, Travel, Office,School
 Colour A5 Black
 Material PETG
@@ -3900,7 +3900,7 @@ Manufacturer SHANJIAN-EU
 Manufacturer reference SJ-2Lstraw-DE-Black
 Package Dimensions 25.5 x 13.5 x 1 cm; 260 Grams
 ASIN B08M6DNLK6
-",plastic,black,260g
+",plastic,black,260g,2000ml
 "Newdora Water Bottle, Stainless Steel Flask, 500ml, BPA Free, 12 Hours Hot or 24 Hours Cold, Leak Proof, Vacuum Insulated bottle for Men,Women, Drink Flask for Sports,Outdoor,With Cleaning Brush
 Colour Sunset Glow
 Brand Newdora
@@ -3914,7 +3914,7 @@ Cleaning Brush & After-sales Services:In order to provide our customers with a p
 Package Dimensions 27.5 x 8.6 x 8.1 cm; 380 Grams
 Is mould resistant BPA Free, Phthalate Free
 Batteries required No
-",metal,other,380g
+",metal,other,380g,500ml
 "Sup Drinkwear Insulated Wine Bottle Stainless Steel Wine Cooler | 24 Hours Cold / 12 Hours Hot | 750ml / 75cl Flask Aqua Turquoise
 INSULATED WINE BOTTLE holds a large 750ml bottle of wine. The ultimate wine cooler is here - say goodbye to cool bags and hello to our new portable stainless steel wine bottles. Leak-proof design and no drips or condensation, ever!
 STAINLESS STEEL WINE COOLER uses Sup-Cool technology utilising double wall vacuum steel to keep wine cooler for over 24 hours. Our clever insulated wine bottle also acts as an insulated hot drinks bottle too, keeping hot drinks hot for 12 hours, and cold for 24.
@@ -3926,7 +3926,7 @@ Model Number SWB75TRQ
 Colour Aqua Turquoise
 Package Dimensions 33.9 x 9.3 x 9.2 cm; 630 Grams
 Item Weight 630 g
-",metal,other,630g
+",metal,other,630g,750ml
 "ETDW 1Litre Water Bottle with Straw & Leakproof Flip Top Lid, 1L BPA Free Tritan Water Bottle with Time Marker, 1000ml Cycling Bottles for Cycling, Running, Gym, Yoga, Camping
 Colour Clear Black
 Material 100% FDA Tritan（Non-Toxic BPA Free ）
@@ -3946,7 +3946,7 @@ Brand ETDW
 Manufacturer ETDW
 Product Dimensions 27 x 8 x 8 cm; 190 Grams
 ASIN B08NP871XL
-",plastic,black,190g
+",plastic,black,190g,1000ml
 "COVACURE 2.2/3.78 Litre Water Bottle - Sport Water Bottle with Times to Drink, BPA Free, Durable, Reusable, for Gym, Training, Hiking, Travel, Office & School(Blue & Transparent)
 Colour Blue
 Material Rubber
@@ -3968,7 +3968,7 @@ Brand COVACURE
 Manufacturer COVACURE
 Product Dimensions 13 x 13 x 27 cm; 220 Grams
 ASIN B07V3VFFK2
-",other,blue,220g
+",other,blue,220g,2.2L
 "Ultimate Performance Runners Bottle 300cc - Opaque - SS21
 Colour Clear
 Material Plastic
@@ -3988,7 +3988,7 @@ Manufacturer Ultimate Performance
 Item model number UP-B300C
 Product Dimensions 16 x 18.29 x 3.3 cm; 40 Grams
 ASIN B009HMZT9Y
-",plastic,other,40g
+",plastic,other,40g,300ml
 "Fringoo - Kids Spray Mist Non Toxic and BPA Free Water Bottle 600 ml
 Colour Rainbow Smile
 Material Plastic
@@ -4005,7 +4005,7 @@ Brand Fringoo
 Manufacturer Fringoo
 Package Dimensions 27.43 x 9.14 x 7.62 cm; 180 Grams
 ASIN B08B8VM6HH
-",plastic,other,180g
+",plastic,other,180g,600ml
 "Ion8 Kids Water Bottle, Princess, 400ml
 Colour Princess
 Material Phthalate free, non-toxic, BPA free plastic
@@ -4030,7 +4030,7 @@ Manufacturer ion8
 Item model number B08XY9L3WK
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08XY9L3WK
-",plastic,other,109g
+",plastic,other,109g,600ml
 "Trolls Reusable 600ml PP Water Bottle with Straw for Kids-Official Merchandise by Polar Gear Drinking School Nursery Sports Picnic BPA Free, Plastic, Pink
 Colour Pink
 Material Reusable PP Plastic
@@ -4048,7 +4048,7 @@ Product Dimensions 6.6 x 6.6 x 23 cm; 92 Grams
 Capacity 600 Millilitres
 Material Reusable PP Plastic
 Item Weight 92 g
-",plastic,pink,92g
+",plastic,pink,92g,500ml
 "EYIN Hydrate [2021] Smart Self-Cleaning Water Bottle with UV Purifier Temperature Display Drinking Reminder FREE Reusable Straw (Black)
 Colour Black
 Material Stainless Steel
@@ -4068,7 +4068,7 @@ Batteries included? Yes
 Batteries Required? Yes
 Battery Cell Type Lithium Ion
 Item Weight 420 g
-",metal,black,420g
+",metal,black,420g,500ml
 "OMORC Sports Water Bottle with Time Marker,32oz/900ml BPA Free Tritan Plastic Leakproof Drinking Bottle with Filter&Locking Flip-Flop Lid, Fitness Workout Water Bottle for School, Gym, Bicycle, Yoga
 Colour Azure Violet
 Material Plastic
@@ -4086,7 +4086,7 @@ Brand OMORC
 Manufacturer OMORC
 Package Dimensions 26.5 x 7.9 x 7.8 cm; 220 Grams
 ASIN B08PQG65RY
-",plastic,other,220g
+",plastic,other,220g,900ml
 "Stainless Steel Water Bottle Pink 500ml | Thermal Flask | Ocean Charity | Perfect for Outdoors, Gym, Camping & Travel | Hydration | Reusable, Recyclable, Insulated, Sustainable
 Colour Dusty Rose
 Material Stainless Steel
@@ -4103,7 +4103,7 @@ Brand Dolphin Bottles
 Manufacturer Dolphin Bottles
 Package Dimensions 27 x 7.7 x 7.4 cm; 360 Grams
 ASIN B08JTXQRC6
-",metal,red,360g
+",metal,red,360g,500ml
 "Be-Active Glass Water Bottle 700ml Flip Top with Times to Drink | Borosilicate Glass | Motivational bottles | BPA Free | Eco Friendly
 Colour Turquoise
 Material Glass
@@ -4122,7 +4122,7 @@ Brand Be-Active
 Manufacturer Be-Active
 Package Dimensions 26 x 10 x 8 cm; 480 Grams
 ASIN B089FLYQRP
-",glass,other,480g
+",glass,other,480g,700ml
 "Sfee 17oz Insulated Stainless Steel Water Bottle Double Wall Vacuum Bottle Cup Leak Proof Keeps Hot and Cold Drinks BPA Free for Outdoor Sports Camping Hiking Cycling + Cleaning Brush
 Colour Black
 Material Stainless Steel
@@ -4143,7 +4143,7 @@ Manufacturer SF-UK
 Manufacturer reference KC04-Black
 Package Dimensions 27.6 x 8 x 7.8 cm; 360 Grams
 ASIN B07TJ6W99S
-",metal,black,360g
+",metal,black,360g,500ml
 "Paladone Mario Kart Metal Water Bottle
 Iconic design: This stylish water bottle mimics the design of traditional racing flags with images from Nintendo's Mario Kart series. Featuring the logo from the Mushroom Cup and Special Cup, fans of Mario Kart can use this bottle for hot and cold liquids
 Super merchandise: Level up with an officially licensed metal water bottle based on the popular Mario video games. Mario and his brother Luigi are loved among fans & are instantly recognisable characters
@@ -4158,7 +4158,7 @@ Material Stainless Steel, Metal
 Batteries included? No
 Batteries Required? No
 Item Weight 262 g
-",metal,other,262g
+",metal,other,262g,other
 "Insulated Water Bottle | Stainless Steel Water Bottle 1000 ml | Eco Friendly Reusable Bottle | Leakproof and Plastic Free Metal Water Bottle| Keeps Hot and Cold Drinks | Eco Water Bottle | Bambaw
 Brand Bambaw
 Capacity 1000 Millilitres
@@ -4174,7 +4174,7 @@ Capacity 1000 Millilitres
 Material Steel
 Special Features Big opening
 Item Weight 540 g
-",metal,other,540g
+",metal,other,540g,1000ml
 "Sport Water Bottle, 1L Large Capacity Leakproof Water Bottle Eco-friendly Portable Sports Bottles Drink Bottles with Time Marker for School Outdoor Camping Gym Sports Fitness - Blue/Purple Gradient
 Colour Blue/Purple Gradient
 Material Plastic
@@ -4192,7 +4192,7 @@ Brand Esyhomi
 Manufacturer Esyhomi
 Package Dimensions 30.1 x 8.5 x 8.4 cm; 250 Grams
 ASIN B08FR7Z7C1
-",plastic,blue,250g
+",plastic,blue,250g,1000ml
 "Polar Gear Water Tracker Bottle – Measure Hydration & Set Drinking Goals at Home Or On The Go – Leakproof, BPA Free & Dishwasher Safe – with Straw – for The Gym/Car & Outdoors – Blue, 750ml
 Colour Turquoise
 Brand Polar Gear
@@ -4210,7 +4210,7 @@ Item volume 750 Millilitres
 Anti-Tick Material Eastman Tritan
 Is mould resistant BPA Free
 Batteries required No
-",plastic,other,140g
+",plastic,other,140g,400ml
 "Ion8 Kids Water Bottle, Puppy, 400ml
 Colour Puppy
 Material Phthalate free, non-toxic, BPA free plastic
@@ -4237,7 +4237,7 @@ Manufacturer ion8
 Item model number B08XY7BW82
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08XY7BW82
-",plastic,other,109g
+",plastic,other,109g,400ml
 "iglu Bottles | Premium Double Walled Stainless Steel | Vacuum Insulated Reusable Water Bottle |12 Hours Hot & 24 Hours Cold | Sweatproof & BPA Free Flask | Great His & Her Gift (Sea Salt, 500ml)
 PREMIUM MATERIALS - your iglu is constructed using durable and premium stainless steel ensuring your drinks stays fresh and flavoursome wherever you are. Combining 18/8 stainless steel with modern airtight vacuum technology means your iglu will keep your drink hot or cold for hours on end (cold for up to 24 hours or hot for up to 12 hours).
 CURVACEOUS DESIGN - we love incorporating curves into iglu designs, from our coffee cups to our food pots it makes for beautiful designs and allows your iglus to have a larger capacity in a smaller form factor. Being slightly wider at the hips the iglu bottle is shorter in height making it great for fitting in sports bags, handbags and having a snug fit in your cup holder making it much less likely to tip over.
@@ -4248,7 +4248,7 @@ Brand Iglu
 Colour Sea Salt
 Package Dimensions 23.2 x 8.3 x 8.3 cm; 370 Grams
 Item Weight 370 g
-",metal,other,370g
+",metal,other,370g,500ml
 "PEAK SUPPS 2.2 Litre Water Bottle - Screw Cap - BPA Free
 Safe and economic BPA and DEHP free – Leak-proof design, strong and durable – Easy carry handle suitable for daily use.
 Versatile - Our water jugs have a large fluid capacity and an easy grip handle, making it ideal for day to day use and any sport.
@@ -4258,7 +4258,7 @@ Free Delivery on all UK orders.
 Weight 200 Grams
 Units 1 count
 Brand Peak Supps
-",other,other,200g
+",other,other,200g,2.2L
 "One Green Bottle – Tough Canteen Water Bottle with Classic Sports Cap, Stainless Steel Water Bottle, Non-Insulated, Single-Skinned Eco Bottle, 800ml (Liquorice Black)
 Colour Liquorice Black
 Material Stainless Steel
@@ -4277,7 +4277,7 @@ Material Stainless Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 330 g
-",metal,black,330g
+",metal,black,330g,800ml
 "XBOTTLE 2.5 Litre Large Water Bottles with Times to Drink & Fruit Infuser - Color Optional- Dishwasher Safe - BPA Free, Ideal for Gym Office Home Hydration
 Colour Transparent White
 Material Stainless Steel, Plastic
@@ -4299,7 +4299,7 @@ Department Men's
 Manufacturer XBOTTLE
 Package Dimensions 35.1 x 20.2 x 14.1 cm; 310 Grams
 ASIN B082TXYN4W
-",metal,white,310g
+",metal,white,310g,2000ml
 "Triple Insulated Stainless Steel Water Bottle (Set of 2) 500ml Insulated Water Bottles, 100% Leakproof Travel Bottle Keeps Hot and Cold - BPA-Free Reusable Flask - Non-Sweat Metal Drinking Bottle
 Colour Brushed Stainless Steel
 Material Stainless Steel
@@ -4317,7 +4317,7 @@ Package Dimensions 27.41 x 15.49 x 7.59 cm; 481.94 Grams
 Capacity 500 Millilitres
 Material Stainless Steel
 Item Weight 481 g
-",metal,other,481g
+",metal,other,481g,500ml
 "Ion8 Leak Proof Kids' Water Bottle, BPA Free, Kittens
 Colour Kittens
 Material Phthalate free, non-toxic, BPA free plastic
@@ -4347,7 +4347,7 @@ Manufacturer ion8
 Item model number B08HQQ88WQ
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08HQQ88WQ
-",plastic,other,109g
+",plastic,other,109g,400ml
 "Sistema Quick Flip Bottle 520 ml, Tritan Plastic, Assorted Colours
 Colour Assorted Colours
 Material Tritan Plastic
@@ -4365,7 +4365,7 @@ Product Dimensions 7.2 x 7.9 x 20 cm; 110 Grams
 Capacity 520 Millilitres
 Material Tritan Plastic
 Item Weight 110 g
-",plastic,other,110g
+",plastic,other,110g,520ml
 "Elite Fly 750ml
 Colour Black
 Material Other
@@ -4383,7 +4383,7 @@ Manufacturer Elite
 Item model number 0160752
 Product Dimensions 23.14 x 7.59 x 7.59 cm; 40 Grams
 ASIN B07ZK1LNPX
-",other,black,40g
+",other,black,40g,750ml
 "essentiae Water Bottle with Straw and Times Encourage You to Drink Enough Water - for Kids, Adult, Gym, Work
 Colour Pink
 Material BPA Free Tritan Plastic
@@ -4409,7 +4409,7 @@ Department Women, Men, Girls, Boys, Unisex Adult and Children
 Manufacturer essentiae
 Product Dimensions 7.8 x 7.8 x 27.8 cm; 180 Grams
 ASIN B07D1T5FQF
-",plastic,pink,180g
+",plastic,pink,180g,900ml
 "Smiggle Beam Water Drink Bottle for Boys & Girls with Silicone Spout, 700ml Capacity & Misting Function | Food Print
 700ml
 Dia. 7.3cm x H 24.5cm
@@ -4421,7 +4421,7 @@ Model Number 256673
 Colour Mint
 Product Dimensions 7.3 x 7.3 x 24.5 cm; 160 Grams
 Item Weight 160 g
-",plastic,other,160g
+",plastic,other,160g,700ml
 "Diller 1 Litre Glass Water Bottles 1L Borosilicate Bottle Large Clear Water Bottle 1000ML/800ML H376
 Colour A
 Material Glass
@@ -4435,7 +4435,7 @@ Brand Diller
 Manufacturer Diller
 Package Dimensions 25.7 x 9.6 x 9.4 cm; 517 Grams
 ASIN B089NF1NVC
-",glass,other,517g
+",glass,other,517g,1000ml
 "Alpha Bottle XXL + Alpha Bottle V2 – Anti-Bacterial BPA and DEHP Free Protein Shaker with BioCote® Technology. Ideal For Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office, Half Gallon (Red)
 Colour Red
 Material Plastic
@@ -4452,7 +4452,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 675 g
-",plastic,red,675g
+",plastic,red,675g,other
 "Ion8 Leak Proof Slim Water Bottle, BPA Free, Gamer
 Colour Grey (Gamer)
 Material Phthalate free, non-toxic, BPA free plastic
@@ -4478,7 +4478,7 @@ Manufacturer ion8
 Item model number I8500FPGGAME
 Product Dimensions 7 x 6.5 x 23 cm; 141 Grams
 ASIN B08HQN42D4
-",plastic,grey,141g
+",plastic,grey,141g,600ml
 "Be-Active Glass Water Bottle with Times to Drink - Borosilicate Glass – Motivational bottles - BPA Free Sizes 550ml & 1 Litre
 Colour Black
 Material Stainless Steel, Glass, Silicone, Plastic
@@ -4498,7 +4498,7 @@ Brand Be-Active
 Manufacturer Be-Active
 Product Dimensions 29 x 8 x 8 cm; 540 Grams
 ASIN B07NPQGNDC
-",glass,black,540g
+",glass,black,540g,1000ml
 "HZLIEIY Leak Proof Water Bottle, Bpa-free, Eco-friendly Bottle for Kids,Adults,Sports,Office,Travel,School | Tritan Plastic Drinks Bottle | Opens with One Click - 750ml
 Colour Straw Pink 750ml
 Material Plastic
@@ -4517,7 +4517,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 220 g
-",plastic,pink,220g
+",plastic,pink,220g,750ml
 "Kids Water Bottles Ice Cream - 500ml Children Water Bottle - Girls Water Bottle Leakproof - BPA Free Children Drinking Bottle - Collapsible Drinks bottles
 Colour Multicolour
 Material Silicone Rubber
@@ -4541,7 +4541,7 @@ Manufacturer KingGrit
 Manufacturer reference F54120
 Product Dimensions 7.49 x 7.49 x 17.5 cm; 120 Grams
 ASIN B07X2XB927
-",other,other,120g
+",other,other,120g,500ml
 "Snowpea Leak Proof Water Bottle 1L - Canteen Drinking Bottles - Fast Flow Flip Up Lid Sports Flask BPA Free Tritan Plastic Drinking Container - Ideal for Running Cycling Hiking Gym 1000 ml (36 oz)
 Colour Black
 Material Tritan Copolyester, BPA Free, Plasticiser Free, DEHP Free
@@ -4565,7 +4565,7 @@ Included Components Shaker + Cleaning Brush (Random Color)
 Batteries included? No
 Batteries Required? No
 Item Weight 327 g
-",plastic,black,327g
+",plastic,black,327g,1000ml
 "Involve & Evolve Insulated Water Bottle with 3 Lids (Straw Lid) Kids Reusable Double Walled Stainless Steel Flask Thermos 350ml 500ml 600ml 750ml
 Colour Black
 Material Stainless Steel
@@ -4586,7 +4586,7 @@ Manufacturer Involve & Evolve
 Manufacturer reference P2-K1LS-MEDP
 Package Dimensions 22.6 x 13.6 x 7.8 cm; 456 Grams
 ASIN B07Y7YZVND
-",metal,black,456g
+",metal,black,456g,500ml
 "Minecraft Torch 22oz Kids Plastic Screw Lid Water Bottle
 Colour Brown
 Material Plastic
@@ -4604,7 +4604,7 @@ Product Dimensions 27.5 x 7 x 7 cm; 200 Grams
 Capacity 624 Grams
 Material Plastic
 Item Weight 200 g
-",plastic,brown,200g
+",plastic,brown,200g,22oz
 "Glass Water Bottles 6 Pack Deluxe Set 18oz - Includes 6 Sleeves. Stainless Steel Lids - Kombucha, Juice, Tea
 Colour Pink, Purple, Green, Gray, Black
 Material Glass
@@ -4622,7 +4622,7 @@ Product Dimensions 24.13 x 16.51 x 24.13 cm; 1.36 Kilograms
 Capacity 510 Grams
 Material Glass
 Item Weight 1.36 kg
-",glass,pink,1.36kg
+",glass,pink,1.36kg,18oz
 "SIGG VIVA, Sports & Bike Water Bottle, Polypropylen, BPA Free, 0.5 L and 0.75L
 Colour Red
 Brand Sigg
@@ -4649,7 +4649,7 @@ Manufacturer SIGG
 Item model number 8596.6
 Product Dimensions 24.99 x 5.99 x 5.99 cm; 119.07 Grams
 ASIN B01DQXP90S
-",other,red,119g
+",other,red,119g,0.5L
 "mintie Stainless Steel Water Bottle (350ml) Small Metal Leakproof Drinks Flask for Kids, Children, School 12oz BPA Free with Warranty. Hiking, Cycling, Gym, Camping
 Colour Silver
 Brand Mintie
@@ -4670,7 +4670,7 @@ Brand Mintie
 Manufacturer Environmental Life
 Product Dimensions 15.01 x 8 x 8 cm; 180 Grams
 ASIN B07FCKP379
-",metal,silver,180g
+",metal,silver,180g,350ml
 "Freak Athletics Water Bottle - Premium BPA Free Sports Bottle 750ml - 650ml
 Colour Pink Transparent
 Capacity 750 Millilitres
@@ -4682,7 +4682,7 @@ Brand Freak Athletics
 Manufacturer Freak Athletics
 Package Dimensions 23 x 7 x 6.2 cm; 100 Grams
 ASIN B088MDXDYH
-",other,pink,100g
+",other,pink,100g,650ml
 "HoneyHolly Sports Water Bottle - 350ml/500ml/800ml/1 Litre/1.5 Litre, Leak Proof BPA Free Bottle for Kids, Gym, Bicycle
 Colour Glossy Blue Green
 Material Import Tritan Plastic
@@ -4707,7 +4707,7 @@ Manufacturer HoneyHolly
 Item model number HH-XNB-G
 Package Dimensions 18.4 x 7.2 x 7.2 cm; 160 Grams
 ASIN B07QNNT3FS
-",plastic,blue,160g
+",plastic,blue,160g,350ml
 "WELTRXE Large Water Bottle with Straw, 1.5 Litre Sports Bottle with Handle, Leak-Proof BPA Free Tritan Bottle for Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office
 Colour Grey
 Material BPA-free Tritan
@@ -4725,7 +4725,7 @@ Brand WELTRXE
 Manufacturer WELTRXE
 Package Dimensions 26 x 16.6 x 11.8 cm; 320 Grams
 ASIN B07CHN73C6
-",plastic,grey,320g
+",plastic,grey,320g,1500ml
 "GEMFUL Water Bottle 32oz with Time Marker Straw and Sieve Tritan BPA Free for Fitness Gym Outdoor Sports (Yellow)
 Colour Yellow
 Material Plastic
@@ -4742,7 +4742,7 @@ Colour Yellow
 Material Plastic
 Batteries Required? No
 Item Weight 210 g
-",plastic,yellow,210g
+",plastic,yellow,210g,32oz
 "Sports Water Bottle, 2.2l Water Bottle with Time Markings - BPA Free Xl Jug Leak Free Large with Handle Durable Reusable for Gym, Training, Hiking, Travel, Office, School
 Colour Clear
 Material Plastic
@@ -4761,7 +4761,7 @@ Material Plastic
 Number Of Pieces 1
 Batteries Required? No
 Item Weight 270 g
-",plastic,other,270g
+",plastic,other,270g,2200ml
 "OMORC Stainless Steel Sports Water Bottle,1200ml/40ozl BPA Free Vacuum Insulated Drink Bottle,28h Cold/14h Hot,Leakproof,Wide Mouth Thermo Metal Flask for Gym,School,Travel,Camping,Fitness+Straw Lid
 Colour 1-pink
 Material Stainless Steel
@@ -4778,7 +4778,7 @@ Colour 1-pink
 Material Stainless Steel
 Batteries Required? No
 Item Weight 730 g
-",metal,pink,730g
+",metal,pink,730g,1200ml
 "Pack of 6 460ML Twist n Sip Sistema BPA Free Hydrate Water Bottles (Assorted Colours)
 Volume capacity 460 Millilitres
 Batteries included? No
@@ -4786,7 +4786,7 @@ Brand Angraves
 Manufacturer reference Onetour-vsd126
 Package Dimensions 21 x 19.9 x 14.3 cm; 370 Grams
 ASIN B07BJBHXKQ
-",other,other,370g
+",other,other,370g,460ml
 "Phizz Pro Sports Water Bottle 1 Litre (Hygienic Lid 1 Litre)
 Material Plastic
 Capacity 1 litres
@@ -4798,7 +4798,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 120 g
-",plastic,other,120g
+",plastic,other,120g,1L
 "LUTER 1000ml/35 Ounce Milk Carton Water Bottle, Clear Square Milk Bottle Leakproof Refill Water Juice Bottle Container for Travel Camping Climbing Outdoor Sports
 Material Plastic
 Capacity 992 Grams
@@ -4816,7 +4816,7 @@ Size 1000ml
 Material Plastic
 Batteries Required? No
 Item Weight 260 g
-",plastic,other,260g
+",plastic,other,260g,1000ml
 "SLUXKE 1 Litre / 32 oz Sports Water Bottle,BPA Free Tritan Drinking Water Bottles with Flip Top Open,1 Click Reusable Leakproof Lid for Kids, Gym, Yoga, Cycling, Outdoors Travel Reusable Water Bottle
 Colour A6-cleer Black
 Material BPA free, non-toxic tritan
@@ -4836,7 +4836,7 @@ Manufacturer SHANJIAN-EU
 Manufacturer reference SJ-1L-UK-Clear red
 Package Dimensions 28.8 x 9 x 9 cm; 180 Grams
 ASIN B087N2R1YT
-",plastic,black,180g
+",plastic,black,180g,1000ml
 "Phoenix Fitness Smoked 2L Drinks Water Bottle Cap with Strap
 Colour Smoked
 Material Stainless Steel, Plastic
@@ -4858,7 +4858,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 118 g
-",metal,other,118g
+",metal,other,118g,2L
 "Qiyazi Collapsible Water Bottle, 500ML BPA-Free Silicone Five Height Level Bottle for Gym Camping & Outdoor Sports, The Best Gift for Girl and Boy (Rainbow)
 Colour Rainbow
 Material Silicone
@@ -4876,7 +4876,7 @@ Material Silicone
 Batteries included? No
 Batteries Required? No
 Item Weight 190 g
-",other,other,190g
+",other,other,190g,500ml
 "Kids Water Bottle by elefunkie – Football Gifts for Boys – Unique Water Bottle for Kids, Collapsible - Childrens Water Bottle, BPA Free - Boys Water Bottle 500ml, Free eBook Name Tag…
 Colour Water Bottle
 Material Silicone
@@ -4899,7 +4899,7 @@ Brand King Grit
 Manufacturer King Grit
 Product Dimensions 8.7 x 8.7 x 10 cm; 190 Grams
 ASIN B07JM7W87J
-",other,other,190g
+",other,other,190g,550ml
 "QuiFit 2L/3.8L Portable Motivational Water Bottle - with Straw & Time Marked Tritan Sport Daily Water Jug BPA Free
 Colour Black
 Material Plastic
@@ -4921,7 +4921,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Package Dimensions 33.4 x 14.4 x 14.2 cm; 320 Grams
 ASIN B07J6P3JTH
-",plastic,black,320g
+",plastic,black,320g,2000ml
 "Sistema Hydrate Tritan Swift Bottle-600 ml, Assorted Colours, 9 x 7.3 x 10.9 cm
 Colour Assorted
 Material Plastic
@@ -4939,7 +4939,7 @@ Product Dimensions 9 x 7.3 x 10.9 cm; 120 Grams
 Capacity 0.6 litres
 Material Plastic
 Item Weight 120 g
-",plastic,other,120g
+",plastic,other,120g,0.6L
 "BuildLife Motivational 2L/3.8L Water Bottle - BPA Free with Straw & Phone Holder Handle/Reminder to Drink More Daily/Leak Proof Reusable Large Capacity
 Colour Black
 Material Plastic
@@ -4959,7 +4959,7 @@ Brand BuildLife
 Manufacturer BuildLife
 Package Dimensions 34 x 12.4 x 11.8 cm; 300 Grams
 ASIN B08931RBW5
-",plastic,black,300g
+",plastic,black,300g,2000ml
 "OMORC Sports Water Bottle with Time Marker,32oz/900ml BPA Free Tritan Plastic Leakproof Drinking Bottle with Filter&Locking Flip-Flop Lid, Fitness Workout Water Bottle for School, Gym, Bicycle, Yoga
 Colour Grey
 Material Plastic
@@ -4981,7 +4981,7 @@ Manufacturer OMORC
 Manufacturer reference DE-301-6
 Package Dimensions 26.7 x 8.1 x 7.9 cm; 310 Grams
 ASIN B085PVM8BZ
-",plastic,grey,310g
+",plastic,grey,310g,900ml
 "Baomay Sports Water Bottle 500ml 750ml 1Litre, Adults/Kids Water Bottle with Filter, Tritan Plastic Drinks Bottle For Gym Fitness, Bike Cycling, Soccer Runing, Hiking | Non-Toxic Leakproof BPA-Free
 Colour Crystal-blueberry
 Material Tritan Plastic BPA Free
@@ -5006,7 +5006,7 @@ Manufacturer Baomay
 Item model number Clear Transparent bottle
 Package Dimensions 24.2 x 7 x 6.9 cm; 190 Grams
 ASIN B08HK147DF
-",plastic,other,190g
+",plastic,other,190g,500ml
 "Nike HYPERFUEL Water Bottle 18oz Fitness and Exercise Bottle, Adult Unisex, Multicoloured (Gold BlaBla), One Size
 Colour Multicoloured (Orabla)
 Material Compound
@@ -5019,7 +5019,7 @@ Modern design
 Package Dimensions 21 x 8 x 7 cm; 80 Grams
 Batteries required No
 Included components Bottle + Manual
-",other,other,80g
+",other,other,80g,18oz
 "Alpha Bottle XXL Eddie Hall 'Beast' Edition - 2400ml Water Jug/Gym Bottle - BPA Free Ideal For Gym, Dieting, Bodybuilding, Outdoor Sports, Half Gallon - Made in the UK 100% Food safe materials (Smoke)
 Colour Smoke
 Material Plastic
@@ -5031,7 +5031,7 @@ The heavy duty rubber carry handle makes the Alpha Bottle XXL easy to carry for 
 Leak proof design with removable silicone seal means you can take your bottle anywhere you go without worrying about leaks and spills. The seal is easily removable to make cleaning as easy as possible.
 Units 1 count
 Brand Alpha Designs
-",plastic,other,other
+",plastic,other,other,2400ml
 "Nerthus FIH 395 400ml glass Bottle Coral. BPA Free
 Colour Coral
 Brand NERTHUS
@@ -5048,7 +5048,7 @@ Item volume 0.4 Litres
 Is assembly required No
 Batteries required No
 Item weight 0.2 Kilograms
-",glass,other,0.2kg
+",glass,other,0.2kg,400ml
 "PRIMA CUMCE Smart water bottle Stainless Steel Thermos Flask for Hot and Cold Drinks with LED Temperature Display - Leakproof 500ml Thermos Flask with Tea Infuser Filter
 INNOVATIVE LED TEMPERATURE DISPLAY - Our vacuum flasks feature an innovative LED temperature display. With intelligent chip & sensitive touch technology, you can enjoy real-time water temperature readings at the touch of a finger.
 KEEPS LIQUIDS HOT/COLD FOR 24 HOURS - Brought to you by Prima Cumce, a UK brand, this smart flask has been designed with a double 304 stainless steel wall for vacuum insulation to ensure the contents remain hot/cold for 24 hours.
@@ -5062,7 +5062,7 @@ Material Stainless Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 312 g
-",metal,other,312g
+",metal,other,312g,500ml
 "Polar Gear Dinosaur Tritan Bottle 420ml, green and orange
 Colour Green and Orange
 Material Tritan
@@ -5081,7 +5081,7 @@ Capacity 420 Millilitres
 Material Tritan
 Special Features Flip up drinking straw
 Item Weight 70 g
-",plastic,green,70g
+",plastic,green,70g,420ml
 "EVIoX Glass Water Bottle 750mls Eco Friendly Sports Bottles + FREE Introduction to Intermittent Fasting E-book | Drinks Bottle Plastic Free Bottled Water Non Plastic Cool Stylish Gym Shaker Bottles
 Colour Black and Transparent
 Material Glass, Plastic
@@ -5101,7 +5101,7 @@ Manufacturer EVIoX
 Manufacturer reference BROOGY58tuwm4
 Package Dimensions 26.8 x 10 x 8.4 cm; 480 Grams
 ASIN B07V23L5VL
-",glass,black,480g
+",glass,black,480g,750ml
 "Hydracy Fruit Infuser Water Bottle - 1Litre Sport Bottle with Insulating Sleeve, Time Marker and Full Length Infusion Rod + 27 Fruit Infused Water Recipes eBook Gift -Your Healthy Hydration Made Easy
 Colour Rose Gold
 Capacity 907 Grams
@@ -5119,7 +5119,7 @@ Department Unisex
 Manufacturer Hydracy
 Package Dimensions 26.16 x 9.91 x 9.91 cm; 340 Grams
 ASIN B07ZTT6YV1
-",plastic,red,340g
+",plastic,red,340g,1000ml
 "Ion8 Leak Proof Slim Water Bottle, Stainless Steel, 600ml (20oz)
 Colour Purple
 Material Stainless Steel
@@ -5146,7 +5146,7 @@ Manufacturer ion8
 Item model number B089KSQH1R
 Product Dimensions 7 x 6.5 x 23 cm; 120 Grams
 ASIN B089KSQH1R
-",metal,purple,120g
+",metal,purple,120g,600ml
 "Alpha Bottle XL - 1.6 Litre Water Jug/Gym Bottle - BPA Free Ideal For Gym, Dieting, Bodybuilding, Outdoor Sports, Hiking & Office, Half Gallon - Made in the UK 100% Food safe materials (Black/Smoke)
 Colour Black / Smoke
 Material Plastic
@@ -5160,7 +5160,7 @@ Product Name Alpha Bottle XL 1600 ml Smoke
 Weight 195 Grams
 Units 1 count
 Brand Alpha Designs
-",plastic,black,195g
+",plastic,black,195g,1600ml
 "YouBottle Stainless Steel Water Bottle, Vacuum Insulated Reusable Bottles, Leakproof Metal BPA Free Eco Friendly Bottle,12 Hours Hot & 24 Hours Cold for Adult, Kids, Sports, Home-500ml
 Colour Harbor Blue
 Brand YouBottle
@@ -5182,7 +5182,7 @@ Brand YouBottle
 Manufacturer YouBottle
 Product Dimensions 7.3 x 7.3 x 24 cm; 40 Grams
 ASIN B08MJR8PQ5
-",metal,blue,40g
+",metal,blue,40g,500ml
 "elefunkie Kids Water Bottles Unicorn - 500ml Children Water Bottle - Girls Water Bottle Leakproof - BPA Free Children Drinking bottle - Collapsible Drinks Bottles
 Colour Multicolour
 Material Silicone
@@ -5201,7 +5201,7 @@ Brand Elefunkie
 Manufacturer elefunkie
 Package Dimensions 21.8 x 9.6 x 6.6 cm; 120 Grams
 ASIN B089NTDTPM
-",other,other,120g
+",other,other,120g,500ml
 "BuildLife 3.78L/2.2L Wide Mouth Gym Water Bottle with Times to Drink-Large BPA Free Capacity for Fitness Goals and Outdoor
 ❤Helps Hydrate You:AM & PM time lines work like magic to remind you to drink throughout the day. Track your progress with measurement marks which indicate how much water is left.
 ❤Big Capacity & Multiples colors: BuildLife 3.78L/2.2L water jug can let you fall in love with drinking not just because your body need.It has a wide enough mouth to add ice cubes or fruits like lemon, orange, and others to make your life healthier:One gallon super big capacity which can replenish the moisture loss after you do exercise.
@@ -5215,7 +5215,7 @@ Brand BuildLife
 Manufacturer BuildLife
 Package Dimensions 32.2 x 20 x 16.2 cm; 260 Grams
 ASIN B07YZ1PV1R
-",other,black,260g
+",other,black,260g,2.2L
 "Stainless Steel Water Bottle Vacuum Insulated Water Bottle | Leak-Proof, No Sweating | BPA Free-500ml Double Walled Vacuum Insulated | Keeps Cold for 24+ Hrs, Hot for 12 Hrs (White)
 VACUUM INSULATED WATER BOTTLE - Portable stainless steel metal water bottle with double walled insulated construction, you get both style and substance, fashion and function; keeps liquid cold up to 24h, hot up to 12h. A functional drink ware option for both winter and summer.
 WITH NON SPILL LID CAP - The stainless steel water bottle with vacuum-seal cap provides a good seal and ensures no water leakage. Each drinking bottle is completely leak proof with an easy to open twist-on cap. No matter the temperature of the liquid in this bottle, it will never sweat or be hot to the touch.
@@ -5228,7 +5228,7 @@ Colour White
 Package Dimensions 10 x 10 x 1 cm; 300 Grams
 Material Stainless Steel
 Item Weight 300 g
-",metal,white,300g
+",metal,white,300g,500ml
 "Tinc Tribal character-design Flip & Clip lockable leak-proof dishwasher safe water bottle with BPA free plastic - 500ml
 Colour Green
 Material Plastic
@@ -5255,7 +5255,7 @@ Manufacturer Tinc
 Item model number FCWBHUGR
 Product Dimensions 7 x 7 x 22 cm; 160 Grams
 ASIN B076CNSR4C
-",plastic,green,160g
+",plastic,green,160g,500ml
 "QuiFit 2 Litre Water Bottle - Flip Cap with Straw, Motivational Sport Bottles Ideal for Gym Camping Outdoor- BPA Free & Reusable
 Colour Pink
 Material Plastic
@@ -5273,7 +5273,7 @@ Brand QuiFit
 Manufacturer QuiFit
 Package Dimensions 30 x 11 x 11 cm; 300 Grams
 ASIN B08MX6FR83
-",plastic,pink,300g
+",plastic,pink,300g,2000ml
 "BuildLife 3.78L/2.2L Motivational Water Bottle Wide Mouth with Straw & Time Marked to Drink More Daily,BPA Free Reusable Gym Sports Outdoor
 ❤Innovative Time Marker:Our ergonomic and practical water bottle features a unique time marker on the exterior, which can help you monitor your daily water intake effortlessly.
 ❤Big Capacity & Multiples colors:BuildLife gallon water jug can let you fall in love with drinking not just because your body need.It has a wide enough mouth to add ice cubes or fruits like lemon, orange, and others to make your life healthier:One gallon super big capacity which can replenish the moisture loss after you do exercise. Multiples colors to choose, make you individuality and style in gyms.
@@ -5287,7 +5287,7 @@ Brand BuildLife
 Manufacturer BuildLife
 Package Dimensions 25.5 x 15.1 x 14 cm; 260 Grams
 ASIN B07X7LL9BQ
-",other,other,260g
+",other,other,260g,2.2L
 "KingSmonk Motivational Sports Water Bottle - 32oz BPA Free Tritan Drink Bottle with Filter & Time Marker Helps You Hydrate - Fast Flow, Flip Top Leak Proof Lid with One Click Open Yellow Blue
 Colour Yellow-blue
 Material Plastic
@@ -5305,7 +5305,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 190 g
-",plastic,yellow,190g
+",plastic,yellow,190g,32oz
 "Ion8 Leak Proof Kids' Water Bottle, BPA Free, Football, 400ml
 Colour Football
 Material Phthalate free, non-toxic, BPA free plastic
@@ -5332,7 +5332,7 @@ Manufacturer ion8
 Item model number B08HQN5142
 Product Dimensions 7 x 6.5 x 17 cm; 109 Grams
 ASIN B08HQN5142
-",plastic,other,109g
+",plastic,other,109g,400ml
 "MIKAMEE Insulated Water Bottles 350ml 500ml 650ml 750ml Metal Water Bottle Bpa Free Leakproof Keep Cold 24 Hrs & 12 Hrs Hot for kids Men Women & Children School| Sports Running Yoga Gym
 Colour B Purple
 Material Stainless Steel
@@ -5355,7 +5355,7 @@ Manufacturer MIKAMEE
 Item model number MKM-191101-077
 Package Dimensions 23.2 x 7.3 x 7.3 cm; 238 Grams
 ASIN B07ZV2KHVJ
-",metal,purple,238g
+",metal,purple,238g,350ml
 "Ion8 Leak Proof Slim Water Bottle, BPA Free, Paint Splat
 Colour Ice (Paint Splat)
 Material Phthalate free, non-toxic, BPA free plastic
@@ -5382,7 +5382,7 @@ Manufacturer ion8
 Item model number B08HQMSDCQ
 Product Dimensions 7 x 6.5 x 23 cm; 141 Grams
 ASIN B08HQMSDCQ
-",plastic,other,141g
+",plastic,other,141g,600ml
 "Snug Flask for Kids - Vacuum Insulated Water Bottle with Straw (Robots)
 Colour Robots
 Brand Snug
@@ -5401,7 +5401,7 @@ Product Dimensions 19.81 x 7.9 x 7.59 cm; 272.16 Grams
 Capacity 0.5 litres
 Material Stainless Steel
 Item Weight 272 g
-",metal,other,272g
+",metal,other,272g,0.5L
 "Water Bottle Bottles With Straw Gym Sports Cycling Running Small Large 850ml/750ml/500ml Bpa Free Plastic Hydration Flask Travel Mug Water Bottle D24
 Colour Blue
 Material Plastic
@@ -5420,7 +5420,7 @@ Brand Diller
 Manufacturer Diller
 Package Dimensions 24.6 x 12.1 x 7.8 cm; 230 Grams
 ASIN B07TXZG2RW
-",plastic,blue,230g
+",plastic,blue,230g,750ml
 "Smiggle Wonder Stainless Steel Insulated Water Drink Bottle for Girls & Boys with Screw Lid & 500ml Capacity | Unicorn Print
 Colour Pastel
 Material Stainless Steel
@@ -5438,7 +5438,7 @@ Product Dimensions 7 x 7 x 26 cm; 340 Grams
 Capacity 500 Millilitres
 Material Stainless Steel
 Item Weight 340 g
-",metal,other,340g
+",metal,other,340g,500ml
 "Smiggle Wonder Stainless Steel Insulated Water Drink Bottle for Girls & Boys with Screw Lid & 500ml Capacity | Unicorn Print
 Colour Pastel
 Material Stainless Steel
@@ -5456,7 +5456,7 @@ Product Dimensions 7 x 7 x 26 cm; 340 Grams
 Capacity 500 Millilitres
 Material Stainless Steel
 Item Weight 340 g
-",metal,other,340g
+",metal,other,340g,500ml
 "Vacuum Insulated Flask 500ml/17.6oz Double Walled Stainless Steel Bottle with Cup for Coffee Tea Hot Drink and Cold Drink Travel Mug.(Gray, Set)
 Keep Heat and Cold:Our double-layer vacuum insulated travel mug is made of excellent heat insulation material,Which can keep hot and cold liquids (Water,Coffee,Tea) at low temperature for 12 hours and keep warm for 12 hours.It is also made of BPA-free materials and can be safely.
 Rugged And Durable:This stylish and sturdy coffee bottle is made of high-quality food-grade 18/8 stainless steel and will not break.Scratch-resistant and easy to clean,It is made of BPA-free materials and can be eaten safely.The travel mug is equipped with a sponge brush for daily cleaning.It can easily clean the entire inner surface of the bottle and can easily reach anywhere,Including hard-to-reach corners and bottoms,This is the best gift for family or friends.
@@ -5467,7 +5467,7 @@ Brand GIOGD
 Colour Gray
 Package Dimensions 25.8 x 19.2 x 7.1 cm; 570 Grams
 Item Weight 570 g
-",metal,grey,570g
+",metal,grey,570g,500ml
 "EZOWare 550ml Glass Water Bottle, Reusable Leak Proof Sports Bottles with Non-Slip Silicone Sleeve and Stainless Steel Lid for Home Office Yoga Gym Hot Cold Drinks
 Colour Yellow and Green
 Material Glass
@@ -5486,7 +5486,7 @@ Manufacturer EZOWare
 Manufacturer reference 885157007665
 Package Dimensions 25.5 x 20.2 x 12.8 cm; 923 Grams
 ASIN B0835Z2TV6
-",glass,yellow,923g
+",glass,yellow,923g,550ml
 "Newdora Sports Water Bottle with Flip Straw, Large BPA Free Drinking Bottle, Sports Flask, Leakproof Gym Bottle, Ideal for Sports Bike Running Hiking Yoga 24OZ 750ml
 Colour Grey
 Material Plastic
@@ -5505,7 +5505,7 @@ Brand Newdora
 Manufacturer Newdora
 Package Dimensions 28.6 x 8.5 x 8.2 cm; 150 Grams
 ASIN B07ZGFT4JN
-",plastic,grey,150g
+",plastic,grey,150g,710ml
 "Thermos 162547 Eastman Tritan Hydration Bottle, Aubergine, 710 ml
 Colour Aubergine
 Material Plastic
@@ -5523,13 +5523,13 @@ Package Dimensions 24.4 x 8.2 x 7.5 cm; 100 Grams
 Capacity 710 Millilitres
 Material Plastic
 Item Weight 100 g
-",plastic,other,100g
+",plastic,other,100g,710ml
 "Bottle
 Manufacturer ADORIC
 Package Dimensions 22.2 x 7.1 x 7 cm; 152 Grams
 Batteries Required? No
 Item Weight 152 g
-",other,other,152g
+",other,other,152g,other
 "Pokemon Pikachu and Characters 724ml Sports Water Plastic Bottle
 Colour Black
 Material Plastic
@@ -5545,7 +5545,7 @@ Colour Black
 Product Dimensions 23.5 x 23.5 x 7 cm; 90 Grams
 Material Plastic
 Item Weight 90 g
-",plastic,black,90g
+",plastic,black,90g,724ml
 "Letsfit Vacuum Insulated Water Bottle, Double Walled Vacuum Insulated Stainless Steel Water Flask for 24 Hours Cold, 12 Hours Hot, Leak-Proof BPA Free Sports Flask - 475ml / 16 oz
 Colour Deep Green
 Brand Letsfit
@@ -5569,7 +5569,7 @@ Manufacturer Letsfit
 Manufacturer reference 12
 Package Dimensions 24.2 x 8 x 7.8 cm; 340 Grams
 ASIN B08BCQDS5G
-",metal,green,340g
+",metal,green,340g,475ml
 "Flow 1 Litre Water Bottle with Time Marker & Measuring Lines – Large BPA Free Tritan Water Bottle Tea & Fruit Infuser Strainer with Wrist Strap, Leak Proof Lid, Motivational Quotes for School, Kids, Adults 32oz
 Colour Blue
 Material Plastic
@@ -5581,7 +5581,7 @@ Batteries included? No
 Manufacturer FLOW
 Product Dimensions 7 x 7 x 28 cm; 250 Grams
 ASIN B08JQBM1T9
-",plastic,blue,250g
+",plastic,blue,250g,1000ml
 "Reusable Water Bottle with Straw and Times Markings BPA Free Tritan Leak Proof Tough Sports Water Bottle Portable for Gym School Fitness Hiking Camping Cycle 800ml
 Colour Clear
 Material Plastic
@@ -5600,28 +5600,7 @@ Material Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 200 g
-",plastic,other,200g
-"Azarxis BPA Free Water Bottle Running Flask Leakproof for Hydration Belt Running Waist Pouch Vest 170 250 280ml Mini Small for Triathlon Marathon Jogging Cycling Climbing Runner
-Colour 170ml/5.7oz - 2 Pack
-Material ✳️MATERIAL-- Food Grade PP5 Bottle Body. Our Water Bottles is 100% BPA free eco-friendly durable lightweight with good toughness, great for running hydration vest
-
-See more
-Brand Azarxis
-✔️【BPA Free】- Material: food grade PP5 body, PVC cap, sllicone nozzle, recyclable and no plastic taste.( recommended used temperature: 0℃～40℃)
-✔️【Leakproof】- The bottle cap is well sealed, will not leak when placed horizontally in the bag, suitable for hydration running belt, waist pouch, running vest
-✔️【Mini Bottle】- The running flask is only 30/50/60g, such a space-saving water flask is potable convenient for your backpack pocket easy carry
-✔️【Easy to Use】- The handheld running bottle with wide mouth, convenient to pour water into. Pull up the nozzle can drink water, pull down to close
-✔️【Occasion】- The small drink bottle is perfect for running, marathon, jogging, hiking, cycling, climbing, and daily life use
-Color 170ml/5.7oz - 2 Pack
-Material type ✳️MATERIAL-- Food Grade PP5 Bottle Body. Our Water Bottles is 100% BPA free eco-friendly durable lightweight with good toughness, great for running hydration vest
-Volume capacity 250 Millilitres
-Batteries included? No
-Brand Azarxis
-Manufacturer Azarxis
-Item model number AZ-OS1510-170
-Package Dimensions 21.6 x 12.4 x 4.4 cm; 40 Grams
-ASIN B07HRJYXXL
-",other,other,40g
+",plastic,other,200g,800ml
 "Squeeze Water Bottles Sports 32 oz BPA Free (Blue)
 Colour Blue
 Capacity 907 Grams
@@ -5638,7 +5617,7 @@ Colour Blue
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 110 g
-",other,blue,110g
+",other,blue,110g,32oz
 "Fidlock Twist Bottle 590ml Bike Base Kit
 0
 Color Black
@@ -5649,7 +5628,7 @@ Brand Fidlock
 Manufacturer Fidlock
 Manufacturer reference 2020-302953-002
 ASIN B087BY6TH8
-",other,black,other
+",other,black,other,590ml
 "Triple Tree LeakProof Sports Stainless Steel Water Bottle ,Drinking Bottle Metal Bpa Free Capacity for 500ml/750ml/1000ml with Warranty
 500ML/750ML/1000ML-This sports water bottle is available in three sizes. Meet your every need. The water bottle is equipped with a metal hook for easy carrying.
 BPA-FERR - 100% BPA-free and toxin free for a pure taste and no flavors transferred. An environmentally friendly sports water bottle to keep you healthily hydrated, suitable for kids and adults.It is a reusable water bottle.
@@ -5664,7 +5643,7 @@ Brand TRIPLE TREE
 Manufacturer Triple Tree
 Package Dimensions 26.1 x 8 x 7.7 cm; 240 Grams
 ASIN B075R7M132
-",metal,other,240g
+",metal,other,240g,750ml
 "Thermos 162498 Eastman Tritan Hydration Bottle, Smoke, 710 ml
 Colour Smoke
 Material Plastic
@@ -5680,7 +5659,7 @@ Colour Smoke
 Package Dimensions 23.4 x 7.4 x 7.4 cm; 170 Grams
 Material Plastic
 Item Weight 170 g
-",plastic,other,170g
+",plastic,other,170g,710ml
 "ZMCYN 10 Pack 800ML Sports Water Bottles Sports and Fitness Squeeze Water Bottles, Sport Bottles Bulk For Gym, School, Team- Extra Labels, 1 Pen
 Package Include: 10 pack 800ml Sports Water Bottles with Push/Pull type Lids, extra Chalk Labels, 1 Pen as gift.
 Size: 2.56”(6.5cm) diameter and 9.45”(24cm) height. Drinking water bottles capacity is 800ml(27oz).
@@ -5693,7 +5672,7 @@ Material Canvas, Plastic
 Batteries included? No
 Batteries Required? No
 Item Weight 791 g
-",plastic,other,791g
+",plastic,other,791g,800ml
 "One Green Bottle – Curvy Stainless Steel Water Bottle, Non-Insulated, Single-Skinned Eco Bottle, 350ml (Unicorn Purple)
 Colour Unicorn Purple
 Material Stainless Steel
@@ -5712,7 +5691,7 @@ Material Stainless Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 220 g
-",metal,purple,220g
+",metal,purple,220g,350ml
 "Insulated Water Bottle,Double Walled Vacuum Flask,450ml Stainless Steel Insulated Water Bottle, Flask for Yoga, Gym and Sports,Car Coffee, Fitness,Camping(White)
 【Safe Material 】 This high quality stainless steel sports bottle, elegant and durable, is BPA free, non-toxic, tasteless, safe and healthy, and does not break easily.It is a healthier choice as water bottle for tea, coffee, cold drink with ice cubes, etc.
 【Double-walled design】 Double wall insulation maintains stainless steel design keeps the cool for 12 hours and hot drinks for 6 hours to prevent perspiration or condensation. It has a longer production and service life and is better than plastic or cans. Insulated water bottles are an ideal gift for family or friends.
@@ -5723,4 +5702,4 @@ Brand Hongtellor
 Colour White-04
 Package Dimensions 23.7 x 7.3 x 7.1 cm; 295 Grams
 Item Weight 295 g
-",metal,white,295g
+",metal,white,295g,450ml
