@@ -43,10 +43,23 @@ Note that sometime the program does not run if you access it too often (As you m
 - `./images/` contains the images of different objects, corresponding to the links in `./object_html_json/<object>.json`
 
 
+### To automatically label size (L x W x H)
+- Labelling dataset is a very tedious job, especially for size as currently we need to have 3 columns to represent each dimension. Therefore I have writtern a script `./extract_size.py` which helps us to automatically do the job. Although this still require a bit of manual check after the labelling, this saves a lot of time afterall.
+
+To run the script
+
+`python3 ./extract_size.py ./spreadsheet/web_scrape_<object-name>.xlsx`
+
+Note that the script will overwrite the original spreadsheet, appending 3 columns (Length, Width and Height) to the end.
+
+Example for mug
+
+`python3 ./extract_size.py ./spreadsheet/web_scrape_mug.xlsx`
+
 ## Current status of the number of available product information
 | Object      | Spreadsheet             | Image               | Labelled?           |
 | :---        |    :----:               |        :----:       |                ---: |
 | Mug         | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
 | Kettle      | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
 | Bottle      | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
-| Baking tray | :white_check_mark:      | :white_check_mark:  | |
+| Baking tray | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |

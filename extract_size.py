@@ -6,8 +6,7 @@ import sys
 import os
 import re
 
-
-regex = '([0-9]+\.?[0-9]+) ?[xX] ?([0-9]+\.?[0-9]+) ?[xX] ?([0-9]+\.?[0-9]+)'
+regex = '([0-9]+\.?[0-9]*) ?[xX] ?([0-9]+\.?[0-9]*) ?[xX] ?([0-9]+\.?[0-9]*)'
 r = re.compile(regex)
 
 def get_dimension(df):
