@@ -1,4 +1,4 @@
-﻿Input,Material,Colour,Weight,Volume
+﻿Input,Material,Colour,Weight,Volume,Length,Width,Height
 "Prochef KB1004 Large Baking/Oven Tray, Premium Quality, Easy to Clean, Teflon Innovations Non-Stick Silicone Coating,Grey
 Colour Grey
 Material Carbon Steel
@@ -18,7 +18,7 @@ Colour Grey
 Product Dimensions 40 x 27 x 2 cm; 862 Grams
 Material Carbon Steel
 Item Weight 862 g
-",metal,grey,862g,other
+",metal,grey,862g,other,40,27,2
 "Erreke - Baking Tray, Aluminum, Perforated Baking Sheet, 46x33 cm (2mm Thickness), Professional Quality Oven Tray, Made in Europe
 Colour Perforated
 Material Aluminium
@@ -39,7 +39,7 @@ Product Dimensions 46 x 33 x 0.8 cm; 750 Grams
 Material Aluminium
 Special Features Perforated
 Item Weight 750 g
-",metal,other,750g,other
+",metal,other,750g,other,46,33,0.8
 "Non-Stick Oven Tray- Oven Tray for Baking and Roasting - Square Shape Non-Stick Sheet- Bake Effortlessly
 Non stick, this deep cake tin releases food easily and cleans in seconds
 Robust and thick, warp-resistant carbon steel, which is oven safe to 220°C (428°F). Fits into most ovens
@@ -49,7 +49,7 @@ Dimensions 32cm x 23.5cm x 1.5cm
 Brand Schone
 Package Dimensions 32 x 23 x 2 cm; 224 Grams
 Item Weight 224 g
-",metal,other,224g,other
+",metal,other,224g,other,32,23,2
 "Stellar SB78 Square Non-Stick Baking Tray with Lip 32cm x 32cm x 2cm Heavy Duty Steel, Dishwasher Safe - Lifetime Guarantee with 5 Year Non-Stick Warranty
 HIGH QUALITY LARGE SQUARE BAKING TRAY - the square shape is ideal for cooking a pizza or pavlova as well as baking cookies, roasting vegetables and making oven chips, while the small lip prevents oil and food dripping off
 HIGH GRADE 1MM CARBON STEEL - heavy duty steel helps food cook evenly for professional results and ensures the tin is sturdy and rigid for longer life
@@ -62,7 +62,7 @@ Colour Black
 Product Dimensions 20 x 30 x 25 cm; 940 Grams
 Material Steel
 Item Weight 940 g
-",metal,black,940g,other
+",metal,black,940g,other,20,30,25
 "WEZVIX Baking Sheet Stainless Steel Baking Tray Cookie Sheet Oven Pan Rectangle Size 31.5 x 25 x 2.5 cm, Non Toxic & Healthy, Rust Free & Less Stick, Thick & Sturdy, Easy Clean & Dishwasher Safe
 Colour Silver
 Material Stainless Steel
@@ -82,7 +82,7 @@ Colour Silver
 Product Dimensions 31.5 x 24.38 x 2.54 cm; 458 Grams
 Material Stainless Steel
 Item Weight 458 g
-",metal,silver,458g,other
+",metal,silver,458g,other,31.5,25,2.5
 "Blkthun with Dividers Brownie Pan - Non-Stick Carbon Steel Bakeware with 18 Pre-Slice, Oven Baking Tray. 30 X 20 X 5 cm
 【FAST AND UNIFORM HEATING】Fast heat transfer, high efficiency, and even heat distribution, baking is just right, without excessive scorching.
 【HIGH QUALITY】Made of safe food grade high carbon steel, with special non-stick coating, non-stick and very easy to clean.
@@ -92,7 +92,7 @@ Item Weight 458 g
 Brand Blkthun
 Package Dimensions 33.2 x 21.1 x 5.6 cm; 920 Grams
 Item Weight 920 g
-",metal,other,920g,other
+",metal,other,920g,other,30,20,5
 "HAYSLAND Baking Tray with Rack Set, Stainless Steel Bakeware and Cooling Rack, Can Be Used for Bread/Biscuits/Meat Cooking
 High-quality materials---The bakeware is made of high-quality stainless steel, and the surface is mirror-treated, which is solid and durable and not easily corroded.
 Easy to clean---The bakeware has a smooth surface without rough spots. After you use it, you only need to do simple cleaning work, and the bakeware will be like new.
@@ -103,7 +103,7 @@ Brand HAYSLAND
 Package Dimensions 41 x 31 x 3.5 cm; 1.21 Kilograms
 Material Stainless steel
 Item Weight 1.21 kg
-",metal,other,1.21kg,other
+",metal,other,1.21kg,other,41,31,3.5
 "GOURMEO Baguette Baking Tray for 3 baguettes with Non Stick Coating, French Baguette Pan, Loaf Baking 38.5 x 28 x 3 cm
 STRONG CHOICE: Making your own baguettes is a worthwhile experience. While it's not the easiest to make but with the right tools in hand you can do this task easily. It is heavy-duty French bread baking tray and strong enough to withstand high temperatures and fulfil your recipe’s requirements.
 EASY TO CLEAN : You can easily clean this baguette baking tray in the dishwasher. If you want to improve its longevity, clean it with a damp cloth and a little detergent. This bread tray help you develop a good crust and is worth buying.
@@ -116,7 +116,7 @@ Colour Silver
 Product Dimensions 44 x 35 x 3 cm; 358.34 Grams
 Material Aluminium
 Item Weight 358 g
-",metal,silver,358g,other
+",metal,silver,358g,other,38.5,28,3
 "EXGOX Non-Stick Baking Tray Carbon Steel,Rectangle Brownie Cake Tin and Oven Cooking Roasting Trays for Birthday,Wedding, Christmas Party, Cake Baking,Cookie(12.8x10.63x1.1Inch)
 【🎂𝗨𝗣𝗥𝗘𝗠𝗘 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘】The roasting tray surface is smooth and easy to clean, thick carbon material steel mooth heat transfer,The food has great smell,dishwasher safe for complete convenience.The baking tray have a suitable depth to prefent spilling anything and helps to keep the oven clean and tidy.
 【🍞𝗘𝗫𝗖𝗘𝗣𝗧𝗜𝗢𝗡𝗔𝗟 𝗡𝗢𝗡 𝗦𝗧𝗜𝗖𝗞】The masterclass non strick baking trays uses nonstick coating, non-corrosive, stain-resistant, hygienic and easy to clean up , bake perfect food.Ensure food safety and healthy
@@ -127,7 +127,7 @@ Brand EXGOX
 Colour Gold
 Product Dimensions 32.5 x 27 x 2.8 cm; 570 Grams
 Item Weight 570 g
-",metal,gold,570g,other
+",metal,gold,570g,other,12.8,10.63,1.1
 "ilauke Baguette Baking Tray Perforated French Stick Loaf Baking Molds Pan for 4 Baguettes（Silver）
 4 wave slots. With the assistance of this baguette baking tray, you may cook professional-looking baguettes just at home. Perforated design allow the bread to dry and the result is a lighter crunchier bread.
 Perforated design allow the bread to dry and the result is a lighter crunchier bread.
@@ -138,7 +138,7 @@ Brand Ilauke
 Colour Silver
 Package Dimensions 39.4 x 33.79 x 3.1 cm; 670 Grams
 Item Weight 670 g
-",metal,silver,670g,other
+",metal,silver,670g,other,39.4,33.79,3.1
 "Vannico Baking Tray, 304 Stainless Steel Baking Sheet-Healthy, Easy Clean, Dishwasher Safe, Mirror Finish(31.5x21.5x2cm)
 Make sure this fits
 by entering your model number.
@@ -147,7 +147,7 @@ by entering your model number.
 🍪【Multi-function】: The size is 31.5x21.5x2 cm. This baking tray sheet is very suitable for daily baking or roasting . It can be used to bake cakes, breads, cookies, fruits, meat, etc.
 🍪【Exquisite craf】: This stainless steel bakeware has an excellent mirror finish and no rough spots so it can reduce the risk of food sticking to the plate.
 🍪【Heavy duty】: The baking sheet has appropriate weight, it feels firm when held in your hand, is not easy to warp, is very durable and has a long service life.
-",metal,other,other,other
+",metal,other,other,other,31.5,21.5,2
 "Monfish Rectangle Cake tin -9x13-Inch Carbon Steel Bakeware with Textured Finish - Deep Non-Stick Baking Tray - Oven Dish for Bread Rolls, Brownie, Lasagna, Cookies (13x9)
 DURABLE CONSTRUCTION - Made of carbon steel with a micro-textured finish, this 9x13 pan is incredibly strong with a tough surface. Micro-textured pattern ensures even baking by minimizing surface contact and promoting airflow.
 HEAVY GAUGE AND EASY CLEAN - Weighing about 1.1kgs, our rectangle cake pan is made of 1mm thickness steel and it makes the cake pan heavy gauge and anti-warp. The non-stick coating is easy to clean and let the cookie and bread easy release.
@@ -158,7 +158,7 @@ Brand Monfish
 Package Dimensions 35.9 x 26.3 x 7.2 cm; 1.26 Kilograms
 Material Carbon Steel
 Item Weight 1.26 kg
-",metal,other,1.26kg,other
+",metal,other,1.26kg,other,35.9,26.3,7.2
 "Circulon 46141 - Momentum - Large Oven Tray - Non Stick - PFAO Free - Dishwasher Safe - Carbon Steel - 29 x 44 x 3 cm, Grey
 Sold singly.
 Dimensions 28"" x 18""
@@ -170,7 +170,7 @@ Product Dimensions 29 x 44 x 3 cm; 530 Grams
 Material Alloy Steel
 Special Features ✔ Dishwasher Safe, ✔ Total Non Stick System, ✔ PFAO Free, ✔ Lifetime Guarantee, ✔ Oven Safe up to 230C
 Item Weight 530 g
-",metal,grey,520g,other
+",metal,grey,520g,other,29,44,3
 "Dual Oven Tray, British Made with Teflon Non Stick by Lets Cook Cookware
 Colour Grey
 Material Carbon Steel
@@ -189,7 +189,7 @@ Product Dimensions 40 x 34 x 2 cm; 390 Grams
 Material Carbon Steel
 Special Features Non-Stick
 Item Weight 390 g
-",metal,grey,390g,other
+",metal,grey,390g,other,40,34,2
 "Grizzly Adjustable Baking Tray - Non-Stick Extendable Sheet - 33-52 cm - for All Oven
 Brand Grizzly
 Material Carbon Steel
@@ -207,7 +207,7 @@ Product Dimensions 34 x 33 x 4 cm; 860 Grams
 Material Carbon Steel
 Auto Shutoff No
 Item Weight 860 g
-",metal,black,860g,other
+",metal,black,860g,other,34,33,4
 "EMAGEREN Baking Tray with Rack Set Stainless Steel Baking Pan Cookie Pan Toaster Oven Tray Baking Sheet with Baking Cooling Racks, Non Toxic, Mirror Finish & Dishwasher Safe (1 Pan + 1 Rack)
 Material Stainless Steel
 Brand EMAGEREN
@@ -221,7 +221,7 @@ Brand EMAGEREN
 Package Dimensions 28.7 x 20.9 x 2.8 cm; 440 Grams
 Material Stainless Steel
 Item Weight 440 g
-",metal,other,440g,other
+",metal,other,440g,other,28.7,20.9,2.8
 "Professional Slide Off Baking Sheet, British Made with Double Coated Performance Non Stick by Lets Cook Cookware
 Colour Grey Silver
 Material Carbon Steel
@@ -241,7 +241,7 @@ Product Dimensions 32 x 30 x 1 cm; 530 Grams
 Material Carbon Steel
 Auto Shutoff No
 Item Weight 530 g
-",metal,grey,530g,other
+",metal,grey,530g,other,32,30,1
 "MEETOZ Non Stick Brownie Pans with Dividers, High Carbon Steel 18-Lattice Brownie Baking Tray for for Oven Baking, Baking Pan with Built-in Slicer & Rack
 【AFTER SALE SERVICE】:100% customer Satisfaction Guarantee:If for any reason you are not completely satisfied with your purchase, we will be happy to provide you with your choice of a replacement or refund.We stand by our products 100% and want our customers to love them as much as we do！
 【Design Feature】:Brownie Mold Pan with a removable divider to create 18 perfectly sliced brownies, don't have to hassle to cut a piece.
@@ -252,7 +252,7 @@ Brand MEETOZ
 Package Dimensions 33.1 x 21.3 x 5.8 cm; 927 Grams
 Material Carbon Steel
 Item Weight 927 g
-",metal,other,927g,other
+",metal,other,927g,other,33.1,21.3,5.8
 "Westinghouse Non Stick Roasting Tin - Ø 35 cm Roasting Tray Oven Dish - Black Marble
 Material Aluminium
 Brand Westinghouse
@@ -269,7 +269,7 @@ Package Dimensions 40.6 x 28 x 8 cm; 1.2 Kilograms
 Material Aluminium
 Special Features Non-Stick
 Item Weight 1.2 kg
-",metal,black,1.2kg,other
+",metal,black,1.2kg,other,40.6,28,8
 "Oven Tray,Non-Stick Air Fryer Oven with Mesh Crisping Basket,for BBQ,Cookies,Chips and Pizza,Drain Basket,Baking Tray Set(12.59x11.81x2.16 Inches)
 Material:aluminum.Our air crisper tray has an Elevated mesh crisping basket that allows super-heated air to pass through and circulate a full 360 degree around the food ensuring it's cooked evenly.
 Ultra-durable,scratch-proof & metal utensil safe. The removable mesh basket with handles Specially designed handles stay cool to the touch. also non-stick.
@@ -279,7 +279,7 @@ Lightweight design makes for a comfortab le cooking experience.No need to turn o
 Brand NJSTAR
 Product Dimensions 32 x 30 x 5.5 cm; 560 Grams
 Item Weight 560 g
-",metal,other,560g,other
+",metal,other,560g,other,12.59,11.81,2.16
 "Samuel Groves 1817 Aluminium 12"" Baking Tray 318 X 216 X 19 mm
 Colour Silver
 Material Aluminium
@@ -288,7 +288,7 @@ Brand Samuel Groves
 Item dimensions L x W x H 32.4 x 22 x 1.9 centimetres
 Professional Quality
 Hand wash in warm soapy water, not suitable for dishwashers
-",metal,silver,other,other
+",metal,silver,other,other,32.4,22,1.9
 "Round Pizza Baking Tray Thickened - 10 inch - Non-Stick - for Oven
 ★ High quality metal- Crafted from Carbon Steel, the sheets are strong, durable and transfer heat uniformly.
 ★ Non-stick - With 2 layers of non-stick coating, the dishes are super easy to clean and suitable for reusing many times. Tray size: Pizza Tray: 24cm x 3cm (10inch).
@@ -299,13 +299,13 @@ Brand SEN
 Package Dimensions 28 x 27.18 x 3.3 cm; 260 Grams
 Material Carbon Steel
 Item Weight 260 g
-",metal,other,260g,other
+",metal,other,260g,other,28,27.18,3.3
 "Activave Non-Stick Oven Tray, Roasting Tray, Baking Tray, Often Used for Baking Bread Rolls, Pastries and Flat Products Such as Cookies, Sheet Cakes, Swiss Rolls and Pizzas (38 x 26 cm Oven Tray)
 The Activave Non-Stick Oven Tray, Roasting Tray, and Baking Tin Set feature premium designs that ensure your cakes and roast will not stick to the bottom of your tin for hassle-free roasting and baking.
 Brand Activave
 Package Dimensions 38 x 26.6 x 2.4 cm; 380 Grams
 Item Weight 380 g
-",other,other,380g,other
+",other,other,380g,other,38,26.6,2.4
 "Aschef Silicone Baguette Baking Tray, French Stick Loaf Bread Pan Tin Mould 3 Slot with Metal Reinforced Frame Inside Non-Stick for Home Kitchen Gift
 ★ Metal Reinforced Inside: The internal metal frame and handles of this product will definetely help you easily making cakes and moving them gracefully into oven, microwave and dishwashers without any spills.
 ★ High Quality & Easy to Use: 100% food grade silicone, BPA free, flexible and durable, no worry them breaking, fading, getting scratched, dented or rusting.
@@ -316,7 +316,7 @@ Brand Aschef
 Package Dimensions 37.5 x 26.2 x 5.1 cm; 441 Grams
 Material Silicone
 Item Weight 441 g
-",plastic,other,441g,other
+",plastic,other,441g,other,37.5,26.2,5.1
 "MasterClass Smart Ceramic Baking Tray with Robust Non Stick Coating, Carbon Steel, 40 x 27cm Large Stackable Cookie Sheet
 THE NEW NON STICK STANDARD: MasterClass Smart Ceramic bakeware features a seriously scratch resistant, pollutant free non stick coating
 NO NEED TO GREASE: the double ceramic coating ensures effortless cleaning and release, reducing the need for unhealthy greasing
@@ -330,7 +330,7 @@ Product Dimensions 40.1 x 27 x 2.2 cm; 845 Grams
 Capacity 1 litres
 Material Steel
 Item Weight 845 g
-",metal,other,845g,1L
+",metal,other,845g,1L,40.1,27,2.2
 "Brownie Tray with Dividers, Non-Stick Brownie Baking Tin with Loose Base/Precut Brownie Pan with Dividers for Professional Slices, 18-Cavity and 31 * 20 * 4cm
 Colour Gold
 Material Premium Food Grade Carbon Steel
@@ -348,7 +348,7 @@ Colour Gold
 Product Dimensions 31.24 x 20.32 x 4.06 cm; 1.06 Kilograms
 Material Premium Food Grade Carbon Steel
 Item Weight 1.06 kg
-",metal,gold,1.06kg,other
+",metal,gold,1.06kg,other,31.2,20.3,4.1
 "34cm Deep Oven Baking Tray, British Made with Teflon Select Non Stick by Lets Cook Cookware
 Colour Dark Grey
 Material Carbon Steel
@@ -368,7 +368,7 @@ Product Dimensions 34 x 24 x 3 cm; 450 Grams
 Material Carbon Steel
 Special Features Dishwasher-Safe, Non-Stick
 Item Weight 450 g
-",metal,grey,450g,other
+",metal,grey,450g,other,34,24,3
 "KitchenCraft KC2BK23 Large Baking Tray with Non Stick Coating, 38 x 30.5 cm, Silver
 Colour Silver
 Material Alloy Steel
@@ -390,7 +390,7 @@ Product Dimensions 38 x 30.4 x 2.1 cm; 670 Grams
 Material Alloy Steel
 Special Features Dishwasher-Safe
 Item Weight 670 g
-",metal,silver,670g,other
+",metal,silver,670g,other,38,30.4,2.1
 "Aluminium Pizza Baking Tray 10-inch Flat Screen Wire Mesh Food Crisper
 Designed To Allow Air Circulation To Produce Evenly .
 Ideal for Pizza Shops and Restaurants.
@@ -400,7 +400,7 @@ Model Number Pizza-Baking-Mesh-10""
 Product Dimensions 26 x 26 x 0.5 cm; 88 Grams
 Material Aluminium
 Item Weight 88 g
-",metal,other,88g,other
+",metal,other,88g,other,26,26,0.5
 "Brownie Baking Tin,Silicone Baking Tray,Square Baking Tins and Trays with NonStick Grids for Brownie, Cheesecake, Mini Cake and Chocolate Bar
 【Safety material】: 100% food grade silicone, free of BPA. The strong brownie tin is not afraid of falling and transportation deformation, and has more advantages than ordinary metal molds.
 【Non-stick Pan】: The flexible silicone and non-stick finish allow for easy and quick release of baked goods and desserts, stain- and odor-resistant.
@@ -411,7 +411,7 @@ Brand Homkeen
 Package Dimensions 29.7 x 28.1 x 3.4 cm; 190 Grams
 Material Silicone
 Item Weight 190 g
-",plastic,other,190g,other
+",plastic,other,190g,other,29.7,28.1,3.4
 "Prestige Oven Tray-Medium, steel, Black, 1-Piece
 Material Steel
 Finish type Matte
@@ -433,7 +433,7 @@ Product Dimensions 27 x 39.5 x 2.49 cm; 790 Grams
 Material Steel
 Special Features Oven safe
 Item Weight 790 g
-",metal,black,790g,other
+",metal,black,790g,other,27,39.5,2.5
 "MasterClass Smart Ceramic Baking Tray with Robust Non Stick Coating, Carbon Steel, 23 x 15cm Small Stackable Cookie Sheet
 THE NEW NON STICK STANDARD: MasterClass Smart Ceramic bakeware features a seriously scratch resistant, pollutant free non stick coating
 NO NEED TO GREASE: the double ceramic coating ensures effortless cleaning and release, reducing the need for unhealthy greasing
@@ -447,7 +447,7 @@ Product Dimensions 24.2 x 15.1 x 2.1 cm; 290 Grams
 Capacity 1 litres
 Material Steel
 Item Weight 290 g
-",metal,grey,290g,1L
+",metal,grey,290g,1L,24.2,15.1,2.1
 "ilauke Doughnut Mould Non Stick Coating 9 Holes Carbon Steel Baking Tray for Cake Biscuit Bagel Sandwich Muffin 10.2X10.2 Inch
 Our doughnut mold tin is very easy to bake up to 9 donuts, and can creates 3 different forms muffins, cupcakes, brownies simultaneously.
 Cake Pan Size: 10.2 x 10.2 x 0.98 inch; Hole Size: 2.76 inch.
@@ -458,7 +458,7 @@ Brand Ilauke
 Package Dimensions 28 x 27.9 x 3.7 cm; 580 Grams
 Material Carbon Steel
 Item Weight 580 g
-",metal,other,580g,other
+",metal,other,580g,other,10.2,10.2,0.98
 "DE BUYER Micro-Perforated Plate Pastry-Uncoated Aluminium, Silver, 40 x 30 cm
 Colour Silver
 Material Aluminium
@@ -476,7 +476,7 @@ Colour Silver
 Product Dimensions 40 x 30 x 0.1 cm; 360 Grams
 Material Aluminium
 Item Weight 360 g
-",metal,silver,360g,other
+",metal,silver,360g,other,40,30,0.1
 "Performance, Half Baking Tray, Professional Gauge Carbon Steel with Whitford Eclipse Non-Stick Coating, Cooking and Roasting, 25 x 18 x 2cm
 Colour Black
 Material Alloy Steel
@@ -496,7 +496,7 @@ Colour Black
 Product Dimensions 30.71 x 19.32 x 2.48 cm; 524.3 Grams
 Material Alloy Steel
 Item Weight 524 g
-",metal,black,524g,other
+",metal,black,524g,other,25,18,2
 "PROW Disposable Large Aluminium Round Foil Trays 920ml with Foil Poly Lids - Perfect Containers for Baking Roasting Cooking and Preservation of Food - Tray Size 185x44mm
 STANDARD PACK – Disposable Large Aluminum Round Foil Trays each tray size is 185 x 44 mm with standard size Aluminium Foil Poly Lids. Capacity of each container is 920ml (32 oz). Package quantity is pack of 10 (10 trays & 10 lids).
 PREMIUM QUALITY TRAYS - Aluminum foil trays and lids material is premium in quality which are thick enough to bake, store, handle and serve purposes. Grip is not flimsy and sturdy; you only have to make sure before use that food does not overload up to the top.
@@ -509,7 +509,7 @@ Product Dimensions 18.5 x 18.5 x 4.4 cm; 160 Grams
 Capacity 920 Millilitres
 Material Aluminium
 Item Weight 160 g
-",metal,other,160g,920ml
+",metal,other,160g,920ml,18.5,18.5,4.4
 "WARESHARK 12x Large Muffin Cupcake Yorkshire Pudding Silicone Bakeware Baking Mould Tray
 Great quality cupcake tray pan with 12 holes perfect for easy home baking
 Silicone material allows for easy cleaning and non-stick nature
@@ -519,7 +519,7 @@ Brand WARESHARK
 Product Dimensions 29 x 22 x 3 cm; 130 Grams
 Material Silicone
 Item Weight 130 g
-",plastic,other,130g,other
+",plastic,other,130g,other,29,22,3
 "Performance, Baking Sheet, Professional Gauge Carbon Steel with Whitford Eclipse Non-Stick Coating, Baking Tray, 27.5 x 35.7 x 1cm
 Colour Medium
 Material Alloy Steel
@@ -539,7 +539,7 @@ Colour Medium
 Product Dimensions 40.61 x 27.74 x 0.99 cm; 867.5 Grams
 Material Alloy Steel
 Item Weight 868 g
-",metal,other,868g,other
+",metal,other,868g,other,27.5,35.7,1
 "Loaf Tin, Silicone Bread and Loaf Tin, Large Size Bread Baking Tray, Non Stick Baking Tin for Bread and Meat Loaf,
 1,Toast Bread Mould Size: about 29*12.8*6.2cm/11.42*5.12*2.44 inch.This multi functional-large baking mould can used for your favourite bread recipes, such as pumpkin, wheat, or corn bread, meat loaf, and more
 2 , loaf tin design: Grip-loaf pan grips offer a comfortable grip.Compact size: Perfect size-designed for toaster and counter top ovens.Please contact us directly for immediate assistance if you have any problem with our product, we would be very pleased to help you and we will reply as soon as we can.
@@ -550,7 +550,7 @@ Colour Beige
 Package Dimensions 28.9 x 12.7 x 7.5 cm; 182 Grams
 Material Silicone
 Item Weight 182 g
-",plastic,beige,182g,other
+",plastic,beige,182g,other,28.9,12.7,7.5
 "ICQN Baking Tray 465 x 375 x 30 mm for Oven Enamelled Grease Pan Suitable for Bosch Siemens Neff Constructa 675876 and 662999
 Colour Black
 Material Enamel
@@ -564,7 +564,7 @@ Suitable for: Bosch - Siemens - Neff - Constructa
 Important: please ask us before ordering whether the baking tray is suitable for your oven. Also measure your existing baking tray. Thank you!
 Product Dimensions 46.5 x 37.5 x 3 cm; 1.06 Kilograms
 Batteries required No
-",metal,black,1.06kg,other
+",metal,black,1.06kg,other,46.5,37.5,3
 "MasterClass Hard Anodised Aluminium Baking Tray, 42 x 31 cm Deep Tin with Teflon Non Stick Coating
 Colour Black
 Material Aluminium
@@ -584,7 +584,7 @@ Colour Black
 Product Dimensions 42 x 31 x 4 cm; 399.16 Grams
 Material Aluminium
 Item Weight 399 g
-",metal,black,399g,other
+",metal,black,399g,other,42,31,4
 "Chef Pomodoro Non-Stick Baking Sheet and Cooling Rack Set, 2-Piece, Carbon Steel Cookie Sheet, Bacon Rack, Oven Safe (15.0 x 10.6"")
 Size 15.0 x 10.6""
 Brand Chef Pomodoro
@@ -599,7 +599,7 @@ Dishwasher safe? Yes
 Brand Chef Pomodoro
 Product Dimensions 38.1 x 26.92 x 1.91 cm; 680.39 Grams
 Item Weight 680 g
-",metal,other,680g,other
+",metal,other,680g,other,38.1,26.9,1.9
 "Neff Z11AB15A0 Oven Cooker Combination Baking Tray
 Make sure this fits
 by entering your model number.
@@ -617,7 +617,7 @@ Material Type Ceramic
 Included Components Baking tray
 Batteries Required? No
 Item Weight 1.24 kg
-",ceramic,grey,1.24kg,other
+",ceramic,grey,1.24kg,other,43,47,5
 "Easy Cleaning, Stain Resistant Silicone Muffin Trays Set and Spatula, Mini 12 Reusable Cup Cake Moulds Muffin Silicone Cupcake Baking Pans/Non Stick/Dishwasher - Microwave Safe (Blue)
 ★ 【Easy Baking】 With ECOKI Muffin Tray, you can bake up to 12 muffins, cupcakes or brownies at the same time. You will not believe how easy it is to bake cakes with Ecoki silicone muffin mould!
 ★ 【Texture of Material】Good quality,made of 100% food grade silicone,Newer Silicone muffin pan is safe for your family,no smell, safe to baking.Durable & reusable - Microwave, oven, refrigerator, freezer.cooks and browns evenly; quick and even cooling.
@@ -629,7 +629,7 @@ Colour Blue
 Package Dimensions 30 x 23 x 3.5 cm; 170 Grams
 Material Silicone
 Item Weight 170 g
-",plastic,blue,170g,other
+",plastic,blue,170g,other,30,23,3.5
 "Ecoki Baguette Baking Tray 3 Loaves 38 x 25cm, Food Grade Nonstick Coating Perforated Baguette Bread Pans
 PERFECT SIZE: With the dimensions of 38 x 24 cm, there is space for up to three baguettes on the curved ECOKI baguette baking tray and therefore fit in any oven.
 PREMIUM QUALITY: The baguette tray is particularly robust and designed for long-term use, heat-resistant up to 230 ° C.
@@ -640,7 +640,7 @@ Brand Ecoki
 Product Dimensions 38 x 25 x 2 cm; 370 Grams
 Material 碳钢
 Item Weight 370 g
-",other,other,370g,other
+",other,other,370g,other,38,25,2
 "Webake Donut Mould Mini Fluted Ring Cake Tins 12 Hole Ø 7cm Non Stick Carbon Steel Baking Tray for Doughnut Muffin Cupcake, Gold
 【Dimensions】35x26.6x3cm / 13.7x10.47x1.18 inches; For 12 cakes, each hole Ø 7cm / 2.75 inches diameter.
 【Heat Resistant】 These baking trays are safe at temperatures between -40 °C and 230 °C. They are suitable for microwave ovens, freezers and dishwashers.
@@ -653,7 +653,7 @@ Product Dimensions 36 x 28 x 2.5 cm; 566.99 Grams
 Material Carbon Steel
 Auto Shutoff No
 Item Weight 567 g
-",metal,gold,567g,other
+",metal,gold,567g,other,35,26.6,3
 "33cm Square Crisper Oven Baking Tray, British Made with Teflon Select Non Stick by Lets Cook Cookware
 Colour Dark Grey
 Material Carbon Steel
@@ -674,7 +674,7 @@ Material Carbon Steel
 Auto Shutoff No
 Special Features Non-Stick
 Item Weight 515 g
-",metal,grey,515g,other
+",metal,grey,515g,other,32,32,2
 "Gurxi Baguette Baking Tray Baguette Baking Tray Stainless Steel Baguette Baking Tray Non Stick Baguette Baking Tray Large Baguette Baking Tray Steel Reusable
 Try to bake your baguette yourself! With this special Baguette Baking Tray from you will be able to bake wonderful French bread specialties.
 The Baguette Baking Tray is suitable for 4 baguettes. The baguette shape is robust and made for long-term use.
@@ -684,7 +684,7 @@ Thanks to the dimensions of approx. 38.0 x 33.0 cm, the black baquette plate fit
 Brand Gurxi
 Package Dimensions 39.12 x 34 x 2.29 cm; 460 Grams
 Item Weight 460 g
-",metal,other,460g,other
+",metal,other,460g,other,39.12,34,2.29
 "MasterClass Small Baking Tray, Scratch Resistant Vitreous Enamel and Induction Safe 1 mm Thick Steel, 24 x 18 cm
 Colour Black
 Material Enamel
@@ -704,7 +704,7 @@ Colour Black
 Product Dimensions 24 x 18 x 1.7 cm; 450 Grams
 Material Enamel
 Item Weight 450 g
-",other,black,450g,other
+",other,black,450g,other,24,18,1.7
 "PLASTIFIC 12 Large Silicone Muffin Yorkshire Pudding Mould Cupcake Baking Bakeware Tray (Blue)
 This listing is for only one. Flexible and nonstick silicone baking tray with 12 cups.
 Ideal for all types of baking like muffins, cupcakes, Yorkshire puddings etc.
@@ -716,7 +716,7 @@ Colour Blue
 Package Dimensions 29 x 22 x 3.9 cm; 140 Grams
 Material Silicone
 Item Weight 140 g
-",plastic,blue,140g,other
+",plastic,blue,140g,other,29,22,3.9
 "yidenguk Brownie Pan,Brownie Tin with 18-Cavity Dividers,Non Stick Baking Tray High-Carbon Steel Xynflon Coating Cake Tin Oven Tray Baking Sheet for Baking Cake Pizza Brownie (31x20x4.0cm)
 【High-quality Materials】-Made of food-grade thickened high-carbon steel material with double-sided xynflon coating,which possess high hardness, great wear-resistant and scratch-resistant performance.
 【Fast Heating】- This baking tray possesses great temperature resistance and high heat conductivity which can rapid heat with uniform heat distribution,pefect for cooking dessert like cakes, breads, cookies, brownies, pizzas and so on .
@@ -728,7 +728,7 @@ Model Number Ydl-uk-0214
 Package Dimensions 32.3 x 21.1 x 5.6 cm; 922 Grams
 Material Carbon Steel
 Item Weight 922 g
-",metal,other,922g,other
+",metal,other,922g,other,31,20,4.0
 "Ecoki Baguette Baking Tray 3 Loaves 38 x 25cm, Food Grade Nonstick Coating Perforated Baguette Bread Pans
 PERFECT SIZE: With the dimensions of 38 x 24 cm, there is space for up to three baguettes on the curved ECOKI baguette baking tray and therefore fit in any oven.
 PREMIUM QUALITY: The baguette tray is particularly robust and designed for long-term use, heat-resistant up to 230 ° C.
@@ -739,7 +739,7 @@ Brand Ecoki
 Product Dimensions 38 x 25 x 2 cm; 370 Grams
 Material 碳钢
 Item Weight 370 g
-",other,other,370g,other
+",other,other,370g,other,38,25,2
 "12.8 Inch Gold Baking Sheets Non-Stick Bakeware Deep Carbon Steel Baking Trays for Oven Cooking
 Material: This baking sheet/oven tray is made of premium carbon steel, harmless and odourless, does not contain PTFE and PFOA. It is designed to resist warping for years of roasting performance.
 Non-stick Coating: The durable non-stick and scratch-resistant coating on our oven tray makes cleanup almost effortless. No oil or pan spray needed!
@@ -749,7 +749,7 @@ Customer Service: We highly value customers’ satisfaction and tolerate zero qu
 Brand INFANGHUA
 Product Dimensions 32.5 x 27 x 25 cm; 830 Grams
 Item Weight 830 g
-",metal,other,830g,other
+",metal,other,830g,other,32.5,27,25
 "SSPECOTNR 2 Pcs Muffin Baking Trays 6 Cups Muffin Pan Nonstick Cupcake Tin Tinplate Mould Bakeware Baking Case Baking Mould for Yorkshire Pudding Bun Cupcakes and Brownies 26.5 * 18.5 * 2.5cm (Black)
 🧁【Six Grid Baking Pan Mold】:The size of our muffin pan mold is 26.5*18.5 cm. The set contains two baking pans, each with six small grids, and the small grid hole diameter is 6.5 cm, the hole depth is 2.5cm, and the two bakeware has a total of 12 bakeware compartments. It is very convenient to use and can meet all your needs.
 🧁【Food Grade Material】:Our baking pan mould is made of food grade tinplate material, it is safe and non-toxic, BPA free, good heat resistance and very long service life. The temperature resistance range is between -40°C and 230°C. They can be used in the oven, refrigerator or freezer.
@@ -760,7 +760,7 @@ Brand SSPECOTNR
 Package Dimensions 26.7 x 19.4 x 3.8 cm; 370 Grams
 Material Paper
 Item Weight 370 g
-",metal,other,370g,other
+",metal,other,370g,other,26.7,19.4,3.8
 "Brownie Baking Tin, Brownie Tray with 18 Cavity Pre-Cut Dividers, Chocolate Brownie/Cake Non-Stick Professional Brownie Baking Pan Square Brownie Cake Tins for Baking.
 【CARBON STEEL MATERIAL】: Made of food grade high quality carbon steel + European standard coating, which can quickly transfer heat and ensure that the heat in each corner of the pan is evenly distributed, so as to obtain a consistent baking brownie cake with perfect edges, sticky centre and chewy taste. Weight: 900 g - Size: 12.2* 7.9*1.9-inch (31 x 20 x 4.9 cm)
 【NON-STICK, EASY RELEASE】: The brownie pan is coated with a non-stick coating, which is non-corrosive and stain-resistant which makes for easy baking of brownies; when you remove the brownie from the brownie pan, you don’t have to worry about the brownie falling apart! We suggest that you grease the pan and divider properly before use for a better non-stick result after cooling.
@@ -770,7 +770,7 @@ Item Weight 370 g
 Brand Generic
 Package Dimensions 32.4 x 20.8 x 6.2 cm; 1.02 Kilograms
 Item Weight 1.02 kg
-",metal,other,1.02kg,other
+",metal,other,1.02kg,other,31,20,4.9
 "Webake Donut Mould Mini Fluted Ring Cake Tins 12 Hole Ø 7cm Non Stick Carbon Steel Baking Tray for Doughnut Muffin Cupcake, Gold
 【Dimensions】35x26.6x3cm / 13.7x10.47x1.18 inches; For 12 cakes, each hole Ø 7cm / 2.75 inches diameter.
 【Heat Resistant】 These baking trays are safe at temperatures between -40 °C and 230 °C. They are suitable for microwave ovens, freezers and dishwashers.
@@ -783,7 +783,7 @@ Product Dimensions 36 x 28 x 2.5 cm; 566.99 Grams
 Material Carbon Steel
 Auto Shutoff No
 Item Weight 567 g
-",metal,gold,567g,other
+",metal,gold,567g,other,35,26.6,3
 "33cm Square Crisper Oven Baking Tray, British Made with Teflon Select Non Stick by Lets Cook Cookware
 Colour Dark Grey
 Material Carbon Steel
@@ -804,7 +804,7 @@ Material Carbon Steel
 Auto Shutoff No
 Special Features Non-Stick
 Item Weight 515 g
-",metal,grey,515g,other
+",metal,grey,515g,other,32,32,2
 "Brownie Tin Pan Cake Baking Tray, Non Stick Brownie Tins, Brownie Tray with Dividers, High Carbon Steel Xynflon Coating for Cakes, Ovens, Kitchens, Professional Pastries(12 x 8 x 2 Inches)
 【High Quality Materials】Thickened high carbon steel frame odorless and environmentally friendly. Great wear-resistant and scratch-resistant performance, high hardness, solid and durable.
 【Fast Heating】Brownie tins have excellent high temperature resistance and high heat conductivity, rapid heat conduction and even heat distribution, uniform heating.
@@ -814,7 +814,7 @@ Item Weight 515 g
 Brand Afdg
 Package Dimensions 32.4 x 20.9 x 7.1 cm; 910 Grams
 Item Weight 910 g
-",metal,other,910g,other
+",metal,other,910g,other,12,8,2
 "RARA® Stainless Steel Baking Tray Dishes with Grills - Kitchen Cooking Roaster Pan with Sturdy Handles Rust Free Easy Clean & Dishwasher Safe (M, 32x24x5cm)
 Colour Silver
 Material Stainless Steel
@@ -830,7 +830,7 @@ Colour Silver
 Package Dimensions 33.7 x 25.2 x 6.3 cm; 711 Grams
 Material Stainless Steel
 Item Weight 711 g
-",metal,other,460g,other
+",metal,other,460g,other,32,24,5
 "Gurxi Baguette Baking Tray Baguette Baking Tray Stainless Steel Baguette Baking Tray Non Stick Baguette Baking Tray Large Baguette Baking Tray Steel Reusable
 Try to bake your baguette yourself! With this special Baguette Baking Tray from you will be able to bake wonderful French bread specialties.
 The Baguette Baking Tray is suitable for 4 baguettes. The baguette shape is robust and made for long-term use.
@@ -840,7 +840,7 @@ Thanks to the dimensions of approx. 38.0 x 33.0 cm, the black baquette plate fit
 Brand Gurxi
 Package Dimensions 39.12 x 34 x 2.29 cm; 460 Grams
 Item Weight 460 g
-",metal,other,460g,other
+",metal,other,460g,other,39.12,34,2.29
 "Non-Stick Cupcake Tray / Baking Pan Muffin Tin (24 Hole)
 Non-stick coating
 Excellent food release
@@ -851,7 +851,7 @@ Brand Exxcel Creation
 Package Dimensions 38.29 x 31.5 x 4.8 cm; 320 Grams
 Material Carbon Steel
 Item Weight 320 g
-",metal,other,320g,other
+",metal,other,320g,other,35,25,2
 "MasterClass Small Baking Tray, Scratch Resistant Vitreous Enamel and Induction Safe 1 mm Thick Steel, 24 x 18 cm
 Colour Black
 Material Enamel
@@ -871,7 +871,7 @@ Colour Black
 Product Dimensions 24 x 18 x 1.7 cm; 450 Grams
 Material Enamel
 Item Weight 450 g
-",other,black,450g,other
+",other,black,450g,other,24,18,1.7
 "Baguette Baking Pan, French Bread Tray with Non-Stick Coating for 4 Loaves with Bakers Couche Proofing Cloth and Bread Lame
 【High quality materials】Our baguette baking mould is made of much thicker food grade carbon steel. The edges are rounded and will not scratch your hands.
 【Non-Stick Coating】You do not need baking paper or oil, because thanks to the non-stick coating of this baguette mould, the finished bread can be easily removed.
@@ -883,7 +883,7 @@ Package Dimensions 38.79 x 32.6 x 3.5 cm; 590 Grams
 Material Carbon Steel
 Special Features Removable
 Item Weight 590 g
-",metal,other,590g,other
+",metal,other,590g,other,38,33,3
 "PLASTIFIC 12 Large Silicone Muffin Yorkshire Pudding Mould Cupcake Baking Bakeware Tray (Blue)
 This listing is for only one. Flexible and nonstick silicone baking tray with 12 cups.
 Ideal for all types of baking like muffins, cupcakes, Yorkshire puddings etc.
@@ -895,7 +895,7 @@ Colour Blue
 Package Dimensions 29 x 22 x 3.9 cm; 140 Grams
 Material Silicone
 Item Weight 140 g
-",plastic,blue,140g,other
+",plastic,blue,140g,other,29,22,3.9
 "Baguette Baking Mould Non Stick French Stick Baking Molds Pan Baguette Baking Sets 3 Troughs Baguette Baking Tray with Bread Cutter,Small Anti-scalding Clip
 Practical Suit:3 Troughs Baguette baking form,1 bread cutter,1 small anti-scalding clip are included.The small oven can also be put down.The set are very good baking accessories for making Baguette Bread.
 High Quality: The baguette mould is made of food-grade carbon steel, which is non-toxic,tasteless and durable.Excellent heat resistant,the maximum baking temperature is 230°C/446°F.
@@ -906,7 +906,7 @@ Brand TSLBW
 Model Number TWYS-034
 Product Dimensions 1 x 1 x 1 cm; 430 Grams
 Item Weight 430 g
-",metal,other,430g,other
+",metal,other,430g,other,1,1,1
 "yidenguk Brownie Pan,Brownie Tin with 18-Cavity Dividers,Non Stick Baking Tray High-Carbon Steel Xynflon Coating Cake Tin Oven Tray Baking Sheet for Baking Cake Pizza Brownie (31x20x4.0cm)
 【High-quality Materials】-Made of food-grade thickened high-carbon steel material with double-sided xynflon coating,which possess high hardness, great wear-resistant and scratch-resistant performance.
 【Fast Heating】- This baking tray possesses great temperature resistance and high heat conductivity which can rapid heat with uniform heat distribution,pefect for cooking dessert like cakes, breads, cookies, brownies, pizzas and so on .
@@ -918,7 +918,7 @@ Model Number Ydl-uk-0214
 Package Dimensions 32.3 x 21.1 x 5.6 cm; 922 Grams
 Material Carbon Steel
 Item Weight 922 g
-",metal,other,922g,other
+",metal,other,922g,other,31,20,4.0
 "Baguette Baking Tray for French Style Bread Sticks, Micro Perforated with Dual Layer Non Stick by Lets Cook Cookware
 Baguette Baking Tray for French Style Bread Sticks, Micro Perforated with Dual Layer Non Stick By Lets Cook Cookware
 Oven Safe to 230C/445F/Gas Mark 8, Dishwasher Safe, Fridge and Freezer Safe
@@ -931,7 +931,7 @@ Product Dimensions 39 x 16 x 3 cm; 450 Grams
 Material Carbon Steel
 Special Features Non-Stick
 Item Weight 450 g
-",metal,black,450g,other
+",metal,black,450g,other,39,16,3
 "Grizzly Cake Tin - Non-Stick Large Rectangular Springform - 35x24 cm (13"" x 9"") - Baking Tray - Black Cream
 Robust material - The bakeware is made of thick Carbon steel with enduring stick-resistant ceramic reinforced colour coating that makes it strong, durable and suitable for any traditional Oven up to 230 °C , no warping
 Flawless baking - The quick release clip with removable base design ensures easy removal after baking and keeps the baked item in perfect shape while the extended base protects the dough from spilling on your Oven
@@ -945,7 +945,7 @@ Product Dimensions 35 x 24 x 6 cm; 662 Grams
 Material Carbon Steel
 Auto Shutoff No
 Item Weight 662 g
-",metal,black,662g,other
+",metal,black,662g,other,38,27,7
 "Brownie Pan with Dividers, Non Stick 18 Cavity Brownie Baking Slicer Tray, 31 x 20 x 4.0cm Carbon Steel Bakeware for Oven Baking
 ➤ MAKE YOU CHIEF: With our brownie baking pan, you can quickly make dishes, afternoon tea, banquet desserts and other delicacies. Easy to deal with daily cooking, family dinner, friends gathering, festival celebrations, etc.
 ➤ FOOD GRADE MATERIAL: This brownie pan is made of high-carbon steel material which can transfer heat faster and provide even heat distribution. PTFE/PFOA/PFOS free, 100% safe for oven use.
@@ -956,7 +956,7 @@ Brand Ihomepark
 Package Dimensions 32.5 x 21.1 x 5.7 cm; 10 Grams
 Material Carbon steel
 Item Weight 10 g
-",metal,other,10g,other
+",metal,other,10g,other,31,20,4.0
 "Baguette Baking Tray, Non Stick-Silicone-Reusable Baguettes Baking Tray, French Stick Loaf Baking Molds Pan for 5 Baguettes
 Made of fiberglass and food grade silicone material, won't break, rust or crack like conventional cookware or baking pans.
 Perforated flexible Silicone baguette trays for baguettes especially effective for proving and baking frozen dough.
@@ -969,7 +969,7 @@ Colour As Picture Show
 Product Dimensions 32 x 10 x 8 cm; 10 Grams
 Material Not null
 Item Weight 10 g
-",plastic,other,10g,other
+",plastic,other,10g,other,32,10,8
 "Pentole Agnelli COAL49/350 Low Rectangular Baking Tray, Aluminum, Silver, 50 x 35 cm
 Made of aluminum
 Suitable for radiant cooking, electric cooking and gas cooking
@@ -981,7 +981,7 @@ Colour Silver
 Product Dimensions 50 x 35 x 3 cm; 400 Grams
 Material Aluminium Alloy 3003
 Item Weight 400 g
-",metal,silver,400g,other
+",metal,silver,400g,other,50,35,3
 "WEZVIX Large Baking Sheet with Cooling Rack Stainless Steel Baking Tray Cookie Sheet Oven Tray Pan 50 x 35 x 3 cm, Rust Free & Less Stick, Easy Clean & Dishwasher Safe
 Colour Silver
 Material Stainless Steel
@@ -1002,7 +1002,7 @@ Colour Silver
 Product Dimensions 49.78 x 35.05 x 3.05 cm; 997.9 Grams
 Material Stainless Steel
 Item Weight 998 g
-",metal,silver,998g,other
+",metal,silver,998g,other,50,35,3
 "12 Cup Silicone Muffin Tray, Non-Stick Muffin Tins Baking Mould, 12 Holes Muffin Mould,Muffin Pan
 Regular Silicone Muffin Pan: This is made of 100% pure silicone and really non-stick muffin baking pan.Of course it is also BPA Free and Food Grade.
 Stainless Steel Frame: Silicone muffin tray with stainless steel overmould structured for safe handling and also sturdy enough to keep the shape when baking.
@@ -1014,7 +1014,7 @@ Colour Red-translucent Grey
 Product Dimensions 38.1 x 27.18 x 3.48 cm; 420 Grams
 Material Silicone
 Item Weight 420 g
-",plastic,grey,420g,other
+",plastic,grey,420g,other,38.1,27.18,3.48
 "Wrenbury Yorkshire Pudding Tin Tray 4 Cup| Robust Non Stick Tray Yorkshire Pud Pan – 10 Year Quality Guarantee Baking Tray Christmas Yorkshire Puddings
 BEST YORKSHIRE PUDDING TIN - Built from heavy duty thick carbon steel this Yorkshire pudding tin is robust and comes with an impressive 10-year quality guarantee – imagine all those Yorkshires!
 BUILT TO LAST - The double layered non stick coating limits the mess of a mammoth Sunday dinner and ensures the Yorkshire puddings lift away with minimal convincing.
@@ -1025,7 +1025,7 @@ Brand Wrenbury
 Model Number WB02YP04
 Package Dimensions 25.5 x 25.1 x 2.39 cm; 608 Grams
 Item Weight 608 g
-",metal,other,608g,other
+",metal,other,608g,other,25.4,25.4,2
 "Pizza Pan Non-Stick Round Pie Cake Bread Mold Carbon Steel Baking Dish Pan Tray Pizza Mold Baking Pan Bakeware Kitchen Cookie Sheet Tools (23Cm / 10In)
 ★Application, it can be used to making pizza, pies, cakes, bread, useful tool.
 ★Function, it has characteristics of high temperature resistance, non-stick.
@@ -1037,7 +1037,7 @@ Model Number Cikonielfik8bv9mg4f-15
 Colour Black
 Material Carbon Steel
 Item Weight 88 g
-",metal,black,88g,other
+",metal,black,88g,other,other,other,other
 "Brownie Pan with Dividers, Non-Stick Brownie Tray Square Cake Mould Brownie Ovenware Cookware Bakeware,18-Cavity and 12 * 8 inches(Champagne Gold)
 Carbon Steel Material: The brownie baking tin make of premium food-grade carbon steel which makes fast heat transfer and ensures even heat distribution in every corners of the pan for consistently baked brownies with perfectly crisp edges, gooey centers and chewy taste. Oven safe up to 500℉/260℃.
 Divider Design: You don't need to cut every pieces with a knife. Simply insert the divider before baking, and lift it up by holding the handles when cakes have cooled. The preset dividing line design can make 18 pieces of brownie cake at a time.
@@ -1047,7 +1047,7 @@ Easy to Clean: it can be safely cleaned in the dishwasher,The brownie silicone s
 Brand ZCOINS
 Product Dimensions 31 x 20 x 5 cm; 980 Grams
 Item Weight 980 g
-",metal,other,980g,other
+",metal,other,980g,other,31,20,5
 "Amagabeli Baguette Baking Tray 4 baguettes15"" x 13"" Non-Stick Perforated Baguette Pans for French Bread Stick Bread Baking Mould Silver Steel Tray 33x38cm
 Specially perforated baguette plate with curvature for 4 particularly crispy baguettes. The baguette baking tray is equipped with holes that optimal heat distribution and contribute to a perfect baking result.
 Stable and durable construction, durable. Baking tin baguette is made of carbon steel, strong and durable. This bread roll baking pan is made with high quality non-stick dual-coating.
@@ -1058,7 +1058,7 @@ Brand Amagabeli Garden Home
 Package Dimensions 39.12 x 33.78 x 3.3 cm; 680 Grams
 Material Alloy
 Item Weight 680 g
-",metal,other,680g,other
+",metal,other,680g,other,38,33,2.5
 "Tspkey 23 x 18 x 2.5 cm Stainless Steel Cake Bake Pan,Compact Toaster Oven Pan Tray Ovenware Professional, Deep Edge, Superior Mirror Finish, Dishwasher Safe
 Colour Silver
 Material Stainless Steel
@@ -1076,7 +1076,7 @@ Colour Silver
 Product Dimensions 23 x 18 x 2.5 cm; 200 Grams
 Material Stainless Steel
 Item Weight 200 g
-",metal,silver,200g,other
+",metal,silver,200g,other,23,18,2.5
 "Morrisons Cook 12 Cup Muffin Tray
 5 years guarantee
 Teflon quality non-stick coatings
@@ -1087,7 +1087,7 @@ Units 12 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand Morrisons
 Manufacturer Wm Morrison Supermarkets PLC
-",metal,other,438g,other
+",metal,other,438g,other,38.3,4,0.9
 "Baking Tray
 Part Number 56151
 Package Dimensions 35.9 x 25 x 2.1 cm; 262 Grams
@@ -1095,7 +1095,7 @@ Manufacturer reference 56151
 Batteries included? No
 Batteries Required? No
 Item Weight 262 g
-",other,other,262g,other
+",other,other,262g,other,35.9,25,2.1
 "Ronnior Individual Lasagne Dish Large Deep, Ceramic Oven Dish, Serving Dish, Rectangular Baking Dish, Ceramic Baking Tray, Roasting Cooking Dishes for Oven, Shining Series (Red)
 【PREMIUM QUALITY FOR DAILY USE】: The Ronnior casserole dish ( excludes the ears' size): measures 34 x 24 x 6.6 cm, suitable for lasagna, spaghetti, chicken, meat, beef, roasting, vegetables, storing and reheating leftovers and etc.
 【SHINING DESIGN】: Ronnior baking tray for baking feature shining design for enjoyable baking time. Remarkable display can be a charming decoration even an artwork in your dining table and kitchen.in your dining table and kitchen.
@@ -1106,7 +1106,7 @@ Brand Ronnior
 Colour Red
 Package Dimensions 44.2 x 31.9 x 14.3 cm; 2.74 Kilograms
 Item Weight 2.74 kg
-",ceramic,red,2.74kg,other
+",ceramic,red,2.74kg,other,34,24,6.6
 "Zoymensu Bakeware 9.4 Inch Nonstick Sheet Baking Carbon Steel PTFE Coating Deep Bakeware Square Baking Pan Pizza Pan Toaster Oven Pan Champagne Gold
 Great for make layers and tiered cakes and chicken wings cookies vegetables croissant with this 9.4 Inch baking pan
 Generous 2 Inch depth for higher cakes
@@ -1116,7 +1116,7 @@ It can be a thoughtful gift for your husband or wife, or any cook
 Brand Zoymensu
 Package Dimensions 24.7 x 24.6 x 5.9 cm; 569 Grams
 Item Weight 569 g
-",metal,other,569g,other
+",metal,other,569g,other,9.4,9.4,2
 "Baking Tray Rack Set Stainless Steel Baking Sheet Pan with Cooling Rack, Safe Professional Mirror Finish - 40x30x2.5cm/ 31x24x2.5cm/ 23x17x2.5cm (31x24x2.5cm)
 Material Stainless Steel
 Size 31x24x2.5cm
@@ -1132,7 +1132,7 @@ Model Number XQK
 Product Dimensions 31 x 24 x 2.5 cm; 636 Grams
 Material Stainless Steel
 Item Weight 636 g
-",metal,other,636g,other
+",metal,other,636g,other,40,30,2.5
 "Chef Aid Baking Sheet
 Colour Grey
 Material Alloy Steel
@@ -1151,7 +1151,7 @@ Colour Grey
 Product Dimensions 34.01 x 29.59 x 1.8 cm; 340 Grams
 Material Alloy Steel
 Item Weight 340 g
-",metal,grey,340g,other
+",metal,grey,340g,other,34,29.6,1.8
 "ProCook Non-Stick Baking Tray 40cm x 27cm x 2.5cm
 Colour Black
 Material Carbon
@@ -1167,7 +1167,7 @@ Colour Black
 Package Dimensions 44.2 x 27.4 x 2.4 cm; 320 Grams
 Material Carbon
 Item Weight 320 g
-",metal,black,320g,other
+",metal,black,320g,other,44.2,27.4,2.4
 "Square Brownie Baking Tin Non-Stick Brownie Bread Tray - Silicone Oven Dish Trays Rectangle Cake Mould Roasting Tin for Loave, Cake & Lasagna,34x24cm
 🍔【NON STICK MATERIAL】Food-Grade Silicone, BPA free, Non-Toxic, No Odor! Higher tested stronger, more flexible and durable to maintain its original shape and non-stick qualities through more uses.
 🍞【LONG SIZE & LARGE-SLOT】French bread baking pan measures 34 X 24 X 3 cm/13""X 9.5""X 1.18"", Can bake multiple pieces of French bread in one breath, saving time and effort
@@ -1180,7 +1180,7 @@ Colour Brownie 2#
 Product Dimensions 34.5 x 24.5 x 3 cm; 233 Grams
 Material Silicone
 Item Weight 233 g
-",plastic,other,233g,other
+",plastic,other,233g,other,34,24,3
 "PLASTIFIC 12 Large Silicone Muffin Yorkshire Pudding Mould Cupcake Baking Bakeware Tray (Red)
 This listing is for only one. Flexible and nonstick silicone baking tray with 12 cups.
 Ideal for all types of baking like muffins, cupcakes, Yorkshire puddings etc.
@@ -1192,7 +1192,7 @@ Colour Red
 Package Dimensions 32.6 x 27.9 x 4.4 cm; 140 Grams
 Material Silicone
 Item Weight 140 g
-",plastic,red,140g,other
+",plastic,red,140g,other,32.6,27.9,4.4
 "Judge JB10 Square Baking Tray with Lip 31cm x31cm x 1cm, Heavy Duty, Dishwasher Safe, 5 year Guarantee
 Colour Grey
 Material Alloy Steel
@@ -1212,7 +1212,7 @@ Product Dimensions 35.9 x 32.9 x 1.7 cm; 619.99 Grams
 Material Alloy Steel
 Energy Efficiency Class A+
 Item Weight 620 g
-",metal,grey,620g,other
+",metal,grey,620g,other,35.9,32.9,1.7
 "Activave Bun Tray, Mince Pie Baking Tray, Cup Cake Tray, Non Stick Fairy Cake Tray, Robust 1mm Carbon Steel, Tart Tin (12 Cup Cake Tray)
 Activave carbon steel, fairy cake tray, this mince pie baking tray resists rust and warping, and is oven safe to 220°C
 Activave Baking pan to use is here with certain specialties like non-stick base that make it easy to bake your pies and cup-cakes to take them out of the pan without sticking to the bottom of the tray. The tray is made from quality material so during any handling it may not lose its shape.
@@ -1222,7 +1222,7 @@ Also perfect for small Individual Yorkshire Puddings
 Brand Activave
 Package Dimensions 32 x 22 x 1 cm; 210 Grams
 Item Weight 210 g
-",metal,other,210g,other
+",metal,other,210g,other,32,22,1
 "Prestige Inspire - Split Oven Tray - Non Stick - 2 in 1 - Heavy Gauge Carbon Steel - 40 x 32.5 x 2 cm
 Colour Black
 Material Alloy Steel
@@ -1242,7 +1242,7 @@ Product Dimensions 40 x 32.5 x 2 cm; 1.17 Kilograms
 Material Alloy Steel
 Special Features Oven and Dishwasher Safe, Heavy Gauge Carbon Steel, Freezer and Fridge Safe, Non Stick Technology, 25-year Guarantee
 Item Weight 1.17 kg
-",metal,black,1.17kg,other
+",metal,black,1.17kg,other,40,32.5,2
 "Neff z11cb10e0 Rectangular Oven Baking Tray Universal Oven, Rectangular, Grey, Enamel
 Item dimensions L x W x H 47 x 43 x 4.5 centimetres
 Colour Grey
@@ -1266,7 +1266,7 @@ Material Type Enamel
 Inner Material Type Enamel
 Batteries Required? No
 Item Weight 1.16 kg
-",other,grey,1.16kg,other
+",other,grey,1.16kg,other,47,43,4.5
 "Vitreous Enamel Baking Dish, British Made by Lets Cook Cookware
 Material Vitreous Enamel
 Brand Lets Cook Cookware
@@ -1286,7 +1286,7 @@ Product Dimensions 36 x 25 x 2 cm; 205 Grams
 Material Vitreous Enamel
 Auto Shutoff No
 Item Weight 205 g
-",other,black,205g,other
+",other,black,205g,other,36,25,2
 "Morrisons Cook Swiss Roll Tray
 5 years guarantee
 Teflon quality non-stick coatings
@@ -1297,7 +1297,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand Morrisons
 Manufacturer Wm Morrison Supermarkets PLC
-",metal,other,243g,other
+",metal,other,243g,other,38.1,2.6,0.5
 "Russell Hobbs RH0999EU Nightfall Stone Tray | 38 cm | Blue Marble | Suitable For Oven Use Up To 220°C | PFOA Free | Perfect For Roasts, Traybakes & More, Carbon Steel
 Colour Blue Marble
 Material Carbon Steel
@@ -1318,7 +1318,7 @@ Product Dimensions 38.2 x 24.2 x 4.8 cm; 670 Grams
 Diameter 38 Centimetres
 Material Carbon Steel
 Item Weight 670 g
-",metal,blue,670g,other
+",metal,blue,670g,other,38.2,24.2,4.8
 "12Cup Bun Tin Non Stick Muffin Tin/Mince Pie Baking Tray,with 12 Shallow Cups,Tart pan, Heavy-Gauge Carbon Steel Weight 800grams,Whitford QUANTUM2 Golden Coating,31.5 x 24 cm
 HIGH QUALITY - Made of 0.8mm（the usual thickness is 0.4mm） heavy-gauge carbon steel construction weight about 800grams,sturdy and durable.
 GOOD ABRASION RESISITANCE -With Whittford Quantum2 coating -American top-class coating brand . ●Quantum2 for Bakeware is internally reinforced with a special blend of diverse ceramic materials. While the adhesion remains outstanding, Quantum2 has a smooth surface appearance and has high gloss. In addition, this system has very good abrasion resistance and nonstick performance.It can be marketed as “Made without PTFE/PFOA”.
@@ -1329,7 +1329,7 @@ Brand I ENJOY+
 Package Dimensions 33.4 x 24.7 x 3.9 cm; 850 Grams
 Material Carbon Steel
 Item Weight 850 g
-",metal,other,850g,other
+",metal,other,850g,other,33.4,24.7,3.9
 "Haohai Mini Baguette Baking Tray, Non-Stick Perforated Pan Bread Crisping Tray, Loaf Baking Mould for Cakes, Chocolates, Breads,Pastries
 Non-stick material: Food grade silicone mold is more flexible and durable, non-stick and easy to release. non-toxic and tasteless, safe to use.
 Specially designed: the tiny holes in this baguettes baking form ensures that heat is perfectly distributed during the baking process. The moisture in the dough can escape through the holes - in this way the baguettes are baked crisply on the outside and remain soft inside
@@ -1342,7 +1342,7 @@ Colour Dark Grey
 Product Dimensions 34.5 x 23.8 x 2.5 cm; 268 Grams
 Material Silicone
 Item Weight 268 g
-",plastic,grey,268g,other
+",plastic,grey,268g,other,34.5,23.8,2.5
 "Tefal Airbake J2554014 Baking Tray 30 x 35 cm Non-Stick Steel Brown
 Material Carbon Steel
 Brand Tefal
@@ -1358,7 +1358,7 @@ Model Number J2554014
 Package Dimensions 35.7 x 32 x 2.9 cm; 730 Grams
 Material Carbon Steel
 Item Weight 730 g
-",metal,other,730g,other
+",metal,other,730g,other,35.7,32,2.9
 "Etiger ​Takoyaki Pan, 12-Hole​ Poffertjes Pancake Balls Takoyaki Pan Non-stick Cast Aluminum Alloy Baking Tray ​​Takoyaki Maker
 ❤ High quality Nonstick Pan. Cast-aluminum construction heats quickly; nonstick surface.
 ❤Featured a hanging hole at the end of handle, can be hang on the wall, convenient storage and space saving
@@ -1372,7 +1372,7 @@ Product Dimensions 35 x 18.5 x 3 cm; 550 Grams
 Material Not null
 Special Features Covered
 Item Weight 550 g
-",metal,other,550g,other
+",metal,other,550g,other,35,18.5,3
 "Morrisons Cook Vitreous Enamel Roasting Tin, 39 x 31 x 2 cm
 Morrisons since 1899
 Roasting tin
@@ -1383,7 +1383,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Wm Morrison Supermarkets PLC
-",metal,other,714g,other
+",metal,other,714g,other,39,31,2
 "Mini Oven Tray with Rack Set, Stainless Steel Cookie Sheet Baking Pan Tray with Cooling Rack | Healthy & Non Toxic, Mirror Polish & Easy Clean
 Colour As Picture Show
 Material Not null
@@ -1403,7 +1403,7 @@ Colour As Picture Show
 Product Dimensions 31 x 24 x 2 cm; 630 Grams
 Material Not null
 Item Weight 630 g
-",metal,other,630g,other
+",metal,other,630g,other,31,24,2
 "Lékué 400 x 300 mm Non Spill Baking Sheet, Black
 Colour Black
 Material Silicone
@@ -1424,7 +1424,7 @@ Product Dimensions 30.48 x 1.27 x 40.64 cm; 190 Grams
 Material Silicone
 Auto Shutoff No
 Item Weight 190 g
-",plastic,black,190g,other
+",plastic,black,190g,other,30.5,1.3,40.6
 "French Bread Pan Baguette Baking Tray Perforated 3-slot Non Stick Bake Loaf Mould 15inch (15x12inch)
 The french bread pan is made of Carbon Steel and Food Safe Non-Stick Coating.The coating of bagueete pan is non-Teflon,PTFE & PFOA FREE.
 You can make baguette bread at home with this baguette tray.
@@ -1435,7 +1435,7 @@ Brand Monfish
 Package Dimensions 39 x 32.7 x 3.9 cm; 816.47 Grams
 Material Carbon Steel
 Item Weight 816 g
-",metal,other,816g,other
+",metal,other,816g,other,15,12.6,1.1
 "TANGGER Pizza Tray 11in,Pizza Crisper Kitchen Tableware Non Stick Aluminium Mesh Pizza Screen Baking Tray
 Diameter: 28 cm. Suitable for all conventional ovens
 Lightweight Aluminum Grille Construction: Quality Construction heats quickly and smoothly, sturdy
@@ -1447,7 +1447,7 @@ Package Dimensions 29.8 x 28.6 x 0.8 cm; 40 Grams
 Material Aluminium
 Auto Shutoff No
 Item Weight 40 g
-",metal,other,40g,other
+",metal,other,40g,other,29.8,28.6,0.8
 "PROFIRSTMB-12 Cup Cake Muffin Tray Non-Stick | Muffin Tray to Make Cupcakes, Yorkshire Pudding and Baking.
 12 CUP MUFFIN TRAY | Made of heavy-weight carbon steel, provides durability and fast, even heating for uniform cooking. Each Tray measures 33cm x 26.5 cm x 3 cm
 NON STICK SURFACE | easy release and even easier cleanup, extra-thick rolled edges prevent warping.
@@ -1458,7 +1458,7 @@ Brand Generic
 Product Dimensions 33 x 26.5 x 3 cm; 410 Grams
 Material Carbon Steel
 Item Weight 410 g
-",metal,other,410g,other
+",metal,other,410g,other,33,26.5,3
 "Ronnior Individual Lasagne Dish Large Deep, Ceramic Oven Dish, Serving Dish, Rectangular Baking Dish, Ceramic Baking Tray, Roasting Cooking Dishes for Oven, Circle Series (Gradient Blue)
 Brand Ronnior
 Colour Gradient Blue
@@ -1472,7 +1472,7 @@ Brand Ronnior
 Colour Gradient Blue
 Package Dimensions 44 x 32 x 14.2 cm; 2.37 Kilograms
 Item Weight 2.37 kg
-",ceramic,blue,2.37kg,other
+",ceramic,blue,2.37kg,other,33,23,6.5
 "XL 43cm Roasting Turkey Baking Tin Tray Superior Double Coated Non Stick Made in England by Chabrias LTD
 Samuel Groves - Great British Bakeware - 43cm Roasting Tin, Superior Double Coated Non Stick
 Approx. External Dimensions 43cm x 31cm x 6.5cm
@@ -1482,7 +1482,7 @@ High Quality & Made in England
 Brand Chabrias Ltd
 Colour Grey
 Material Alloy Steel
-",metal,grey,other,other
+",metal,grey,other,other,43,31,6.5
 "Bread Mould 8 Grids Silicone Non-Stick Perforated French Bread Baguette Pans Baking Foil Mat Bread Mould Bread Crisping Tray Loaf Baking Mould Breadstick and Rolls (Dark Grey)
 BEAUTIFUL SIZE - Eight baguettes can be baked simultaneously with the baguette baking tray. The baking tray measures 34.5 x 23.8 x 2.5 cm. Therefore, it fits perfectly in all standard ovens. Each baguette pan measures 9.7 x 6.5 x 2.5 cm. Small is perfect for breakfast, afternoon tea
 Beautiful and bright colour, food grade silicone, temperature -40 to 230 degrees, can be placed in the oven or refrigerator, high-quality BPA-free silicone, double colour design makes it exquisite and outstanding.
@@ -1496,7 +1496,7 @@ Product Dimensions 32 x 10 x 8 cm; 10 Grams
 Material Silicone
 Special Features Non-stick coating
 Item Weight 10 g
-",plastic,grey,10g,other
+",plastic,grey,10g,other,34.5,23.8,2.5
 "Nonstick Madeleine Pan 12-Cup Heavy Duty Shell Shape Baking Cake Mold Tray (Golden)
 Safe and Health. Classic French shell-shaped Madeleine Pan with traditional 12 cups capacity. Perfect for delicious French madeleines that bake evenly and taste great.
 Nonstick coating. A patented silicone coating which is PTFE, PFOA and BPA free - provides quick and easy release of all baked-goods and minimal easy clean up
@@ -1508,7 +1508,7 @@ Colour Gold
 Package Dimensions 42.09 x 24.69 x 2.69 cm; 322 Grams
 Material Carbon Steel
 Item Weight 322 g
-",metal,gold,322g,other
+",metal,gold,322g,other,42.09,24.69,2.69
 "Chef Aid 10E10288 Baking Tray , Grey , 33 x 21.5cm
 Great for Home Baking
 Lightweight and Durable
@@ -1519,7 +1519,7 @@ Colour Grey
 Product Dimensions 0.03 x 0.03 x 0.03 cm; 9 Grams
 Material See description
 Item Weight 9 g
-",other,grey,9g,other
+",other,grey,9g,other,0.03,0.03,0.03
 "Guilty Gadgets Large Classic Steel Baking Tray Healthy Non Toxic, Easy Clean & Dishwasher Safe Cooking Baking Pan Kitchenware Durable Long Lasting - 38cm x 25cm x 1.4cm
 This Classic Steel Large Baking Tray is constructed from a hard wearing material that is manufactured to offer long lasting use.
 Each baking tray measures 38cm x 25cm x 1.4cm and is suitable for baking all types of food types.
@@ -1531,7 +1531,7 @@ Model Number 520BMINQWAIMP25
 Package Dimensions 39.9 x 26.5 x 2.7 cm; 241 Grams
 Material Alloy Steel
 Item Weight 241 g
-",metal,other,241g,other
+",metal,other,241g,other,39.9,26.5,2.7
 "Hengdai Stainless Steel Compact Toaster Oven Pan Tray Ovenware Professional, Heavy Duty & Healthy, Deep Edge, Superior Mirror Finish, Dishwasher Safe … (10.4X 7.9 x 1 inches)
 Material :430 stainless steel Size:10.4*8.1*1 inch
 More than a cake pan! Use for your cinnamon rolls, sticky buns, brownies, corn bread and fruit cobblers
@@ -1543,7 +1543,7 @@ Model Number HD0008
 Product Dimensions 26 x 20 x 2.5 cm; 260 Grams
 Material Stainless steel
 Item Weight 260 g
-",metal,other,260g,other
+",metal,other,260g,other,10.4,7.9,1
 "Doughnut Mould Tin Non-Stick Carbon Steel Baking Tray for Donut Cake Biscuit Bagel Muffin 12 Holes 4 Patterns
 Donut pans are great for make high quality family dishes, afternoon tea, banquet desserts and other delicacies, good for daily cooking, family dinner, friends gathering, festival celebrations, etc.
 Premium food grade carbon steel, durable and steady to use, makes your donut more beautiful and delicious.
@@ -1554,7 +1554,7 @@ Brand Ponixa
 Package Dimensions 35.2 x 29.7 x 2.8 cm; 630 Grams
 Material Carbon Steel
 Item Weight 630 g
-",metal,other,630g,other
+",metal,other,630g,other,35.2,29.7,2.8
 "Non-Stick Mini Loaf Pan Cake Bread Baking Tray Carbon Steel Bakeware 8-Cavity (Gray)
 Mini loaf pan can be used for mini banana nut or zucchini bread loaves, mini pound cakes or even individual crustless quiches and more.
 In addition to favorite bread recipes, like banana, pumpkin, wheat, or corn bread, the pan can also be used to bake small batches of lasagna, casseroles, meat loaf, brownie, financier cake, etc.
@@ -1566,7 +1566,7 @@ Colour Gray
 Package Dimensions 39.6 x 28.8 x 4.9 cm; 472 Grams
 Material Carbon Steel
 Item Weight 472 g
-",metal,grey,472g,other
+",metal,grey,472g,other,39.6,28.8,4.9
 "​Baguette Baking Tray, ​Carbon Steel 4 Wave Slots Non-Stick Perforated Baguette Pan Baguette Mold​ for French Bread Baking​ (Silver)
 HIGH QUALITY - Made of quality material, non-toxic and environmentally friendly. Heat resistant and durable for long time.
 NON-STICK DESIGN - Steel has excellent heat regulation properties, so when you follow the recipes accordingly non stick baking is assured.
@@ -1578,7 +1578,7 @@ Colour Silver
 Package Dimensions 38 x 32.6 x 1.8 cm; 580 Grams
 Material Carbon Steel, Steel
 Item Weight 580 g
-",metal,silver,580g,other
+",metal,silver,580g,other,38,32.6,1.8
 "SHEANAON Silicone Cake Mold Pan, Doughnut Nonstick Baking Tray for Halloween Christmas, Truffle, Mousse, Jelly, Biscuits, Chocolate, Bagels, Cheesecake, DIY Handmade Soap Moulds
 【Premium quality】 Our mousse cake mold are made of high-quality and 100% food grade silicone. It's safe for used in -40 to 440°F (-40 to 230°C), conventional ovens, microwave, refrigerator, dishwasher and freezer.
 【DIY 3D Mold Size】 9.84 x 6.69 x 0.79 inch. Durable and long lasting, easy to use and wash, save space, dishwasher safe and non stick, cool it for 10 minutes for better release effect.
@@ -1591,7 +1591,7 @@ Colour #6
 Product Dimensions 30 x 18.8 x 3.5 cm; 100 Grams
 Material Silicone
 Item Weight 100 g
-",plastic,other,100g,other
+",plastic,other,100g,other,9.84,6.69,0.79
 "SveBake Madeleine Tray - Silicone Madeleine Moulds - 12 Holes Non Stick Baking
 Size: 30 * 12.5 * 6 cm, each cup size: 4.5 x 9 cm. Let's make classic french cupped madeleines together.
 Food grade silicone: Madeleine tray is made of food-grade silicone. The flexible silicone and non-stick finish enables quick and easy release of baked goods and odorless desserts.
@@ -1604,7 +1604,7 @@ Product Dimensions 34 x 23.8 x 1.3 cm; 280 Grams
 Material Silicone
 Special Features Dishwasher safe
 Item Weight 280 g
-",plastic,white,280g,other
+",plastic,white,280g,other,34,23.8,1.3
 "KITCHENATICS Roasting & Baking Sheet with Wire Rack: Small Quarter Sheet Size Aluminum Quarter Cookie Pan Tray with Stainless Steel Cooling Rack - 24,4 cm x 33,02 cm
 Colour Stainless Steel
 Material Stainless Steel
@@ -1625,7 +1625,7 @@ Product Dimensions 33.02 x 24.38 x 2.54 cm; 740 Grams
 Material Stainless Steel
 Auto Shutoff No
 Item Weight 740 g
-",metal,other,740g,other
+",metal,other,740g,other,33,24.4,2.5
 "Quid Sweet Gray - Baking tray, 43 x 29 x 2 cm
 Colour Grey
 Material Stainless Steel
@@ -1643,7 +1643,7 @@ Product Dimensions 43 x 29 x 2 cm; 399.16 Grams
 Material Stainless Steel
 Special Features Dishwasher-Safe
 Item Weight 399 g
-",metal,grey,399g,other
+",metal,grey,399g,other,43,29,2
 "Silicone Muffin Trays - 12 Cup Silicone Muffin Cases Non-Stick Muffin Cupcake Tin BPA Free Non-Toxic Baking Mould for Muffins Cupcakes Pudding (Red)
 Food Grade Material: These muffin trays are made of high quality Extra THICK Silicone. BPA-free, Non-Toxic, No Odor. Can be used safely, withstand temperatures from -40°F to 446°F. More flexible and durable to maintain its original shape and non-stick qualities through more uses.
 Easy to clean: These 12 cup silicone muffin pan have Non stick coating, make it easy to remove your baked treats,stain-resistant.Completely dishwasher safe, so cleaning is always quick ,simple and worry-free! These muffin trays are a must-have for any baking enthusiast!
@@ -1655,7 +1655,7 @@ Colour Red
 Package Dimensions 30.9 x 25.2 x 3.4 cm; 150 Grams
 Material Silicone, Tin
 Item Weight 150 g
-",plastic,red,150g,other
+",plastic,red,150g,other,30,22,2.5
 "Carbon Steel Deep Muffin Tray - 12 Cups Non Stick Cupcake Tin Pan for Baking - Dishwasher Safe, Use for Cookies, Yorkshire Pudding
 【 Non Stick Baking 】 Muffin tray has excellent heat regulation properties, which ensures your muffins will not stick to the bottom of your cake tin for hassle-free baking. Great for Yorkshire puddings, they just slipped out without any sticking.
 【 Carbon Steel Material 】 The heavyweight, high-quality carbon steel design ensures that your cupcakes or muffins will stay in place at all times. The cake tin is rust proof, microwave friendly and heat resistant. It maintains its shape and provides with the best baking results.
@@ -1666,7 +1666,7 @@ Brand N\C
 Package Dimensions 35.2 x 26.5 x 3.7 cm; 380 Grams
 Material Carbon Steel
 Item Weight 380 g
-",metal,other,380g,other
+",metal,other,380g,other,35.2,26.5,3.7
 "Xinlie Mini Baguette Tray French Non-Stick Bread Form Baguette Baking Tray Silicone for 3 Baguettes Baguette Tray for Baking 3 Slots Mini Baguette Baking Tray Non Stick French Bread Mould for Baking
 🥖 【Non-toxic material】 Our baguette baking trays are made of food-safe silicone, are non-toxic (free BPA, PVC) and tasteless. You do not have to worry that the high temperature of the baking sheet would be harmful Your family's health can be safely used.
 🥖 【Multi ＆ Wave Slots】 This bun baking pan can bake 3 loaves at the same time, which saves time. 3 wave slots that are helpful to simplify subtle baguettes keep in good condition. So you can effortlessly achieve beautiful looking, delicious baguettes. Also perfect for non-kneaded dough.
@@ -1677,7 +1677,7 @@ Brand Xinlie
 Package Dimensions 34 x 24.5 x 2 cm; 300 Grams
 Material Silicone
 Item Weight 300 g
-",plastic,other,300g,other
+",plastic,other,300g,other,34,24.5,2
 "Pyrex asimetriA Metal Easy-Grip Baking Tray 33x25 cm, Brown
 Colour Brown
 Material Metal
@@ -1698,7 +1698,7 @@ Product Dimensions 39.29 x 27.79 x 3.3 cm; 300 Grams
 Capacity 1.4 litres
 Material Metal
 Item Weight 300 g
-",metal,brown,300g,1.4L
+",metal,brown,300g,1.4L,39.3,27.8,3.3
 "KeepingcooX® Loaf Pan/Tin, 2.5"" Deep Bread Loaf Mould Silicone Non Stick Baking Tray Rectangle Cake Bakeware Set with Handle Grips, Internal 22 x 10 cm (9"" x 4""), Double Bright Color, Easy to Clean
 🍰 NON STICK MATERIAL: Higher tested 100% food-grade silicone is stronger, more flexible and durable to maintain its original shape and non-stick qualities through more uses. Bake crisp, gooey brownies and perfect traybakes with this commercial-grade brownie pan
 🍰 BEAUTIFUL & BRIGHT COLOR: The newest item of 2020 just launched, premium BPA-free silicone, DOUBLE-COLOR design makes it exquisite and outstanding
@@ -1712,7 +1712,7 @@ Package Dimensions 27.8 x 12.4 x 6.6 cm; 150 Grams
 Material Silicone
 Auto Shutoff No
 Item Weight 150 g
-",metal,green,150g,other
+",metal,green,150g,other,22,10,6
 "Dexam 17841430 Non- Stick Oven Chip Tray Carbon Steel , Grey
 Colour Grey
 Material Carbon
@@ -1732,7 +1732,7 @@ Colour Grey
 Product Dimensions 38.99 x 34.01 x 2.39 cm; 439.98 Grams
 Material Carbon
 Item Weight 440 g
-",other,grey,440g,other
+",other,grey,440g,other,39,34,2.4
 "Prestige - Large Roasting Tray Non Stick - Easy Food Release - Dishwasher Safe - Durable Steel - 33x 28.5x 6.5 cm
 CUSHION SMART TECHNOLOGY - To help you get the best browning, our 6.5 cm deep roasting tray is equipped with the innovative Cushion Smart technology.
 SUPERIOR NON STICK - The non stick interior and exterior added to this oven roasting tray will be perfect for easy food release and faster to clean.
@@ -1743,7 +1743,7 @@ Product Dimensions 33 x 28.5 x 6.5 cm; 640 Grams
 Dishwasher safe? Yes
 Warranty description 11 year guarantee.
 Batteries required No
-",other,other,640g,other
+",other,other,640g,other,33,28.5,6.5
 "SveBake Baguette Baking Tray Silicone for 3 Baguettes - Non-Stick French Bread Stick Bread Baking Molds Pan, 32 x 24.5 cm
 Size - 35 x 25 cm, each wave slot has width of 6.5 cm. Suitable for most ovens. Please check the size before purchasing.
 VERSATILE & DELICIOUS BAKING - 3 wave slots is helpful to make baguettes easier and keep in a good shape.
@@ -1756,7 +1756,7 @@ Product Dimensions 34.5 x 24.5 x 2 cm; 360 Grams
 Material Silicone
 Special Features Non-stick coating, Dishwasher safe
 Item Weight 360 g
-",plastic,beige,360g,other
+",plastic,beige,360g,other,34.5,24.5,2
 "Bahob® Cupcake Tray Deep Dish Fairy Cake Baking Pastry Mould Spiral Design Deep Dish Mould 26cm x 18.5cm (1)
 Muffin Pans are made from high quality 100% food grade BPA free, microwave, freezer and dishwasher safe and heat resistant to 450°F, they are made to last a lifetime.
 Strong, Durable & Non-Stick BPA Free
@@ -1766,7 +1766,7 @@ Easy for cleaning & Dish Washer Safe
 Brand Bahob
 Package Dimensions 27 x 18 x 3.2 cm; 182 Grams
 Item Weight 182 g
-",other,other,182g,other
+",other,other,182g,other,27,18,3.2
 "Baguette Baking Tray Non-Stick Baguette Molds Pan Perforated French Stick Loaf Bread Mould Baguette Baking Tin Bread Tools
 High-quality Carbon Steel: Our baguette mold is made of high quality carbon steel, thickened design, smooth edges will not scratch your hands, durable and will not be deformed.
 Non-Stick: High-quality non-stick coating, food can be easily removed, efficient cleaning, only simply wipe with a cloth after use.
@@ -1777,7 +1777,7 @@ Brand OGIBRIDI
 Product Dimensions 37.85 x 31.75 x 2.79 cm; 988 Grams
 Material Carbon Steel
 Item Weight 988 g
-",metal,other,988g,other
+",metal,other,988g,other,14.9,12.5,1.1
 "Baking Toast Pan, Toast Box with Lid, Non-Stick Loaf Tin with Cover Bread Toast Mold Rectangular Corrugated Toast Box, for Home Kitchen Toast Baking
 【Non-Stick】- Made of superior carbon steel, environmentally friendly and durable. Corrugated texture, exquisite workmanship. Curled edge, does not hurt the hands, safe to use. The loaf pan for baking bread comes with food-grade non-stick coating which ensures quick demoulding and easy cleaning.
 【Wide Application】Baking Loaf Pan not only can bake square bread, but also make bread toast. According to your baking preference, you can choose whether to use the lid or not.
@@ -1788,7 +1788,7 @@ Brand Lanbent
 Package Dimensions 23.4 x 14.9 x 12.9 cm; 650 Grams
 Material Carbon Steel
 Item Weight 650 g
-",metal,other,650g,other
+",metal,other,650g,other,21.2,12,11
 "Wham Essentials 39cm Baking Tray
 Wham Essentials 39cm Baking Tray
 Double Coated Non-stick Bakeware
@@ -1797,7 +1797,7 @@ Oven safe to 230 degrees
 Brand Wham
 Package Dimensions 38.2 x 30.6 x 1.2 cm; 340 Grams
 Item Weight 340 g
-",metal,other,340g,other
+",metal,other,340g,other,38.2,30.6,1.2
 "French Bread Baking Tray Baguette Baking Tray Baguette Tray French Baguette Pan Baguette Baking Mould with Non-Stick Coating for Placing and Baking French 4 Baguettes Black 1 Piece
 High-quality materials: French bread pan made of high-quality carbon steel, durable and high temperature resistant, the maximum temperature can be 260 °C, can be used for a long time
 Non-stick coating design: the bread baking tray is non-stick so that the bread does not stick to the baking tray, easy to demould
@@ -1807,7 +1807,7 @@ Widely used: it is very suitable for various breads such as French bread, baguet
 Brand YCZCHE14
 Product Dimensions 38 x 33 x 2.5 cm; 516 Grams
 Item Weight 516 g
-",metal,other,516g,other
+",metal,other,516g,other,38,33,2.5
 "Professional 32cm Baking Tray, British Made with Double Coated Performance Non Stick by Lets Cook Cookware
 Colour Silver
 Material Carbon Steel
@@ -1826,7 +1826,7 @@ Product Dimensions 32 x 23.5 x 1 cm; 420 Grams
 Material Carbon Steel
 Special Features Non-Stick
 Item Weight 420 g
-",metal,silver,420g,other
+",metal,silver,420g,other,32,23.5,1
 "ICQN Extra Deep Baking Tray | Sheet metal | Baking tray | Enamelled | Plate | Universal pan | Suitable for Bosch - Siemens - Neff - Constructa | Scratch resistant | 455 x 377 x 60 mm
 Colour Black
 Material Enamel
@@ -1846,7 +1846,7 @@ Product Dimensions 45.5 x 37.7 x 6 cm; 1.25 Kilograms
 Material Enamel
 Special Features BSH Group 662999-00662999 Compatible, Scratch-proof, Suitable for Bosch & Siemens, 455 x 377 x 60 mm, Extra Deep, Enamelled
 Item Weight 1.25 kg
-",metal,black,1.25kg,other
+",metal,black,1.25kg,other,45.5,37.7,6
 "CHEFMADE Roasting Tins 34 x 24 cm with Rack 13 Inch Non Stick Carbon Steel Baking Tray 6cm Deep LEFG Approved Rectangle Cake Tins Oven Baking Meat Bacon Bread Pastries
 【13-Inch Baking Tin】34.5x24.6x6.1cm carbon steel cake tin, non-stick oven baking mould , also includes a grill 31x21.6x1.5cm (baking rack)
 【No PTFE & PFOA】Cake moulds has LFGB approved, food-grade silicone coating, non-Teflon, no harmful substance release in high temperature
@@ -1860,7 +1860,7 @@ Product Dimensions 34.6 x 24.7 x 6 cm; 1.4 Kilograms
 Material Carbon Steel
 Special Features Heavy-duty, Rapid_Bake_Function, Baking tins with rack, Roasting tin of oven bbq
 Item Weight 1.4 kg
-",metal,gold,1.4kg,other
+",metal,gold,1.4kg,other,34.5,24.6,6.1
 "Pceewtyt Muffin Pan Non-Stick Mini Cake Baking Mold Macaron Baking Tray for Cupcake, Dessert, Cookie, Macaron,Nut, Chocolate Chip, Biscuits
 1. The baking tray features good heat conduction, uniform heat conduction, high temperature resistance, good stability and good hardness. It is not easy to deform, strong and durable.
 2. It adopts high-quality coating, so it has good non-stick effect, corrosion resistance, wear resistance, easy release and easy cleaning.
@@ -1872,7 +1872,7 @@ Colour Gold
 Package Dimensions 30 x 25 x 1 cm; 340 Grams
 Material Carbon steel
 Item Weight 340 g
-",metal,gold,340g,other
+",metal,gold,340g,other,30,25,1
 "GWHOLE 3 Loaves Baguette Mould Non-Stick Coating Carbon Steel Baking Tray Perforated Mould for French Bread Crisp Baguette
 Food grade carbon steel double-sided non-stick coating, easy to demould and clean
 Mould holes allow air to flow freely around the bread, making a perfect golden shell for the bread
@@ -1884,7 +1884,7 @@ Model Number ZOR0007
 Package Dimensions 38 x 24.4 x 2.4 cm; 361 Grams
 Material Carbon Steel
 Item Weight 361 g
-",metal,other,361g,other
+",metal,other,361g,other,38,24.4,2.4
 "Copper Crisper Tray Non-Stick Oven Baking Tray with Elevated Mesh Air Fryer Crisping Grill Basket 2 Piece Baking Set
 Colour Copper
 Material Copper
@@ -1901,7 +1901,7 @@ Colour Copper
 Package Dimensions 34.2 x 25.8 x 8.5 cm; 696 Grams
 Material Copper
 Item Weight 696 g
-",metal,other,696g,other
+",metal,other,696g,other,34.2,25.8,8.5
 "Prochef Teflon Non-Stick Premium Tray Tin-Length 35.1cm x Width 25.4cm-High Silicone Coating for Chicken/Turkey Roasts/Beef/Pork Joints-Silver, Black, Medium
 Non-stick tin - The Prochef non-stick tin features a premium design that ensures your Turkey roasts or beef joints will not stick to the bottom of your roasting try tin for hassle-free cooking while allowing room for vegetables
 Silicone coating - The heavyweight, high-quality and premium silicone coating design ensures that your meat joints will stay in place at all times for The perfect dish every time
@@ -1915,7 +1915,7 @@ Product Dimensions 35.1 x 25.4 x 6.2 cm; 898 Grams
 Material Silicone
 Special Features Microwave-Safe,Dishwasher-Safe
 Item Weight 898 g
-",plastic,black,898g,other
+",plastic,black,898g,other,35.1,25.4,6.2
 "Page Adelasd 1pc 7.5in Square Cake Tin Non Stick Oven Baking Tray Bakeware Roasting Pan Mould Pastry Toast Bread Mold Loaf Supplies
 ★Size: 21.2 * 3.6cm (approximately), you can use it to cook delicious bread and cake, nothing more. Its non-stick surface is easy to release food, does not cause confusion, and is very easy to clean.
 ★Heat-resistant temperature: 230 degrees Celsius / 445 degrees Fahrenheit, without sharp edges, will not hurt your hands.
@@ -1925,7 +1925,7 @@ food platters with lids plastic platters for party food platters platters and bo
 Brand Page Adelasd
 Model Number Page Adelasd-5.31
 Colour Black
-",metal,black,other,other
+",metal,black,other,other,other,other,other
 "Zenker 3482 Quick-Baking Oven Tray with High Rim
 Colour Black
 Material Metal
@@ -1943,7 +1943,7 @@ Colour Black
 Product Dimensions 37 x 33 x 3 cm; 970 Grams
 Material Metal
 Item Weight 970 g
-",metal,black,970g,other
+",metal,black,970g,other,37,33,3
 "Non-Stick Baking Pan, zosenda Carbon Steel Rimmed Cookie Sheet Pan, Bread Baking Pan Cake Mould Tray Quick Release Backing Sheet for Oven Roasting Meat Bread Jelly Roll Pizzas Pastries
 SUPERIOR NON-STICK: The non-stick cookie sheet is finished with premium quality non-chemical coating to ensure quick and effortless food release. This means you can remove your freshly baked bread or cookies easily with no need for excess butter, oil, or cooking spray
 PREMIUM CARBON STEEL: Made from food grade heavy-gauge carbon steel that distributes heat evenly for consistent browning and baking, the rimmed cookie baking sheet reliably resists warping or hot spots to deliver beautifully browned results
@@ -1956,4 +1956,4 @@ Package Dimensions 25.91 x 23.11 x 2.79 cm; 220 Grams
 Material Carbon Steel
 Special Features Heavy duty, Non-stick, Quick release
 Item Weight 220 g
-",metal,other,220g,other
+",metal,other,220g,other,25.91,23.11,2.79

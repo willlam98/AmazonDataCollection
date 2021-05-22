@@ -35,7 +35,7 @@ def update_spreadsheet(df, file_path):
 def main():
     file_path = sys.argv[-1]
     if not file_path.endswith('.xlsx') or not os.path.exists(file_path):
-        print('File do not exist, expecting a .xlsx file')
+        print('File doess not exist, expecting a .xlsx file')
         return
     spreadsheet = pd.read_excel(file_path)
 

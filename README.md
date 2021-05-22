@@ -15,8 +15,8 @@ Since this is a novel problem, data collection is needed and this repo has the f
 
 ### Usage and workflow of the main script `./script.py`
 1. Create `./object_html_json/<object_name>_html.json` file which contains an array of the object links
-2. Run the script by `python3 ./script.py -f <tartget-json-file> -obj <object-name>` which will generate a spreadsheet in `.xlsx` format for labelling
-3. To download image (if you need to), I recommend you do this after you generated the spreadsheet in a separate sesson as this can reduce the work load if you were doing this in one go. The image can be downloaded by using `python3 ./script.py -f <tartget-json-file> -obj <object-name> -img true`
+2. Run the script by `python3 ./script.py -f <target-json-file> -obj <object-name>` which will generate a spreadsheet in `.xlsx` format for labelling
+3. To download image (if you need to), I recommend you do this after you generated the spreadsheet in a separate sesson as this can reduce the work load if you were doing this in one go. The image can be downloaded by using `python3 ./script.py -f <target-json-file> -obj <object-name> -img true`
 
 Examples:
 
