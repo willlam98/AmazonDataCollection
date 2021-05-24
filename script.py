@@ -28,10 +28,15 @@ def get_product_info(sess, url):
     res = sess.get(url)
     soup = BeautifulSoup(res.content, "lxml")
     output = ''
+    unstructured = ''
+    structured = ''
 
+    # Get product title (Unstructured)
     product_title = soup.find(id='productTitle').text.strip()
     output = output + product_title + '\n'
+    unstructured = unstructured + product_title + '\n'
 
+    # Get the table above 'Above this item' (Structured)
     product_table = soup.find("table", attrs={"class": "a-normal a-spacing-micro"})
     if product_table is not None:
         product_table_data = product_table.find_all("tr")
@@ -46,17 +51,18 @@ def get_product_info(sess, url):
             for td in tds:
                 table_data.append(td.text.strip())
             output = output + ' '.join(table_data) + '\n'
+            structured = structured + ' '.join(table_data) + '\n'
 
     # print('\n=====Now printing about this item=====\n')
-
+    # Unstructured
     about_this_item = soup.find("ul", attrs={"class": "a-unordered-list a-vertical a-spacing-mini"})
     # print(about_this_item)
     if about_this_item is not None:
         for li in about_this_item.find_all('li'):
             output = output + li.text.strip() + '\n'
-
+            unstructured = unstructured + li.text.strip() + '\n'
     # print('\n=====Now printing Technical Details=====\n')
-
+    # Structured
     technical_detail = soup.find("table", attrs={"class": "a-keyvalue prodDetTable"})
     if technical_detail is not None:
         technical_detail_data = technical_detail.find_all("tr")
@@ -73,9 +79,10 @@ def get_product_info(sess, url):
                 result = [list(zipped) for zipped in zip(table_data_head, table_data)]
                 for res in result:
                     output = output + ' '.join(res) + '\n'
+                    structured = structured + ' '.join(res) + '\n'
 
     # print('***Finished createing the string***')
-    return output
+    return output, unstructured, structured
 
 ###########################################################################
 #  Now writing to xlsx file
@@ -83,11 +90,15 @@ def write_spreadsheet(sess, urls_list, obj):
     workbook = xlsxwriter.Workbook('./spreadsheet/web_scrape_{}.xlsx'.format(obj))
     worksheet = workbook.add_worksheet()
     worksheet.write('A1', 'Input')
+    worksheet.write('B1', 'UnstructuredText')
+    worksheet.write('C1', 'StructuredText')
     for i in range(1, len(urls_list) + 1):
         try:
-            output = get_product_info(sess, urls_list[i-1])
+            output, unstructured, structured = get_product_info(sess, urls_list[i-1])
             worksheet.write('A' + str(i+1), output)
-            print('*** Successfully writen to A{} cell'.format(str(i+1)))
+            worksheet.write('B' + str(i+1), unstructured)
+            worksheet.write('C' + str(i+1), structured)
+            print('*** Successfully writen to A{idx}, B{idx}, C{idx} cell'.format(idx = str(i+1)))
         except:
             print('Exception in {}', urls_list[i-1])
     workbook.close()
@@ -115,9 +126,10 @@ def main():
     Amazon if high traffic (Apparently Amazon do not want bot to access their website)
     Look at https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/ for more details
     '''
-    # sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0'
-    sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
+    sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'
+    # sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
     # sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36'
+    # sess.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15'
     urls_list = get_urls_list(json_file)
 
 
@@ -137,9 +149,9 @@ def main():
             log_file.write(err)
 
     ## Testing individual link ---> need to uncomment the above
-    # testUrl = "https://www.amazon.co.uk/Funny-mug-Humour-Christmas-Present/dp/B01M64Y51R/ref=sxin_9_ac_d_rm?ac_md=1-1-ZnVubnkgbXVn-ac_d_rm&cv_ct_cx=mug&dchild=1&keywords=mug&pd_rd_i=B01M64Y51R&pd_rd_r=6b991db5-8485-4e66-97c8-5d3192c5968f&pd_rd_w=orMxD&pd_rd_wg=6mERK&pf_rd_p=0c799c14-fd2d-4652-a647-3581649b0ff7&pf_rd_r=GZYCD9W91BQ6SNFC5774&psc=1&qid=1608929241&sr=1-2-fe323411-17bb-433b-b2f8-c44f2e1370d4"
-    # test_output = get_product_info(sess, testUrl)
-    # print(test_output)
+    # testUrl = 'https://www.amazon.co.uk/Solomi-Car-Water-Heater-Portable/dp/B081SVWWBK/ref=sr_1_198?dchild=1&keywords=kettle&qid=1610980100&sr=8-198'
+    # output, unstructured, structured = get_product_info(sess, testUrl)
+    # print('output:\n{}\n\nunstructured:\n{}\n\nstructured:\n{}'.format(output, unstructured, structured))
 
 if __name__ == '__main__':
     main()
