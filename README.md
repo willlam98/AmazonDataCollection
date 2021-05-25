@@ -58,7 +58,7 @@ To run the script
 
 Example for mug
 
-`python3 ./extract_size.py ./spreadsheet/web_scrape_mug.xlsx`
+`python3 ./auto_label.py ./spreadsheet/web_scrape_mug.xlsx`
 
 ## Result
 You can see that there will still be some gaps after the script is run
