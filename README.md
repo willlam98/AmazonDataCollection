@@ -50,7 +50,7 @@ Note that sometime the program does not run if you access it too often (As you m
 
 
 # For automatic labelling
-- Labelling dataset is a very tedious job, especially when we have many output classes and properties to be labelled. There I have written a script `./auto_label.py` which uses regular expression (RegEx) to help us to the tedious job. Note that this script only label a **PROPORTION** of data (not 100%), and in addition a quick manual check should be carried out after this script is run. Nevertheless, this script will still be able to save a lot of time for the labelling job.
+- Labelling dataset is a very tedious job, especially when we have many output classes and properties to be labelled. Therefore I have written a script `./auto_label.py` which uses regular expression (RegEx) to help us to do the tedious job. Note that this script only labels a **PROPORTION** of data (not 100%), anyway a quick manual check should be carried out after this script is run. Overall, this script will still be able to save a lot of time for the labelling job.
 
 To run the script
 
