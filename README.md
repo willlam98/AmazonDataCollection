@@ -56,8 +56,6 @@ To run the script
 
 `python3 ./auto_label.py ./spreadsheet/web_scrape_<object-name>.xlsx`
 
-Note that the script will overwrite the original spreadsheet, appending 3 columns (Length, Width and Height) to the end.
-
 Example for mug
 
 `python3 ./extract_size.py ./spreadsheet/web_scrape_mug.xlsx`
