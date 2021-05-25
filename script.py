@@ -100,7 +100,7 @@ def write_spreadsheet(sess, urls_list, obj):
             worksheet.write('C' + str(i+1), structured)
             print('*** Successfully writen to A{idx}, B{idx}, C{idx} cell'.format(idx = str(i+1)))
         except:
-            print('Exception in {}', urls_list[i-1])
+            print('Exception in {}'.format(urls_list[i-1]))
     workbook.close()
 
 ###########################################################################
@@ -126,8 +126,8 @@ def main():
     Amazon if high traffic (Apparently Amazon do not want bot to access their website)
     Look at https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/ for more details
     '''
-    sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'
-    # sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
+    # sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'
+    sess.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
     # sess.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36'
     # sess.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15'
     urls_list = get_urls_list(json_file)
@@ -149,7 +149,9 @@ def main():
             log_file.write(err)
 
     ## Testing individual link ---> need to uncomment the above
-    # testUrl = 'https://www.amazon.co.uk/Solomi-Car-Water-Heater-Portable/dp/B081SVWWBK/ref=sr_1_198?dchild=1&keywords=kettle&qid=1610980100&sr=8-198'
+    # If you want to test individual link, run without options
+    # python3 ./script.py
+    # testUrl = 'https://www.amazon.com.au/Bodum-Chambord-French-Coffee-Ounce-5/dp/B00012D0R2/ref=sr_1_2?dchild=1&keywords=coffee+maker&qid=1621968636&sr=8-2'
     # output, unstructured, structured = get_product_info(sess, testUrl)
     # print('output:\n{}\n\nunstructured:\n{}\n\nstructured:\n{}'.format(output, unstructured, structured))
 
