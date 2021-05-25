@@ -16,7 +16,7 @@ Since this is a novel problem, data collection is needed and this repo has the f
 # Dataset and labelling
 Newest update on the generated .xlsx file:
 - The generated spreadsheet will now also contains the unstructured (like paragraph, normal english text) and structured text (table format, e.g. technical details section) in addtion to the original input (unstructured + structured)
-- Current properties (pre-defined and labelling)
+- Current properties
   - Material, Colour, Weight, Volume, Length, Width, Height, Object
 
 # Usage and workflow of the main script `./script.py`

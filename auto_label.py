@@ -71,7 +71,7 @@ def get_colour(df):
   return colours, tmp
 
 def get_weight(df):
-  # The regex also considers type
+  # The regex also considers typo
   regex = '([0-9]+\.?[0-9]*) ?(grams|g|gram|kg|kilograms|kilogram)\n?'
   r = re.compile(regex)
   
@@ -102,7 +102,7 @@ def get_volume(df):
   '''
   The mechanism is similar to how the weight is extracted
   '''
-  # Similar to weight, the regex also considers type
+  # Similar to weight, the regex also considers typo
   regex = '([0-9]+\.?[0-9]*) ?(ml|l|oz|cl|millilitres|millilitre|milliliters|milliliter|litre|litres|liter|liters)\n?'
   r = re.compile(regex)
 
