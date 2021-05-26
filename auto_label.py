@@ -18,7 +18,7 @@ def get_material(df):
   materials = []
   for i in range(len(tmp)):
     input = tmp.iloc[i, 0].lower()
-    if 'steel' in input or 'metal' in input or 'aluminium' in input or 'copper' in input or 'titanium' in input:
+    if 'steel' in input or 'metal' in input or 'aluminium' in input or 'copper' in input or 'titanium' in input or 'iron' in input:
       material = 'metal'
     elif 'plastic' in input or 'silicone' in input or 'rubber' in input:
       material = 'plastic'
@@ -72,7 +72,7 @@ def get_colour(df):
 
 def get_weight(df):
   # The regex also considers typo
-  regex = '([0-9]+\.?[0-9]*) ?(grams|g|gram|kg|kilograms|kilogram)\n?'
+  regex = '([0-9]+\.?[0-9]*) ?(grams|g|gram|kg|kilograms|kilogram|pounds)\n?'
   r = re.compile(regex)
   
   tmp = df.copy()
@@ -93,6 +93,8 @@ def get_weight(df):
         weights.append(value + 'g')
       elif unit in ['kg', 'kilogram', 'kilograms']:
         weights.append(value + 'kg')
+      elif unit in ['pounds']:
+        weights.append(value+'pounds')
       else:
         # unknown unit
         weights.append('')

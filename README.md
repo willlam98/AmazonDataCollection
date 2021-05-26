@@ -72,4 +72,5 @@ You can see that there will still be some gaps after the script is run
 | Bottle      | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
 | Baking tray | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
 | Hammer      | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
-| Pan         | :white_check_mark:      |    |  |
+| Pan         | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
+| Wrench      | :white_check_mark:      | :white_check_mark:  | :white_check_mark:  |
