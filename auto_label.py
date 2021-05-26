@@ -18,7 +18,7 @@ def get_material(df):
   materials = []
   for i in range(len(tmp)):
     input = tmp.iloc[i, 0].lower()
-    if 'steel' in input or 'metal' in input:
+    if 'steel' in input or 'metal' in input or 'aluminium' in input or 'copper' in input or 'titanium' in input:
       material = 'metal'
     elif 'plastic' in input or 'silicone' in input or 'rubber' in input:
       material = 'plastic'
@@ -157,7 +157,7 @@ def update_spreadsheet(df, file_path):
 def main():
     file_path = sys.argv[-1]
     if not file_path.endswith('.xlsx') or not os.path.exists(file_path):
-        print('File doess not exist, expecting a .xlsx file')
+        print('File does not exist, expecting a .xlsx file')
         return
     spreadsheet = pd.read_excel(file_path)
 
