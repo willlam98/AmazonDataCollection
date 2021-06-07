@@ -146,6 +146,41 @@ def get_dimension(df):
       dimensions.append([str(L), str(W), str(H)])
   return dimensions, tmp
 
+def get_object_parts(df):
+  tmp = df.copy()
+  parts = []
+  for i in range(len(tmp)):
+    part = []
+    input = tmp.iloc[i, 0].lower()
+    if ' lid' in input:
+      part.append('lid')
+    if ' handle' in input:
+      part.append('handle')
+    if ' rack' in input:
+      part.append('rack')
+    if ' straw' in input:
+      part.append('straw')
+    if ' cup' in input:
+      part.append('cup')
+    if ' brush' in input:
+      part.append('brush')
+    if ' lock' in input:
+      part.append('lock')
+    if 'rubber ring' in input or 'rubber band' in input:
+      part.append('rubber band')
+    if ' knob' in input:
+      part.append('knob')
+    if ' filter' in input:
+      part.append('filter')
+    if ' led' in input:
+      part.append('led')
+    if len(part) == 0:
+      parts.append('other')
+    else:
+      parts.append(';'.join(part))
+  
+  return parts, tmp
+
 def update_spreadsheet(df, file_path):
     writer = pd.ExcelWriter(file_path)
     df.to_excel(writer, sheet_name='Sheet1', startrow=1, header=False, index=False)
@@ -163,29 +198,30 @@ def main():
         return
     spreadsheet = pd.read_excel(file_path)
 
-    materials, df = get_material(spreadsheet)
-    colours, _ = get_colour(spreadsheet)
-    weights, _ = get_weight(spreadsheet)
-    volumes, _ = get_volume(spreadsheet)
-    size, _ = get_dimension(spreadsheet)
-
+    # materials, df = get_material(spreadsheet)
+    # colours, _ = get_colour(spreadsheet)
+    # weights, _ = get_weight(spreadsheet)
+    # volumes, _ = get_volume(spreadsheet)
+    # size, _ = get_dimension(spreadsheet)
+    parts, df = get_object_parts(spreadsheet)
     # Label material
-    df['Material'] = materials
+    # df['Material'] = materials
 
-    # Label colour
-    df['Colour'] = colours
+    # # Label colour
+    # df['Colour'] = colours
 
-    # Label weight
-    df['Weight'] = weights
+    # # Label weight
+    # df['Weight'] = weights
 
-    # Label volume
-    df['Volume'] = volumes
+    # # Label volume
+    # df['Volume'] = volumes
 
-    # Label dimension L x W x H
-    size = np.asarray(size)
-    df['Length'] = size[:, 0]
-    df['Width'] = size[:, 1]
-    df['Height'] = size[:, 2]
+    # # Label dimension L x W x H
+    # size = np.asarray(size)
+    # df['Length'] = size[:, 0]
+    # df['Width'] = size[:, 1]
+    # df['Height'] = size[:, 2]
+    df['Parts'] = parts
 
     update_spreadsheet(df, file_path)
 
