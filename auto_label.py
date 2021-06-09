@@ -147,6 +147,14 @@ def get_dimension(df):
   return dimensions, tmp
 
 def get_object_parts(df):
+  '''
+  NOTE: This function is used in automatically
+        labelling the objects parts, note that
+        the object used below is observed manually
+        by looking at the dataset. Therefore if 
+        in the future when there is more objects
+        in the dataset, more object parts will be required
+  '''
   tmp = df.copy()
   parts = []
   for i in range(len(tmp)):
@@ -198,29 +206,31 @@ def main():
         return
     spreadsheet = pd.read_excel(file_path)
 
-    # materials, df = get_material(spreadsheet)
-    # colours, _ = get_colour(spreadsheet)
-    # weights, _ = get_weight(spreadsheet)
-    # volumes, _ = get_volume(spreadsheet)
-    # size, _ = get_dimension(spreadsheet)
-    parts, df = get_object_parts(spreadsheet)
+    materials, df = get_material(spreadsheet)
+    colours, _ = get_colour(spreadsheet)
+    weights, _ = get_weight(spreadsheet)
+    volumes, _ = get_volume(spreadsheet)
+    size, _ = get_dimension(spreadsheet)
+    parts, _ = get_object_parts(spreadsheet)
     # Label material
-    # df['Material'] = materials
+    df['Material'] = materials
 
-    # # Label colour
-    # df['Colour'] = colours
+    # Label colour
+    df['Colour'] = colours
 
-    # # Label weight
-    # df['Weight'] = weights
+    # Label weight
+    df['Weight'] = weights
 
-    # # Label volume
-    # df['Volume'] = volumes
+    # Label volume
+    df['Volume'] = volumes
 
-    # # Label dimension L x W x H
-    # size = np.asarray(size)
-    # df['Length'] = size[:, 0]
-    # df['Width'] = size[:, 1]
-    # df['Height'] = size[:, 2]
+    # Label dimension L x W x H
+    size = np.asarray(size)
+    df['Length'] = size[:, 0]
+    df['Width'] = size[:, 1]
+    df['Height'] = size[:, 2]
+
+    # Label object parts
     df['Parts'] = parts
 
     update_spreadsheet(df, file_path)

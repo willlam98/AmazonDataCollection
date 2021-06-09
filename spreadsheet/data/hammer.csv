@@ -1,4 +1,4 @@
-﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height
+﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height,Parts
 "MAXPOWER 8oz Tubular Steel Claw Hammer, Polished Carbon Steel & Fiberglass Handle with Rubber Grip, 225g
 🔨 FIRST CHOICE: For DIY projects with tools, you definitely need to use high-quality manual tools to complete the work. Of course, our claw hammer is also your best choice.
 🔨 MATERIAL: This 8Oz claw hammer combines a polished carbon steel and fiberglass core with a comfortable and ergonomic grip to ensure that you can use it freely when working.
@@ -27,7 +27,7 @@ Colour Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 460 g
-",metal,other,460g,other,29.5,11.4,3.4
+",metal,other,460g,other,29.5,11.4,3.4,handle
 "Rolson Stubby Claw Hammer
 Extra strong high grade carbon steel
 Soft rubber grip
@@ -40,7 +40,7 @@ Soft rubber grip
 Magnetized nail holder
 ","Units 1 count
 Brand Rolson
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,other
 "STANLEY STHT0-51310 20oz Fiberglass Curved Claw Hammer, 570g
 Fiberglass core for strength and durability
 Improved overstrike protection for longer life
@@ -83,7 +83,7 @@ Included Components 20oz Fiberglass Curved Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 560 g
-",plastic,other,560g,20oz,35,10,6.5
+",plastic,other,560g,20oz,35,10,6.5,other
 "DIY Doctor 20z Claw Hammer 567grams | Curved Comfort Grip TPR Finish | Solid Forged Steel & Non Slip Grip - Fibreglass Shaft
 FIBREGLASS CORE - Ideal for strength and long term durability. Dampens the power of the strike reducing the stress on wrist and hands.
 TPR COMFORT GRIP COVER - Made for those that hammer for long periods. Softer to the touch than the average hammer and the TPR ensures a grippy hold.
@@ -108,7 +108,7 @@ Included Components 1 Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 830 g
-",metal,other,830g,20oz,32.4,15.6,4.5
+",metal,other,830g,20oz,32.4,15.6,4.5,other
 "MAXPOWER 8oz Tubular Steel Claw Hammer, Polished Carbon Steel & Fiberglass Handle with Rubber Grip, 225g
 🔨 FIRST CHOICE: For DIY projects with tools, you definitely need to use high-quality manual tools to complete the work. Of course, our claw hammer is also your best choice.
 🔨 MATERIAL: This 8Oz claw hammer combines a polished carbon steel and fiberglass core with a comfortable and ergonomic grip to ensure that you can use it freely when working.
@@ -137,7 +137,7 @@ Colour Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 460 g
-",metal,other,460g,8oz,29.5,11.4,3.4
+",metal,other,460g,8oz,29.5,11.4,3.4,handle
 "Estwing E3/20c Curved Claw Hammer - Vinyl Grip 20oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -172,7 +172,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 816 g
-",metal,other,816g,other,35.05,13.46,3.3
+",metal,other,816g,other,35.05,13.46,3.3,other
 "Stanley 1-51-488 Blue Strike Claw Hammer, 16 oz
 Curved claw head
 Made from forged, heat treated steel
@@ -211,7 +211,7 @@ Included Components Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 801 g
-",metal,other,801g,16oz,13,3.51,32.51
+",metal,other,801g,16oz,13,3.51,32.51,other
 "Rolson 10334 8 oz Tubular Steel Claw Hammer
 8oz Tubular steel claw hammer
 Polished head
@@ -242,7 +242,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 227 g
-",metal,other,227g,8oz,11.2,2.2,27.9
+",metal,other,227g,8oz,11.2,2.2,27.9,other
 "OX OX-P080120 Claw Hammer - Pro Series Claw Hammer with Curved Claw - Non-slip Grip - Multicolour - 20 Oz
 Brand OX
 Colour Multi-colour
@@ -289,7 +289,7 @@ Included Components 1 x hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 413 g
-",metal,other,413g,20oz,46.8,21.8,4
+",metal,other,413g,20oz,46.8,21.8,4,other
 "Estwing E3/20c Curved Claw Hammer - Vinyl Grip 20oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -324,7 +324,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 816 g
-",metal,other,816g,20oz,35.05,13.46,3.3
+",metal,other,816g,20oz,35.05,13.46,3.3,other
 "Rolson 10019 Stubby Claw Hammer
 Extra strong high grade carbon steel
 Soft rubber grip
@@ -343,7 +343,7 @@ Model Number 10019-BPSTL12218
 Colour Not_applicable
 Product Dimensions 14 x 3.5 x 22 cm; 283.5 Grams
 Item Weight 284 g
-",metal,other,284g,other,14,3.5,22
+",metal,other,284g,other,14,3.5,22,other
 "Blue Spot 26119 16oz Sandblasted Claw Hammer X/R
 Steel tubular shaft for high shock absorption
 Contoured handle for a secure grip
@@ -372,7 +372,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 649 g
-",metal,other,649g,16oz,12.5,31.5,2.01
+",metal,other,649g,16oz,12.5,31.5,2.01,handle
 "Estwing EB/19S 19 Oz Black Vinyl Gripped Ultra Framing Hammer 19oz, Multi
 Sleek new profile make this hammer lighter and more aerodynamic
 Solid forged from one piece of American Steel for ultimate durability and strength
@@ -411,7 +411,7 @@ Number of handles 1
 Batteries included? No
 Batteries Required? No
 Item Weight 983 g
-",metal,other,983g,19oz,39.04,14.71,4.22
+",metal,other,983g,19oz,39.04,14.71,4.22,handle
 "Amtech A0240 8oz Claw Hammer - Fibreglass Shaft
 Drop forged, hardened and tempered polished head
 Fibreglass handle
@@ -454,7 +454,7 @@ Included Components Amtech A0240 8Oz Claw Hammer - Fibreglass Shaft
 Batteries included? No
 Batteries Required? No
 Item Weight 320 g
-",plastic,other,320g,8oz,29,11,2.5
+",plastic,other,320g,8oz,29,11,2.5,handle
 "Claw Hammer 16Oz -25mm Fiberglass Handle Heat Treated Carbon Steel Polished Patented Soft Grip Handle
 16Oz [450g] hammer head weight- perfect for most job- Tool box essential
 British Standard 25mm Face Diameter- Curved for prying nails
@@ -477,7 +477,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 453 g
-",metal,other,453g,16oz,33.2,12.6,3
+",metal,other,453g,16oz,33.2,12.6,3,handle
 "Hilka 60201500 Pro Craft Fibre Glass Shaft Claw Hammer, 8 oz
 Claw hammer with a comfortable rubber grip
 Hardened, tempered and polished head with fibre glass shaft
@@ -506,7 +506,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 360 g
-",glass,other,360g,8oz,28.6,10.8,1.8
+",glass,other,360g,8oz,28.6,10.8,1.8,other
 "Faithfull FAIFG4 4lb Fibreglass Club Hammer 1.81 kg (4lb)
 A general purpose hammer for building and demolition applications. Ideal for delivering close heavy blows to a cold chisel or a bolster
 The striking faces are specially hardened and heat treated before being precision ground and fitted to a fibreglass handle
@@ -547,7 +547,7 @@ Included Components 1 x Club Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.99 kg
-",plastic,other,1.99kg,other,5,5,11
+",plastic,other,1.99kg,other,5,5,11,handle
 "Stanley FMHT1-51278 20oz Fatmax Antivibe Steel Hammer-Rip Claw, Black/Yellow, 570g
 Larger Strike Face
 New Soft Grip Design
@@ -584,7 +584,7 @@ Included Components Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 806 g
-",metal,black,806g,20oz,34.01,14,3.99
+",metal,black,806g,20oz,34.01,14,3.99,other
 "Rolson 10675 Stoning Hammer, 1 kg
 Stoning Hammer
 Fibreglass shaft
@@ -615,7 +615,7 @@ Item Package Quantity 1
 Batteries included? Yes
 Batteries Required? No
 Item Weight 998 g
-",plastic,other,998g,other,9.3,3.9,25
+",plastic,other,998g,other,9.3,3.9,25,other
 "Estwing ESTE316S 16 oz 16"" All Steel Framing Hammer, Smooth Face 16OZ Vinyl STL, Multi, (Ounces)
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -656,7 +656,7 @@ Included Components Hammers, Handtools, Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,other,454g,16oz,33.02,15.24,2.54
+",metal,other,454g,16oz,33.02,15.24,2.54,other
 "Blue Spot 26147 20oz Xtra-Range Sandblasted Claw Hammer
 20oz Claw Hammer
 70% Fibreglass Handle
@@ -687,7 +687,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 748 g
-",metal,other,748g,20oz,13,32,2.49
+",metal,other,748g,20oz,13,32,2.49,handle
 "Spifflyer 8 OZ Magnetic Small Claw Hammer Mini Stubby Hammers and Nails Tool, Comfortable Soft Handle, Anti-Slip & Magnetic Head
 ANTI-SLIP - Grid shaped striking surface will prevent slipping injury
 MAGNETIC HEAD - Nail holded for one-handed working
@@ -716,7 +716,7 @@ Material Carbon Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 370 g
-",metal,other,370g,8oz,16.5,12.5,4.4
+",metal,other,370g,8oz,16.5,12.5,4.4,handle
 "Estwing E6-22BLC Bricklayer Hammer, Big Blue Rock Pick with Shock Reduction Grip, Smooth Face, 22-Ounce
 Nylon vinyl shock reduction grip
 Larger smooth face
@@ -745,7 +745,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",other,other,454g,22oz,25.4,4.57,20.83
+",other,other,454g,22oz,25.4,4.57,20.83,other
 "OX OX-T081302 Club Hammer - Sledgehammer with Fibreglass Handle - Forged and Induction Hardened Hammerhead - 2.5 lb / 1.1 kg
 STEEL HEAD: The head of the OX Fibreglass Handle Club Hammer is heat treated and is forged from fine-grained high-quality steel.
 COMFORT GRIP HANDLE: The non-slip ergonomic handle of the Fibreglass Club Hammer avoids any slips and delivers a comfortable grip.
@@ -788,7 +788,7 @@ Included Components 1 x OX Trade Fibreglass Handle Club Hammer - 2.5 lb
 Batteries included? No
 Batteries Required? No
 Item Weight 133 g
-",metal,other,133g,other,4,9.3,25.7
+",metal,other,133g,other,4,9.3,25.7,handle
 "Estwing ESTE324S 24 Oz Framing Hammer W/Smooth Face, Silver
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -825,7 +825,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 1.01 kg
-",metal,silver,1.01kg,other,36,13.5,3.5
+",metal,silver,1.01kg,other,36,13.5,3.5,handle
 "Estwing E3-20S 14-217 20-Ounce Ripping Hammer, Smooth Face, Silver, 20 oz
 20-Ounce size
 Smooth face
@@ -846,7 +846,7 @@ Colour Silver
 Product Dimensions 34.93 x 13.97 x 3.18 cm; 690 Grams
 Material Steel
 Item Weight 690 g
-",metal,silver,690g,20oz,34.93,13.97,3.18
+",metal,silver,690g,20oz,34.93,13.97,3.18,handle
 "Estwing E6/19S E16/19S 19 Oz Blue Vinyl Gripped Ultra Framing Hammer, 19 Ounce
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -881,7 +881,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 992 g
-",metal,other,992g,19oz,14.76,4.22,39.05
+",metal,other,992g,19oz,14.76,4.22,39.05,other
 "Estwing ESTE316C 14-218 16-Ounce Claw Hammer with Nylon Vinyl Cushion Grip Handle, Smooth Face, 1-Pack
 16-Ounce size
 Smooth face
@@ -898,7 +898,7 @@ Smooth face
 Model Number E3-16C
 Product Dimensions 33.02 x 12.7 x 2.54 cm; 453.59 Grams
 Item Weight 454 g
-",metal,other,454g,16oz,33.02,12.7,2.54
+",metal,other,454g,16oz,33.02,12.7,2.54,handle
 "Estwing E19S 19 Oz Black Vinyl Gripped Ultra Framing Hammer 19oz Leather
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -937,7 +937,7 @@ Included Components 1 x Estwing E19S 19oz Ultra Framing Hammer, Smooth Face, Lea
 Batteries included? No
 Batteries Required? No
 Item Weight 983 g
-",metal,other,983g,19oz,39.37,14.71,4.22
+",metal,other,983g,19oz,39.37,14.71,4.22,handle
 "Estwing E3/28s Straight Claw Framing Hammer - Vinyl Grip 28oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -972,7 +972,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 667 g
-",metal,other,667g,28oz,40.64,14.73,3.3
+",metal,other,667g,28oz,40.64,14.73,3.3,handle
 "Estwing E24c Curved Claw Hammer - Leather Grip 24oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Designed with the traditional English pattern head
@@ -1001,7 +1001,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 990 g
-",metal,other,990g,24oz,36,13.5,3.5
+",metal,other,990g,24oz,36,13.5,3.5,other
 "Heavy Duty Large 32cm Long x 16oz. Solid Rubber Mallet Hammer with Soft Grip – Ideal for Tilers Builders Brick Layers and Camping Travelling – Commercial-Grade Extra Durable Construction
 EXTRA-TOUGH SOLID RUBBER MALLET (32CM LONG) – This high-quality mallet has been constructed from solid rubber to offer a powerful alternative to regular steel hammers and fixing tools on surfaces where more care and attention is required to avoid potential damage during use.
 ADVANCED DESIGN – Made from premium quality extra-reinforced commercial-grade high-density rubber, this mallet offers excellent usability and maximum durability when used under the toughest conditions.
@@ -1024,7 +1024,7 @@ Package Dimensions 36.2 x 10.3 x 7 cm; 650 Grams
 Batteries included? No
 Batteries Required? No
 Item Weight 650 g
-",plastic,other,650g,other,36.2,10.3,7
+",plastic,other,650g,other,36.2,10.3,7,handle
 "DEWALT DWHT51054 20 Oz. Rip Claw Hammer
 Ideal for framing carpenters and basic construction projects
 Optimal weight distribution for a more controlled swing
@@ -1049,7 +1049,7 @@ Model Number	DWHT51054
 Part Number	DWHT51054
 Power Source Type	Manual
 Specification Met	
-UPC	076174510546",other,other,798g,other,other,other,other
+UPC	076174510546",other,other,798g,other,other,other,other,other
 "Roughneck ROU61624 Brick Hammer 680g/24oz Tubular Handle
 Heat treated
 Drop forged steel
@@ -1084,7 +1084,7 @@ Included Components 1x Roughneck ROU61624 Brick Hammer Tubular Handle 24oz
 Batteries included? No
 Batteries Required? No
 Item Weight 680 g
-",metal,other,680g,24oz,5,18.1,30.6
+",metal,other,680g,24oz,5,18.1,30.6,handle
 "Fiskars Carpenter's Hammer IsoCore XXL for Driving in Nails, Length: 41 cm, Weight: 1.02 kg, Black/Orange, 1020216
 Hammer for large nails hammering with force and speed, Claw for quick and easy removal of the nails from the wood
 Magnetic nail lock, Ideal for single-handed work on hard surfaces
@@ -1109,7 +1109,7 @@ Material type Steel/plastic
 Manufacturer Fiskars
 Item model number 1020216
 ASIN B0793FNY9N
-",metal,other,1.02kg,other,41,14.6,3.8
+",metal,other,1.02kg,other,41,14.6,3.8,handle;lock
 "OX OX-T081510 Hammer - Sledgehammer with Fibreglass Handle - Forged and Induction Hardened Hammerhead - 10 lb/4.5 kg
 STEEL HEAD: The head of the OX Demolition Sledge Hammer is heat treated and is forged from fine-grained high-quality steel.
 COMFORT GRIP HANDLE: The non-slip ergonomic handle of the OX Sledge Hammer avoids any slips during use and delivers a comfortable grip.
@@ -1148,7 +1148,7 @@ Included Components 1 x OX Trade Fibreglass Handle Sledge Hammer - 10 lb
 Batteries included? No
 Batteries Required? No
 Item Weight 5.4 kg
-",metal,other,5.4kg,other,86.5,17.5,6.5
+",metal,other,5.4kg,other,86.5,17.5,6.5,handle
 "Roughneck ROU65633 Sledge Hammer 10lb F/Glass Handle
 Drop forged alloy steel head
 Industrial grade epoxy
@@ -1175,7 +1175,7 @@ Included Components 1 x Sledge Hammer Fibreglass Handle 4.5 kg (10 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 3 kg
-",metal,other,3kg,other,91,18.6,5.8
+",metal,other,3kg,other,91,18.6,5.8,handle
 "Estwing E6/15SR Claw Hammer, Blue
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -1212,7 +1212,7 @@ Included Components 1 x Estwing E6/15SR 15oz Ultra Claw Hammer, Smooth Face, Sho
 Batteries included? No
 Batteries Required? No
 Item Weight 821 g
-",metal,blue,821g,other,13.67,4.14,34.62
+",metal,blue,821g,other,13.67,4.14,34.62,handle
 "Dewalt Dwht51048 16 Oz. Rip Claw Hammer
 Perfect for framing or other construction projects
 Offers optimal weight distribution for a controlled swing
@@ -1243,7 +1243,7 @@ Included Components Dewalt Dwht51048 Rip Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 689 g
-",other,other,689g,16oz,33.5,12.32,3.43
+",other,other,689g,16oz,33.5,12.32,3.43,other
 "OX OX-P082424 Pro Brick Hammer 24 oz - Geological Hammer with Comfortable Grip Handle - Chipping Hammer - Fossil Tool
 ACCURATELY GROUND CHISEL END: The precisely grounded chisel-end of the OX Pro Brick Hammer enables cleaner cutting of bricks.
 NON-SLIP HANDLE: All the features of a tool can be a total waste if you can't hold it properly. The OX Pro Brick Hammer comes with a non-slip, comfortable handle which also helps in shock reduction.
@@ -1286,7 +1286,7 @@ Included Components 1 x OX Pro Brick Hammer - 24 oz.
 Batteries included? No
 Batteries Required? No
 Item Weight 860 g
-",metal,other,860g,24oz,3.2,18.5,28.2
+",metal,other,860g,24oz,3.2,18.5,28.2,handle
 "Estwing EB/15SR 15 oz Vinyl Gripped Ultra Hammer with Short Handle - Black
 Sleek new profile make this hammer lighter and more aerodynamic
 Solid forged from one piece of American Steel for ultimate durability and strength
@@ -1327,7 +1327,7 @@ Handle material Alloy Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 865 g
-",plastic,other,865g,15oz,34.59,13.64,4.11
+",plastic,other,865g,15oz,34.59,13.64,4.11,handle
 "Stiletto TB3MC 15oz. Ti-Bone 3 Titanium Hammer with Milled Face, Curved Handle and New Improved Model Anti-rotational Face
 Hybrid handle design
 Durable constructed grip
@@ -1362,7 +1362,7 @@ Included Components (1) TB3MC
 Batteries included? No
 Batteries Required? No
 Item Weight 907 g
-",metal,other,907g,15oz,51.31,17.02,5.08
+",metal,other,907g,15oz,51.31,17.02,5.08,handle
 "Estwing EMR16C Surestrike All Steel Curved Claw Hammer 16Oz
 Solid forged head and shaft for maximum durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -1391,7 +1391,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 10 g
-",metal,other,10g,16oz,33,12.3,3.4
+",metal,other,10g,16oz,33,12.3,3.4,other
 "Draper Redline 67661 225 g 8 oz Claw Hammer with Hardwood Shaft
 Forged fine grain polished steel head
 Hardened and tempered
@@ -1424,7 +1424,7 @@ Included Components Draper 225g (8oz) Claw Hammer with Hardwood Shaft
 Batteries included? No
 Batteries Required? No
 Item Weight 338 g
-",metal,blue,338g,8oz,29,2.4,9.7
+",metal,blue,338g,8oz,29,2.4,9.7,other
 "Stanley STA151277 567g 20oz FatMax XL AVX Curve Claw Hammer
 Antivibe frame hammers
 Smooth or milled face for strength
@@ -1461,7 +1461,7 @@ Included Components Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 745 g
-",other,black,745g,20oz,32.51,12.5,3
+",other,black,745g,20oz,32.51,12.5,3,handle
 "Estwing ALBL 14 oz Blue Vinyl Grip Aluminum Hammer, 14 Ounce
 FORGED AIRCRAFT ALUMINUM – Lighter than titanium for increased swing speed & reduced fatigue
 MAGNETIC NAIL STARTER – One handed, fast, accurate & convenient nailing
@@ -1498,7 +1498,7 @@ Included Components Estwing Hand Tool
 Batteries included? No
 Batteries Required? No
 Item Weight 765 g
-",metal,other,765g,14oz,13.34,3.81,40.64
+",metal,other,765g,14oz,13.34,3.81,40.64,other
 "Estwing E20C 71-124 Claw, Leather Grip Hammer, Smooth Face, 20-Ounce, 12.5-Inch, Blue Finish, 20 oz
 Unsurpassed balance and temper
 Forged in one piece
@@ -1535,7 +1535,7 @@ Included Components Axe
 Batteries included? No
 Batteries Required? No
 Item Weight 862 g
-",other,blue,862g,20oz,31.45,12.7,3.18
+",other,blue,862g,20oz,31.45,12.7,3.18,other
 "Stanley 156001 Anti-Vibe Lump / Club Hammer 3lb
 Designed with one-piece forged construction for strength and durability
 Antivibe technology
@@ -1568,7 +1568,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 1.64 kg
-",other,black,1.64kg,other,27.99,10.01,3.99
+",other,black,1.64kg,other,27.99,10.01,3.99,other
 "Wiha SB846300E Electrician's, 300 g Hammer Head, Red
 Simplifies your work. Flat claws allow easy removal of nail clips and nails.
 Increases your efficiency, perfect balance thanks to a perfect weight distribution for an effective use.
@@ -1607,7 +1607,7 @@ Included Components 1 x Electricians hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 500 g
-",other,red,500g,other,38,2.5,14
+",other,red,500g,other,38,2.5,14,handle
 "Hammer
 Bosch Professional hammer from the hand tools range with optimum impact force
 Safety while working: The shaft and head of the hammer are made of a single cast piece
@@ -1640,7 +1640,7 @@ Included Components Bosch Professional Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 920 g
-",other,other,920g,other,32.5,12,2.5
+",other,other,920g,other,32.5,12,2.5,handle;lock
 "Stanley FMHT1-51276 16oz Fatmax Antivibe Steel Hammer-Rip Claw, Black/Yellow
 Larger Strike Face
 New Soft Grip Design
@@ -1673,7 +1673,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 737 g
-",metal,black,737g,other,32.51,13,3.51
+",metal,black,737g,other,32.51,13,3.51,other
 "Vaughan DDT16 DDT Straight Claw Milled Face Titanium Hammer
 Has milled face and a patented deep 'v' head design
 Overstrike guide to reduce shock
@@ -1710,7 +1710,7 @@ Included Components Dalluge 7180 16 Ounce Titanium Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,other,454g,other,43.94,3.81,14.3
+",metal,other,454g,other,43.94,3.81,14.3,handle
 "Estwing ESTE325S E3-25S Big Blue Smooth Larger Face, 18"" Hndl, Framing Hammer, Nylon-Vinyl Grip, Silver
 FORGED IN ONE PIECE – The most durable, longest lasting striking tools available
 RIP CLAW VERSITILITY – Use for pulling nails, prying boards, demolition work, splitting wood and more
@@ -1749,7 +1749,7 @@ Included Components Estwing Hand Tool
 Batteries included? No
 Batteries Required? No
 Item Weight 709 g
-",metal,silver,709g,other,14.99,3.81,45.72
+",metal,silver,709g,other,14.99,3.81,45.72,other
 "Estwing E16c Curved Claw Hammer - Leather Grip 16oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -1770,7 +1770,7 @@ Proudly manufactured in Rockford, USA
 Model Number E16C
 Product Dimensions 37.34 x 13.11 x 6.53 cm; 680.39 Grams
 Item Weight 680 g
-",metal,other,680g,16oz,37.34,13.11,6.53
+",metal,other,680g,16oz,37.34,13.11,6.53,other
 "Hilka 60201600 Claw Hammers Fibre Glass Shaft Pro Craft, 16 oz
 quality hammer with black head
 has fibre glass shaft
@@ -1799,7 +1799,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 710 g
-",plastic,other,710g,16oz,34.79,12.9,3.2
+",plastic,other,710g,16oz,34.79,12.9,3.2,other
 "Draper Redline 67669 110 g 4 oz Cross Pein Pin Hammer
 Forged black painted head
 Hardened and tempered
@@ -1828,7 +1828,7 @@ Included Components Draper 110g (4oz) Cross Pein Pin Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 188 g
-",other,blue,188g,4oz,32.5,9.9,1.7
+",other,blue,188g,4oz,32.5,9.9,1.7,other
 "Silverline 675160 Hardwood Sledge Hammer, 14 lb
 Forged steel powder-coated head
 Precision-ground striking faces
@@ -1861,7 +1861,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 6.35 kg
-",metal,other,6.35kg,other,240,100,9
+",metal,other,6.35kg,other,240,100,9,other
 "Rolson 10770 14 lb SLEDge Hammer
 Sledge Hammer
 Fibreglass Shaft
@@ -1892,7 +1892,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 6.35 kg
-",plastic,other,6.35kg,other,92,18,7
+",plastic,other,6.35kg,other,92,18,7,other
 "Milwaukee 4932464028 932464028 Curved Claw Hammer 570g (20oz)
 Milwaukee 20oz /14"" Curved claw Hammer (20)
 Item Package Length: 3.6cm
@@ -1919,7 +1919,7 @@ Item model number 932464028
 Manufacturer Part Number 4932464028
 Cover Included Milwaukee 20oz /14"" Curved Claw Hammer (20)
 Item Weight 948 g
-",other,other,948g,20oz,35.71,17.4,10.69
+",other,other,948g,20oz,35.71,17.4,10.69,other
 "Estwing E3/24SM 24oz Straight Claw Framing Hammer, Milled Face, Shock Reduction Grip
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -1948,7 +1948,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 989 g
-",metal,other,989g,24oz,2.54,2.54,2.54
+",metal,other,989g,24oz,2.54,2.54,2.54,handle
 "Estwing 22oz Smooth Face Straight Claw Framing Hammer with Vinyl Grip E3/22S
 Manufacturer Estwing
 Part Number E3-22S
@@ -1967,7 +1967,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 435 g
-",other,other,435g,other,40,15,4
+",other,other,435g,other,40,15,4,other
 "Thor 314 Copper Hammer Size 3
 Two cylindrical faces of electrolytic copper
 Wooden handle
@@ -2004,7 +2004,7 @@ Included Components Hammers, Handtools, Dead blow hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.91 kg
-",metal,other,1.91kg,other,33.78,5.08,2.54
+",metal,other,1.91kg,other,33.78,5.08,2.54,handle
 "STANLEY STA251367 Demolition Hammer
 One-piece forged construction
 Demolition claw head with a knurled anti-slip strike face
@@ -2033,7 +2033,7 @@ Included Components Demolition Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 998 g
-",other,other,998g,other,1,1,1
+",other,other,998g,other,1,1,1,handle
 "MAXPOWER Sledge Hammer, 4lb/1800G Club Hammer with Steel Head and Shock-Resistant 12-inch/310mm Fiberglass Handle
 【Comfort Grip Handle】- The non-slip ergonomic handle of the Fibreglass Club Hammer avoids any slips and delivers a comfortable grip.
 【Shock Absorption】- The fiberglass component of the Lump Hammer absorbs shock and minimizes vibration.
@@ -2068,7 +2068,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 2.13 kg
-",metal,other,2.13kg,other,38.9,17.8,5.8
+",metal,other,2.13kg,other,38.9,17.8,5.8,handle
 "Silverline 580456 Fibreglass Claw Hammer, 8 oz
 Forged steel polished head
 Shock-absorbing fibreglass shaft with nylon surround
@@ -2099,7 +2099,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 227 g
-",metal,other,227g,8oz,28.5,3,11
+",metal,other,227g,8oz,28.5,3,11,handle
 "Stanley HAMMER TACKER
 Brand Stanley
 Colour Multi
@@ -2144,7 +2144,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 989 g
-",metal,other,989g,other,32,11.3,4.4
+",metal,other,989g,other,32,11.3,4.4,other
 "Estwing E3-20BLC 20-Ounce Mason Hammer with Vinyl Nylon Cushion Grip
 20 ounce size
 Steel handle
@@ -2171,7 +2171,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 771 g
-",metal,other,771g,20oz,27.94,17.78,2.54
+",metal,other,771g,20oz,27.94,17.78,2.54,handle
 "Estwing ALBKM 14 Oz Black Vinyl Grip Aluminum Hammer with Milled Face, 14 Ounce
 For the casual user to the projessional
 Crafted with quality and in America
@@ -2204,7 +2204,7 @@ Special Features Overall Length 16"" / 406 mm, Milled Face, Head Weight 14 oz / 
 Batteries included? No
 Batteries Required? No
 Item Weight 767 g
-",metal,other,767g,14oz,40.64,13.34,3.81
+",metal,other,767g,14oz,40.64,13.34,3.81,other
 "Thor 710 Nylon Hammer 1.Lb
 Screw-in nylon faces
 Multipurpose striking tool
@@ -2241,7 +2241,7 @@ Included Components Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 422 g
-",metal,other,422g,other,9.91,29.69,3.2
+",metal,other,422g,other,9.91,29.69,3.2,other
 "Estwing EMR20C Surestrike All Steel Curved Claw Hammer 20Oz
 Solid forged head and shaft for maximum durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -2260,7 +2260,7 @@ Injection moulded grip which provides comfort
 Model Number ESTEMR20C
 Product Dimensions 36 x 12.6 x 3.4 cm; 570 Grams
 Item Weight 570 g
-",metal,other,570g,20oz,36,12.6,3.4
+",metal,other,570g,20oz,36,12.6,3.4,other
 "Faithfull HWALL Walling / Masons Hammer
 Walling or mason's hammer
 Hickory handle
@@ -2279,7 +2279,7 @@ Model Number FAIHWALL
 Product Dimensions 5 x 18 x 26 cm; 1.21 Kilograms
 Material Metal
 Item Weight 1.21 kg
-",metal,other,1.21kg,other,5,18,26
+",metal,other,1.21kg,other,5,18,26,handle
 "Estwing E3/22SR 22 Oz Framing Hammer W/Milled Face, Blue Grip, Silver, Smooth
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -2318,7 +2318,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 624 g
-",metal,silver,624g,22oz,13.97,3.18,34.8
+",metal,silver,624g,22oz,13.97,3.18,34.8,handle
 "Estwing E15SR ESEBM Ultra Hammer, 15 oz (Ounces) Short Handle
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -2359,7 +2359,7 @@ Included Components 1 x Estwing E15SR 15oz Ultra Hammer, Smooth Face, Leather Gr
 Batteries included? No
 Batteries Required? No
 Item Weight 821 g
-",metal,other,821g,15oz,34.59,13.64,4.11
+",metal,other,821g,15oz,34.59,13.64,4.11,handle
 "Stanley STHT0-51312 Roofing Hammer Fibreglass 600 g Rough
 Improved swing power
 Fibreglass core for more power and longer durability
@@ -2394,7 +2394,7 @@ Included Components Roofing hammer.
 Batteries included? No
 Batteries Required? No
 Item Weight 780 g
-",plastic,other,780g,other,32.5,17,3
+",plastic,other,780g,other,32.5,17,3,handle
 "200g Geologist Hammer Genuine Hickory Handle Pick Fossil Pointed Tip Rock 7oz
 200g Geologist's Hammer
 Genuine Hickory Handle
@@ -2421,7 +2421,7 @@ Manufacturer reference TF536
 Batteries included? No
 Batteries Required? No
 Item Weight 250 g
-",other,other,250g,7oz,28.5,9,2
+",other,other,250g,7oz,28.5,9,2,handle
 "Stanley STHT0-54128 1500g Fiberglass Club Hammer
 Fiberglass core for strength and durability
 Improved overstrike protection for longer life
@@ -2458,7 +2458,7 @@ Included Components 1500g Fiberglass Club Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.67 kg
-",plastic,other,1.67kg,other,26,10.95,4.46
+",plastic,other,1.67kg,other,26,10.95,4.46,other
 "Estwing E6/19SM Framing Hammer Jacketed Fiberglass Handle, 22-Ounce, Blue, 540g (19oz)
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -2497,7 +2497,7 @@ Included Components 1 x Estwing E6/19SM 19oz Ultra Framing Hammer, Milled Face, 
 Batteries included? No
 Batteries Required? No
 Item Weight 940 g
-",metal,blue,940g,19oz,14.71,4.22,39.05
+",metal,blue,940g,19oz,14.71,4.22,39.05,handle
 "Draper Expert 19724 190 g Magnetized forked face Tack Hammer with Hickory Handle
 Forged fine grain high carbon steel head
 Magnetised with keeper on fork
@@ -2528,7 +2528,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 300 g
-",metal,blue,300g,7oz,26.4,4.8,2.2
+",metal,blue,300g,7oz,26.4,4.8,2.2,handle
 "Stiletto Tools, Inc. TI14MC Titan 14-OunceTitanium Framing Hammer With Curved Handle by Stilletto
 Made of good quality products
 Select propellants that deliver consistent accuracy and performance
@@ -2553,7 +2553,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 771 g
-",metal,other,771g,14oz,45.72,15.24,5.08
+",metal,other,771g,14oz,45.72,15.24,5.08,handle
 "Estwing E6-24TM 24 Oz, Nylon Hammertooth Hammer, Milled Face, 24-Ounce, 16-Inch, Vinyl Shock Reduction Grip, Blue, Pack of 1
 Great for straightening all 2x boards
 Makes work with pneumatic nailers quick and safer
@@ -2588,7 +2588,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 658 g
-",other,blue,658g,24oz,40.64,14.61,3.51
+",other,blue,658g,24oz,40.64,14.61,3.51,other
 "Estwing E15SR ESEBM Ultra Hammer, 15 oz (Ounces) Short Handle
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -2629,7 +2629,7 @@ Included Components 1 x Estwing E15SR 15oz Ultra Hammer, Smooth Face, Leather Gr
 Batteries included? No
 Batteries Required? No
 Item Weight 821 g
-",metal,other,821g,15oz,34.59,13.64,4.11
+",metal,other,821g,15oz,34.59,13.64,4.11,handle
 "Estwing E3/22SR 22 Oz Framing Hammer W/Milled Face, Blue Grip, Silver, Smooth
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -2668,7 +2668,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 624 g
-",metal,silver,624g,other,13.97,3.18,34.8
+",metal,silver,624g,other,13.97,3.18,34.8,handle
 "Estwing E16S 16 Oz Rip, Leather Grip Hammer, Smooth Face, 16-Ounce, 12.5-Inch, Straight Claw
 Unsurpassed balance and temper
 Forged in one piece
@@ -2703,7 +2703,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 680 g
-",metal,other,680g,16oz,31.75,12.4,3.18
+",metal,other,680g,16oz,31.75,12.4,3.18,other
 "Estwing E6/19SM Framing Hammer Jacketed Fiberglass Handle, 22-Ounce, Blue, 540g (19oz)
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -2742,7 +2742,7 @@ Included Components 1 x Estwing E6/19SM 19oz Ultra Framing Hammer, Milled Face, 
 Batteries included? No
 Batteries Required? No
 Item Weight 940 g
-",plastic,blue,940g,19oz,14.71,4.22,39.05
+",plastic,blue,940g,19oz,14.71,4.22,39.05,handle
 "Estwing E24S Claw Hammer
 Solid forged from one piece of American Steel for ultimate durability and strength
 Designed with the traditional English pattern head
@@ -2773,7 +2773,7 @@ Included Components 1 x Estwing E24S 24oz English Pattern Straight Claw Hammer, 
 Batteries included? No
 Batteries Required? No
 Item Weight 898 g
-",metal,other,898g,other,2.84,0.58,0.38
+",metal,other,898g,other,2.84,0.58,0.38,other
 "Stanley STHT0-54128 1500g Fiberglass Club Hammer
 Fiberglass core for strength and durability
 Improved overstrike protection for longer life
@@ -2810,7 +2810,7 @@ Included Components 1500g Fiberglass Club Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.67 kg
-",plastic,other,1.67kg,other,26,10.95,4.46
+",plastic,other,1.67kg,other,26,10.95,4.46,other
 "Draper Expert 19724 190 g Magnetized forked face Tack Hammer with Hickory Handle
 Forged fine grain high carbon steel head
 Magnetised with keeper on fork
@@ -2841,7 +2841,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 300 g
-",metal,blue,300g,7oz,26.4,4.8,2.2
+",metal,blue,300g,7oz,26.4,4.8,2.2,handle
 "Roughneck ROU65608 Club Hammer 3lb F/glass Handle, Multi
 Fibreglass handle
 Made from hardened and tempered drop forged alloy steel
@@ -2874,7 +2874,7 @@ Included Components 1 x Club Hammer Fibreglass Handle 1.4 kg (3 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 1.5 kg
-",metal,other,1.5kg,other,25,11,4.5
+",metal,other,1.5kg,other,25,11,4.5,handle
 "Dead On Tools DO-Ti7 Milled Face Titanium Framing Hammer 16-Ounce, Black
 Titanium Reinforced Spine Beams
 Embedded Over Strike
@@ -2901,7 +2901,7 @@ Item model number DO-Ti7
 Colour Black
 Item Package Quantity 1
 Item Weight 812 g
-",metal,black,812g,16oz,46.23,14.73,3.56
+",metal,black,812g,16oz,46.23,14.73,3.56,handle
 "Pike & Co. Hickory Lump Hammer - 2.5lb
 Hickory Lump Hammer - 2.5lb
 Manufacturer Pike & Co.
@@ -2924,7 +2924,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.13 kg
-",other,other,1.13kg,other,24,4,9
+",other,other,1.13kg,other,24,4,9,other
 "Vaughan V4 540g Plain Face Curved Claw Nail Hammer
 Material: metal
 Slip - resistant grip
@@ -2951,7 +2951,7 @@ Included Components 1 x V4 Curved Claw Nail Hammer All Steel Plain Face 540 g (1
 Batteries included? No
 Batteries Required? No
 Item Weight 930 g
-",metal,other,930g,19oz,35.6,13,3.2
+",metal,other,930g,19oz,35.6,13,3.2,other
 "Stanley STHT0-51312 Roofing Hammer Fibreglass 600 g Rough
 Improved swing power
 Fibreglass core for more power and longer durability
@@ -2986,7 +2986,7 @@ Included Components Roofing hammer.
 Batteries included? No
 Batteries Required? No
 Item Weight 780 g
-",plastic,other,780g,other,32.5,17,3
+",plastic,other,780g,other,32.5,17,3,handle
 "Dead On DOS22S 22-Ounce 18-Inch Steel Smooth Face Hammer
 Vibration elimination design
 Innovative ""underneath"" magnetic nail set
@@ -3015,7 +3015,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 998 g
-",metal,silver,998g,22oz,22.86,15.24,7.62
+",metal,silver,998g,22oz,22.86,15.24,7.62,other
 "Thor 214 Copper /Rawhide Hammer Size 3
 General-purpose
 Double-faced hammer
@@ -3048,7 +3048,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.6 kg
-",metal,other,1.6kg,other,11.99,5.99,30.51
+",metal,other,1.6kg,other,11.99,5.99,30.51,handle
 "Roughneck 65634 Sledge Hammer 12lb F/glass Handle
 
 Sledge Hammer Fibreglass Handle 5.5kg (12lb)
@@ -3079,7 +3079,7 @@ Included Components 1 x Sledge Hammer Fibreglass Handle 5.5 kg (12 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 6.44 kg
-",plastic,other,6.44kg,other,91,18,7
+",plastic,other,6.44kg,other,91,18,7,handle
 "MAXPOWER Sledge Hammer, 4lb/1800G Club Hammer with Steel Head and Shock-Resistant 12-inch/310mm Fiberglass Handle
 【Comfort Grip Handle】- The non-slip ergonomic handle of the Fibreglass Club Hammer avoids any slips and delivers a comfortable grip.
 【Shock Absorption】- The fiberglass component of the Lump Hammer absorbs shock and minimizes vibration.
@@ -3114,7 +3114,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 2.13 kg
-",metal,other,2.13kg,other,38.9,17.8,5.8
+",metal,other,2.13kg,other,38.9,17.8,5.8,handle
 "Stanley 1-51-937"" Antivibe Roofing Hammer, Black/Silver, 600 g
 Ergonomic handle for maximum leverage
 Weight: 600g
@@ -3149,7 +3149,7 @@ Included Components 1 x Roofing Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 890 g
-",metal,black,890g,other,34.19,18.01,3.4
+",metal,black,890g,other,34.19,18.01,3.4,handle
 "Thor Soft Faced Hammer 31.712r
 Screw-in nylon faces
 Multipurpose striking tool
@@ -3182,7 +3182,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 567 g
-",other,other,567g,other,10.9,28.3,3.81
+",other,other,567g,other,10.9,28.3,3.81,other
 "Dalluge 14oz ""Lite"" Titanium Hammer, Serrated Face with Nailoc Magnetic Nail Holder, 15"" Straight Hickory Handle
 Lightweight Titanium head swings faster for greater power at point of impact with less stress and arm fatigue
 Extra large, milled striking face
@@ -3209,7 +3209,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 649 g
-",metal,other,649g,14oz,38.1,3.18,15.24
+",metal,other,649g,14oz,38.1,3.18,15.24,handle
 "Estwing EALBK Al-Pro Hammer, Aluminium/Black, Schwarz, glatte Bahn
 Forged from aircraft aluminium alloy for increased swing speed and reduced fatigue
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -3250,7 +3250,7 @@ Included Components 1 x Estwing EALBK Al-Pro Hammer, Smooth Face, Shock Reductio
 Batteries included? No
 Batteries Required? No
 Item Weight 767 g
-",metal,black,767g,other,40.64,13.34,3.81
+",metal,black,767g,other,40.64,13.34,3.81,other
 "Roughneck 65636 Sledge Hammer 16lb F/glass Handle
 
 Sledge Hammer Fibreglass Handle 7.3kg (16lb)
@@ -3281,7 +3281,7 @@ Included Components 1 x Sledge Hammer Fibreglass Handle 7.3 kg (16 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 4.15 kg
-",plastic,other,4.15kg,other,91,21.6,7.2
+",plastic,other,4.15kg,other,91,21.6,7.2,handle
 "DeWalt DWHT51064 22 Oz. Framing Hammer
 Dewalt Dwht51064 22 Oz. Framing Hammer
 Brand Name	DEWALT
@@ -3298,7 +3298,7 @@ Ean	0076174510645 , 0700735728780
 Item Weight	898 grams
 Model Number	DWHT51064
 Part Number	DWHT51064
-UPC	700735728780 , 076174510645",other,black,898g,22oz,other,other,other
+UPC	700735728780 , 076174510645",other,black,898g,22oz,other,other,other,other
 "Wilton 20836 20 Pound Head, 36-Inch BASH Sledge Hammer
 Unbreakable Technology - Steel core eliminates breaking during overstrikes
 Hi-Vis Head - Drop forged 46 HRC steel head endures the most demanding applications
@@ -3331,7 +3331,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 4.99 kg
-",metal,green,4.99kg,other,91.44,16,6.35
+",metal,green,4.99kg,other,91.44,16,6.35,handle
 "Staplefords Sledge Hammer - 10lb, 14lb Sledgehammer - with Genuine Hickory Handle 900mm (14)
 ★★★ FORGED STEEL HEAD ★★★ The reinforced forged steel SledgeHammer head is an alloy of carbon and iron that is compressed under extreme pressure to make a very hard and strong substance - hardened and tempered for durability.  The bonus of forged steel is that the metal becomes stronger than equivalent types that are cast or machined.
 ★★★ HARDWOOD HICKORY HANDLE ★★★ Harder woods are more resistant to dents and dings than softer woods. This is the main reason why fine furniture, cabinets, and premium trim work are usually made of hardwood. Hardwood simply stands up better to everyday use and abuse.
@@ -3350,7 +3350,7 @@ Item Weight 6.86 kg
 Package Dimensions 90.8 x 20 x 7.5 cm; 6.86 Kilograms
 Batteries Required? No
 Item Weight 6.86 kg
-",metal,other,6.86kg,other,90.8,20,7.5
+",metal,other,6.86kg,other,90.8,20,7.5,handle
 "Vaughan V5 540g Milled Face Curved Claw Nail Hammer
 Material: metal
 Slip - resistant grip
@@ -3381,7 +3381,7 @@ Included Components 1 x V5 Straight Claw Nail Hammer All Steel Milled Face 540 g
 Batteries included? No
 Batteries Required? No
 Item Weight 885 g
-",metal,other,885g,19oz,39.2,13.8,3.2
+",metal,other,885g,19oz,39.2,13.8,3.2,other
 "Hilka 60500600 Brick Hammer All Steel Shaft Soft Grip Pro Craft, 600 g
 quality drop forged hammer in one piece and polished
 fitted with comfortable two component handle.
@@ -3408,7 +3408,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 599 g
-",metal,other,599g,other,31.8,17.8,4.2
+",metal,other,599g,other,31.8,17.8,4.2,handle
 "OX OX-T081507 Hammer - Sledgehammer with Fibreglass Handle - Forged and Induction Hardened Hammerhead - 7 lb/3.2 kg
 STEEL HEAD: The head of the OX Demolition Sledge Hammer is heat treated and is forged from fine-grained high-quality steel.
 COMFORT GRIP HANDLE: The non-slip ergonomic handle of the OX Sledge Hammer avoids any slips during use and delivers a comfortable grip.
@@ -3447,7 +3447,7 @@ Included Components 1 x OX Trade Fibreglass Handle Sledge Hammer - 7 lb
 Batteries included? No
 Batteries Required? No
 Item Weight 4.24 kg
-",plastic,other,4.24kg,other,5.8,16,88
+",plastic,other,4.24kg,other,5.8,16,88,handle
 "Club Hammer 1250 Grams with 2K fibreglass Handle from WIESEMANN 1893 | Enforce Series | Forged and Induction Hardened Hammer Head | 80546
 1250G CLUB HAMMER - high performance hammer with forged hammer head from the ENFORCE series - complies with DIN 6475 and 1041. The precision hammer head has a 18cm² striking surface. The distribution of weight between the hammer head and the 2K fibre handle minimises vibrations and increases safety when using.
 HAMMER HEAD - the swaged hammer head is DIN 6475 and 1041 compliant. The sides are coated in black and the head is shiny steel. To ensure safety, the face is hardened according to regulations and tempered with precision edges.
@@ -3476,7 +3476,7 @@ Size 1250 grams
 Batteries included? No
 Batteries Required? No
 Item Weight 1.46 kg
-",plastic,other,1.46kg,other,26.3,10,5
+",plastic,other,1.46kg,other,26.3,10,5,handle
 "Estwing ESTE322P-TB ESE322P Pick Prospecting Hammer, Blue, 22 oz (Ounces)
 
 Designed for the geologist when working with rock
@@ -3515,7 +3515,7 @@ Included Components Rock Pick
 Batteries included? No
 Batteries Required? No
 Item Weight 621 g
-",metal,blue,621g,22oz,33.02,17.78,3.18
+",metal,blue,621g,22oz,33.02,17.78,3.18,handle
 "Dead On DOS22M 22-Ounce 18-Inch Steel Milled Face Hammer by Dead On
 Vibration elimination design
 Innovative ""underneath"" magnetic nail set
@@ -3546,7 +3546,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 998 g
-",metal,other,998g,other,53.34,17.78,10.16
+",metal,other,998g,other,53.34,17.78,10.16,other
 "Fiskars 750620-1001 Sledge Hammer, Orange/Black, 10 lb
 Ideal for demolition work like shattering concrete (demolition face) or driving stakes and wedges (driving face)
 Wedged demolition face concentrates force for up to 5X more destructive power than traditional designs and directs debris to the sides, not back at you
@@ -3585,7 +3585,7 @@ Measurement System Metric
 Included Components Sledge Hammer
 Batteries Required? No
 Item Weight 5.85 kg
-",other,black,5.85kg,other,8.26,18.42,91.44
+",other,black,5.85kg,other,8.26,18.42,91.44,handle
 "Estwing E3/28c Curved Claw Engineers Pattern Hammer - Vinyl Grip 24oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Designed with the traditional English pattern head
@@ -3616,7 +3616,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 930 g
-",metal,other,930g,24oz,14,3.51,34.01
+",metal,other,930g,24oz,14,3.51,34.01,other
 "Thor 208 Copper / Rawhide Hammer Size a
 General-purpose
 Double-faced hammer
@@ -3653,7 +3653,7 @@ Included Components Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 358 g
-",metal,other,358g,14oz,23,8,3
+",metal,other,358g,14oz,23,8,3,handle
 "Stanley FatMax FuBar III 55-120 5-in-1 Demolition Tool, Sledge Hammer / Nail Remover / Jaws For Timber / Pry Bar
 One-piece forged steel bar for durability
 Length: 760mm
@@ -3692,7 +3692,7 @@ Included Components 1 x Utility Bar
 Batteries included? No
 Batteries Required? No
 Item Weight 3.72 kg
-",metal,black,3.72kg,other,82.4,21.1,5
+",metal,black,3.72kg,other,82.4,21.1,5,other
 "Roughneck 65635 Sledge Hammer 14lb F/glass Handle
 
 Sledge Hammer Fibreglass Handle 6.35kg (14lb)
@@ -3723,7 +3723,7 @@ Included Components 1 x Sledge Hammer Fibreglass Handle 6.4 kg (14 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 7.46 kg
-",plastic,other,7.46kg,other,92,21,7.4
+",plastic,other,7.46kg,other,92,21,7.4,handle
 "Roughneck ROU64767 Fencing Maul 10lb F/glass Handle
 Ideal for driving home wooden posts
 Round striking face makes it safer than sledge hammers
@@ -3756,7 +3756,7 @@ Material type Steel
 Manufacturer Roughneck
 Item model number ROU64767
 ASIN B003CT4DB8
-",metal,other,5.9kg,other,10.7,92.1,11.6
+",metal,other,5.9kg,other,10.7,92.1,11.6,handle
 "Silverline 719767 Fibreglass Sledge Hammer, 10 lb
 Forged steel powder-coated head
 Precision-ground striking faces
@@ -3789,7 +3789,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 5.67 kg
-",metal,other,5.67kg,other,90.5,18,6.5
+",metal,other,5.67kg,other,90.5,18,6.5,handle
 "Sledge Hammer 14LB F/Glass
 SLEDGE HAMMER 14LB F/GLASS
 Manufacturer TOOLTIME
@@ -3814,7 +3814,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 6.35 kg
-",glass,other,6.35kg,other,25.5,5.1,12
+",glass,other,6.35kg,other,25.5,5.1,12,other
 "Really Special Present for Dads- Engraved Hammer:""Thank You for Helping me Build My Life."" and""When it Comes to Being a Father, You Nailed it!""
 Really special present for really special Fathers! - A gift that says a thousand words.
 Wooden claw hammer with ""Thank you for helping me build my life."" engraved on the front of the hammer.
@@ -3843,7 +3843,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 480 g
-",wood,other,480g,other,32.2,14.8,4
+",wood,other,480g,other,32.2,14.8,4,handle;straw
 "Amtech A2160 10lb Fibreglass Sledge Hammer ""4.5 Kg (Head), 5.30 kg (Total)""
 Drop forged, heat treated head with fibreglass shaft
 Comfortable rubber grip
@@ -3886,7 +3886,7 @@ Included Components 4.5kg (10lb) SLEDGE HAMMER - FIBREGLASS SHAFT
 Batteries included? No
 Batteries Required? No
 Item Weight 998 g
-",plastic,other,998g,other,90,18,7
+",plastic,other,998g,other,90,18,7,handle
 "Stiletto 4932352584 Hammers Ti14SC-H18-1pc
 Proven reliable Stiletto technology
 Lightweight construction at just 0.64 Kgs
@@ -3911,7 +3911,7 @@ Item Package Quantity 1
 Included Components 1 x 4932352584
 Batteries Required? No
 Item Weight 640 g
-",other,other,640g,other,45,16,4
+",other,other,640g,other,45,16,4,other
 "Footprint 11716 4lb fibreglass Handle Hardened Steel Club Hammer, 1.8kg
 Proven reliable Footprint technology
 Lightweight construction at just 1.96 Kgs
@@ -3942,7 +3942,7 @@ Included Components 1 x 4lb fibreglass handle hardened steel club hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.96 kg
-",plastic,other,1.96kg,other,5,10.5,26
+",plastic,other,1.96kg,other,5,10.5,26,handle
 "Estwing E3/11 Drywall Hammer - Vinyl Grip 14oz
 Solid forged from one piece of American Steel for ultimate durability and strength
 Milled face to reduce the likelihood of impact marks on the plasterboard
@@ -3971,7 +3971,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 660 g
-",metal,other,660g,14oz,35.05,3.56,14.22
+",metal,other,660g,14oz,35.05,3.56,14.22,other
 "Roughneck ROU65908 65-908 (L) Sledge Hammer
 
 Gorilla Sledge Hammer 3.6kg (8lb)
@@ -4002,7 +4002,7 @@ Number Of Pieces 1
 Included Components 1 x Gorilla Sledge Hammer 3.6 kg (8 lb)
 Batteries Required? No
 Item Weight 100 g
-",other,other,100g,other,8,19.7,86
+",other,other,100g,other,8,19.7,86,other
 "Estwing E6/15S 15 Oz Blue Vinyl Gripped Ultra Framing Hammer
 Solid forged from one piece of American Steel for ultimate durability and strength
 Magnetic nail starter allow for one handed, fast and accurate nailing
@@ -4041,7 +4041,7 @@ Included Components 1 x Estwing E6/15S 15oz Ultra Framing Hammer, Smooth Face, S
 Batteries included? No
 Batteries Required? No
 Item Weight 870 g
-",metal,blue,870g,15oz,13.65,4.13,39.69
+",metal,blue,870g,15oz,13.65,4.13,39.69,other
 "Estwing ESTE330S 30 Oz Framing Hammer W/Blue Grip, Silver, 840g (30oz)
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -4078,7 +4078,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 850 g
-",metal,silver,850g,30oz,15.24,3.81,40.64
+",metal,silver,850g,30oz,15.24,3.81,40.64,handle
 "Vaughan 103-66 TTC1FGP Ti-Tech Titanium Nail Hammer Smooth Face, 16-Ounce, Fiberglass Handle
 Fiberglass handle
 High impact overstrike guard
@@ -4107,7 +4107,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 975 g
-",plastic,other,975g,16oz,40.64,16.51,3.81
+",plastic,other,975g,16oz,40.64,16.51,3.81,handle
 "Estwing E3-4OLM 40 Oz. Milled Face Lineman’s Hammer
 FORGED IN ONE PIECE – The most durable, longest lasting striking tools available
 BALANCE AND TEMPER – The most durable, longest lasting striking tools available
@@ -4144,7 +4144,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 1.06 kg
-",metal,other,1.06kg,40oz,9.65,4.45,35.05
+",metal,other,1.06kg,40oz,9.65,4.45,35.05,other
 "Estwing E3/20SM 20oz Straight Claw Framing Hammer, Milled Face, Shock Reduction Face
 Solid forged from one piece of American Steel for ultimate durability and strength
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -4173,7 +4173,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 567 g
-",metal,other,567g,20oz,13.97,3.18,34.62
+",metal,other,567g,20oz,13.97,3.18,34.62,handle
 "Vaughan R606M 800g Solid Steel Milled Face Straight Claw Ripping Hammer
 Material: metal
 Good quality product
@@ -4200,7 +4200,7 @@ Included Components 1 x R606M Ripping Hammer Straight Claw All Steel Milled Face
 Batteries included? No
 Batteries Required? No
 Item Weight 993 g
-",metal,other,993g,28oz,55.55,40.01,15.24
+",metal,other,993g,28oz,55.55,40.01,15.24,other
 "Klein Tools 832-26 Lineman's Claw Milled Hammer, Fiberglass Handle, 26-Ounce
 Hammer has large head for driving in staples and lag bolts
 Lighter 26-Ounce head compared to the traditional 32-Ounce hammer
@@ -4229,7 +4229,7 @@ Item Package Quantity 1
 Included Components Lineman's Claw Milled Hammer
 Batteries Required? No
 Item Weight 1.04 kg
-",plastic,other,1.04kg,26oz,37.69,14.38,3.56
+",plastic,other,1.04kg,26oz,37.69,14.38,3.56,handle
 "OX OX-P082614 Hammer - Pro Heavy Duty Drywall Hammer - Wall Board Tool with Shock Reduction Grip - Multicolour - 14 oz
 FORGED IN ONE PIECE: The OX Dry Wall Hammer is made using stainless steel for enhanced reliability and durability.
 BUILT FOR THE PRO: The OX Dry Wall Hammer is made especially for framers, roofers, carpenters, contractors, tradesman and DIYers.
@@ -4270,7 +4270,7 @@ Included Components 1 x hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 730 g
-",metal,other,730g,14oz,35,3.8,15.5
+",metal,other,730g,14oz,35,3.8,15.5,handle
 "Draper 81065 5.4 kg Fibre Glass Shaft Fencing Hammer
 
 Heavy duty fencing hammer with a solid cast iron head
@@ -4293,7 +4293,7 @@ Part number DRA81065
 Manufacturer Draper
 Item model number DRA81065
 ASIN B01DSOUA04
-",plastic,other,5.4kg,other,96,13.2,11.7
+",plastic,other,5.4kg,other,96,13.2,11.7,other
 "DeWalt High Velocity Hammer 12oz
 Manufacturer Dewalt
 Package Dimensions 40 x 20 x 3 cm; 700 Grams
@@ -4306,7 +4306,7 @@ Package Dimensions 40 x 20 x 3 cm; 700 Grams
 Batteries included? No
 Batteries Required? No
 Item Weight 700 g
-",other,other,700g,12oz,40,20,3
+",other,other,700g,12oz,40,20,3,other
 "Stanley 1-51-033 SteelMaster Curved Claw Hammer, 20 oz - 567 g
 Heat treated steel head
 Fully polished
@@ -4339,7 +4339,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 567 g
-",metal,other,567g,20oz,49,22.4,12.6
+",metal,other,567g,20oz,49,22.4,12.6,other
 "Roughneck ROU61800 Slaters Hammer
 Pointed pick for making holes in slates
 Rectangular striking head for tile fixing
@@ -4372,7 +4372,7 @@ Included Components 1 x Slater Hammer 454 g (16 oz.)
 Batteries included? No
 Batteries Required? No
 Item Weight 513 g
-",other,other,513g,16oz,33,2.3,1
+",other,other,513g,16oz,33,2.3,1,other
 "Stubai 2755022K Slater's Hammer bi-mat. Handle, Left 350 mm
 STUBAI - Quality since more than 100 years
 Slater's hammer bi-mat. handle, left
@@ -4397,7 +4397,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 640 g
-",other,other,640g,other,36,25,1.8
+",other,other,640g,other,36,25,1.8,handle
 "Qlt By Marshalltown SMH3 Masonry Hammer
 Package Dimensions: 15.5 L x 2 H x 5 W (inches)
 Package Weight : 4.06 pounds
@@ -4430,7 +4430,7 @@ Included Components Masonry Hammer
 Batteries Required? No
 Assembled Diameter 1 Inches
 Item Weight 1.81 kg
-",other,other,1.81kg,other,2.54,2.54,2.54
+",other,other,1.81kg,other,2.54,2.54,2.54,handle
 "Silverline HA35 Fibreglass Ball Pein Hammer 32 oz
 Hardened steel polished head
 Shock-absorbing fibreglass shaft with nylon surround
@@ -4463,7 +4463,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.14 kg
-",metal,other,1.14kg,32oz,36.5,3.5,12.5
+",metal,other,1.14kg,32oz,36.5,3.5,12.5,handle
 "Estwing E3/239mm Roofers Pick Hammer - Vinyl
 Solid forged from one piece of American Steel for ultimate durability and strength
 Also known as a German Pattern Hammer this is specially designed for the roofing trade
@@ -4494,7 +4494,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 986 g
-",metal,other,986g,other,3.3,31.7,16.6
+",metal,other,986g,other,3.3,31.7,16.6,other
 "Estwing EB3/3LB 3 Vinyl Grip One-Piece Mash Hammer, Multi, Size
 The proper tool for driving hardened nails and cold chisels
 Solid forged in one piece
@@ -4535,7 +4535,7 @@ Certification (unset)
 Batteries included? No
 Batteries Required? No
 Item Weight 1.59 kg
-",metal,other,1.59kg,other,28,6.77,3.32
+",metal,other,1.59kg,other,28,6.77,3.32,other
 "Draper 51095 Rm956/2 Rubber Mallet with Hardwood Shaft, 400g
 Rubber mallet manufactured
 Heavy-duty rubber head
@@ -4572,7 +4572,7 @@ Included Components Draper Rubber Mallet With Hardwood Shaft (400G - 14.5oz)
 Batteries included? No
 Batteries Required? No
 Item Weight 480 g
-",wood,blue,480g,14.5oz,32.7,9.4,6
+",wood,blue,480g,14.5oz,32.7,9.4,6,other
 "Stanley FMHT51295 FATMAX 28oz 1pc Steel Framing Hammer
 Patented AntiVibe technology minimizes vibration and shock at impact
 Forged, one-piece steel construction for increased strength and durability
@@ -4605,7 +4605,7 @@ Included Components 1) 28oz Framing Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1.13 kg
-",metal,other,1.13kg,28oz,40.39,14.73,3.18
+",metal,other,1.13kg,28oz,40.39,14.73,3.18,handle
 "PICARD Solid Steel FRAMING Hammer Leather Grip Handle, 0079600-22
 hammer
 professional
@@ -4642,7 +4642,7 @@ Included Components PICARD SOLID STEEL FRAMING HAMMER LEATHER GRIP HANDLE
 Batteries included? No
 Batteries Required? No
 Item Weight 1.13 kg
-",metal,other,1.13kg,other,15.24,3.18,43.18
+",metal,other,1.13kg,other,15.24,3.18,43.18,handle;led
 "Fiskars 750230-1001 750230-1002 General Use Hammer, 15.5 Inch
 Patented IsoCore Shock Control System transfers 4X less shock and vibration than wood handles, reducing punishment your body takes
 Head optimized for balance, weight and superior durability
@@ -4675,7 +4675,7 @@ Included Components Hammers
 Batteries included? No
 Batteries Required? No
 Item Weight 953 g
-",other,other,953g,other,3.81,13.97,39.37
+",other,other,953g,other,3.81,13.97,39.37,handle
 "Estwing E239mm Roofers Pick Hammer - Leather Grip
 Solid forged from one piece of American Steel for ultimate durability and strength
 Also known as a German Pattern Hammer this is specially designed for the roofing trade
@@ -4704,7 +4704,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 422 g
-",metal,other,422g,other,18.01,32,2.49
+",metal,other,422g,other,18.01,32,2.49,other
 "MAXPOWER Rubber Mallet, 24Oz Rubber Mallet Soft Hammer with Hickory Handle and Soft Face for Installation Marble Tile, White
 【Comfortable Wooden Grip】- Rubber mallet with a head of medium-hard white rubber, maximum comfort and always guaranteed control The hammer handle is made of Hickory, polished to protect your hands and reduce weight.
 【Lightweight Rubber Mallet Hammer】- Double durable, lightweight profile handles for comfortable grip in multiple hand positions.
@@ -4735,7 +4735,7 @@ Material Rubber
 Batteries included? No
 Batteries Required? No
 Item Weight 28.3 g
-",plastic,white,28.3g,24oz,35.56,11,5.99
+",plastic,white,28.3g,24oz,35.56,11,5.99,handle
 "Makita B-65779 Smooth Face Claw Hammer
 Anti-vibration grip to minimise shocks on the hands
 Forged from one piece of steel construction for increased strength and durability
@@ -4764,7 +4764,7 @@ Item Package Quantity 1
 Included Components 1 x Makita B-65779
 Batteries Required? No
 Item Weight 250 g
-",metal,other,250g,other,20,6,6
+",metal,other,250g,other,20,6,6,other
 "Demo Hammer 22oz 16""L
 A multi-functional tool designed to overcome even the toughest demolition job
 With an oversized strike face for breaking through drywall and an elongated claw curve for easy prying of nails, standard hammer features have been optimized for demolition applications
@@ -4793,7 +4793,7 @@ Material Other
 Item Package Quantity 2
 Batteries Required? No
 Item Weight 1.09 kg
-",other,other,1.09kg,22oz,44.2,14.48,3.05
+",other,other,1.09kg,22oz,44.2,14.48,3.05,other
 "Hultafors 820040 EL Electricians Hammer
 U-shape makes it possible to work close to ceilings and corners
 Straight claw
@@ -4830,7 +4830,7 @@ Included Components Claw Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 500 g
-",other,other,500g,other,11.99,3,29.01
+",other,other,500g,other,11.99,3,29.01,handle
 "OX OX-P081616 – Pro Series Claw Hammer with Fibreglass Handle Curved - Multicolour, 16 oz
 FIBREGLASS SHAFT: The OX Claw Hammer comes with a fibreglass handle which gives protection against overstrike and provides an injection molded grip for added comfort.
 FORGED IN ONE PIECE: The OX Straight Claw Hammer has a heat treated carbon steel construction for enhanced durability and reliability.
@@ -4869,7 +4869,7 @@ Included Components 1 x OX Pro Fibreglass Handle Claw Hammer - 16 oz.
 Batteries included? No
 Batteries Required? No
 Item Weight 680 g
-",metal,other,680g,16oz,3.5,14,33
+",metal,other,680g,16oz,3.5,14,33,handle
 "Leather Working / Shoe Hammer Osborne Ref 66
 Manufacturer C.S. Osborne
 Package Dimensions 24.2 x 6.2 x 1.8 cm; 439.99 Grams
@@ -4878,7 +4878,7 @@ Item Weight 440 g
 ","Manufacturer C.S. Osborne
 Package Dimensions 24.2 x 6.2 x 1.8 cm; 439.99 Grams
 Item Weight 440 g
-",other,other,440g,other,24.2,6.2,1.8
+",other,other,440g,other,24.2,6.2,1.8,other
 "C.S. Osborne #33 7oz Bronze Head Magnetic Tipped Hammer Upholstery Ramelson
 #33 7oz Head Bronze Magnetic Hammer Bronze head
 Steel tipped, one end with a permanent magnet, and the other for hammering
@@ -4907,7 +4907,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 272 g
-",metal,other,272g,7oz,33.02,22.86,2.54
+",metal,other,272g,7oz,33.02,22.86,2.54,other
 "Hultafors 820140U Claw Hammer TC 20 XL
 Vibration damping urethane plug.
 Right angle and shape of striking face.
@@ -4940,7 +4940,7 @@ Measurement System Metric
 Included Components Hammer
 Batteries Required? No
 Item Weight 370 g
-",metal,other,370g,other,35.9,17.2,2.8
+",metal,other,370g,other,35.9,17.2,2.8,other
 "Osborne No.33 Bronze Magnetic Upholstery/Leather Hammer 7 Oz
 The Osborne No. 33 Bronze magnetic upholstery hammer is an industry icon that has been used with in the upholstery trade for decades. Subsequently If you walk into any workshop around the country you will probably find one of these in pride of place.
 The 33 Hammer has a solid head of bronze, steel tipped at either end with one magnetic head and the other for hammering. Weighing 7oz the bronze head is seen as the most balanced weight for universal performance, making this our best selling hammer.
@@ -4967,7 +4967,7 @@ Manufacturer reference O33
 Batteries included? No
 Batteries Required? No
 Item Weight 300 g
-",other,other,300g,7oz,30.48,14.22,2.79
+",other,other,300g,7oz,30.48,14.22,2.79,handle
 "Estwing E3/22CR 22 Oz Hammer W/Curved Claw, Shock Reduction Blue Vinyl Grip Framing
 Solid forged from one piece of American Steel for ultimate durability and strength
 Curved claw leverage for added torque when pulling and prying nails or boards
@@ -5004,7 +5004,7 @@ Included Components 1 x Estwing E3/22CR 22oz Curved Claw Framing Hammer, Smooth 
 Batteries included? No
 Batteries Required? No
 Item Weight 624 g
-",metal,other,624g,22oz,12.85,3.18,34.8
+",metal,other,624g,22oz,12.85,3.18,34.8,other
 "Halder 3749040 AR3749.040 Mallet with Fibre-Glass Handle Copper/Soft Metal, Multi-Colour, 40 mm
 Material: Copper/Soft Metal
 With reinforced cast steel housing
@@ -5045,7 +5045,7 @@ Included Components 1 x Mallet
 Batteries included? No
 Batteries Required? No
 Item Weight 1.2 kg
-",metal,other,1.2kg,other,45.01,11.99,11.99
+",metal,other,1.2kg,other,45.01,11.99,11.99,handle
 "Estwing E3-22CM Framing Hammer, Milled Face, 22-Ounce, 16-Inch, Vinyl Shock Reduction Grip, Silver
 Shock reduction grip
 Reduces shock up to 70 percent
@@ -5084,7 +5084,7 @@ Included Components 22 oz Long Handle, Curved Claw Hammer with Shock Reduction G
 Batteries included? No
 Batteries Required? No
 Item Weight 624 g
-",other,silver,624g,22oz,40.01,12.85,3.18
+",other,silver,624g,22oz,40.01,12.85,3.18,handle
 "Roamwild Hammer - 740g / 24oz Japanese Style Anti-Vibe All Steel Curved Claw Hold & Strike Hammer with Magnet
 Roamwild Hammer & Nail Puller - Nail holding notch on head with magnet enables you to strike in nails without holding them.
 Adsorbs shock and harmful vibration making it comfortable to use all day - Thin neck gives perfect balance.
@@ -5107,7 +5107,7 @@ Product Dimensions 10 x 30 x 2 cm; 840 Grams
 Batteries included? No
 Batteries Required? No
 Item Weight 840 g
-",metal,other,840g,24oz,10,30,2
+",metal,other,840g,24oz,10,30,2,handle
 "Barnwell Magnetic Tack Nail Hammer Upholstery Carpet Floor Steel Shaft
 Magnetic tack hammer
 Vinyl handle
@@ -5128,7 +5128,7 @@ Manufacturer reference 96414
 Batteries included? No
 Batteries Required? No
 Item Weight 310 g
-",metal,other,310g,other,28.7,11.6,2.3
+",metal,other,310g,other,28.7,11.6,2.3,handle
 "Thor 22 Rawhide Hammer Size 5
 Two cylindrical faces of genuine compressed buffalo rawhide
 Wooden handle
@@ -5163,7 +5163,7 @@ Included Components Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 3.28 kg
-",wood,other,3.28kg,other,15.6,8.41,40.49
+",wood,other,3.28kg,other,15.6,8.41,40.49,handle
 "Fiskars IsoCore Sledge Hammer, L, Length: 91 cm, Weight: 3.6 kg, Black/Orange, 1020219
 Sledge hammer for driving in wooden piles, Ideal for demolition work
 Hammer head with extra large diameter for higher impact accuracy, Anti-vibration system
@@ -5206,7 +5206,7 @@ Included Components Fiskars sledge hammer L 8 lb/36""
 Batteries included? No
 Batteries Required? No
 Item Weight 3.6 kg
-",metal,other,3.6kg,other,91,15.9,7.6
+",metal,other,3.6kg,other,91,15.9,7.6,handle
 "Dewalt DT6838-QZ Sds Max Steel Bush Hammer 35mmx200mm, Silver
 Power Source Fonctionne sur batterie.
 Brand DEWALT
@@ -5259,7 +5259,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 171 g
-",metal,silver,171g,other,45,35,15
+",metal,silver,171g,other,45,35,15,other
 "OX OX-P082328 - Straight Claw Framing Hammer with Smooth Face – 28 Oz
 FRAMEWORK: The OX Straight Claw Framing Hammer is a multipurpose tool that can be used not only for splitting but also as a regular hammer.
 FORGED IN ONE PIECE: The OX Straight Claw Framing Hammer has a steel construction, making it a durable and reliable tool.
@@ -5300,7 +5300,7 @@ Included Components 1 x hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",metal,other,1kg,28oz,41,3.8,15.5
+",metal,other,1kg,28oz,41,3.8,15.5,other
 "Silverline HA50 Hickory Sledge Hammer, 7 lb
 Forged steel powder-coated head
 Precision-ground striking faces
@@ -5333,7 +5333,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 3.18 kg
-",metal,other,3.18kg,other,76.4,18.6,5.6
+",metal,other,3.18kg,other,76.4,18.6,5.6,other
 "Father's Hammer Hand Tool,Personalised Hammer Presents,Father's Gift Hammer for Dad/Husband/Men
 Thanks Father's Day Present: Wooden claw hammer with ""Thank you for helping me build my life."" engraved on the front of the hammer.
 Dad's Day Best Choice: There is an sentence ""When it comes to being a father, you nailed it!"" engraved on the back of the hammer.(Funny gifts for your dad)
@@ -5362,7 +5362,7 @@ Power Source No
 Included Components No
 Batteries Required? No
 Item Weight 350 g
-",wood,other,350g,other,32.7,13.7,3.3
+",wood,other,350g,other,32.7,13.7,3.3,other
 "Estwing E3-16BLC 16 Oz W/Blue, Patented End Cap Bricklayer's Hammer, Nylon Vinyl Shock Reduction Grip, Smooth Face, 16-Ounce, Silver
 Nylon vinyl shock reduction grip
 Designed for rugged use
@@ -5397,7 +5397,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 399 g
-",other,silver,399g,16oz,27.94,3.18,7.87
+",other,silver,399g,16oz,27.94,3.18,7.87,other
 "Stanley FMHT51305 FATMAX 14oz High Velocity Hammer
 High Velocity technology enables a faster swing for greater impact
 Anti-Vibe handle grip reduces vibrations for comfort and control
@@ -5430,7 +5430,7 @@ Included Components 1) 14oz High Velocity Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 680 g
-",other,other,680g,14oz,35.56,13.72,3.18
+",other,other,680g,14oz,35.56,13.72,3.18,handle
 "Amtech A1100 Lightweight Dropforged Pin Hammer
 Pin hammer
 Traditional wooden shaft with drop forged head
@@ -5469,7 +5469,7 @@ Included Components Amtech A1100 Pin Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",plastic,other,160g,other,10,2,33
+",plastic,other,160g,other,10,2,33,handle
 "Estwing 30oz Ripping Claw Framing Hammer with Vinyl Grip
 Manufacturer Estwing
 Part Number 12487
@@ -5482,7 +5482,7 @@ Part Number 12487
 Manufacturer reference 12487
 Batteries included? No
 Batteries Required? No
-",other,other,other,30oz,other,other,other
+",other,other,other,30oz,other,other,other,other
 "OX Trade Claw Hammer - Steel Claw Hammer - Small Curved and Polished Hammer - Rip Claw Hammer – Multi-Colour - 20 oz
 STAINLESS STEEL CONSTRUCTION: The head of the OX Trade Claw Hammer is crafted from premium quality heat-treated carbon steel and the shaft is made from tabular steel for enhanced durability and rust resistance.
 NON SLIP GRIP HANDLE: Unlike conventional slippery and fragile wooden handles, the textured handle of the OX Trade Claw Hammer delivers a strong and non-slip grip. It also works as shock reduction while striking the tool.
@@ -5521,7 +5521,7 @@ Included Components 1 x hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 800 g
-",metal,other,800g,20oz,48,23.6,5.6
+",metal,other,800g,20oz,48,23.6,5.6,handle
 "Gedore Dead-Blow Hammer D 35 mm – 248 F-35
 Tools Original Gedore
 Top quality
@@ -5546,7 +5546,7 @@ Item Package Quantity 1
 Number Of Pieces 1
 Batteries Required? No
 Item Weight 99.8 g
-",other,other,99.8g,other,39,13,15
+",other,other,99.8g,other,39,13,15,other
 "Estwing E3-22C Framing Hammer, Smooth Face, 16-Inch, 22-Ounce, Vinyl Shock Reduction Grip, Silver
 Shock reduction grip
 Reduces shock up to 70 percent
@@ -5581,7 +5581,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 2.75 kg
-",other,silver,2.75kg,22oz,40.01,12.85,3.18
+",other,silver,2.75kg,22oz,40.01,12.85,3.18,other
 "Facom 1262H.100 – Club Hammer with Chamfered Edges.
 Facom 1262H.100 bevelled edge club hammer.
 Manufacturer Facom
@@ -5604,7 +5604,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 231 g
-",other,other,231g,other,7.6,8.66,2
+",other,other,231g,other,7.6,8.66,2,other
 "OX Claw Bar - Pro Series Claw Bar with Non-slip Grip Handle - Hardened Hammer Head - Multi-Colour - 10-Inch/250 mm
 HAMMER HEAD: The OX Claw Bar has a hammerhead at the sides and is coated in black to ensure safety. The Claw Bar has been precisely made to offer gripping edges for greater efficiency.
 DURABLE CLAW BAR: The OX Pro Claw Bar works well in diverse conditions and its strong build quality promises excellent longevity.
@@ -5643,7 +5643,7 @@ Included Components 1 x OX Pro Claw Bar 10"" / 250mm
 Batteries included? No
 Batteries Required? No
 Item Weight 330 g
-",other,other,330g,other,2.5,8,31
+",other,other,330g,other,2.5,8,31,handle
 "Rolson 10705 3 lb SLEDge Hammer
 Sledge Hammer
 Short Handle
@@ -5672,7 +5672,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.36 kg
-",plastic,other,1.36kg,other,46,13,14
+",plastic,other,1.36kg,other,46,13,14,handle
 "S&R Claw Hammer / carpenter hammer 600g, Magnet, Fiberglass Handle, Forged C50
 🔨 S&R Claw Hammer / carpenter hammer for continuous professional use. 🔨
 🔨 MAGNETIC NAIL HOLDER ➤ Head of the hammer has a magnetic nail holder.
@@ -5715,7 +5715,7 @@ Usage Construction, Assembly, Carpenter's Works, Renovation, Industrial Faciliti
 Batteries included? No
 Batteries Required? No
 Item Weight 599 g
-",metal,silver,599g,other,32.8,15.8,2.4
+",metal,silver,599g,other,32.8,15.8,2.4,handle
 "Silverline HA62 Hickory Lump Hammer 4 lb
 Forged steel powder-coated head
 Precision-ground striking faces
@@ -5746,7 +5746,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 966 g
-",metal,other,966g,other,25,5,11.5
+",metal,other,966g,other,25,5,11.5,other
 "Stubai 275532 Slater's Hammer French Left, Multicoloured, 350 mm
 Style French
 Metal type Carbon Steel
@@ -5791,7 +5791,7 @@ Handle material Alloy Steel
 Batteries included? No
 Batteries Required? No
 Item Weight 580 g
-",metal,other,580g,other,27,12,12
+",metal,other,580g,other,27,12,12,other
 "Fiskars - 750241-1001 IsoCore 22 oz Milled-face Framing Hammer, 16 Inch
 Ideal for big framing jobs and pounding large nails into tough lumber with power and speed
 Milled face grips nail head to help prevent hammer from sliding off the nail head when striking
@@ -5812,7 +5812,7 @@ Full lifetime warranty
 Batteries required No
 Included components Hammer
 Item weight 2.2 Pounds
-",other,other,997.9g,other,3.81,13.97,40.64
+",other,other,997.9g,other,3.81,13.97,40.64,other
 "Roughneck ROU65912 Sledge Hammer
 
 Gorilla Sledge Hammer 5.5kg (12lb)
@@ -5841,7 +5841,7 @@ Item Package Quantity 1
 Included Components 1 x Gorilla Sledge Hammer 5.5 kg (12 lb)
 Batteries Required? No
 Item Weight 100 g
-",other,other,100g,other,9,22.4,86
+",other,other,100g,other,9,22.4,86,other
 "BGS 1876 | Dead Blow Hammer | Head Ø 105 mm
 Blow-back proof due to steel balls in the head of the mallet, therefore stronger impact
 Especially for loosening stuck rims when changing tires
@@ -5876,7 +5876,7 @@ Included Components Dead Blow bumping hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 5.13 kg
-",metal,black,5.13kg,other,78,10.5,20
+",metal,black,5.13kg,other,78,10.5,20,other
 "Estwing ESTEMRW25LM Sure Strike 25 Oz Wood Handle Framing Hammer - Milled, Multicolor, 708g (25oz)
 Solid forged steel head for maximum strength and durability
 Versatile rip claw used for pulling nails, prying boards, demolition work and splitting wood
@@ -5913,7 +5913,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 708 g
-",wood,other,708g,25oz,45.09,15.57,3.81
+",wood,other,708g,25oz,45.09,15.57,3.81,handle
 "Estwing E3/24BL Brick Hammer - Vinyl Grip 680g (24oz)
 One-piece forged construction
 Patented Bricklayer grip
@@ -5940,7 +5940,7 @@ Item model number ...
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 3.45 kg
-",other,other,3.45kg,24oz,114.81,18.8,2.29
+",other,other,3.45kg,24oz,114.81,18.8,2.29,other
 "Vaughan 587-24 SH275L Split-Head Hammer with Rawhide 2.75-Inch Face Diameter
 Extension collars transfer shock to more handle surface, reducing user fatigue and handle breakage
 Top quality hardwood handles
@@ -5969,7 +5969,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 4.17 kg
-",wood,other,4.17kg,other,91.44,10.16,17.78
+",wood,other,4.17kg,other,91.44,10.16,17.78,handle
 "OX Straight Rip Claw Hammer 20 oz with Non-slip Handle - Precision Balanced Hammer Tool Ideal for Carpenters and Electricians
 STRAIGHT RIP CLAW: The claw of the OX Straight Claw Hammer is straight, making it a multipurpose utility tool. Whether its general driving and removing nails, or ripping out wooden boards, the Rip Claw Hammer does the job.
 ONE-PIECE STEEL CONSTRUCTION: The body of the hammer is forged, one-piece steel constructed, enhancing its strength and durability.
@@ -6010,7 +6010,7 @@ Included Components 1 x OX Pro Straight Claw Hammer - 20 oz.
 Batteries included? No
 Batteries Required? No
 Item Weight 860 g
-",metal,other,860g,20oz,3.5,14.2,35.5
+",metal,other,860g,20oz,3.5,14.2,35.5,handle
 "Power-TEC 91215 Curved Pein/Finishing Hammer
 Head manufactured from 1055 Medium Carbon Steel.
 Crown face with curved cross pein.
@@ -6037,7 +6037,7 @@ Product Dimensions 4 x 19.7 x 41.7 cm; 430.91 Grams
 Item model number 91215
 Manufacturer Part Number LAS91215
 Item Weight 431 g
-",metal,other,431g,other,4,19.7,41.7
+",metal,other,431g,other,4,19.7,41.7,other
 "Ball Pein Hammer, Steel W/Vinyl, 32 oz.
 Manufacturer Estwing
 Part Number E3-32BP
@@ -6054,7 +6054,7 @@ Item model number 268-E3-32BP
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 907 g
-",metal,other,907g,32oz,4.37,12.7,36.2
+",metal,other,907g,32oz,4.37,12.7,36.2,other
 "Estwing Claw Hammer 20oz
 Manufacturer estwing
 Batteries included? No
@@ -6063,7 +6063,7 @@ Batteries Required? No
 ","Manufacturer estwing
 Batteries included? No
 Batteries Required? No
-",other,other,other,20oz,other,other,other
+",other,other,other,20oz,other,other,other,other
 "OX OX-P082703 Hammer - Pro Heavy Duty Club Hammer with Steel Head - Used in Demolition & Construction Works - Multicolour - 3 lb
 MULTI UTILITY CLUB HAMMER: The long handle OX Club Hammer is structured and designed for various applications like destruction work, breaking through dry walls, masonry walls, mining operations and much more.
 TOUGH AS AN OX: The OX Club Hammer has a robust construction and comes with a high quality heavy-duty hardened steel head for maximum strength.
@@ -6102,7 +6102,7 @@ Included Components 1 x hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",metal,silver,1kg,other,30,5,10
+",metal,silver,1kg,other,30,5,10,handle
 "Thor 16 Rawhide Hammer Size 4
 Two cylindrical faces of genuine compressed buffalo rawhide
 Wooden handle
@@ -6135,7 +6135,7 @@ Included Components 1 x 01-016
 Batteries included? No
 Batteries Required? No
 Item Weight 1.9 kg
-",metal,other,1.9kg,other,6.7,14.5,36.2
+",metal,other,1.9kg,other,6.7,14.5,36.2,handle
 "Faithfull Contract Hickory Sledge Hammer 14Lb
 General purpose hammer
 Ideal for builders and contractors
@@ -6162,7 +6162,7 @@ Item model number FAIHS14C
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 6.35 kg
-",other,other,6.35kg,other,90,20,7
+",other,other,6.35kg,other,90,20,7,other
 "DEWALT MIG Weld Nailing Hammer, 12 Oz
 2-Speed range for high speed drilling or high torque applications
 Soft grip handle and two-finger trigger for increased comfort and greater control
@@ -6193,7 +6193,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 9.07 g
-",metal,black,9.07kg,12oz,36.32,14.99,3.81
+",metal,black,9.07kg,12oz,36.32,14.99,3.81,handle
 "Picard 298.01 Roofing Hammer 298 Inches Smooth with Magnet
 With magnet
 Design: blank, smooth
@@ -6224,7 +6224,7 @@ Included Components Roofing hammer.
 Batteries included? No
 Batteries Required? No
 Item Weight 781 g
-",other,other,781g,other,30,10,5
+",other,other,781g,other,30,10,5,other
 "Father's Day Gift - Thank You For Helping Me Build My Life - Engraved In U.S.A - Hickory Wood Handle & Steel Hammer Head With Velvet Bag & Presentation Box - Present For ANY Dad (Mom- Blonde Original)
 FUNCTIONAL: Extremely strong forged steel, 16oz hickory wooden claw hammer doubles in functionality and presentation! This unique engraved hammer looks good, but isn't just for looks - it is practical and typically used in the shop, garage, construction site or even just around the house!
 SENTIMENTAL: Behind every great daughter or son, stands a truly amazing Mother. Celebrate your Mom on any occasion- Birthday, Mother's Day, Veteran's Day or any Holiday but truthfully you don't need a specific occasion to appreciate your Mom. This hammer is a daily reminder to your Mother that you always love and appreciate her.
@@ -6249,7 +6249,7 @@ Material Hickory, wood, steel
 Pattern Mom- Blonde Original
 Batteries Required? No
 Item Weight 907 g
-",wood,other,907g,other,36.2,16.51,6.35
+",wood,other,907g,other,36.2,16.51,6.35,handle
 "Estwing E3-28SM 28-Ounce Framing Hammer, Milled Face
 28-Ounce size
 Milled face
@@ -6274,7 +6274,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.04 kg
-",metal,other,1.04kg,28oz,40.64,15.24,3.81
+",metal,other,1.04kg,28oz,40.64,15.24,3.81,handle
 "Facom Interchangeable Tip Dead-Blow Hammer
 Glass-fibre handle
 Steel body
@@ -6305,7 +6305,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 411 g
-",metal,other,411g,other,7.6,8.66,2
+",metal,other,411g,other,7.6,8.66,2,handle
 "Estwing Curved Claw Hammer 24oz (0.68kg)
 Manufacturer Estwing
 Batteries included? No
@@ -6314,7 +6314,7 @@ Batteries Required? No
 ","Manufacturer Estwing
 Batteries included? No
 Batteries Required? No
-",other,other,0.68kg,24oz,other,other,other
+",other,other,0.68kg,24oz,other,other,other,other
 "Stanley STA151148 12oz FatMax Xtreme Hi-Velocity Curve Claw Framing Hammer
 Revolutionary mig welded hammer design
 Light weight design reduces arm stress
@@ -6347,7 +6347,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 748 g
-",metal,other,748g,12oz,3.99,16,37.01
+",metal,other,748g,12oz,3.99,16,37.01,other
 "Blacksmith Custom Hand Made Damascus Steel Hammer Damascus Steel Handle
 Blacksmith Custom Hand Made Damascus Steel Hammer Damascus Steel Handle
 Manufacturer Knives Exporter
@@ -6366,7 +6366,7 @@ Material Damascus Steel Blade
 Batteries included? No
 Batteries Required? No
 Item Weight 744 g
-",metal,other,744g,other,25.5,8.3,4.5
+",metal,other,744g,other,25.5,8.3,4.5,handle
 "Leborgne Batipro Chafing Hammer, Magnetic Nail Holder, Forged and Tempered Steel, Ergonomic Tri-Material Handle, Weight: 0.65 kg (Iron)
 Hammer for all masonry, carpenting and formwork, ideal for everyday use
 Forged and tempered carbon steel head: extended lifespan and great strength, nail magnet for pointing with one hand without holding the nail, side strike surfaces for working in tight spaces
@@ -6401,7 +6401,7 @@ Item Package Quantity 1
 Included Components 1 item
 Batteries Required? No
 Item Weight 1.2 kg
-",metal,yellow,1.2kg,other,37,17.3,4
+",metal,yellow,1.2kg,other,37,17.3,4,handle
 "Thor Sph275 Split Head Hammer 7.1/2lb - Super Plastic
 Split cast iron head
 Wooden handle
@@ -6432,7 +6432,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.65 kg
-",plastic,other,1.65kg,other,16.99,8.71,40.01
+",plastic,other,1.65kg,other,16.99,8.71,40.01,handle
 "Hultafors Tools 820240U Claw Hammer TR 20 XL
 Vibration damping urethane plug.
 Right angle and shape of striking face.
@@ -6465,7 +6465,7 @@ Measurement System Metric
 Included Components Hammer
 Batteries Required? No
 Item Weight 840 g
-",metal,other,840g,other,42.01,14.2,4.29
+",metal,other,840g,other,42.01,14.2,4.29,other
 "VCT 9LB Dead Blow Orange Hammer Tool 30"" Convex-Faced Head Shock Absorbing…
 MINIMIZE DAMAGE: Use the Dead Blow Sledge Hammer Rubber Mallet to minimizes damage of hammered surface
 FINISH THE JOB: Automobiles, construction, and other delicate or metal surfaces you want to prevent from marring and sparking; Works as a bumping hammer for heavy gauge truck fenders and panels and also works to straighten reinforcements and braces
@@ -6494,7 +6494,7 @@ Colour Orange
 Material Abs & steel
 Batteries Required? No
 Item Weight 3.4 kg
-",metal,orange,3.4kg,other,76.2,22.86,10.16
+",metal,orange,3.4kg,other,76.2,22.86,10.16,handle
 "Estwing E6-48E Engineer's Hammer, 48-Ounce
 Solid steel polished head
 16-inch length
@@ -6521,7 +6521,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.36 kg
-",metal,other,1.36kg,48oz,40.64,12.85,3.96
+",metal,other,1.36kg,48oz,40.64,12.85,3.96,other
 "Rolson 10409 3 lb Solid Forged Club Hammer
 1.36kg Solid forged one piece club hammer
 Fully polished
@@ -6546,7 +6546,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.36 kg
-",other,other,1.36kg,other,3,9.5,27
+",other,other,1.36kg,other,3,9.5,27,other
 "Roughneck 65610 Club Hammer 4lb F/glass Handle
 
 Club Hammer Fibreglass Handle 1.8kg (4lb)
@@ -6577,7 +6577,7 @@ Included Components 1 x Club Hammer Fibreglass Handle 1.8 kg (4 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",plastic,other,1kg,other,25.5,11.6,5
+",plastic,other,1kg,other,25.5,11.6,5,handle
 "FatMax® Hi Velocity Framing Hammer 340g (12oz)
 Manufacturer Stanley
 Part Number XTHT1-51148
@@ -6592,7 +6592,7 @@ Item Weight 340.19 Grams
 Manufacturer reference XTHT1-51148
 Item Package Quantity 1
 Item Weight 340 g
-",other,other,340g,12oz,other,other,other
+",other,other,340g,12oz,other,other,other,other
 "Thor 14 Rawhide Hammer Size 3
 Two cylindrical faces of genuine compressed buffalo rawhide
 Wooden handle
@@ -6623,7 +6623,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 558 g
-",metal,other,558g,other,12.7,5.99,30.51
+",metal,other,558g,other,12.7,5.99,30.51,handle
 "Stubai 275501 Slater's Hammer Right 350 mm, Brown/Silver
 Design: right
 With a leather handle
@@ -6650,7 +6650,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 640 g
-",metal,brown,640g,other,27,11.99,11.99
+",metal,brown,640g,other,27,11.99,11.99,handle
 "Estwing E3-22SR Framing Hammer, Smooth Face, 22-Ounce, 13.5-Inch, Vinyl Shock Reduction Grip
 Shock reduction grip
 Reduces shock up to 70 percent
@@ -6679,7 +6679,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 885 g
-",other,other,885g,22oz,34.04,13.97,3.18
+",other,other,885g,22oz,34.04,13.97,3.18,other
 "T TOPBUILT 16oz Curved Claw Hammer， Forged Steel and Fiberglass Shock Resistant Non Slip Handle 65025
 ▲Durability : This claw hammer comes with forged steel head for superior strength and durability,providing you a good hammering experience.
 ▲Ergonomic Handle : Patent fiberglass handle provides a comfortable grip prevent slippage and dampens strike vibration, reducing stress on your body.In addition to this,added durability by using a permanent head-to-handle epoxy bond that will not loosen over time and use.
@@ -6702,7 +6702,7 @@ Package Dimensions 34 x 13.1 x 3.1 cm; 720 Grams
 Material Forged
 Batteries Required? No
 Item Weight 720 g
-",metal,other,720g,16oz,34,13.1,3.1
+",metal,other,720g,16oz,34,13.1,3.1,handle
 "Roughneck 65631 Sledge Hammer 8lb F/glass Handle
 
 Sledge Hammer Fibreglass Handle 3.6kg (8lb)
@@ -6735,7 +6735,7 @@ Included Components 1 x Sledge Hammer Fibreglass Handle 3.6 kg (8 lb)
 Batteries included? No
 Batteries Required? No
 Item Weight 2.38 kg
-",plastic,other,2.38kg,other,90,15.7,5.7
+",plastic,other,2.38kg,other,90,15.7,5.7,handle
 "Fiskars 750220-1001 IsoCore General Use Hammer, 13.5""
 Ideal for driving nails during a wide variety of common tasks on the job site or around the house
 Patented IsoCore Shock Control System absorbs strike shock and vibration to reduce the punishment your body takes, transferring 4X less shock and vibration than wood handles
@@ -6768,7 +6768,7 @@ Included Components Hammer
 Batteries included? No
 Batteries Required? No
 Item Weight 907 g
-",other,other,907g,other,3.81,13.97,34.29
+",other,other,907g,other,3.81,13.97,34.29,handle
 "BELLOTA 8030 CI CF Shuttering Hammer with Magnet CF
 Top quality forged steel head with hardened and uniform hardness in the contact areas
 3 + Treatment; it doesn't break, get deformed or
@@ -6799,7 +6799,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 100 g
-",metal,other,100g,other,17.2,30,50
+",metal,other,100g,other,17.2,30,50,handle
 "Vaughan R24 Curved Claw Smooth Face Nail Hammer
 Material: metal
 Slip - resistant grip
@@ -6826,7 +6826,7 @@ Included Components 1 x R24 Curved Claw Nail Hammer All Steel Smooth Face 680 g 
 Batteries included? No
 Batteries Required? No
 Item Weight 934 g
-",metal,other,934g,24oz,35.6,13.8,3.6
+",metal,other,934g,24oz,35.6,13.8,3.6,other
 "Zerone Claw Hammer 770g / 28oz Outdoor Camping Metal Hammer Claw Hold & Strike Hammer Handle
 【Labor-saving usage】---The diameter of hammer's face is bigger than normal hammers and provides larger action area for easy and labor-saving usage.
 【Comfortable and anti-slip】---Soft rubber covered handle, offers a nice feel of holding, comfortable and anti-slip.It is also very light and very practical to pick up.
@@ -6849,7 +6849,7 @@ Brand Zerone
 Manufacturer Zerone
 Manufacturer reference Zerone69uvwfcra7
 ASIN B07Q1GW3BW
-",metal,other,770g,28oz,other,other,other
+",metal,other,770g,28oz,other,other,other,handle
 "Fiskars Sledge Hammer XXL, 5 kg, With Shock Protection, Carbon Steel Head/Three-material Handle with Fibreglass Core, Black/Orange, 1001618
 Sledge hammer with shock protection and with rounded corners for splitting wood, knocking and demolishing or driving stakes into the ground, Also suitable for small demolition work
 Reduced chip risk due to rounded edges and corners
@@ -6884,7 +6884,7 @@ Seasons Spring
 Manufacturer Fiskars
 Item model number 1001618
 ASIN B002W8SVOK
-",plastic,black,5kg,other,90,16.5,7
+",plastic,black,5kg,other,90,16.5,7,handle
 "MILWAUKEE ELEC TOOL 48-22-9016 Framing Hmr Mil Fac 17oz
 Material Other
 Brand MILWAUKEE'S
@@ -6923,7 +6923,7 @@ Included Components Multitools
 Batteries included? No
 Batteries Required? No
 Item Weight 898 g
-",other,other,898g,17oz,40.6,14.5,3.8
+",other,other,898g,17oz,40.6,14.5,3.8,handle
 "BOSTITCH Flooring Mallet, 59-Ounce (HFM-4)
 Beveled face to set boards and protect wear layer
 Soft replaceable face to protect flooring and tool
@@ -6947,7 +6947,7 @@ Product Dimensions	40.89 x 13.97 x 6.86 cm; 1.7 Kilograms
 Item model number	HFM-4
 Item Package Quantity	1
 Batteries Required?	No
-Item Weight	1.7 kg",other,other,1.7kg,59oz,40.89,13.97,6.86
+Item Weight	1.7 kg",other,other,1.7kg,59oz,40.89,13.97,6.86,handle
 "Blackspur HM171 Tubular Steel Claw Hammer
 Claw hammer has a drop forged polish head
 Tubular steel shaft
@@ -6975,7 +6975,7 @@ Size	16oz
 Item Package Quantity	1
 Batteries included?	No
 Batteries Required?	No
-Item Weight	720 g",metal,other,720g,16oz,32,14.4,3
+Item Weight	720 g",metal,other,720g,16oz,32,14.4,3,other
 "Silverline HA37 Fibreglass Lump Hammer, 2 lb
 Forged steel powder-coated head
 Precision-ground striking faces
@@ -7008,7 +7008,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.1 kg
-",metal,other,1.1kg,other,25.5,4,8.5
+",metal,other,1.1kg,other,25.5,4,8.5,handle
 "Estwing MRW23LM Hammer
 GENUINE HICKORY HANDLE ? Designed to fit the grip of the user?s hand ensuring comfort & control
 RIP CLAW VERSATILITY ? Use for pulling nails, prying boards, demolition work, splitting wood & more
@@ -7036,7 +7036,7 @@ Style	Milled Face
 Item Package Quantity	1
 Included Components	Item
 Batteries Required?	No
-Item Weight	930 g",other,other,930g,other,43.18,10.16,5.08
+Item Weight	930 g",other,other,930g,other,43.18,10.16,5.08,handle
 "C.S. Osborne 6oz Nylon Tip Magnetic Hammer #36 Upholstery
 C S Osborne #36 - 6oz Nylon Tip Magnetic Hammer Nylon tipped, one end with a permanent magnet, and the other for hammering.
 A professional grade tool used for hammering on most upholstery projects.
@@ -7073,4 +7073,4 @@ Handle material Laquered Hickory Hard Wood
 Batteries included? No
 Batteries Required? No
 Item Weight 113 g
-",metal,other,113g,other,20.32,17.78,2.54
+",metal,other,113g,other,20.32,17.78,2.54,other

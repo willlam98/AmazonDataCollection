@@ -1,4 +1,4 @@
-﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height
+﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height,Parts
 "Stanley 090947 6in MaxSteel Adjustable Wrench
 Brand STANLEY
 Item dimensions L x W x H 20.1 x 7.9 x 1.6 centimetres
@@ -47,7 +47,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 160 g
-",metal,other,160g,other,20.1,7.9,1.6
+",metal,other,160g,other,20.1,7.9,1.6,handle
 "SHARP-Tec 250 mm Groove Joint Water Pump Pliers, Adjustable Wrench Plumbing Tools, Tongue-and-Groove Pliers, 90mm Jaw Capacity Pipe Spanner
 7 Adjustment Positions Groove Joint Plier: Length: 250mm Jaw: 60mm Size:4.5 * 7.3 * 2.6 (cm)
 Tough and Durable: Forge from titanium steel for hardness and toughness. Blackening treatment body for rust-proofing and wear-resistance. Grip is safe, comfortable and non-slip.
@@ -78,7 +78,7 @@ Handle material Vinyl
 Batteries included? No
 Batteries Required? No
 Item Weight 430 g
-",metal,other,430g,other,25.65,4.83,2.79
+",metal,other,430g,other,25.65,4.83,2.79,other
 "Stanley 090948 30 x 200mm MaxSteel Adjustable Wrench
 Brand STANLEY
 Item dimensions L x W x H 8.7 x 1.3 x 24.5 centimetres
@@ -111,7 +111,7 @@ Model Number 0-90-948
 Product Dimensions 8.71 x 1.3 x 24.51 cm; 281 Grams
 Material Alloy Steel
 Item Weight 281 g
-",metal,other,281g,other,8.7,1.3,24.5
+",metal,other,281g,other,8.7,1.3,24.5,handle
 "kuou Adjustable Wrenches 6-68mm Wide Jaw Wrench Bathroom Wrench Aluminum Alloy Hand Tools for Tightening or Loosening Nuts and Bolts
 Brand Kuou
 Material Aluminium
@@ -148,7 +148,7 @@ Material Aluminium
 Head Style Fixed Square
 Batteries Required? No
 Item Weight 380 g
-",metal,other,380g,other,27,12,1.8
+",metal,other,380g,other,27,12,1.8,handle
 "Yumi V Wrench Adjustable, 6-68mm Large Opening Wide Jaw Aluminum Alloy Wrench with Short Handle Ultra-Thin Shifting Spanner Tap Plumbing Basin Wrench Hand Repair Tools for Bathroom Washbasin Tube
 Brand Yumi V
 Material Aluminium
@@ -191,7 +191,7 @@ Head Style Flat
 Batteries included? No
 Batteries Required? No
 Item Weight 220 g
-",metal,other,220g,other,26.5,11.5,2
+",metal,other,220g,other,26.5,11.5,2,handle
 "Bahco 9031 Adjustable Wrench, 200mm Length
 Brand Bahco
 Item dimensions L x W x H 34 x 20.8 x 2.2 centimetres
@@ -246,7 +246,7 @@ Included Components 1 x BAH9031
 Batteries included? No
 Batteries Required? No
 Item Weight 345 g
-",metal,other,345g,other,34,20.8,2.2
+",metal,other,345g,other,34,20.8,2.2,other
 "Stanley MaxSteel Adjustable Wrench 250mm STA090949
 Brand STANLEY
 Item dimensions L x W x H 9.5 x 1.5 x 29.5 centimetres
@@ -293,7 +293,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 444 g
-",metal,other,444g,other,9.5,1.5,29.5
+",metal,other,444g,other,9.5,1.5,29.5,handle
 "Draper Redline 67589 150 mm Soft Grip Adjustable Wrench
 Brand Draper
 Item dimensions L x W x H 21.6 x 7.1 x 1.8 centimetres
@@ -338,7 +338,7 @@ Included Components Draper 150mm Soft Grip Adjustable Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 140 g
-",metal,red,140g,other,21.6,7.1,1.8
+",metal,red,140g,other,21.6,7.1,1.8,handle
 "Amazon Basics 3/8-Inch Drive Click Torque Wrench - 20.4-108.5 Nm
 Brand Amazon Basics
 Item dimensions L x W x H 40 x 8.9 x 6 centimetres
@@ -385,7 +385,7 @@ Item Package Quantity 1
 Head Style Fixed Square
 Batteries Required? No
 Item Weight 1.11 kg
-",metal,other,1.11kg,other,40,8.9,6
+",metal,other,1.11kg,other,40,8.9,6,other
 "Multi-Function Magic Wrench Universal Adjustable auto-ratcheting Works as Reversible Ratchet pop Socket Combination & Pipe Monkey Spanner SAE Crescent nut Gear-Wrench Set for Craftsman & Plumbers
 Brand MAGIC WRENCH
 Material Brass, Carbon Steel, Plastic, Iron, Aluminium
@@ -434,7 +434,7 @@ Number of handles 1
 Batteries included? No
 Batteries Required? No
 Item Weight 700 g
-",metal,sliver,700g,other,31.2,7.5,3.7
+",metal,sliver,700g,other,31.2,7.5,3.7,handle
 "WORKPRO Wide Mouth Adjustable Wrench and Pipe Wrench 2-in-1, 42mm Extra Large Jaw Capacity, with Bi-Material Soft Grip
 Brand WORKPRO
 Item dimensions L x W x H 20 x 7 x 2 centimetres
@@ -477,7 +477,7 @@ Head Style Round
 Batteries included? No
 Batteries Required? No
 Item Weight 290 g
-",metal,other,290g,other,20,7,2
+",metal,other,290g,other,20,7,2,handle
 "12inch Adjustable Wrench Spanner Length 213 mm and 28 mm Jaw (12"")
 🔧 JAW CAPACITY - 0 - 40mm, Handle length: 200mm
 🔧 MATERIAL: Strong Aluminium Wrench
@@ -494,7 +494,7 @@ Material Aluminium
 🔧 Suitable for plumbing, tube nut disassembly or gas industry etc.
 ","Manufacturer Rich Taste
 Material Aluminium
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,handle
 "ACDelco ARM607-4 1/2"" Digital Torque Wrench (13 - 134 Nm) with Buzzer, Vibration, Flash Notification & Case (ISO 6789 Standard)
 EASY TO USE – Our lightweight, professional (13 to 134 Nm) torque digital torque wrench is engineered with high-quality materials that displays real-time torque values in ft-lbs. and Nm. Excellent tool for tiny, tight, and narrow working environment, but also reliable torque values that is ideal for professionals, automotive, motor bikes, and many other industrial uses.
 SUPERIOR QUALITY – ACDelco is long known for its stellar quality and this tool is no different. It offers speed, accuracy, and an easy to read LCD screen that beeps when a desired torque value is achieved. Our digital torque wrench is also highly efficient, with longer lifespan and industrial grade alloy metal engineered to last years or even decades to come with proper uses.
@@ -521,7 +521,7 @@ Material Metal
 Batteries included? No
 Batteries Required? Yes
 Item Weight 1.79 kg
-",metal,other,1.79kg,other,57.6,12.4,7.4
+",metal,other,1.79kg,other,57.6,12.4,7.4,handle
 "Wera Click Torque C 3 Adjustable Torque Wrench, 1/2"" Square Drive, 40 - 200 Nm, 05075622001
 Brand Wera
 Item dimensions L x W x H 53.5 x 6 x 6 centimetres
@@ -584,7 +584,7 @@ Included Components Click-Torque C 3 torque wrench with reversible ratchet, 1/2 
 Batteries included? No
 Batteries Required? No
 Item Weight 1.46 kg
-",other,black,1.46kg,other,53.5,6,6
+",other,black,1.46kg,other,53.5,6,6,handle
 "SOS Tools S1001-1/4"" Inch Square Drive Torque Wrench Micrometer 2-24Nm/18-212in./lb. Calibration Certificate Ideal for Carbon Bikes, Professional Mechanics
 Brand SOS Tools
 Item dimensions L x W x H 30.8 x 6 x 7.8 centimetres
@@ -627,7 +627,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 744 g
-",metal,silver,744g,other,30.8,6,7.8
+",metal,silver,744g,other,30.8,6,7.8,handle
 "HAUTMEC Basin Wrench Capacity of 10mm to 32mm, 250mm(10in) Reach PL0024
 Brand HAUTMEC
 Item dimensions L x W x H 30 x 11.5 x 1.4 centimetres
@@ -670,7 +670,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 485 g
-",metal,other,485g,other,30,11.5,1.4
+",metal,other,485g,other,30,11.5,1.4,handle
 "Silverline 633567 Torque Wrench 1/2 inch Drive 28-210 Nm
 Chrome vanadium steel torque wrench with torque range of 28-210 Nm
 Includes storage case
@@ -709,7 +709,7 @@ Included Components Silverline 633567 Torque Wrench 0.5 inch Drive 28-210 Nm
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",metal,silver,1kg,other,8.3,6.8,49.8
+",metal,silver,1kg,other,8.3,6.8,49.8,other
 "1/4"" Torque Wrench 5-25 Nm High Precision Bike Maintenance kit, 1/4 Inch Drive Repair Spanner Key with Double Scale, Two-Way Ratchet, with Wrench Socket Bit, Extension Bar, Storage Box
 【Widely Use】Handife 1/4 inch torque wrench is a very useful and precise hand tool. It is often used for bicycles and motorcycles maintenance. This device measures and helps to control the tightening torque of a bolt.
 【±4% High Precision】Each torque wrench has been fully calibrated and tested and meets the requirements of ISO6789 and ASME B107.14M. Each product has a separate calibration certificate.
@@ -744,7 +744,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.26 kg
-",metal,other,1.26kg,other,31,14.5,6
+",metal,other,1.26kg,other,31,14.5,6,other
 "Draper 78642 BTW 1/2"" Square Drive Torque Wrench 30-210Nm
 
 Easy to use torque wrench essential for precision work, this universal, easy to use torque wrench is ideal for many everyday applications.
@@ -783,7 +783,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.62 kg
-",metal,other,1.62kg,other,48.5,6.6,5.6
+",metal,other,1.62kg,other,48.5,6.6,5.6,other
 "Tolsen Industrial Adjustable Wrench (12"")
 Brand Tolsen Tools
 Item dimensions L x W x H 30.5 x 8 x 2.5 centimetres
@@ -822,7 +822,7 @@ Material Alloy Steel
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 760 g
-",metal,other,760g,other,30.5,8,2.5
+",metal,other,760g,other,30.5,8,2.5,other
 "Draper 78641 BTW 3/8"" Square Drive Torque Wrench 20-110Nm
 Brand Draper
 Item dimensions L x W x H 41.6 x 5.4 x 5.6 centimetres
@@ -861,7 +861,7 @@ Item model number 78641
 Manufacturer Part Number 78641
 Lift type Mechanical
 Item Weight 1.05 kg
-",metal,other,1.05kg,other,41.6,5.4,5.6
+",metal,other,1.05kg,other,41.6,5.4,5.6,other
 "Bahco 361-14 14-inch Stillson Type Pipe Wrench
 Brand Bahco
 Item dimensions L x W x H 10 x 10 x 40 centimetres
@@ -914,7 +914,7 @@ Included Components 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.09 kg
-",metal,other,1.09kg,other,10,10,40
+",metal,other,1.09kg,other,10,10,40,other
 "Teng 3892ag-E1 Torque Wrench Angular Gauge 5-25nm 3/8in Square Drive
 Brand Teng
 Item dimensions L x W x H 99.6 x 19.6 x 13.7 centimetres
@@ -953,7 +953,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 800 g
-",other,other,800g,other,99.6,19.6,13.7
+",other,other,800g,other,99.6,19.6,13.7,lock
 "MAXPOWER 14-Inch Heavy Duty Aluminum Straight Pipe Wrench 14-Inch/350mm Plumbing Wrench Pipe Spanner Stillson
 Brand MAXPOWER
 Material Aluminium
@@ -996,7 +996,7 @@ Head Style C Shaped
 Batteries included? No
 Batteries Required? No
 Item Weight 900 g
-",metal,other,900g,other,33,8.6,3.7
+",metal,other,900g,other,33,8.6,3.7,handle
 "Sealey AK623B Micrometer Torque Wrench 3/8"" Square Drive Calibrated Black Series
 Brand Sealey
 Item dimensions L x W x H 10 x 10 x 10 centimetres
@@ -1039,7 +1039,7 @@ OEM Part Number NAK623B
 Cover Included Sealey AK623B Micrometre Torque Wrench 3/8"" Square Drive Calibrated Black Series
 Lift type Mechanical
 Item Weight 1.06 kg
-",metal,other,1.06kg,other,10,10,10
+",metal,other,1.06kg,other,10,10,10,other
 "Teng 3892ag-E3 Torque Wrench 20-110nm 3/8 Square Drive
 Flip reverse ratchet action. Manufactured to conform to BS 6703/88
 Unique angular gauge, for use after tightening stretch bolts
@@ -1078,7 +1078,7 @@ Included Components 1
 Batteries included? No
 Batteries Required? No
 Item Weight 580 g
-",other,other,580g,other,50.2,43.6,27.2
+",other,other,580g,other,50.2,43.6,27.2,other
 "Draper 34570 Ratchet Drive Torq Wrench, 3/8"" Square Drive, 10Nm-80Nm
 Brand Draper
 Item dimensions L x W x H 45 x 24.6 x 6.2 centimetres
@@ -1121,7 +1121,7 @@ Item model number 34570
 Manufacturer Part Number 34570
 Lift type Mechanical
 Item Weight 821 g
-",other,other,821g,other,45,24.6,6.2
+",other,other,821g,other,45,24.6,6.2,other
 "Draper 64534 Square Drive Ratchet Torque Wrench 3/8 Inch
 Brand Draper
 Item dimensions L x W x H 30.6 x 5.4 x 5.2 centimetres
@@ -1170,7 +1170,7 @@ Included Components Draper 3/8"" Square Drive 10 - 80Nm or 88.5-708 in-lb Ratche
 Batteries included? No
 Batteries Required? No
 Item Weight 890 g
-",other,blue,890g,other,30.6,5.4,5.2
+",other,blue,890g,other,30.6,5.4,5.2,other
 "Wera Click Torque A 5 Adjustable Torque Wrench, 1/4"" Square Drive, 2.5 - 25 Nm, 05075604001
 Brand Wera
 Item dimensions L x W x H 32.5 x 5 x 5 centimetres
@@ -1229,7 +1229,7 @@ Included Components Click-Torque A 5 torque wrench with reversible ratchet, 1/4 
 Batteries included? No
 Batteries Required? No
 Item Weight 11 g
-",other,black,11g,other,32.5,5,5
+",other,black,11g,other,32.5,5,5,handle
 "Wera Click Torque B 1 Adjustable Torque Wrench, 3/8"" Square Drive, 10 - 50 Nm, 05075610001
 With 3/8"" square drive, reversible ratchet, 45 teeth
 Easy setting and saving of the desired torque value with audible and tactile clicks when reaching the scale values
@@ -1278,7 +1278,7 @@ Included Components Click-Torque B 1 torque wrench with reversible ratchet, 3/8 
 Batteries included? No
 Batteries Required? No
 Item Weight 11 g
-",other,black,11g,other,39.5,6,6
+",other,black,11g,other,39.5,6,6,handle
 "ACDelco ARM601-3 3/8” Digital Torque Wrench (5 - 50 Nm) with Buzzer and LED Flash Notification – ISO 6789 Standards with Certificate of Calibration
 Brand ACDelco
 Material Metal
@@ -1311,7 +1311,7 @@ Material Metal
 Batteries included? No
 Batteries Required? Yes
 Item Weight 1.22 kg
-",metal,other,1.22kg,other,47.7,12.6,7.2
+",metal,other,1.22kg,other,47.7,12.6,7.2,handle;led
 "Kraftmann 9576 | Torque Wrench | 20 mm (3/4"") | 140 - 980 Nm
 Brand Kraftmann
 Item dimensions L x W x H 83 x 8 x 3 centimetres
@@ -1358,7 +1358,7 @@ Included Components Torque Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 5.01 kg
-",other,other,5.01kg,other,83,8,3
+",other,other,5.01kg,other,83,8,3,lock
 "Wera Click Torque C 2 Adjustable Torque Wrench, 1/2"" Square Drive, 20 - 100 Nm, 05075621001
 Brand Wera
 Item dimensions L x W x H 46 x 6 x 6 centimetres
@@ -1417,7 +1417,7 @@ Included Components Click-Torque C 2 torque wrench with reversible ratchet, 1/2 
 Batteries included? No
 Batteries Required? No
 Item Weight 1.24 kg
-",other,black,1.24kg,other,46,6,6
+",other,black,1.24kg,other,46,6,6,handle
 "OX OX-P324606 PRO Series Adjustable Wrench, Extra Wide Jaw - Adjustable Plumbing Spanner with Dua Grip Soft Grip Handle - Multifunctional tool - 6 inch
 Brand OX Tools
 Item dimensions L x W x H 30 x 75 x 240 millimetres
@@ -1472,7 +1472,7 @@ Included Components 1 x OX Pro Series Adjustable Wrench Extra Wide Jaw 6” (150
 Batteries included? No
 Batteries Required? No
 Item Weight 170 g
-",other,other,170g,other,3,7.5,24
+",other,other,170g,other,3,7.5,24,handle
 "Sealey STW309 1/2""Sq Drive Flexi-Head Digital Torque Wrench with Angle Function 20-200Nm
 
 Rugged and resilient digital torque wrench suitable for workshop and factory use.
@@ -1517,7 +1517,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 2.44 kg
-",metal,other,2.44kg,other,10.8,67.2,9.2
+",metal,other,2.44kg,other,10.8,67.2,9.2,led
 "OX Tools OX-P560507 Pro Series Adjustable Stubby Wrench Extra Wide Jaw 7” (180mm), Slim
 Brand OX Tools
 Item dimensions L x W x H 20 x 120 x 226 millimetres
@@ -1564,7 +1564,7 @@ Included Components Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 450 g
-",metal,other,450g,other,2,12,22.6
+",metal,other,450g,other,2,12,22.6,handle
 "Park Tool TW-6.2 Ratcheting Torque Wrench 10-60Nm Drive Tool 3/8-Inch
 Brand Park Tool
 Item dimensions L x W x H 37.5 x 7 x 5.1 centimetres
@@ -1625,7 +1625,7 @@ Manufacturer Park Tool
 Item model number QKTW62
 Product Dimensions 37.47 x 6.99 x 5.08 cm; 997.9 Grams
 ASIN B01N0XWS64
-",metal,other,997.9g,other,37.5,7,5.1
+",metal,other,997.9g,other,37.5,7,5.1,other
 "Teng 1292AGEP 40-210nm 1/2-inch Torque Wrench Drive
 Brand Teng
 Item dimensions L x W x H 54.8 x 9 x 7 centimetres
@@ -1670,7 +1670,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.88 kg
-",plastic,other,1.88kg,other,54.8,9,7
+",plastic,other,1.88kg,other,54.8,9,7,handle
 "Professional 3/8"""" Drive Torque Wrench 5-25 Nm Metric Ratchet
 Brand Toolzone
 Material Plastic
@@ -1703,7 +1703,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 740 g
-",plastic,other,740g,other,31.6,8,5.8
+",plastic,other,740g,other,31.6,8,5.8,other
 "Norbar 130104 Model 200 Torque Wrench Dual Scale Push Through Ratchet, Black, 1/2-Inch Drive
 Brand Norbar
 Item dimensions L x W x H 51 x 9 x 9 centimetres
@@ -1754,7 +1754,7 @@ Included Components 1 x Norbar Torque Wrench, Calibration Certificate, Case
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",other,black,1kg,other,51,9,9
+",other,black,1kg,other,51,9,9,lock
 "Bahco 9031T 9031T Slim Jaw Adjustable Wrench 8-inch
 Brand Bahco
 Item dimensions L x W x H 6.9 x 1.5 x 26.3 centimetres
@@ -1807,7 +1807,7 @@ Included Components 1
 Batteries included? No
 Batteries Required? No
 Item Weight 68 g
-",other,silver,68g,other,6.9,1.5,26.3
+",other,silver,68g,other,6.9,1.5,26.3,handle
 "Wera Click Torque C 4 Adjustable Torque Wrench, 1/2"" Square Drive, 60 - 300 Nm, 05075623001
 Brand Wera
 Item dimensions L x W x H 62 x 6 x 6 centimetres
@@ -1866,7 +1866,7 @@ Included Components Click-Torque C 4 torque wrench with reversible ratchet, 1/2 
 Batteries included? No
 Batteries Required? No
 Item Weight 1.66 kg
-",other,black,1.66kg,other,62,6,6
+",other,black,1.66kg,other,62,6,6,handle
 "Teng 3492age Torque Wrench Angular Gauge 80-400nm 3/4in Square Drive
 Brand Teng
 Item dimensions L x W x H 131 x 17 x 13.5 centimetres
@@ -1891,7 +1891,7 @@ Item dimensions L x W x H 131 x 17 x 13.5 centimetres
 Material Rubber
 Head style Fixed Square
 Weight 3.84 Kilograms
-",plastic,other,3.84kg,other,131,17,13.5
+",plastic,other,3.84kg,other,131,17,13.5,handle;lock
 "Teng 1492AGE 5-25nm 1/4-inch Torque Wrench Drive
 Brand Teng
 Item dimensions L x W x H 5.5 x 7.5 x 40 centimetres
@@ -1938,7 +1938,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 797 g
-",plastic,other,797g,other,5.5,7.5,40
+",plastic,other,797g,other,5.5,7.5,40,handle;lock
 "Park Tool TW-5 Torque Wrench
 Brand Park Tool
 Item dimensions L x W x H 5.1 x 5.1 x 25.4 centimetres
@@ -1999,7 +1999,7 @@ Manufacturer Park Tool
 Item model number 154242
 Product Dimensions 5.08 x 5.08 x 25.4 cm; 358.34 Grams
 ASIN B0029LKYOU
-",other,blue,358.34g,other,5.1,5.1,25.4
+",other,blue,358.34g,other,5.1,5.1,25.4,other
 "Norbar 13841 TTI 50 Torque Wrench 3/8in Sq Drive 10-50 Nm 8-35 lbf.ft, Multi-Colour
 Brand Norbar
 Item dimensions L x W x H 38 x 10 x 10 centimetres
@@ -2048,7 +2048,7 @@ Included Components 1 x Norbar Torque Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 599 g
-",other,other,599g,other,38,10,10
+",other,other,599g,other,38,10,10,handle
 "Blue Spot 06102 6 Inch Adjustable Wrench
 Brand Blue Spot Tools
 Item dimensions L x W x H 30 x 78 x 198 millimetres
@@ -2103,7 +2103,7 @@ Grit Description Not_applicable
 Batteries included? No
 Batteries Required? No
 Item Weight 141 g
-",metal,other,141g,other,3,7.8,19.81
+",metal,other,141g,other,3,7.8,19.81,other
 "Faithfull FAIBWADJL Basin Wrench - Adjustable 25 - 50 mm Capacity
 Brand Faithfull
 Item dimensions L x W x H 6 x 15 x 29 centimetres
@@ -2146,7 +2146,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 299 g
-",metal,other,299g,other,6,15,29
+",metal,other,299g,other,6,15,29,other
 "Beslands 3/8 inch Digital Torque Wrench, (1.8 to 60 Nm) (18.35-611.82 kgf.cm) Accurate of Clockwise ±2% / Counterclockwise ± 2.5% LED and Buzzer Calibrated (3/8-Inch Drive)
 Brand Beslands
 Material Stainless Steel
@@ -2191,7 +2191,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? Yes
 Item Weight 820 g
-",metal,other,820g,other,34.2,8.6,6.1
+",metal,other,820g,other,34.2,8.6,6.1,led
 "NorTorque®300 Adjustable Dual Scale Ratchet Torque Wrench 1/2in Drive
 Brand Norbar
 Item dimensions L x W x H 8.2 x 72.7 x 7.1 centimetres
@@ -2228,7 +2228,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.4 kg
-",other,other,1.4kg,other,8.2,72.7,7.1
+",other,other,1.4kg,other,8.2,72.7,7.1,other
 "RIDGID 31105 Model 824 Aluminium Straight Pipe Wrench, 24-inch Plumbing Wrench
 Brand RIDGID
 Item dimensions L x W x H 55.9 x 10.9 x 4.6 centimetres
@@ -2251,7 +2251,7 @@ Item dimensions L x W x H 55.9 x 10.9 x 4.6 centimetres
 Material Aluminium, Plastic
 Head style C Shaped
 Weight 0.5 Kilograms
-",metal,other,0.5kg,other,55.9,10.9,4.6
+",metal,other,0.5kg,other,55.9,10.9,4.6,handle
 "Bahco 87 MP-6691 Adjustable Wrench 30In
 Brand Bahco
 Item dimensions L x W x H 79 x 17.6 x 3.7 centimetres
@@ -2290,7 +2290,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 290 g
-",metal,other,290g,other,79,17.6,3.7
+",metal,other,290g,other,79,17.6,3.7,other
 "Draper 30357 Micrometer Reversible Ratchet Torque Wrench, 1/2"" Square Drive, 30Nm-210Nm
 Brand Draper
 Item dimensions L x W x H 48.8 x 8 x 6.4 centimetres
@@ -2337,7 +2337,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.66 kg
-",other,blue,1.66kg,other,48.8,8,6.4
+",other,blue,1.66kg,other,48.8,8,6.4,other
 "Hazet 5108-3CT Torque Wrench 1/4"" 2.5-25Nm
 Brand Hazet
 Material Plastic
@@ -2382,7 +2382,7 @@ Head Style Fixed Square
 Included Components Torque wrench, calibration certificate
 Batteries Required? No
 Item Weight 380 g
-",plastic,other,380g,other,25.2,4,4
+",plastic,other,380g,other,25.2,4,4,handle;lock
 "Wera Click Torque A 6 Adjustable Torque Wrench, 1/4"" Hex Drive, 2.5 - 25 Nm, 05075605001
 With ¼"" hex drive, reversible ratchet, 45 teeth
 Easy setting and saving of the desired torque value with audible and tactile clicks when reaching the scale values
@@ -2431,7 +2431,7 @@ Included Components Click-Torque A 6 torque wrench with reversible ratchet, 1/4 
 Batteries included? No
 Batteries Required? No
 Item Weight 11 g
-",other,black,11g,other,32,5,5
+",other,black,11g,other,32,5,5,handle
 "Teng 1292AGE4R 1292AG-ER4 70-350nm 1/2-inch Torque Wrench Drive
 Brand Teng
 Item dimensions L x W x H 63.2 x 47.1 x 37.1 centimetres
@@ -2474,7 +2474,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 2.9 kg
-",plastic,other,2.9kg,other,63.2,47.1,37.1
+",plastic,other,2.9kg,other,63.2,47.1,37.1,handle
 "OX Adjustable Basin Wrench - Pro Telescopic Basin Spanner for Fixing Back and Union Nuts Under Sink - Heavy Duty Wrench - Silver - 10-32 mm
 Brand OX Tools
 Item dimensions L x W x H 20 x 150 x 280 millimetres
@@ -2525,7 +2525,7 @@ Included Components 1 x OX Pro Adjustable Basin Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 800 g
-",other,silver,800g,other,2,15,28
+",other,silver,800g,other,2,15,28,other
 "Norbar 15012 10 - 50 Nm 3/8-Inch Pro 50 Adjustable Reversible Automotive Drive Torque Wrench - Black/red
 Brand Norbar
 Item dimensions L x W x H 8 x 38 x 7 centimetres
@@ -2568,7 +2568,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 990 g
-",other,black,990g,other,8,38,7
+",other,black,990g,other,8,38,7,handle;lock
 "Norbar 3/4-inch Torque Wrench with Adjustable Ratchet
 Brand Norbar
 Item dimensions L x W x H 162.5 x 22.5 x 10 centimetres
@@ -2613,7 +2613,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 8.3 kg
-",other,other,8.3kg,other,162.5,22.5,10
+",other,other,8.3kg,other,162.5,22.5,10,other
 "Norbar TTi20 TTI 20 Torque Wrench
 Proven reliable Norbar technology
 Lightweight construction at just 0.4 kgs
@@ -2640,7 +2640,7 @@ Number Of Pieces 1
 Head Style Fixed Square
 Batteries Required? No
 Item Weight 400 g
-",other,other,400g,other,24.5,5,5
+",other,other,400g,other,24.5,5,5,other
 "Sealey STW306 Digital Angle Torque Wrench, 1/2"" Sq Drive, 20NM-200NM
 Brand Sealey
 Item dimensions L x W x H 8.9 x 11.5 x 67.2 centimetres
@@ -2697,7 +2697,7 @@ Included Components Torque Wrench
 Batteries included? No
 Batteries Required? Yes
 Item Weight 2.48 kg
-",metal,other,2.48kg,other,8.9,11.5,67.2
+",metal,other,2.48kg,other,8.9,11.5,67.2,other
 "Bahco 9033 Extra Wide Jaw Adjustable Wrench, 270mm Length
 Brand Bahco
 Item dimensions L x W x H 8.7 x 1.8 x 27.2 centimetres
@@ -2752,7 +2752,7 @@ Included Components 1 x Bahco 9033 Adjustable Wrench 250mm with 46mm Extra Wide 
 Batteries included? No
 Batteries Required? No
 Item Weight 620 g
-",metal,orange,620g,other,8.7,1.8,27.2
+",metal,orange,620g,other,8.7,1.8,27.2,other
 "Norbar Nortorque 60 Torque Wrench
 Brand Norbar
 Item dimensions L x W x H 8.2 x 38 x 7.1 centimetres
@@ -2777,7 +2777,7 @@ Item model number Nortorque 60
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 699 g
-",other,other,699g,other,8.2,38,7.1
+",other,other,699g,other,8.2,38,7.1,other
 "Norbar TTi20 TTI 20 Torque Wrench
 Proven reliable Norbar technology
 Lightweight construction at just 0.4 kgs
@@ -2804,7 +2804,7 @@ Number Of Pieces 1
 Head Style Fixed Square
 Batteries Required? No
 Item Weight 400 g
-",other,other,400g,other,24.5,5,5
+",other,other,400g,other,24.5,5,5,other
 "Sealey STW306 Digital Angle Torque Wrench, 1/2"" Sq Drive, 20NM-200NM
 Brand Sealey
 Item dimensions L x W x H 8.9 x 11.5 x 67.2 centimetres
@@ -2861,7 +2861,7 @@ Included Components Torque Wrench
 Batteries included? No
 Batteries Required? Yes
 Item Weight 2.48 kg
-",metal,other,2.48kg,other,8.9,11.5,67.2
+",metal,other,2.48kg,other,8.9,11.5,67.2,other
 "Bahco 9033 Extra Wide Jaw Adjustable Wrench, 270mm Length
 Brand Bahco
 Item dimensions L x W x H 8.7 x 1.8 x 27.2 centimetres
@@ -2916,7 +2916,7 @@ Included Components 1 x Bahco 9033 Adjustable Wrench 250mm with 46mm Extra Wide 
 Batteries included? No
 Batteries Required? No
 Item Weight 620 g
-",metal,orange,620g,other,8.7,1.8,27.2
+",metal,orange,620g,other,8.7,1.8,27.2,other
 "Norbar Nortorque 60 Torque Wrench
 Brand Norbar
 Item dimensions L x W x H 8.2 x 38 x 7.1 centimetres
@@ -2941,7 +2941,7 @@ Item model number Nortorque 60
 Item Package Quantity 1
 Batteries Required? No
 Item Weight 699 g
-",other,other,699g,other,8.2,38,7.1
+",other,other,699g,other,8.2,38,7.1,other
 "Stahlwille 721/20 Quick Torque Wrench
 Brand Stahlwille
 Item dimensions L x W x H 48 x 410 x 23 millimetres
@@ -2982,7 +2982,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 1.25 kg
-",glass,other,1.25kg,other,4.83,41,2.3
+",glass,other,1.25kg,other,4.83,41,2.3,handle
 "RIDGID 31025 18-inch Heavy-Duty Straight Pipe Wrench, 18-inch Plumbing Wrench
 Brand RIDGID
 Item dimensions L x W x H 40.6 x 9.7 x 4.6 centimetres
@@ -3005,7 +3005,7 @@ Item dimensions L x W x H 40.6 x 9.7 x 4.6 centimetres
 Material Iron
 Head style C Shaped
 Weight 5.7 Pounds
-",metal,other,5.7pounds,other,40.6,9.7,4.6
+",metal,other,5.7pounds,other,40.6,9.7,4.6,handle
 "Wera Click Torque C 1 Adjustable Torque Wrench, 1/2"" Square Drive, 10 - 50 Nm, 05075620001
 Brand Wera
 Item dimensions L x W x H 39.5 x 6 x 6 centimetres
@@ -3064,7 +3064,7 @@ Included Components Click-Torque C 1 torque wrench with reversible ratchet, 1/2 
 Batteries included? No
 Batteries Required? No
 Item Weight 1.06 kg
-",other,black,1.06kg,other,39.5,6,6
+",other,black,1.06kg,other,39.5,6,6,handle
 "RIDGID 31125 Model 18 Aluminium Offset Pipe Wrench, 18-inch Plumbing Wrench
 Brand RIDGID
 Item dimensions L x W x H 47 x 15 x 15 centimetres
@@ -3087,7 +3087,7 @@ Item dimensions L x W x H 47 x 15 x 15 centimetres
 Material Aluminium
 Head style C Shaped
 Weight 3.5 Ounces
-",metal,other,3.5oz,other,47,15,15
+",metal,other,3.5oz,other,47,15,15,handle
 "FIX IT Universal Socket Wrench - 48 in 1 Multifunction Socket Wrenches Tool with 360 Degree Rotating Head, Spanner Tool for Home and Car Repair
 Brand FIX-IT
 Head style Hex
@@ -3130,7 +3130,7 @@ Head Style Hex
 Batteries included? No
 Batteries Required? No
 Item Weight 159 g
-",other,silver,159g,other,26.8,5.4,4.7
+",other,silver,159g,other,26.8,5.4,4.7,other
 "Milwaukee 48 22 7224 48227224 Aluminium Pipe Wrench-24 Inch, Red/Black/Silver
 Brand Milwaukee
 Item dimensions L x W x H 74.4 x 19.1 x 5.3 centimetres
@@ -3181,7 +3181,7 @@ Included Components 1 x Milwaukee Aluminium Pipe Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",metal,red,1kg,other,74.4,19.1,5.3
+",metal,red,1kg,other,74.4,19.1,5.3,handle
 "BRILLIANT TOOLS BT141901 1/2 Inch Torque Wrench with Rotary Knob Reversible Ratchet Head, 20 - 200 Nm [Powered by KS Tools]
 Brand BRILLIANT TOOLS
 Item dimensions L x W x H 49 x 6 x 5 centimetres
@@ -3222,7 +3222,7 @@ Head Style Fixed Square
 Included Components Torque wrench
 Batteries Required? No
 Item Weight 1.34 kg
-",other,black,1.34kg,other,49,6,5
+",other,black,1.34kg,other,49,6,5,knob
 "HAUTMEC Double-Ended 1/2-3/4-inch BSP Basin Wrench PL7261705
 Brand HAUTMEC
 Item dimensions L x W x H 25.8 x 0.8 x 2.2 centimetres
@@ -3261,7 +3261,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 460 g
-",metal,other,460g,other,25.8,0.8,2.2
+",metal,other,460g,other,25.8,0.8,2.2,other
 "ACDelco ARM601-4 1/2"" Digital Torque Wrench with Buzzer (9.9 to 99 ft-lbs.), with Vibration & Flash Notification - ISO 6789 Standards with Certificate of Calibration
 Brand ACDelco Tools
 Item dimensions L x W x H 38 x 38 x 432 millimetres
@@ -3324,7 +3324,7 @@ Batteries included? Yes
 Batteries Required? Yes
 Battery Cell Type Alkaline
 Item Weight 1.76 kg
-",metal,red,1.76kg,other,3.81,3.81,43.18
+",metal,red,1.76kg,other,3.81,3.81,43.18,handle;led
 "RIDGID 31320 C-18 Heavy-Duty Chain Pipe Wrench, 2-1/2-inch Chain Wrench
 Brand RIDGID
 Item dimensions L x W x H 48.5 x 9.4 x 7.6 centimetres
@@ -3347,7 +3347,7 @@ Item dimensions L x W x H 48.5 x 9.4 x 7.6 centimetres
 Material Alloy Steel
 Head style Fixed Square
 Weight 1 Kilograms
-",metal,other,1kg,other,48.5,9.4,7.6
+",metal,other,1kg,other,48.5,9.4,7.6,other
 "RIDGID 31075 Model E-18 Heavy-Duty 18 inch End Pipe Plumbing Wrench
 Brand RIDGID
 Item dimensions L x W x H 40.6 x 10.9 x 4.6 centimetres
@@ -3366,7 +3366,7 @@ Pipe capacity: 2 1/2"" (65 mm), Length: 18"" (450 mm)
 Item dimensions L x W x H 40.6 x 10.9 x 4.6 centimetres
 Head style Fixed Square
 Weight 0.1 Kilograms
-",other,other,0.1kg,other,40.6,10.9,4.6
+",other,other,0.1kg,other,40.6,10.9,4.6,handle
 "Sealey STW907 3/4"" Sq Drive Torque Wrench Micrometer Style 160-800Nm-Calibrated
 Brand Sealey
 Item dimensions L x W x H 114 x 6 x 21 centimetres
@@ -3409,7 +3409,7 @@ Head Style Fixed Square
 Included Components Torque Wrench Micrometer Style 3/4""Sq Drive 160-800Nm - Calibrated
 Batteries Required? No
 Item Weight 8.56 kg
-",metal,other,8.56kg,other,114,6,21
+",metal,other,8.56kg,other,114,6,21,other
 "KNIPEX Torque Wrench with driving square, reversible 1000V-insulated (290 mm) 98 33 25
 Brand KNIPEX
 Item dimensions L x W x H 38.5 x 8.5 x 5.5 centimetres
@@ -3458,7 +3458,7 @@ Included Components 1 x Torque Wrenches
 Batteries included? No
 Batteries Required? No
 Item Weight 600 g
-",other,other,600g,other,38.5,8.5,5.5
+",other,other,600g,other,38.5,8.5,5.5,lock
 "Teng 4006 380mm 15-inch Adjustable Wrench
 Brand Teng
 Item dimensions L x W x H 17 x 100 x 370 millimetres
@@ -3497,7 +3497,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.25 kg
-",metal,other,1.25kg,other,1.7,10.01,36.98
+",metal,other,1.25kg,other,1.7,10.01,36.98,handle
 "NorTorque®340 Adjustable Dual Scale Ratchet Torque Wrench 1/2in Drive
 Brand Norbar
 Item dimensions L x W x H 8.2 x 72.7 x 7.1 centimetres
@@ -3534,14 +3534,14 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.55 kg
-",other,other,1.55kg,other,8.2,72.7,7.1
+",other,other,1.55kg,other,8.2,72.7,7.1,other
 "3/4"" Drive Commercial Quality Torque Wrench 140 - 980Nm CT4615
 Manufacturer ESL
 Head Style Fixed Square
 ","3/4"" Drive Commercial Quality Torque Wrench 140 - 980Nm CT4615
 ","Manufacturer ESL
 Head Style Fixed Square
-",other,other,other,other,other,other,other
+",other,other,other,other,other,other,other,other
 "Norbar 15005 Torque Wrench Pro 300 Adjustable 'Mushroom' Head 1/2in Drive 60-300Nm
 Brand Norbar
 Item dimensions L x W x H 8 x 73.4 x 7 centimetres
@@ -3576,7 +3576,7 @@ Item Package Quantity 1
 Head Style Fixed Square
 Batteries Required? No
 Item Weight 1.96 kg
-",other,other,1.96kg,other,8,73.4,7
+",other,other,1.96kg,other,8,73.4,7,handle;lock
 "RIDGID 31360 Number 5 Aluminium Pipe Strap Wrench, 5-inch Capacity Adjustable Strap Wrench with 29-1/4-inch Strap
 Brand RIDGID
 Item dimensions L x W x H 48.8 x 8.6 x 7.4 centimetres
@@ -3597,7 +3597,7 @@ Item dimensions L x W x H 48.8 x 8.6 x 7.4 centimetres
 Finish type Polished
 Weight 0.1 Kilograms
 Operation mode Mechanical
-",metal,other,0.1kg,other,48.8,8.6,7.4
+",metal,other,0.1kg,other,48.8,8.6,7.4,handle
 "Professional Automatic Torque Wrench 1/2"" Drive 40-200nM Convex Lens Scale HEYNER Germany Torsiomatic
 Brand HEYNER
 Head style Fixed Square
@@ -3634,7 +3634,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 2 kg
-",other,other,2kg,other,55.4,12.6,7.8
+",other,other,2kg,other,55.4,12.6,7.8,other
 "Stahlwille STW730N20 730N 40 - 200 Nm Torque Wrench - Silver
 Brand Stahlwille
 Item dimensions L x W x H 27 x 12 x 12 centimetres
@@ -3683,7 +3683,7 @@ Included Components 1 x Stahlwille 730N Torque Wrench 40-200nm for 14 x 18 Inser
 Batteries included? No
 Batteries Required? No
 Item Weight 400 g
-",plastic,black,400g,other,27,12,12
+",plastic,black,400g,other,27,12,12,lock
 "Bahco 1410 Pipe Wrench 325MM
 Brand Bahco
 Item dimensions L x W x H 28 x 28 x 18 centimetres
@@ -3732,7 +3732,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,other,454g,other,28,28,18
+",metal,other,454g,other,28,28,18,other
 "TEKTON 24340 1/2-Inch Drive Click Torque Wrench (25-250 ft.-lb./33.9-338.9 Nm)
 Brand TEKTON
 Item dimensions L x W x H 66 x 7.6 x 6.4 centimetres
@@ -3799,14 +3799,14 @@ Included Components Storage case, Product manual with torque conversion chart, 1
 Batteries included? No
 Batteries Required? No
 Item Weight 2.45 kg
-",metal,other,2.45kg,other,66,7.6,6.4
+",metal,other,2.45kg,other,66,7.6,6.4,handle
 "Norbar Torque Wrench 60-340Nm 1/2"" 15006
 Manufacturer Norbar
 Head Style Fixed Square
 ","Norbar Torque Wrench 60-340Nm 1/2"" 15006
 ","Manufacturer Norbar
 Head Style Fixed Square
-",other,other,other,other,other,other,other
+",other,other,other,other,other,other,other,other
 "RIDGID 46753 Model 2017 Telescoping Basin Wrench with LED Light, 10-inch to 17-inch Adjustable Basin Wrench
 Brand RIDGID
 Item dimensions L x W x H 28 x 51 x 320 millimetres
@@ -3829,7 +3829,7 @@ Item dimensions L x W x H 28 x 51 x 320 millimetres
 Material Metal
 Head style Fixed Square
 Weight 1 Pounds
-",metal,other,1pounds,other,2.8,5.1,32
+",metal,other,1pounds,other,2.8,5.1,32,led
 "Norbar 13842 Torque Wrench 1/2in Sq Drive 10-50 Nm 8-35 lbf.ft, Multicoloured
 Brand Norbar
 Item dimensions L x W x H 38 x 10 x 10 centimetres
@@ -3878,7 +3878,7 @@ Included Components 1 x Norbar Torque Wrench, Calibration Certificate
 Batteries included? No
 Batteries Required? No
 Item Weight 700 g
-",other,other,700g,other,38,10,10
+",other,other,700g,other,38,10,10,handle
 "TengTools 3492 Ag-Er – Torque Wrenches 3/4 80 – 400 nm
 3/4” torque wrench.
 ISO clamping range: 65 – 450 Nm
@@ -3902,7 +3902,7 @@ Global Trade Identification Number	05020385030473
 Item Weight	3.84 kilograms
 Manufacturer Series Number	73190282
 Model Number	3492AG-ER
-Part Number	3492AG-ER",other,other,3.84kg,other,other,other,other
+Part Number	3492AG-ER",other,other,3.84kg,other,other,other,other,other
 "Britool EVT2000A 1/2-inch Torque Wrench Drive
 Brand Britool
 Item dimensions L x W x H 63.6 x 10.6 x 7.9 centimetres
@@ -3945,7 +3945,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.46 kg
-",plastic,other,1.46kg,other,63.6,10.6,7.9
+",plastic,other,1.46kg,other,63.6,10.6,7.9,other
 "Universal Wrench 48 in 1 Socket Wrench Multifunction Wrench Tool with 360 Degree Rotating Head, Spanner Tool for Home and Car Repair
 Brand IPstyle
 Item dimensions L x W x H 18 x 10 x 8 centimetres
@@ -3984,7 +3984,7 @@ Head Style Hex
 Batteries included? No
 Batteries Required? No
 Item Weight 499 g
-",metal,other,499g,other,18,10,8
+",metal,other,499g,other,18,10,8,handle
 "Britool EVT1200A 1/2-inch Torque Wrench Drive
 Brand Britool
 Item dimensions L x W x H 57.8 x 9 x 7.9 centimetres
@@ -4027,7 +4027,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 1.25 kg
-",plastic,other,1.25kg,other,57.8,9,7.9
+",plastic,other,1.25kg,other,57.8,9,7.9,other
 "Laser 7172 Torque Wrench 200-1000Nm, 1-Inch D x 1250 mm long, Range 200< 1000 Nm
 Range: 200 - 1000Nm (147 - 737lb-ft).
 45 teeth ratchet mechanism; 1""D x 1250mm long.
@@ -4052,7 +4052,7 @@ Product Dimensions 8.7 x 18 x 127 cm; 9.04 Kilograms
 Item model number 7172
 Manufacturer Part Number 7172
 Item Weight 9.04 kg
-",other,other,9.04kg,other,8.7,18,127
+",other,other,9.04kg,other,8.7,18,127,other
 "LEXIVON 1/2-Inch Drive Click Torque Wrench 10~150 Ft-Lb/13.6~203.5 Nm (LX-183)
 Brand LEXIVON
 Item dimensions L x W x H 6.4 x 7.6 x 45.7 centimetres
@@ -4099,7 +4099,7 @@ Number of Items 1
 Size 1/2""DR. 10~150 FT-LB
 Manufacturer Part Number LX-183
 Item Weight 1.59 kg
-",metal,black,1.59kg,other,6.4,7.6,45.7
+",metal,black,1.59kg,other,6.4,7.6,45.7,other
 "KS Tools Ergotorque-Precision 516.6542 Action 1/2 Inch Ratchet Torque Wrench 40-200 Nm Red
 - Trigger accuracy: 3% tolerance of the set scale value
 - Repeat accurate and precise at least 5. 00 load changes
@@ -4140,7 +4140,7 @@ Included Components 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.41 kg
-",other,red,1.41kg,other,35,25,13
+",other,red,1.41kg,other,35,25,13,lock
 "Milwaukee 48 22 7218 48227218 Aluminium Pipe Wrench-18 Inch, Red/Black/Silver
 Brand Milwaukee
 Item dimensions L x W x H 58.4 x 16.5 x 5.1 centimetres
@@ -4187,7 +4187,7 @@ Included Components 1 x Milwaukee Aluminium Pipe Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 1.5 kg
-",metal,red,1.5kg,other,58.4,16.5,5.1
+",metal,red,1.5kg,other,58.4,16.5,5.1,handle
 "Sealey STW308 Digital Torque Wrench, 3/8"" Sq Drive, 8NM-85NM
 Brand Sealey
 Item dimensions L x W x H 12 x 82 x 12 millimetres
@@ -4244,7 +4244,7 @@ Included Components 1 x 8 - 85 NM (5.9 - 62.7 lb.ft) Digital Torque Wrench with 
 Batteries included? No
 Batteries Required? No
 Item Weight 1.12 kg
-",metal,red,1.12kg,other,1.2,8.2,1.2
+",metal,red,1.12kg,other,1.2,8.2,1.2,led
 "3/4"" Dr Pro Ratchet Torque Wrench 100-500 NM Newton Meters Foot Pound Certified
 Brand Wheels N Bits
 Material Chrome Vanadium Steel
@@ -4273,7 +4273,7 @@ Part Number SS025 3/4 dr Torque wrench
 Manufacturer reference SS025 3/4 dr Torque wrench
 Material Chrome Vanadium Steel
 Head Style Fixed Square
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,other
 "Rolson 19000 2-in-1 Adjustable Pipe Wrench
 Brand Rolson
 Item dimensions L x W x H 20 x 30 x 150 millimetres
@@ -4318,7 +4318,7 @@ Included Components N.a
 Batteries included? No
 Batteries Required? No
 Item Weight 136 g
-",plastic,other,136g,other,2,3,15
+",plastic,other,136g,other,2,3,15,other
 "Norbar NOR15166 10 - 50 N m 3/8-Inch Clicktronic Torque Wrench Drive - Silver
 Brand Norbar
 Item dimensions L x W x H 7 x 7 x 34 centimetres
@@ -4373,7 +4373,7 @@ Batteries included? Yes
 Batteries Required? Yes
 Battery Cell Type Lithium Ion
 Item Weight 1 kg
-",other,silver,1kg,other,7,7,34
+",other,silver,1kg,other,7,7,34,handle
 "Facom 3/8-inch Fixed Ratchet Click Torque Wrench
 Brand Facom
 Item dimensions L x W x H 7.6 x 8.7 x 2 centimetres
@@ -4414,7 +4414,7 @@ Included Components 1 x FACOM J.208-50 Series R-J-S.208 Click Wrench with Fixed 
 Batteries included? No
 Batteries Required? No
 Item Weight 860 g
-",plastic,other,860g,other,7.6,8.7,2
+",plastic,other,860g,other,7.6,8.7,2,other
 "Bahco Adjustable Wrench 9035, Orange, 12 inches
 Brand Bahco
 Item dimensions L x W x H 10.3 x 2.1 x 32.3 centimetres
@@ -4467,7 +4467,7 @@ Included Components 1 x Bahco 9035 Adjustable Wrench 300mm with 55mm Extra Wide 
 Batteries included? No
 Batteries Required? No
 Item Weight 1 kg
-",metal,orange,1kg,other,10.3,2.1,32.3
+",metal,orange,1kg,other,10.3,2.1,32.3,other
 "BGS 968 | Torque Wrench | 20 mm (3/4"") | 100 - 500 Nm
 Brand BGS
 Item dimensions L x W x H 25 x 2 x 3 centimetres
@@ -4512,7 +4512,7 @@ Included Components Torque wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 4.8 kg
-",other,silver,4.8kg,other,25,2,3
+",other,silver,4.8kg,other,25,2,3,other
 "S&R Torque Wrench 3/8"" - 375mm - 19-110NM + 3/8"" extension + adapter 3/8"" - 1/4"" + adapter 3/8"" - 1/2"" + 13mm, 15mm, 17mm Sockets, Every Unit CALIBRATED
 Brand S&R
 Item dimensions L x W x H 37.5 x 3 x 3 centimetres
@@ -4553,7 +4553,7 @@ Special Features Handy size of 375 mm, ideal for bicycle repairs and on the road
 Safety rating Certificato di calibratura
 Lift type Mechanical
 Item Weight 1.56 kg
-",metal,other,1.56kg,other,37.5,3,3
+",metal,other,1.56kg,other,37.5,3,3,handle;lock
 "Crescent CPTAW8 11 Piece 3-in-1 X6 Pass-Thru Adjustable Wrench/Spanner, Pipe Wrench and Pass-Thru Ratchet with Universal Sockets, Black
 Brand Crescent
 Item dimensions L x W x H 33 x 102 x 46 millimetres
@@ -4608,7 +4608,7 @@ Included Components 1 x product
 Batteries included? No
 Batteries Required? No
 Item Weight 885 g
-",other,black,885g,other,3.3,10.16,4.57
+",other,black,885g,other,3.3,10.16,4.57,other
 "Teng Tool Force Torque Wrench 1/2"" Drive 1292AG-EP 40-210Nm / 30-150Ibs.FT
 Manufacturer TENG TOOLS
 Part Number Clar-8082
@@ -4625,7 +4625,7 @@ Item Package Quantity 1
 Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
-",other,other,other,other,other,other,other
+",other,other,other,other,other,other,other,other
 "Silverline WR40 Adjustable Wrench Length 300 mm, Jaw 32 mm
 Brand Silverline
 Item dimensions L x W x H 34 x 11 x 20 centimetres
@@ -4664,7 +4664,7 @@ Head Style Box End
 Batteries included? No
 Batteries Required? No
 Item Weight 620 g
-",metal,other,620g,other,34,11,20
+",metal,other,620g,other,34,11,20,other
 "Teng 1292ag-E4 Torque Wrench 70-350nm 1/2in Square Drive
 Brand Teng
 Item dimensions L x W x H 9.7 x 65.9 x 7.6 centimetres
@@ -4707,7 +4707,7 @@ Included Components 1
 Batteries included? No
 Batteries Required? No
 Item Weight 2.4 kg
-",plastic,other,2.4kg,other,9.7,65.9,7.6
+",plastic,other,2.4kg,other,9.7,65.9,7.6,handle
 "Sealey STW905 Sq Drive Torque Wrench Micrometer Style 60-330Nm-Calibrated, 1/2""
 Brand Sealey
 Item dimensions L x W x H 8 x 5 x 62.5 centimetres
@@ -4758,7 +4758,7 @@ Head Style Fixed Square
 Included Components Torque Wrench Micrometer Style 1/2""Sq Drive 60-330Nm - Calibrated
 Batteries Required? No
 Item Weight 1.5 kg
-",metal,other,1.5kg,other,8,5,62.5
+",metal,other,1.5kg,other,8,5,62.5,handle
 "KLEIN TOOLS Adjustable, 10-inch Spud Wrench for Up to 1-5/16-inch Nuts and Bolts, with Tether Hole 3227
 Brand KLEIN TOOLS
 Item dimensions L x W x H 27.9 centimetres
@@ -4803,7 +4803,7 @@ Number of handles 1
 Batteries included? No
 Batteries Required? No
 Item Weight 544 g
-",metal,other,544g,other,other,other,other
+",metal,other,544g,other,other,other,other,handle
 "Stanley 070453 240mm Adjustable Basin Wrench
 Brand STANLEY
 Item dimensions L x W x H 32 x 14.5 x 2.5 centimetres
@@ -4848,7 +4848,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 4.54 g
-",metal,other,4.54g,other,32,14.5,2.5
+",metal,other,4.54g,other,32,14.5,2.5,other
 "RIDGID 31280 Model 25 Straight Hex Wrench 20 inch for 1-2 inch Pipes
 Brand RIDGID
 Item dimensions L x W x H 59.2 x 12.7 x 5.1 centimetres
@@ -4871,7 +4871,7 @@ Item dimensions L x W x H 59.2 x 12.7 x 5.1 centimetres
 Head style Fixed Square
 Weight 1 Pounds
 Operation mode Mechanical
-",other,other,1pounds,other,59.2,12.7,5.1
+",other,other,1pounds,other,59.2,12.7,5.1,other
 "Torque Adaptor, Digital, 30-360NM BPSCA PRO238 - TL15285 by CLARKE International
 Brand Clarke
 Item dimensions L x W x H 11.5 x 8 x 20 centimetres
@@ -4912,7 +4912,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 590 g
-",other,other,590g,other,11.5,8,20
+",other,other,590g,other,11.5,8,20,other
 "DEWALT Torque Wrench, Micro Adjust, 1/2"" Drive (DWMT75462)
 Brand DEWALT
 Item dimensions L x W x H 76.7 x 10.2 x 6.9 centimetres
@@ -4963,7 +4963,7 @@ Included Components Wrenches, Handtools, Combination Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 1.18 kg
-",plastic,other,1.18kg,other,76.7,10.2,6.9
+",plastic,other,1.18kg,other,76.7,10.2,6.9,other
 "Starrett 91B Tap Wrench, 3/16"" - 1/2"" Tap Size, 5/32"" - 9/32"" Square Shank Diameter, 9"" Body Length
 Brand Starrett
 Item dimensions L x W x H 24.1 x 3.3 x 3 centimetres
@@ -4984,7 +4984,7 @@ Item dimensions L x W x H 24.1 x 3.3 x 3 centimetres
 Head style Fixed Square
 Weight 0.57 Pounds
 Operation mode Mechanical
-",other,other,0.57pounds,other,24.1,3.3,3
+",other,other,0.57pounds,other,24.1,3.3,3,other
 "RIDGID 89445 Model 24 Heavy-Duty Offset Wrench for 3 inch Pipes
 Brand RIDGID
 Item dimensions L x W x H 59.7 x 20.3 x 5.8 centimetres
@@ -5027,7 +5027,7 @@ Included Components Model 24 Offset Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 4.4 kg
-",other,other,4.4kg,other,59.7,20.3,5.8
+",other,other,4.4kg,other,59.7,20.3,5.8,other
 "Norbar NOR15006-TB Torque Wrenches, Multi, 1/2in Drive 60-340Nm
 Brand Norbar
 Item dimensions L x W x H 7 x 8 x 73.4 centimetres
@@ -5066,7 +5066,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 2.14 kg
-",other,other,2.14kg,other,7,8,73.4
+",other,other,2.14kg,other,7,8,73.4,other
 "Stanley Tools STA075081 Stanley Fatmax Demolition Wrench 250mm (10in) Capacity 37mm, Black
 Brand Stanley Tools
 Item dimensions L x W x H 11.2 x 2.6 x 36.6 centimetres
@@ -5113,14 +5113,14 @@ Measurement System Metric
 Included Components 1 x Stanley Tools Fatmax Demolition Wrench 250mm (10in)
 Batteries Required? No
 Item Weight 770 g
-",metal,black,770g,other,11.2,2.6,36.6
+",metal,black,770g,other,11.2,2.6,36.6,other
 "Norbar NorTorque 3/8"" Torque Wrench 12-60Nm MDL60 130101
 Manufacturer Generic
 Head Style Fixed Square
 ","Norbar NorTorque 3/8"" Torque Wrench 12-60Nm MDL60 130101
 ","Manufacturer Generic
 Head Style Fixed Square
-",other,other,other,other,other,other,other
+",other,other,other,other,other,other,other,other
 "Stahlwille 50180002"" 730"" Torque Wrench, Silver/Black, 2/4 20 Nm
 Brand Stahlwille
 Item dimensions L x W x H 27 x 12 x 12 centimetres
@@ -5167,7 +5167,7 @@ Included Components Torque wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 534 g
-",metal,silver,534g,other,27,12,12
+",metal,silver,534g,other,27,12,12,other
 "Park Tool TW-5.2 TORQUE WRENCH 2-14 NM 3/8 INCH DRIVE
 Brand Park Tool
 Head style Fixed Square
@@ -5188,7 +5188,7 @@ Manufacturer Park Tool
 Manufacturer reference QKTW52
 Item Weight 0.28 Grams
 ASIN B075CT1M14
-",other,other,0.28g,other,other,other,other
+",other,other,0.28g,other,other,other,other,other
 "BGS 962 | Torque Wrench | 10 mm (3/8"") | 7 - 105 Nm
 Brand BGS
 Item dimensions L x W x H 38 x 7.9 x 12.4 centimetres
@@ -5227,7 +5227,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 998 g
-",other,other,998g,other,38,7.9,12.4
+",other,other,998g,other,38,7.9,12.4,other
 "12Inch Wrench Adjustable Rubber Handle Spanner Good Grip with Wide Jaw
 🔧 JAW CAPACITY - 0 - 40mm, Handle length: 200mm
 🔧 MATERIAL: Strong Aluminium + Rubber Handle (Good Grip)
@@ -5242,7 +5242,7 @@ Manufacturer Rich Taste
 🔧 Precision worm with smooth opening to work efficiently
 🔧 Suitable for plumbing, tube nut disassembly or gas industry etc.
 ","Manufacturer Rich Taste
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,handle
 "Bahco 36124 361-24 Stillson Type Pipe Wrench 24-Inch
 Brand Bahco
 Item dimensions L x W x H 10 x 10 x 40 centimetres
@@ -5285,7 +5285,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 2.86 kg
-",other,other,2.86kg,other,10,10,40
+",other,other,2.86kg,other,10,10,40,other
 "Norbar NOR15016 Torque Wrenches
 Brand Norbar
 Item dimensions L x W x H 7 x 8 x 50 centimetres
@@ -5322,7 +5322,7 @@ Item model number NOR15016
 Manufacturer Part Number NOR15016
 Lift type Mechanical
 Item Weight 1.48 kg
-",other,other,1.48kg,other,7,8,50
+",other,other,1.48kg,other,7,8,50,handle;lock
 "Beta Tools Beta 666N/30 666N/30 Torque Wrench Snap Ratchet Reversible Right Precision ± 3%
 The item suitable for right-handed tights is sold individually
 Size: 40mm diameter, 43mm height, 581mm length, 1/2 inch male square socket
@@ -5357,7 +5357,7 @@ Usage Professional
 Batteries included? No
 Batteries Required? No
 Item Weight 1.32 kg
-",other,other,1.32kg,other,62,6,6
+",other,other,1.32kg,other,62,6,6,other
 "Torque wrench, digital angle wrench, 1/2 inch Sq Drive 40-200 Nm measures 30-150 ft.lbs
 Brand Zerone
 Item dimensions L x W x H 55 x 9.5 x 8.5 centimetres
@@ -5370,7 +5370,7 @@ Measurement: 1/2-in. Dr. Digi - Click Wrench measures 30 -150 ft.lbs. in 0.5 inc
 Item dimensions L x W x H 55 x 9.5 x 8.5 centimetres
 Head style Fixed Square
 Weight 2.3 Kilograms
-",other,other,2.3kg,other,55,9.5,8.5
+",other,other,2.3kg,other,55,9.5,8.5,other
 "'EXPERT E100105 1/4 Torque Wrench 5-25 Nm
 Brand Expert
 Item dimensions L x W x H 41 x 323 x 41 millimetres
@@ -5409,7 +5409,7 @@ Measurement System Metric
 Batteries included? No
 Batteries Required? No
 Item Weight 800 g
-",other,other,800g,other,4.1,32.3,4.1
+",other,other,800g,other,4.1,32.3,4.1,other
 "Norbar 11087 SL0 Torque Wrench
 Brand Norbar
 Item dimensions L x W x H 22.5 x 5 x 5 centimetres
@@ -5448,7 +5448,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 400 g
-",other,other,400g,other,22.5,5,5
+",other,other,400g,other,22.5,5,5,handle
 "Trade Quality 1/2 inch Drive Ratchet Torque Wrench 70-350Nm SS031
 Trade Quality 1/2 inch Drive Ratchet Torque Wrench 70-350Nm SS031
 Manufacturer Toolzone
@@ -5469,7 +5469,7 @@ Item Package Quantity 1
 Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,other
 "Sealey AK228 Micrometer Torque Wrench 3/4""Sq Drive
 Brand Sealey
 Item dimensions L x W x H 14.2 x 70.4 x 7.8 centimetres
@@ -5524,7 +5524,7 @@ Included Components Torque Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 3.48 kg
-",metal,silver,3.48kg,other,14.2,70.4,7.8
+",metal,silver,3.48kg,other,14.2,70.4,7.8,other
 "Telescopic Ratchet 1/2 inch Encore 600 45-60cm from WIESEMANN 1893 I Telescopic Ratchet for Work with high Torques up to 615 Nm I with 72 Teeth, Ball Guard & Switch Function I 81338
 CONTENTS - Fine-toothed telescopic ratchet with 72 teeth, extandable with switch function.
 REVERSIBLE RATCHET - The included reversible ratchet is finely toothed and provides an ideal grip thanks to the two-component handle. With the lever on the head you can quickly change the screwing direction and activate the right-left rotation. The ball lock guarantees a firm hold of the nuts. The 1/2"" ratchet can be used for a working range up to a minimum of 615 NM.
@@ -5553,7 +5553,7 @@ Size 1/4 inch - small
 Batteries included? No
 Batteries Required? No
 Item Weight 1.16 kg
-",metal,other,1.16kg,other,48.9,4.9,4.6
+",metal,other,1.16kg,other,48.9,4.9,4.6,handle;lock
 "Monument 345v Adjustable Fitted 2 Jaws Wrench
 Brand Monument
 Item dimensions L x W x H 20 x 94 x 20 millimetres
@@ -5596,7 +5596,7 @@ Included Components 1 x MON345
 Batteries included? No
 Batteries Required? No
 Item Weight 550 g
-",metal,other,550g,other,2,9.4,2
+",metal,other,550g,other,2,9.4,2,other
 "Yato yt-20941 – Insulated Adjustable Wrench 250 mm VDE
 Brand Yato
 Item dimensions L x W x H 25 x 7.3 x 3 centimetres
@@ -5635,7 +5635,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 300 g
-",metal,other,300g,other,25,7.3,3
+",metal,other,300g,other,25,7.3,3,handle
 "NEILSEN TOOLS Pass Through/Go Thru Torque Wrench with Extension Bar + Sockets range 10-210Nm
 Brand NEILSEN TOOLS
 Material Chrome Vanadium Steel
@@ -5662,7 +5662,7 @@ Package Dimensions 49.28 x 6.86 x 6.35 cm; 1.7 Kilograms
 Manufacturer reference CT3949
 Manufacturer Part Number CT3949
 Item Weight 1.7 kg
-",metal,other,1.7kg,other,49.28,6.86,6.35
+",metal,other,1.7kg,other,49.28,6.86,6.35,other
 "Silverline CB40 Adjustable Basin Wrench, 280 mm
 Brand Silverline
 Item dimensions L x W x H 1 x 4 millimetres
@@ -5713,7 +5713,7 @@ Included Components 1 x Adjustable Basin Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 0.42 g
-",metal,other,0.42g,other,0.12,0.02,0.37
+",metal,other,0.42g,other,0.12,0.02,0.37,other
 "sourcing map Adjustable Tap Wrench Handle, for Metric M5-M20 W7/32-3/4 Taps, Tap Reamer Tapping Wrench Tool, Medium Carbon Steel Handle with Nickel Plated
 Tap Wrench: Fit M5-M20 / 7/32""-3/4""(UNC/UNF) / 4mm-17mm capacity size, medium carbon steel handle with nickel plated, zinc alloy chuck with electrostatic spraying, offering high hardness and wear resistance for long service life
 Applications: Hand tap wrench can clamp various taps for tapping operations. It also can be used with drills, reamers, screw extractors and other small tools that need to be rotated manually
@@ -5744,7 +5744,7 @@ Material Zinc alloy&amp;carbon steel
 Batteries included? No
 Batteries Required? No
 Item Weight 650 g
-",metal,other,650g,other,38,14.4,3.1
+",metal,other,650g,other,38,14.4,3.1,handle
 "Teng 4008 600mm 24-inch Adjustable Wrench
 Brand Teng
 Item dimensions L x W x H 23 x 144 x 601 millimetres
@@ -5783,7 +5783,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 3.22 kg
-",metal,other,3.22kg,other,2.31,14.4,60.1
+",metal,other,3.22kg,other,2.31,14.4,60.1,handle
 "Milwaukee 48 22 7314 48227314 Cheater Adaptable Pipe Wrench-3 Length Design, Red/Black
 Brand Milwaukee
 Item dimensions L x W x H 30.5 x 30.5 x 30.5 centimetres
@@ -5832,7 +5832,7 @@ Included Components 1 x Milwaukee Adaptable Pipe Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 3.5 kg
-",other,red,3.5kg,other,30.5,30.5,30.5
+",other,red,3.5kg,other,30.5,30.5,30.5,handle
 "KNIPEX Pipe Wrench S-Type with fast adjustment (420 mm) 83 61 015
 Brand KNIPEX
 Item dimensions L x W x H 42 x 8.4 x 2.8 centimetres
@@ -5881,7 +5881,7 @@ Included Components 83 61 015
 Batteries included? No
 Batteries Required? No
 Item Weight 600 g
-",other,other,600g,other,42,8.4,2.8
+",other,other,600g,other,42,8.4,2.8,handle
 "TEKTON 1/4-Inch Drive Dual-Direction Click Torque Wrench (10-150 in.-lb./1.1-16.9 Nm) | TRQ21101
 Brand TEKTON
 Item dimensions L x W x H 22.4 x 2.3 x 2.3 centimetres
@@ -5936,7 +5936,7 @@ Included Components (1) 1/4 in. Drive torque wrench; (1) Zipper storage case; (1
 Batteries included? No
 Batteries Required? No
 Item Weight 363 g
-",other,other,363g,other,22.4,2.3,2.3
+",other,other,363g,other,22.4,2.3,2.3,lock
 "WiMas 1/2 Inch Drive Click Torque Wrench Kit, Dual Direction Precise Ratchet Wrench, 28-210Nm Reversible Repair Wrench Spanner with Adapters and Extension bar
 ✔️【Premium Material】: Robust steel construction body, reversible ratchet head, handle is lightweight and comfortable to hold. The wrench is durable, anti-rust and has good anti-slip function. Clear marked torque scale is easy to read when you use it. Attached the manual can help you quickly grasp the torque wrench working way.
 ✔️【High Accuracy】: each click torque wrench 1/2 inch is calibrated in within +/- 4%; dual range between 28-210ft.-lb. or 2.9-21.4M.KGS.
@@ -5959,7 +5959,7 @@ Package Dimensions 53.5 x 10.3 x 9.9 cm; 2.04 Kilograms
 Material Alloy Steel
 Batteries Required? No
 Item Weight 2.04 kg
-",metal,other,2.04kg,other,53.5,10.3,9.9
+",metal,other,2.04kg,other,53.5,10.3,9.9,handle
 "Monument 349h Adjustable Fitted 3 Jaws Wrench
 Item Package Quantity: 1
 Package Weight: 1.5 pounds
@@ -5990,7 +5990,7 @@ Included Components 1 x MON349
 Batteries included? No
 Batteries Required? No
 Item Weight 662 g
-",metal,other,662g,other,40,10,3
+",metal,other,662g,other,40,10,3,other
 "TEKTON WRN53009 Ratcheting Combination Wrench, 7/16-Inch
 Brand TEKTON
 Item dimensions L x W x H 16.5 x 2.3 x 1 centimetres
@@ -6029,7 +6029,7 @@ Head Style Open End
 Included Components (1) Ratcheting Combination Wrench, 7/16-Inch
 Batteries Required? No
 Item Weight 68 g
-",other,other,68g,other,16.5,2.3,1
+",other,other,68g,other,16.5,2.3,1,other
 "KS Tools 516.1532 1/2"" ERGOTORQUEprecision torque wrench with reversible ratchet head, 20-100Nm
 Brand KS Tools
 Item dimensions L x W x H 35 x 25 x 13 centimetres
@@ -6066,7 +6066,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 910 g
-",other,other,910g,other,35,25,13
+",other,other,910g,other,35,25,13,other
 "Channellock 8WCB WideAzz Adjustable Wrench with Code Blue Grips, 1-1/2-Inch Opening- 8-Inch Overall Length
 Brand Channellock
 Item dimensions L x W x H 25 x 102 x 310 millimetres
@@ -6115,7 +6115,7 @@ Head Style Fixed Square
 Batteries included? No
 Batteries Required? No
 Item Weight 340 g
-",metal,other,340g,other,2.54,10.16,30.99
+",metal,other,340g,other,2.54,10.16,30.99,other
 "neilsen CT1155 1/2"" Half Inch Drive Socket Ratchet Wrench Extra Long, Silver
 Brand Neilsen
 Item dimensions L x W x H 20 x 20 x 20 millimetres
@@ -6164,7 +6164,7 @@ Included Components Ratchet handle
 Batteries included? No
 Batteries Required? No
 Item Weight 190 g
-",other,silver,190g,other,2,2,2
+",other,silver,190g,other,2,2,2,handle
 "Norbar 120101 3AR-N Industrial Adjustable Torque Wrench 3/4in Square Drive 120-600Nm
 Brand Norbar
 Item dimensions L x W x H 97 x 26 x 9.5 centimetres
@@ -6195,7 +6195,7 @@ Manufacturer reference 120101
 Item Package Quantity 1
 Head Style Fixed Square
 Item Weight 8 kg
-",other,other,8kg,other,97,26,9.5
+",other,other,8kg,other,97,26,9.5,other
 "Laser 2062 Torque Wrench 1/2""d 25>250 Ftlbs
 Brand Laser
 Item dimensions L x W x H 6.4 x 8 x 66 centimetres
@@ -6228,7 +6228,7 @@ Product Dimensions 6.4 x 8 x 66 cm; 500 Grams
 Item model number 2062
 Manufacturer Part Number LAS2062
 Item Weight 500 g
-",other,other,500g,other,6.4,8,66
+",other,other,500g,other,6.4,8,66,other
 "Milwaukee 48 22 7210 48227210 Aluminium Pipe Wrench-10 Inch, Red
 Brand Milwaukee
 Item dimensions L x W x H 40 x 12 x 4 centimetres
@@ -6279,7 +6279,7 @@ Included Components 1 x Milwaukee Aluminium Pipe Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 630 g
-",metal,red,630g,other,40,12,4
+",metal,red,630g,other,40,12,4,handle
 "Stanley 090950 300mm MaxSteel Adjustable Wrench
 Brand STANLEY
 Item dimensions L x W x H 10.5 x 1.7 x 35 centimetres
@@ -6330,7 +6330,7 @@ Included Components Components included
 Batteries included? No
 Batteries Required? No
 Item Weight 599 g
-",metal,other,599g,other,10.5,1.7,35
+",metal,other,599g,other,10.5,1.7,35,handle
 "Bahco 142 ""Swedish Model"" Pipe Wrench, Red/Black, 426 mm
 Brand Bahco
 Item dimensions L x W x H 44.5 x 8.5 x 3.4 centimetres
@@ -6383,7 +6383,7 @@ Included Components 1 x Pipe wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,red,454g,other,44.5,8.5,3.4
+",metal,red,454g,other,44.5,8.5,3.4,other
 "Teng 4007 450mm 18-inch Adjustable Wrench
 Brand Teng
 Item dimensions L x W x H 18 x 122 x 439 millimetres
@@ -6422,7 +6422,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 844 g
-",metal,other,844g,other,1.8,12.19,43.92
+",metal,other,844g,other,1.8,12.19,43.92,handle
 "Teng 4007 450mm 18-inch Adjustable Wrench
 Brand Teng
 Item dimensions L x W x H 18 x 122 x 439 millimetres
@@ -6461,7 +6461,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 844 g
-",metal,other,844g,other,1.8,12.19,43.92
+",metal,other,844g,other,1.8,12.19,43.92,handle
 "Bahco 142 ""Swedish Model"" Pipe Wrench, Red/Black, 426 mm
 Brand Bahco
 Item dimensions L x W x H 44.5 x 8.5 x 3.4 centimetres
@@ -6514,7 +6514,7 @@ Included Components 1 x Pipe wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 454 g
-",metal,red,454g,other,44.5,8.5,3.4
+",metal,red,454g,other,44.5,8.5,3.4,other
 "Draper 29907 Adjustable Auto Wrench, 60mm
 Brand Draper
 Item dimensions L x W x H 29.6 x 9.6 x 2 centimetres
@@ -6557,7 +6557,7 @@ Head Style Box End
 Batteries included? No
 Batteries Required? No
 Item Weight 470 g
-",other,blue,470g,other,29.6,9.6,2
+",other,blue,470g,other,29.6,9.6,2,other
 "Rolson 18279 18-inch Adjustable Wrench
 Brand Rolson
 Item dimensions L x W x H 30 x 120 x 450 millimetres
@@ -6598,7 +6598,7 @@ Item Package Quantity 1
 Batteries included? No
 Batteries Required? No
 Item Weight 1.89 kg
-",metal,other,1.89kg,other,3,12,45
+",metal,other,1.89kg,other,3,12,45,other
 "KNIPEX Torque Wrench with driving square, reversible 1000V-insulated (385 mm) 98 33 50 (self-service card/blister)
 Brand KNIPEX
 Item dimensions L x W x H 38.5 x 8.5 x 5.5 centimetres
@@ -6647,7 +6647,7 @@ Included Components 1 x Torque Wrenches
 Batteries included? No
 Batteries Required? No
 Item Weight 600 g
-",other,other,600g,other,38.5,8.5,5.5
+",other,other,600g,other,38.5,8.5,5.5,lock
 "RIDGID 31180 Model 1019 Telescoping Basin Wrench 1 1/4-2 1/2 inch
 Brand RIDGID
 Item dimensions L x W x H 30.5 x 15.2 x 3.2 centimetres
@@ -6698,7 +6698,7 @@ Included Components 1019 Telescopic Basin Wrench
 Batteries included? No
 Batteries Required? No
 Item Weight 99 g
-",metal,red,99g,other,30.5,15.2,3.2
+",metal,red,99g,other,30.5,15.2,3.2,other
 "Facom Nylon Strap Wrench
 Brand Facom
 Item dimensions L x W x H 7.6 x 8.7 x 2 centimetres
@@ -6735,4 +6735,4 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 100 g
-",metal,other,100g,other,7.6,8.7,2
+",metal,other,100g,other,7.6,8.7,2,other

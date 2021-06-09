@@ -1,4 +1,4 @@
-﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height
+﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height,Parts
 "Tefal B3430642 Precision Plus Frypan, 28cm-Black, Aluminium, 28 cm
 Easy Plus coating provides durable non-stick performance
 Thermo-Spot marking turns full red when the pan reaches the ideal temperature
@@ -25,7 +25,7 @@ Capacity 9 litres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible
 Item Weight 796 g
-",metal,black,796g,9L,46.3,27.5,7.8
+",metal,black,796g,9L,46.3,27.5,7.8,other
 "Blackmoor Frying Pans | 2 Colours | Non-Stick, Anti-Scratch Pans | Cool Touch Handles | Suitable for Induction, Electric and Gas Hobs | 20/24/28cm (Black, 28cm)
 Material Aluminium
 Brand Blackmoor
@@ -64,7 +64,7 @@ Product Dimensions 47.5 x 29.49 x 7.49 cm; 800 Grams
 Material Aluminium
 Special Features Gas_Stovetop_Compatible,Induction_Stovetop_Compatible,Electric_Stovetop_Compatible
 Item Weight 800 g
-",metal,black,800g,other,47.5,29.49,7.49
+",metal,black,800g,other,47.5,29.49,7.49,lid;handle
 "HITECLIFE Frying Pan with Lid, 26cm Nonstick Saute Pan, Induction 5-Layer Chemical-Free Deep Fry Pan, Cooking Pans, Red
 Material Aluminium
 Brand HITECLIFE
@@ -109,7 +109,7 @@ Capacity 3.2 litres
 Material Aluminium
 Special Features Stay-cool Handle, Healthy 3-layer Nonstick, Gas Stovetop Compatible, Electric Stovetop Compatible, Worry-free After-sale Service, Induction Stovetop Compatible, Dishwasher Safe
 Item Weight 1.95 kg
-",metal,red,1.95kg,3.2L,42.5,33.5,9.6
+",metal,red,1.95kg,3.2L,42.5,33.5,9.6,lid;handle
 "HITECLIFE Induction Frying Pan 24cm, Forged Aluminum Nonstick Cookware, 5 Layers Chemical-Free Stir Fry Pans with Stainless Steel Handle, Black
 Material Aluminium
 Brand HITECLIFE
@@ -148,7 +148,7 @@ Package Dimensions 43 x 33 x 6.7 cm; 880 Grams
 Material Aluminium
 Special Features Oven Safe, PFOA/PFOS Free, Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible, Nonstick, Dishwasher Safe
 Item Weight 880 g
-",metal,black,880g,other,43,33,6.7
+",metal,black,880g,other,43,33,6.7,handle
 "Tefal G25908AZ Unlimited ON Induction 32 cm Non-Stick Frying Pan, Black
 Model name Unlimited ON
 Material Aluminium
@@ -195,7 +195,7 @@ Diameter 32 Centimetres
 Material Aluminium
 Special Features Suitable for oven, Cadmium Free, Suitable for electric, PFOA free, Suitable for induction, Lead Free, Non-stick
 Item Weight 1.9 kg
-",metal,black,1.9kg,other,60,40,13
+",metal,black,1.9kg,other,60,40,13,other
 "Tefal 30 cm Comfort Max, Induction Frying Pan, Stainless Steel, Non Stick
 Material Stainless Steel
 Brand Tefal
@@ -242,7 +242,7 @@ Volume Capacity 2350 Millilitres
 Material Stainless Steel
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible,Microwave-Safe
 Item Weight 1.38 kg
-",metal,other,1.38kg,2350ml,30,5,49
+",metal,other,1.38kg,2350ml,30,5,49,other
 "Tefal Authentic Non-Stick Aluminium Frying Pan, Black, 24 cm
 Model name Authentic
 Material Aluminium
@@ -289,7 +289,7 @@ Diameter 24 Centimetres
 Material Aluminium
 Special Features Thermo-Spot non-stick coating
 Item Weight 910 g
-",metal,black,910g,other,43,24.6,7.9
+",metal,black,910g,other,43,24.6,7.9,handle
 "Frying Pan Induction 28cm, Stone-Derived Nonstick Coating Saute Pan, Stainless Steel Handle Woks & Stir Fry Pans, Oven Safe, Granite/Gift Box Included-SKY LIGHT
 Material Aluminium
 Brand SKY LIGHT
@@ -330,7 +330,7 @@ Volume Capacity 6 quarts
 Material Aluminium
 Special Features Gas_stovetop_compatible, Induction_stovetop_compatible, Handles, Dishwasher-safe, Electric_stovetop_compatible, Microwave-safe
 Item Weight 2.5 kg
-",metal,other,2.5kg,4L,54.3,28,7.5
+",metal,other,2.5kg,4L,54.3,28,7.5,lid;handle
 "Morrisons Aluminium Frying Pan 28cm
 Material Aluminium
 Brand MORRISONS
@@ -361,7 +361,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Morrisons
-",metal,other,630g,other,7.5,28,45.8
+",metal,other,630g,other,7.5,28,45.8,other
 "Morrisons Aluminium Frying Pan 20cm
 Material Aluminium
 Brand MORRISONS
@@ -392,7 +392,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Morrisons
-",metal,other,366g,other,5.2,20.2,35.1
+",metal,other,366g,other,5.2,20.2,35.1,other
 "ilimiti 20cm Stone Earth Frying Pan-Non Stick 20cm, Ergonomic Handle, Aluminum Alloy, Superior Frying Pan Suitable for All Stove
 Brand Ilimiti
 Has non-stick coating Yes
@@ -419,7 +419,7 @@ Brand Ilimiti
 Package Dimensions 24 x 22.5 x 5.8 cm; 710 Grams
 Special Features Covered
 Item Weight 710 g
-",metal,other,710g,other,24,22.5,5.8
+",metal,other,710g,other,24,22.5,5.8,handle
 "Tefal Day By Day ON B56408AZ 32 cm Frying Pan, Black
 Material Aluminium
 Brand Tefal
@@ -450,7 +450,7 @@ Product Dimensions 50.4 x 35 x 7.1 cm; 910 Grams
 Is assembly required No
 Batteries required No
 Item weight 0.91 Kilograms
-",metal,other,0.91kg,other,50.4,35,7.1
+",metal,other,0.91kg,other,50.4,35,7.1,other
 "AIGLEFEU 28cm Square Griddle Pan for Induction, Electric & Gas Hobs with Detachable Snap-on Handle | PFOA Nonstick Cast Aluminium Grill Pan
 Material Aluminium
 Brand AIGLEFEU
@@ -481,7 +481,7 @@ Model Number 2
 Package Dimensions 35.2 x 29.7 x 5.7 cm; 1.21 Kilograms
 Material Aluminium
 Item Weight 1.21 kg
-",metal,other,1.21kg,other,35.2,29.7,5.7
+",metal,other,1.21kg,other,35.2,29.7,5.7,handle;lock
 "OXO Frying Pan, Non Stick Pan with Soft Touch Handle - Induction & Oven Safe Cookware - 20 cm, Black
 Material Aluminium
 Brand OXO
@@ -526,7 +526,7 @@ Diameter 20 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 580 g
-",metal,black,580g,other,6.7,21,4.5
+",metal,black,580g,other,6.7,21,4.5,handle
 "MICHELANGELO Frying Pan with Lid 30cm, Frying Pan Nonstick with Stone-Derived Coating Frying Pan, Nonstick Frying Pan with Lid, Stone Frying Pan 30cm, Induction Compatible
 Material Titanium
 Brand MICHELANGELO
@@ -571,7 +571,7 @@ Diameter 30 Centimetres
 Material Titanium
 Special Features Gas Stovetop Compatible, Induction Stovetop Compatible, Dishwasher Safe, Skillets
 Item Weight 2.24 kg
-",metal,blue,2.24kg,other,54,32.8,8.9
+",metal,blue,2.24kg,other,54,32.8,8.9,lid;handle;lock
 "Tefal Ideal One Egg Wonder Non-stick Frying Pan, Black
 Model name TEF-B3670042
 Material Enamel
@@ -618,7 +618,7 @@ Diameter 12 Centimetres
 Material Enamel
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Microwave-Safe
 Item Weight 100 g
-",metal,black,100g,other,26,6.5,12
+",metal,black,100g,other,26,6.5,12,other
 "Nonstick Frying Pan Skillet 20cm, Stone Pans Cookware Granite Coating,Pans Saucepans Omelette Skillet. (Grey, 8 inch)
 ULTRA NON STICK & SCRATCH RESISTANT - Eco-friendly Granite Coating is ultra non stick and scratch resistant that enhances both durability and cooking performance. Food slides right off the truly nonstick surface for optimum cooking.
 GREEN & TOXIC FREE - 100% PFOA free , lead and cadmium free nonstick coating, ideal for health cooking. Choose ZUOFENG frying pans nonstick for greener and safer cookware.
@@ -645,7 +645,7 @@ Package Dimensions 41.4 x 29.5 x 8.9 cm; 640 Grams
 Material Cast Aluminium
 Special Features Covered
 Item Weight 640 g
-",metal,grey,640g,other,41.4,29.5,8.9
+",metal,grey,640g,other,41.4,29.5,8.9,handle
 "SKY LIGHT Grill pan Induction 28 cm, Nonstick Portable Frying Pan for Steak, Fish and BBQ, Forged Griddle Pan with Easy Grease Draining, Filter, Oven Safe, 3-Layer PFOA Free No-Stick Coating
 【Professional Cast Aluminum Pan】Made of high-quality Cast Aluminum with outstanding corrosion resistance, high temperature resistance and thermal conductivity, which ensures fast and even heating. Excellent heat storage performance to save energy. This non-stick griddle pan combines the advantages of non-stick pans and cast iron pans, thicker bottom and more stable. Lightweight yet extremely strong and hard.
 【Chemical-free & Nonstick Coating】2-Layer Non-stick Coating, wear-resistant and superb durability. Healthier with less oil needed, easier to clean without leaving food residues. 100% NO toxic chemicals like PFOA, PFAS, and other less-known chemicals. Safe and secure material. All our pans have gone through strict checks before shipping out.
@@ -670,7 +670,7 @@ Colour 28cm Portable Grill Pan
 Product Dimensions 28 x 28 x 3.8 cm; 789.25 Grams
 Material Stainless Steel
 Item Weight 789 g
-",metal,other,789g,other,28,28,3.8
+",metal,other,789g,other,28,28,3.8,handle;lock;filter
 "MasterClass Shallow Casserole Dish with Lid, Lightweight Cast Aluminium, Black, 4 Litre / 28 cm
 Material Aluminium
 Brand MasterClass
@@ -711,7 +711,7 @@ Capacity 4 litres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.77 kg
-",metal,black,1.77kg,4L,38,28,16
+",metal,black,1.77kg,4L,38,28,16,lid;handle
 "Le Creuset 51101300010202 TNS 30x6.5cm Frying Pan w/Helper Handle, Aluminium
 Material Aluminium
 Brand LE CREUSET
@@ -752,7 +752,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 30x6.5cm Frying Pan w/Helper Handle
 Item weight 2.2 Kilograms
-",metal,other,2.2kg,other,55,31.1,9.6
+",metal,other,2.2kg,other,55,31.1,9.6,lid;handle
 "Premier Cookware Essentials Frying Pan with Lid - Non Stick Fry Pan with Glass Lid - Induction Suitable Saute Pan - 28cm
 Brand Premier Cookware
 Has non-stick coating Yes
@@ -777,7 +777,7 @@ Dishwasher safe? Yes
 Brand Premier Cookware
 Package Dimensions 49 x 31.5 x 8.7 cm; 1.52 Kilograms
 Item Weight 1.52 kg
-",other,other,1.52kg,other,49,31.5,8.7
+",other,other,1.52kg,other,49,31.5,8.7,lid
 "Le Creuset 51112300010002 TNS 30x4.5cm Frying Pan, Aluminium
 Frying Pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance). Glass lid sold separately
 6-layer construction including a 3-layer PFOA-free, reinforced non-stick coating, Metal utensil safe, Easy food release, No seasoning required
@@ -810,7 +810,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 30x4.5cm Frying Pan
 Item weight 1.8 Kilograms
-",metal,other,1.8kg,other,50.9,31.1,7.8
+",metal,other,1.8kg,other,50.9,31.1,7.8,lid;handle
 "Durable Universal Oven Cooker Grill Pan Rack & Detachable Handle 380 x 280mm
 Make sure this fits
 by entering your model number.
@@ -839,7 +839,7 @@ Colour Black
 Batteries included? No
 Batteries Required? No
 Item Weight 1.26 kg
-",metal,black,1.26kg,other,41.7,29.5,6.5
+",metal,black,1.26kg,other,41.7,29.5,6.5,handle;rack
 "Tefal G119S444 Titanium Excel All-in-One Frying Pan, Black Stone Effect
 Contains: All In One Pan; Glass Lid; Stainless Steel Steamer & Skimmer
 Ultra-resistant Metal Utensil Safe Titanium non-stick coating
@@ -866,7 +866,7 @@ Package Dimensions 59.4 x 35.79 x 17.2 cm; 3.95 Kilograms
 Material Titanium
 Special Features Covered
 Item Weight 3.95 kg
-",metal,black,3.95kg,other,59.4,35.79,17.2
+",metal,black,3.95kg,other,59.4,35.79,17.2,lid
 "Home Icon Non Stick Granite 26cm Frying Pan Triple Ceramic Coating Induction Compatible Oven Safe Toxin Free
 AVOID STICKY SITUATIONS: The Home Icon Copper Granite Frying Pan features a unique TRIPLE non stick coating, your fried eggs will slide onto your toast. Perfect for healthy cooking with little or no oil and fantastic for cooking pancakes and omelettes. This premium quality pan is hard wearing, well engineered and lightweight.
 WORKS ON ALL HOBS: Compatible with all gas, electric and induction cooktops and stovetops. If using with an induction cooker we recommend an induction hob with a 18-19cm diameter. OVEN SAFE up to 260°.
@@ -889,7 +889,7 @@ Colour Granite
 Product Dimensions 47 x 26 x 4.5 cm; 890 Grams
 Material Aluminium
 Item Weight 890 g
-",metal,other,890g,other,47,26,4.5
+",metal,other,890g,other,47,26,4.5,other
 "Kuyal Frying Pan with Non Stick Induction Base and Detachable Handle, Compatible with Gas & Electric Hobs 24cm Cast Aluminium Saute Wok
 Brand Kuyal
 Diameter 24 Centimetres
@@ -918,7 +918,7 @@ Brand Kuyal
 Package Dimensions 30.6 x 26 x 6.1 cm; 1 Kilograms
 Diameter 24 Centimetres
 Item Weight 1 kg
-",metal,other,1kg,other,30.6,26,6.1
+",metal,other,1kg,other,30.6,26,6.1,handle
 "Professional Paella Pan or Frying Pan - Kitchen, Home Essentials - For Sautéing, Roasting, Broiling - 40cm Aluminium Skillet- Stainless Steel Base - German GREBLON Non-Stick Ceramic Reinforced Coating
 Model name Paella pan Grill frying pan
 Material Aluminium
@@ -967,7 +967,7 @@ Product Dimensions 40 x 40 x 5.5 cm; 2 Kilograms
 Diameter 40 Centimetres
 Material Aluminium
 Item Weight 2 kg
-",metal,black,2kg,other,40,40,5.5
+",metal,black,2kg,other,40,40,5.5,handle
 "Griddle Pan with Lid NonStick - Die Cast Aluminium Induction Hob Skillet with Glass Lid – Ideal for Grilling, Oven Friendly – Grill Steak and Veggies - 2.33L 28cm Wonder Pan by Nuovva
 Material Cast Aluminium, Aluminium
 Brand Nuovva
@@ -1008,7 +1008,7 @@ Capacity 2.33 litres
 Material Cast Aluminium, Aluminium
 Special Features Glass_Lid, Heavy_duty, Grill_Pan, Non-Stick
 Item Weight 1.85 kg
-",metal,other,1.85kg,2.33L,31.3,30.8,7.1
+",metal,other,1.85kg,2.33L,31.3,30.8,7.1,lid;handle
 "Morrisons Fry Pan
 Brand MORRISONS
 Item dimensions L x W x H 6 x 24.2 x 42.1 centimetres
@@ -1035,7 +1035,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Morrisons
-",metal,other,510g,other,6,24.2,42.1
+",metal,other,510g,other,6,24.2,42.1,other
 "Tower Cerastone T81232 Forged Frying Pan with Non-Stick Coating and Soft Touch Handles, 24 cm, Graphite
 Material Aluminium
 Brand Tower
@@ -1080,7 +1080,7 @@ Material Aluminium
 Auto Shutoff No
 Special Features Bonded Steel Base, Heat Resistant Graphite Exterior, Non-stick Interior, Aluminium Body, Stay Cool Handle
 Item Weight 650 g
-",metal,other,650g,other,43.3,24,5.3
+",metal,other,650g,other,43.3,24,5.3,handle
 "Lodge 26.67 cm / 10.5 inch Pre-Seasoned Cast Iron Round Griddle / Pancake Pan, Black
 Features slightly raised edges to keep oil, batter and other ingredients neatly contained during cooking
 Griddle is also perfect for preparing big breakfasts, tortillas, roasted vegetables and grilled sandwiches
@@ -1115,7 +1115,7 @@ Capacity 2.04 Kilograms
 Material Inoxidable
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 2.04 kg
-",other,black,2.04kg,other,40.13,25.4,2.54
+",other,black,2.04kg,other,40.13,25.4,2.54,other
 "Morrisons Aluminium Milk Pan, 14cm
 Material Aluminium
 Brand MORRISONS
@@ -1142,7 +1142,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Wm Morrison Supermarkets PLC
-",metal,other,400g,other,30.2,15.8,6.7
+",metal,other,400g,other,30.2,15.8,6.7,other
 "Morrisons Ali Saucepan, 20 cm
 With a non-stick, easy-clean Teflon coating
 DuPont Teflon quality tested nonstick coatings
@@ -1163,7 +1163,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand MORRISONS
 Manufacturer Morrisons
-",metal,other,1.01kg,other,14.5,21,39
+",metal,other,1.01kg,other,14.5,21,39,other
 "Home Icon Non-Stick Copper Frying Pan Ceramic Coating PTFE Free Induction Compatible 26cm Oven Safe
 AVOID STICKY SITUATIONS: Our Copper Frying Pan features a unique triple layer ceramic non stick coating. Perfect for healthy cooking with little or no oil and fantastic for cooking pancakes and omelettes. This premium quality pan is hard wearing, well engineered and lightweight. Season your pan on 1st use and this coating will last for years.
 WORKS ON ALL HOBS: Compatible with all gas, electric and induction cooktops and stovetops. If using with an induction cooker we recommend an induction hob with a 18-19cm diameter. OVEN SAFE up to 260°.
@@ -1190,7 +1190,7 @@ Diameter 29 Centimetres
 Material Aluminium
 Special Features Suitable for oven, PTFE free, Suitable for electric, PFOA free, Suitable for induction, Lead Free, Non-stick
 Item Weight 900 g
-",metal,other,900g,other,49,26,4.8
+",metal,other,900g,other,49,26,4.8,other
 "Home Icon Granite Griddle Pan 29cm Removable Handle, Induction, Gas and Electric Compatible, POFA Free Whitford Non Stick Coating
 COOK HEALTHY: Use your Home Icon Copper Granite Griddle Pan to cook vegetables, steak, chicken, fish and all other meat with perfect chargrilled sear lines. The deep ridges allow fat to drain from the meat for a fantastic grilled texture and flavour as the meat does not sit in its own fat. Includes two drainage lips to easily remove unwanted fat whilst cooking!
 NON STICK WHITFORD COATING: Featuring a super double layer non stick Whitford coating which is PFOA free allowing you to cook with less oil. The pan is evenly heated thanks to its high quality aluminium construction and is finished in a copper granite effect!
@@ -1219,7 +1219,7 @@ Material Aluminium
 Auto Shutoff No
 Special Features Induction_stovetop_compatible
 Item Weight 1.25 kg
-",metal,black,1.25kg,other,28,28,4.3
+",metal,black,1.25kg,other,28,28,4.3,handle
 "MICHELANGELO 20CM Frying Pan with Lid, Non Stick Granite Stone Frying Pan, Stone-Derived Coating Omelette Pan, Nonstick Frying Pans with Lid, Stone Skillets with Lid-Oven Safe
 Material Stainless Steel, Cast Aluminium
 Brand MICHELANGELO
@@ -1256,7 +1256,7 @@ Diameter 20 Centimetres
 Material Stainless Steel, Cast Aluminium
 Special Features Covered
 Item Weight 998 g
-",metal,other,998g,other,38.28,22.81,7.7
+",metal,other,998g,other,38.28,22.81,7.7,lid;handle
 "Circulon 82819 Premier Professional Frypan - Hassle free 26cm - Induction Non Stick Frying pan - Hard Anodized Aluminium Cookware, Black
 Material Aluminium
 Brand Circulon
@@ -1303,7 +1303,7 @@ Diameter 26 Centimetres
 Material Aluminium
 Special Features Gas_stovetop_compatible, Induction_stovetop_compatible, Dishwasher-safe, Electric_stovetop_compatible
 Item Weight 1.26 kg
-",metal,black,1.26kg,other,11.5,27,47
+",metal,black,1.26kg,other,11.5,27,47,lid;handle
 "Tefal Day By Day ON B56406AZ 28 cm Frying Pan, Black
 Material Aluminium
 Brand Tefal
@@ -1338,7 +1338,7 @@ Product Dimensions 46.4 x 31 x 7.1 cm; 683 Grams
 Material Aluminium
 Special Features Dishwasher-safe
 Item Weight 683 g
-",metal,other,683g,other,46.4,31,7.1
+",metal,other,683g,other,46.4,31,7.1,other
 "Premier Cookware Folding Grill Pan - Cast Aluminium Non Stick Griddle Pan - Induction Suitable - Soft Touch Handle (28cm Grill Pan)
 Brand Dawsons Living
 Has non-stick coating Yes
@@ -1363,7 +1363,7 @@ Dishwasher safe? Yes
 Brand Dawsons Living
 Package Dimensions 32.5 x 30.7 x 5.3 cm; 1.13 Kilograms
 Item Weight 1.13 kg
-",metal,other,1.13kg,other,32.5,30.7,5.3
+",metal,other,1.13kg,other,32.5,30.7,5.3,handle
 "Tefal H9129944 Shallow pan 30cm, Jamie Oliver, Hard Anodised, Aluminium
 Material Aluminium Hard Anodised
 Finish type Non Stick
@@ -1402,7 +1402,7 @@ Is assembly required No
 Number of pieces 2
 Batteries required No
 Item weight 3.15 Kilograms
-",metal,other,3.15kg,other,38,11,34
+",metal,other,3.15kg,other,38,11,34,lid;handle
 "KitchenCraft KCBLINIS Induction Safe Blinis Pan with 7 Holes and Blini Recipe, Cast Iron, 24 cm, Black
 Material Cast Iron
 Brand KitchenCraft
@@ -1471,7 +1471,7 @@ Batteries included? No
 Batteries Required? No
 Assembled Diameter 24 Centimetres
 Item Weight 800 g
-",metal,black,800g,1000ml,24,35.5,4.5
+",metal,black,800g,1000ml,24,35.5,4.5,other
 "Non Stick Ceramic Coated 26cm Stay Cool Handle Induction Safe 4 Eggs Fry Pan/Mini Crepe/Mini Uttapam/Pancakes (4 Hole Pancake)
 Material Aluminium
 Brand INTIGNIS
@@ -1510,7 +1510,7 @@ Product Dimensions 26 x 26 x 1.3 cm; 1.31 Kilograms
 Material Aluminium
 Special Features Covered
 Item Weight 1.31 kg
-",metal,black,1.31kg,other,26,26,1.3
+",metal,black,1.31kg,other,26,26,1.3,handle
 "Tefal G12408 Titanium Fusion Frying Pan 32 cm (Titanium Excellence Non-Stick Coating, Thermo-Spot, Hard Fusion Outer Layer, Suitable for All Heat Sources Including Induction) Black
 Material Aluminium
 Brand Tefal
@@ -1551,7 +1551,7 @@ Diameter 32 Centimetres
 Material Aluminium
 Special Features Covered
 Item Weight 1.64 kg
-",metal,black,1.64kg,other,51.4,34,8
+",metal,black,1.64kg,other,51.4,34,8,brush
 "LE CREUSET Toughened Non-Stick Square Grill Pan, 28 cm
 Material Aluminium
 Brand LE CREUSET
@@ -1592,7 +1592,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x SQUARE GRILL PAN 28CM WITH COLOR BOX
 Item weight 1.18 Kilograms
-",metal,other,1.18kg,other,50.5,29.1,7.5
+",metal,other,1.18kg,other,50.5,29.1,7.5,handle
 "Ancillary Range P177 Chefs choice 12 cm Blini/One Egg Pan
 Material Aluminium
 Brand Ancillary Range
@@ -1635,7 +1635,7 @@ Diameter 12 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe
 Item Weight 150 g
-",metal,other,150g,other,30.4,13.2,3
+",metal,other,150g,other,30.4,13.2,3,other
 "HITECLIFE Wok Pan 30cm, 100% No Chemical, High Carbon Steel Stir Fry Pan with Detachable Wood Handle, Scratch Resistant Chinese Iron Pot, Oven Safe
 Material Carbon Steel
 Brand HITECLIFE
@@ -1676,7 +1676,7 @@ Diameter 30 Centimetres
 Material Carbon Steel
 Special Features Non-coating, Oven Safe, Gas Stovetop Compatible
 Item Weight 1.09 kg
-",metal,black,1.09kg,other,34.7,33.6,12.1
+",metal,black,1.09kg,other,34.7,33.6,12.1,handle
 "Le Creuset 51112200010002 TNS 20x4cm Frying Pan, Aluminium
 Shallow Frying Pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance). Glass lid sold separately
 6-layer construction including a 3-layer PFOA-free, reinforced non-stick coating, Metal utensil safe, Easy food release, No seasoning required
@@ -1707,7 +1707,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 20x4cm Frying Pan
 Item weight 1 Kilograms
-",metal,other,1kg,other,38.4,21.1,6.6
+",metal,other,1kg,other,38.4,21.1,6.6,lid;handle
 "Zyliss Cook Ultimate Induction Frying Pan - 28 cm, Non-Stick with a Heat-Resistant Handle, Made with Aluminium, Dishwasher and Oven Safe, in Black
 Model name E980065
 Material Aluminium
@@ -1756,7 +1756,7 @@ Is assembly required No
 Number of pieces 3
 Batteries required No
 Item weight 1.12 Kilograms
-",metal,black,1.12kg,3.6L,46.9,28.9,6.8
+",metal,black,1.12kg,3.6L,46.9,28.9,6.8,handle
 "Penguin Home Professional Induction-Safe Milk Pan, Stainless Steel - Suitable for All Hobs - 14 cm, 1 L
 Material Stainless Steel
 Finish type Stainless Steel
@@ -1803,7 +1803,7 @@ Capacity 1 litres
 Material Stainless Steel
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 410 g
-",metal,other,410g,1L,14,14,7.5
+",metal,other,410g,1L,14,14,7.5,handle
 "Tefal Non-Stick Chapatti and Indian Flatbread Pan Madras Collection, Aluminium, Black, 30 cm
 Model name TEF-A7491544
 Material Aluminium
@@ -1854,7 +1854,7 @@ Volume Capacity 500 Millilitres
 Material Aluminium
 Special Features Electric Stovetop Compatible
 Item Weight 677 g
-",metal,black,677g,500ml,50,30,8
+",metal,black,677g,500ml,50,30,8,other
 "Morrisons Aluminium Chip Pan, 20 cm
 With a non-stick easy-clean Teflon coating
 Easy clean
@@ -1875,7 +1875,7 @@ Units 1 count
 Manufacturer contact Wm Morrison Supermarkets PLC, Gain Lane, Bradford, BD3 7DL
 Brand Morrisons
 Manufacturer Wm Morrison Supermarkets PLC
-",metal,other,1.1kg,other,38.5,21,15.5
+",metal,other,1.1kg,other,38.5,21,15.5,other
 "Tower T80304 Cerasure Induction Casserole Dish With Lid, Non Stick Ceramic Coating, Stay Cool Handles, Aluminium, 5.2 Litre Capacity, 24 cm , Grey
 Material Graphite
 Brand Tower
@@ -1918,7 +1918,7 @@ Capacity 5 litres
 Material Graphite
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.54 kg
-",metal,grey,1.54kg,5L,25,39,19
+",metal,grey,1.54kg,5L,25,39,19,lid;handle
 "Navaris Non Stick Pancake Pan 26cm - Induction-Safe Aluminium Crepe Pan Round Griddle with Handle - Large Frying Skillet for Crepes, Fried Eggs, Dosa
 VERSATILE COOKING: Enhance your cooking with the Navaris Non-Stick Pancake Pan that will serve you well when making pancakes, crepes, eggs, omelettes and tortillas. The pan doubles as a flat Indian tawa for preparing delicious dosa, chapati or roti.
 NONSTICK COATING: It's the coating that counts! The non-stick coating and low rim around the edge make it easy for you to turn and slide dosas, pancakes or crêpes and remove them from the skillet. Achieve perfect results in no time!
@@ -1947,7 +1947,7 @@ Diameter 26 Centimetres
 Material Aluminum
 Special Features Suitable for all hobs, Non-Stick
 Item Weight 727 g
-",metal,black,727g,other,44.5,27,5
+",metal,black,727g,other,44.5,27,5,handle
 "Zyliss E980067 Cook Non-Stick Square Grill Pan, Aluminium, Black, 45.1 x 26.9 x 5.7 cm
 Model name E980067
 Material Aluminium
@@ -1990,7 +1990,7 @@ Is assembly required No
 Number of pieces 9
 Batteries required No
 Item weight 1.16 Kilograms
-",metal,black,1.16kg,3L,45.1,26.9,5.7
+",metal,black,1.16kg,3L,45.1,26.9,5.7,other
 "Duronic Electric Griddle GP20 | Non-Stick Teppanyaki Grill Pan | Large Table-top Breakfast Cooking Plate | 52x27cm | Easy Clean | Fat Drip Tray | Adjustable Temperature | Indoor Portable BBQ Barbecue
 Colour Black
 Material Aluminium
@@ -2025,7 +2025,7 @@ Product Dimensions 61.5 x 32 x 8 cm; 2.68 Kilograms
 Material Aluminium
 Special Features Non-stick aluminium pan, Adjustable temperature/thermostat dial, Removable oil drip tray, Size: 52x27cm, Easy to Clean, Duronic Electric Griddle GP20, Heats up quickly to a high heat, 2000W, Fitted with a BS British Standard 3-pin plug
 Item Weight 2.68 kg
-",metal,black,2.68kg,other,61.5,32,8
+",metal,black,2.68kg,other,61.5,32,8,handle
 "SKY LIGHT Wok Pan with Lid Induction, Nonstick Stir Fry Pan 30cm, 100% APEO & PFOA-Free White-Ford Coating, Cookware Pot with Detachable Wooden Handle
 Finish type Non Stick
 Brand SKY LIGHT
@@ -2056,7 +2056,7 @@ Model Number 289834
 Product Dimensions 38.5 x 34.5 x 11 cm; 2.55 Kilograms
 Special Features Suitable for induction hobs, With lid, Non-stick
 Item Weight 2.55 kg
-",metal,other,2.55kg,other,38.5,34.5,11
+",metal,other,2.55kg,other,38.5,34.5,11,lid;handle
 "Le Creuset 962003281 3-Ply Stainless Steel Non-Stick Frying Pan, 28 x 6 cm, Silver
 Material Stainless Steel
 Brand LE CREUSET
@@ -2101,7 +2101,7 @@ Diameter 28 Centimetres
 Material Stainless Steel
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.45 kg
-",metal,silver,1.45kg,other,27.9,27.9,6.1
+",metal,silver,1.45kg,other,27.9,27.9,6.1,handle
 "Copper Non Stick Frying Pan with Premium High Performance Stone Coating Bakelite Wood Effect Handle 28cm | Perfect Healthy Dry Frying
 ENHANCE COOKING EXPERIENCE: Deco Express Copper Stone frying pan combines the highest culinary technology with unique style to create unsurpassed heat conductivity and culinary elegance. Allows for quick and even heat diffusion as well as enhancing the natural flavours of the food cooked in it.
 HEALTHY COOKING NON STICK SYSTEM : This non stick frying pan is the perfect addition to your copper kitchen accessories. This High Performance Non-Stick System Copper Pan enables Healthy Dry Fry without Oil or butter!
@@ -2116,7 +2116,7 @@ EXTREMELY DURABLE : The ultimate tool in everyday cooking, Deco Express Copper f
 UNSURPASSED QUALITY: Professional-style Bakelite Heat Resistant handles offer a superior, soft feel grip and secure fixing.
 ","Package Dimensions 48.9 x 30.4 x 9.3 cm; 1.26 Kilograms
 Batteries required No
-",metal,other,1.26kg,other,48.9,30.4,9.3
+",metal,other,1.26kg,other,48.9,30.4,9.3,handle
 "Le Creuset 3-Ply Stainless Steel Sauté pan with Lid, 24 x 6.5 cm
 Material Stainless Steel
 Brand LE CREUSET
@@ -2161,7 +2161,7 @@ Capacity 2.9 litres
 Material Stainless Steel
 Special Features Dishwasher-safe
 Item Weight 1.91 kg
-",metal,silver,1.91kg,2.9L,46.5,25.4,10.9
+",metal,silver,1.91kg,2.9L,46.5,25.4,10.9,lid
 "Lodge 17L8SGP3 26.67 cm / 10.5 inch Pre-Seasoned Cast Iron Square Grill Pan / Fat-Free Fryer, Black
 Model name Pre-Seasoned Cast Iron
 Material Cast Iron
@@ -2208,7 +2208,7 @@ Material Cast Iron
 Auto Shutoff No
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 2.95 kg
-",metal,black,2.95kg,other,43.8,26.7,6.7
+",metal,black,2.95kg,other,43.8,26.7,6.7,other
 "Le Creuset Signature Cast Iron Frying Pan With Large Frying Area and Cool-Touch Wooden Handle, For All Hob Types, 26 cm, Volcanic, 200582609
 Material Wood
 Brand LE CREUSET
@@ -2251,7 +2251,7 @@ Diameter 26 Centimetres
 Material Wood
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Microwave-Safe,Induction_Stovetop_Compatible
 Item Weight 2.75 kg
-",metal,other,2.75kg,1.6L,56.4,30.5,9.5
+",metal,other,2.75kg,1.6L,56.4,30.5,9.5,lid;handle;lock
 "Tefal C6360802 Everest Frying Pan with Thermospot, Aluminium, Stone Effect, 32 cm
 Material Aluminium
 Brand Tefal
@@ -2294,7 +2294,7 @@ Diameter 32 Centimetres
 Material Aluminium
 Special Features Covered
 Item Weight 1.64 kg
-",metal,other,1.64kg,other,51.4,34,8
+",metal,other,1.64kg,other,51.4,34,8,handle
 "Lodge L10SK3CN 30.48 cm/12 inch Pre-Seasoned Cast Iron Round Skillet/Frying Pan, Black
 Material Cast Iron
 Brand LODGE
@@ -2341,7 +2341,7 @@ Material Cast Iron
 Auto Shutoff No
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 3.6 kg
-",metal,black,3.6kg,other,45.7,31.9,5.7
+",metal,black,3.6kg,other,45.7,31.9,5.7,handle
 "Le Creuset 962002241 3-Ply Stainless Steel Non-Stick Frying Pan, 24 x 5 cm, Silver
 Material Stainless Steel
 Brand LE CREUSET
@@ -2386,7 +2386,7 @@ Diameter 24 Centimetres
 Material Stainless Steel
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.09 kg
-",metal,silver,1.09kg,other,23.9,23.9,5.1
+",metal,silver,1.09kg,other,23.9,23.9,5.1,handle
 "Judge Vista J231A Stainless Steel Non-Stick Sauteuse 24cm Frying Pan with Shatterproof Glass Lid, Induction Ready, Oven Safe, 25 Year Guarantee
 Model name Vista
 Material Stainless Steel
@@ -2425,7 +2425,7 @@ Package Dimensions 34.6 x 26.3 x 9.4 cm; 1.94 Kilograms
 Material Stainless Steel
 Special Features Covered
 Item Weight 1.94 kg
-",metal,other,1.94kg,other,34.6,26.3,9.4
+",metal,other,1.94kg,other,34.6,26.3,9.4,lid;handle
 "Le Creuset 3-Ply Stainless Steel Non-Stick Omelette Pan, 20 x 4 cm
 Material Stainless Steel
 Brand LE CREUSET
@@ -2466,7 +2466,7 @@ Diameter 20 Centimetres
 Material Stainless Steel
 Special Features Dishwasher-safe
 Item Weight 771 g
-",metal,silver,771g,other,36.8,22.4,6.1
+",metal,silver,771g,other,36.8,22.4,6.1,handle
 "Jamie Oliver Tefal Titanium Ultra-Resistant Non-stick Saute Pan & Lid - 24cm / 2.9 Litre
 Brand Unknown
 Diameter 24 Centimetres
@@ -2501,7 +2501,7 @@ Diameter 24 Centimetres
 Capacity 2.9 litres
 Special Features Induction_stovetop_compatible, Dishwasher-safe
 Item Weight 1.34 kg
-",metal,black,1.34kg,2.9L,17.2,9.8,8
+",metal,black,1.34kg,2.9L,17.2,9.8,8,lid
 "Tefal B3010772 Extra Frying Pan, 30 cm - Black
 Material Aluminium
 Brand Tefal
@@ -2542,7 +2542,7 @@ Product Dimensions 45.7 x 29.8 x 6.7 cm; 680 Grams
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Microwave-Safe
 Item Weight 680 g
-",metal,black,680g,other,45.7,29.8,6.7
+",metal,black,680g,other,45.7,29.8,6.7,lid;handle
 "Le Creuset Signature Enamelled Cast Iron Grillit Frying Pan With Helper Handle and Two Pouring Lips, For All Hob Types and Ovens, 26 cm, Cerise, 201832606
 Material Cast Iron
 Brand LE CREUSET
@@ -2597,7 +2597,7 @@ Material Cast Iron
 Auto Shutoff No
 Special Features Induction stovetop compatible
 Item Weight 3.18 kg
-",metal,other,3.18kg,1600ml,35.3,38.4,6.6
+",metal,other,3.18kg,1600ml,35.3,38.4,6.6,handle
 "Professional Paella Pan with Lid Ultra Non-Stick Robust Quality POAF Free Black 36cm | Induction Gas Electric BBQ Grill Oven Ceramic Dishwasher Safe | Detachable Cool Silicon Handles (36cm)
 Material Aluminium
 Brand INTIGNIS
@@ -2638,7 +2638,7 @@ Product Dimensions 36 x 36 x 5.6 cm; 1.74 Kilograms
 Diameter 36 Centimetres
 Material Aluminium
 Item Weight 1.74 kg
-",metal,black,1.74kg,other,36,36,5.6
+",metal,black,1.74kg,other,36,36,5.6,lid;handle
 "Joeji's Kitchen Round Cast Aluminium Griddle Pan | 27cm Non Stick Griddle Pan for Cooking | Black Large Frying Pan with Lid
 Brand Joeji's Kitchen
 Diameter 27 Centimetres
@@ -2667,7 +2667,7 @@ Package Dimensions 29.4 x 28.7 x 8.9 cm; 2.17 Kilograms
 Diameter 27 Centimetres
 Special Features Covered
 Item Weight 2.17 kg
-",metal,other,2.17kg,other,29.4,28.7,8.9
+",metal,other,2.17kg,other,29.4,28.7,8.9,lid
 "Carote Non-Stick Deep Frying Pan 32cm with toughened Glass lid , die-cast Aluminium with PFOA-Free Granite Coating - The Perfect Saute pan, Suitable for All stoves, Including Induction
 Material Aluminium
 Brand CAROTE
@@ -2708,7 +2708,7 @@ Diameter 32 Centimetres
 Material Aluminium
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 1.16 kg
-",metal,other,1.16kg,other,58.42,35.56,15.24
+",metal,other,1.16kg,other,58.42,35.56,15.24,lid;handle
 "Tower T900020 Ice Diamond 28 cm Multi-Pan with Black Diamond Coating, Oven-Safe, Dishwasher-Safe, Ice Grey
 Material Aluminium
 Brand Tower
@@ -2751,7 +2751,7 @@ Dishwasher safe? Yes
 Warranty description 10.
 Batteries required No
 Item weight 2.23 Kilograms
-",metal,grey,2.23kg,other,29.5,38,14
+",metal,grey,2.23kg,other,29.5,38,14,lid
 "Lodge L8SK3 26.04 cm / 10.25 inch Cast Iron Round Skillet/Frying Pan
 Model name 2160028-SSI
 Material Cast Iron
@@ -2802,7 +2802,7 @@ Material Cast Iron
 Auto Shutoff No
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 2.27 kg
-",metal,other,2.27kg,other,40.9,27.1,5.1
+",metal,other,2.27kg,other,40.9,27.1,5.1,handle
 "ilimiti Frying pan Non-Stick Set 2-Piece Set, 20cm+28cm Stone Earth Frying pan-Non Stick pfoa Free, Ergonomic Handle,Frying pan Non-Stick Suitable for All Stove
 Brand Ilimiti
 Has non-stick coating Yes
@@ -2829,7 +2829,7 @@ Dishwasher safe? Yes
 Package Dimensions 49.7 x 31.9 x 12.1 cm; 2.92 Kilograms
 Dishwasher safe? Yes
 Batteries required No
-",metal,other,2.92kg,other,49.7,31.9,12.1
+",metal,other,2.92kg,other,49.7,31.9,12.1,handle
 "New Superior Cook 28cm Non-Stick Frying Pan, TEF-C3780642
 Material Ceramic
 Brand Tefal
@@ -2854,7 +2854,7 @@ Package Dimensions 45 x 27.8 x 9.4 cm; 780 Grams
 Item diameter 28 Centimetres
 Dishwasher safe? Yes
 Batteries required No
-",ceramic,other,780g,other,45,27.8,9.4
+",ceramic,other,780g,other,45,27.8,9.4,handle
 "KICHLY - Pre-Seasoned Cast Iron Skillet/Frying Pan - 10.25 Inch (26 cm) - Black
 Material Cast Iron
 Brand KICHLY
@@ -2895,7 +2895,7 @@ Package Dimensions 38 x 27.6 x 6.8 cm; 2.52 Kilograms
 Diameter 26 Centimetres
 Material Cast Iron
 Item Weight 2.52 kg
-",metal,black,2.52kg,other,38,27.6,6.8
+",metal,black,2.52kg,other,38,27.6,6.8,other
 "All-Clad 8701005165 Stainless Steel Fry Pan with Lid, Silver
 Model name Stainless Steel Fry Pan with Lid,
 Material Stainless Steel
@@ -2938,7 +2938,7 @@ Diameter 12 Inches
 Material Stainless Steel
 Special Features Dishwasher Safe
 Item Weight 2.04 kg
-",metal,silver,2.04kg,other,52.1,31.8,5.1
+",metal,silver,2.04kg,other,52.1,31.8,5.1,lid;handle
 "IPROUDER Pre-Seasoned Cast Iron Frying Pan 28.5cm, Cast Iron Deep Skillet, Steak Frying Pan with Wooden Handle and Glass Lid
 Durable cast iron construction heats evenly; Cast iron boasts superior heat retention and heat distribution, which can keep your food hot for 15 min or longer
 Beech Wooden Handle + SS Rod + SS Lope provides a safe and secure grip; 1 x Extra Beech Wooden Handle for spare.
@@ -2959,7 +2959,7 @@ Right tool to sear, sauté, broil, braise, fry; Easy care: hand wash, dry, rub w
 Package Dimensions 33.3 x 31 x 11.5 cm; 5.04 Kilograms
 Special Features Covered
 Item Weight 5.04 kg
-",metal,other,5.04kg,other,33.3,31,11.5
+",metal,other,5.04kg,other,33.3,31,11.5,lid;handle
 "Tefal Frying, pan, 28cm, Black, Stainless Steel, 28 cm
 Model name Jamie Oliver by Tefal E792032 28cm Frying Pan Everyday Stainless Steel Rangee
 Material Stainless Steel
@@ -3006,7 +3006,7 @@ Capacity 5 litres
 Material Stainless Steel
 Special Features Suitable for induction, Suitable for halogen
 Item Weight 1.24 kg
-",metal,black,1.24kg,5L,29.5,48.5,9.7
+",metal,black,1.24kg,5L,29.5,48.5,9.7,handle
 "Le Creuset 51112240010002 TNS 24x4.5cm Frying Pan, Aluminium
 Shallow Frying Pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance). Glass lid sold separately
 Everyday cooking on medium to low heat settings, Heats evenly with lasting heat retention, Seals food with delicious caramelised flavours
@@ -3035,7 +3035,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 24x4.5cm Frying Pan
 Item weight 1.5 Kilograms
-",metal,other,1.5kg,other,40.3,23.1,6.85
+",metal,other,1.5kg,other,40.3,23.1,6.85,lid;handle
 "Universal 14-HP-73 Oven Cooker Complete Grill Pan Kit
 High quality universal oven cooker grill pan and handle complete set
 Made of high quality material
@@ -3068,7 +3068,7 @@ Included Components 1 x Grill assembly
 Batteries included? No
 Batteries Required? No
 Item Weight 1.5 g
-",other,black,1.5g,other,46,5,32
+",other,black,1.5g,other,46,5,32,handle
 "SKY LIGHT Wok Pan with Lid, No Chemical Stir Fry Pan Induction 32.5cm, 100% Carbon Steel Chinese Iron Pot with Detachable Wooden Handle, Scratch Resistant Flat Bottom
 Material Wood, Carbon Steel
 Brand SKY LIGHT
@@ -3103,7 +3103,7 @@ Product Dimensions 44.8 x 35.2 x 13.5 cm; 2.65 Kilograms
 Material Wood, Carbon Steel
 Special Features Covered
 Item Weight 2.65 kg
-",metal,other,2.65kg,other,44.8,35.2,13.5
+",metal,other,2.65kg,other,44.8,35.2,13.5,lid;handle;knob
 "Russell Hobbs RH00851EU Blue Marble 28 cm Non-Stick Stir-Fry Pan | Pressed Aluminium | Induction Suitable | Heat Resistant Exterior
 Whip up delicious meals for all the family using this durable and long-lasting 28 cm non-stick stir-fry pan from Russell Hobbs.
 Made from hardwearing pressed aluminium, the high-quality blue marble two-layer non-stick interior means you can cook with less oil.
@@ -3122,7 +3122,7 @@ With a sleek and charming dark blue marble design, this handy pan has an inducti
 ","Product Dimensions 28 x 28 x 8 cm; 1.06 Kilograms
 Item diameter 28 Centimetres
 Batteries required No
-",metal,other,1.06kg,other,44,28,13
+",metal,other,1.06kg,other,44,28,13,handle
 "Quest 35500 Multi-Function Electric Cooker Pan with Lid, 1500 W, 40 cm, Black
 Brand Quest
 Material Aluminium
@@ -3165,7 +3165,7 @@ Power / Wattage 1500 watts
 Material Aluminium
 Special Features Thermostat
 Item Weight 3 kg
-",metal,black,3kg,1.5L,40,40,4
+",metal,black,3kg,1.5L,40,40,4,lid
 "Scoville Neverstick 3 in 1 Pan
 Material Aluminium
 Brand Scoville
@@ -3204,7 +3204,7 @@ Product Dimensions 44 x 35.2 x 7.5 cm; 1.14 Kilograms
 Material Aluminium
 Special Features Suitable for induction hobs, Non-stick, Dishwasher safe
 Item Weight 1.14 kg
-",metal,black,1.14kg,other,44,35.2,7.5
+",metal,black,1.14kg,other,44,35.2,7.5,other
 "Frying Pan Copper Non-Stick Coated Stainless-Steel Induction Base Pfoa Free Large 28cm - By Nuovva
 Material Stainless Steel
 Brand Nuovva
@@ -3233,7 +3233,7 @@ Dishwasher safe? Yes
 Package Dimensions 45.4 x 28 x 5.4 cm; 960 Grams
 Dishwasher safe? Yes
 Batteries required No
-",metal,black,960g,other,45.4,28,5.4
+",metal,black,960g,other,45.4,28,5.4,handle
 "Scoville Neverstick 20cm Frying Pan
 Material Aluminium
 Brand Scoville
@@ -3276,7 +3276,7 @@ Diameter 20 Centimetres
 Material Aluminium
 Special Features Dishwasher-safe
 Item Weight 520 g
-",metal,black,520g,other,36.5,20.8,6.5
+",metal,black,520g,other,36.5,20.8,6.5,other
 "VonShef Hard Anodized Sauté Pan 28cm / 3.5L - Suitable for All Hobs - Premium Aluminium with Non Stick and Glass Lid - Cool Touch Silicone Handle
 Material Aluminium
 Brand VonShef
@@ -3319,7 +3319,7 @@ Diameter 11 Inches
 Material Aluminium
 Special Features Induction_stovetop_compatible
 Item Weight 3.65 kg
-",metal,gray,3.65kg,3.5L,58.2,37.9,6
+",metal,gray,3.65kg,3.5L,58.2,37.9,6,lid;handle
 "ProCook Granite Stone Non-Stick Frying Pan - 28cm - Large Induction Pan with Tough Stone-Reinforced Coating and Heat-Resistant Handle
 Material Aluminium
 Brand ProCook
@@ -3348,7 +3348,7 @@ Is oven safe Yes
 Dishwasher safe? Yes
 Dishwasher safe? Yes
 Batteries required No
-",metal,grey,other,other,other,other,other
+",metal,grey,other,other,other,other,other,handle
 "The Lazy Pan - Cast Aluminium Non-Stick Multi-Section Frying Pan | All-in-one Breakfast pan, Frying pan & Griddle pan | from Jean Patrique
 Model name Frying Pan
 Material Stainless Steel
@@ -3389,7 +3389,7 @@ Dishwasher safe? No
 Number of pieces 3
 Batteries required No
 Item weight 1.2 Kilograms
-",metal,black,1.2kg,other,45,475,270
+",metal,black,1.2kg,other,45,475,270,handle
 "Navaris Cast Iron Skillet Pan - Pre-Seasoned 2 Handle Cast Iron Frying Pan Skillet for Oven, Stove, Barbecue, Campfire Cooking - 30 cm / 12 Inch
 SUPERIOR HEAT RETENTION: With outstanding retention of heat, the pre-seasoned cast iron skillet from Navaris lets you enjoy a superior cooking experience and enjoy better results on the hob, in the oven or even over a camp fire.
 READY SEASONED: The metal skilet is pre-seasoned with soybean oil for a natural finish that will get even better with time. This hugely versatile iron pan is ideal for stews, frying steak, baking pizza or cake, grilling, roasting and sauté.
@@ -3418,7 +3418,7 @@ Diameter 30 Centimetres
 Material Iron
 Special Features Suitable for barbecue and oven, Grab handle, Pre-seasoned
 Item Weight 3.43 kg
-",metal,black,3.43kg,other,43.5,31.5,7.4
+",metal,black,3.43kg,other,43.5,31.5,7.4,handle
 "Le Creuset 3-Ply Stainless Steel Non-Stick Frying Pan, 30 x 6.5 cm
 Material Stainless Steel
 Brand LE CREUSET
@@ -3469,7 +3469,7 @@ Volume Capacity 2300 Millilitres
 Material Stainless Steel
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible,Microwave-Safe,Dishwasher-Safe
 Item Weight 1.74 kg
-",metal,other,1.74kg,2300ml,54,31,9
+",metal,other,1.74kg,2300ml,54,31,9,handle
 "SKY LIGHT Frying Pan Induction with Lid, Deep Saute Pan 28 cm Stone-Derived Nonstick Coating, Stainless Steel Handle Cooking Pan, Oven Safe, Blue
 Brand SKY LIGHT
 Has non-stick coating Yes
@@ -3498,7 +3498,7 @@ Brand SKY LIGHT
 Package Dimensions 52.83 x 33.78 x 2.79 cm; 2.52 Kilograms
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 2.52 kg
-",metal,other,2.52kg,4L,52.83,33.78,2.79
+",metal,other,2.52kg,4L,52.83,33.78,2.79,lid;handle
 "Le Creuset 51106280010002 TNS 28x2cm Crepe Pan, Aluminium
 Material Aluminium
 Brand LE CREUSET
@@ -3537,7 +3537,7 @@ Number of pieces 4
 Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 28x2cm Crepe Pan
-",metal,other,1.62kg,other,50.2,28.6,7.7
+",metal,other,1.62kg,other,50.2,28.6,7.7,handle
 "Egg Frying Pan Non Stick 20cm/ 7.9 inch, Induction Wok for Steak Bacon Hot-Dog Burgers, Forged Aluminum Woks Nonstick Anti-Scratch Coating Anti-scalding Handle Design, Suitable for All Hobs - RAINBEAN
 Material Wood
 Brand RAINBEAN
@@ -3572,7 +3572,7 @@ Colour 20cm Frying Pan
 Product Dimensions 35.5 x 20 x 4 cm; 200 Grams
 Material Wood
 Item Weight 200 g
-",metal,other,200g,other,35.5,20,4
+",metal,other,200g,other,35.5,20,4,handle
 "Circulon 84202 - Momentum - Hard Anodised Shallow Casserole Dish - Total Non Stick - Induction Suitable - 30 cm, Black
 Model name Momentum
 Material Aluminium
@@ -3615,7 +3615,7 @@ Product Dimensions 30 x 31.5 x 15.5 cm; 2.31 Kilograms
 Material Aluminium
 Special Features ✅ Hard Anodised, ✅ Induction Suitable, ✅ Oven and Dishwasher Safe, ✅ PFOA Free, ✅ Non Stick
 Item Weight 2.31 kg
-",metal,black,2.31kg,other,30,31.5,15.5
+",metal,black,2.31kg,other,30,31.5,15.5,lid
 "Tower T80336 Cerastone Induction Grill Pan, Non Stick Ceramic Coating, Easy to Clean, Dishwasher Safe, Graphite, 25 cm
 Material Ceramic
 Brand Tower
@@ -3662,7 +3662,7 @@ Diameter 25.5 Centimetres
 Material Ceramic
 Special Features Bonded Steel Base, Heat Resistant Graphite Exterior, Non-stick Interior, Aluminium Body, Stay Cool Handles, Ridged Base
 Item Weight 800 g
-",metal,other,800g,other,25.5,44.4,7.7
+",metal,other,800g,other,25.5,44.4,7.7,handle
 "Tefal Day By Day ON B56419AZ 28 cm Stir Fry Pan, Black
 Material Aluminium
 Brand Tefal
@@ -3697,7 +3697,7 @@ Item diameter 28 Centimetres
 Is assembly required No
 Batteries required No
 Item weight 0.81 Kilograms
-",metal,other,0.81kg,other,46.5,29.4,9.4
+",metal,other,0.81kg,other,46.5,29.4,9.4,other
 "Tefal Jamie Oliver Hard Anodised Premium Series Frypan - 30cm, Black
 Material Aluminium
 Brand Tefal
@@ -3740,7 +3740,7 @@ Diameter 30 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.6 kg
-",metal,black,1.6kg,other,53.8,34.3,11.8
+",metal,black,1.6kg,other,53.8,34.3,11.8,handle
 "20cm, 24cm, 28cm Non-Stick Frying Pan Forged Aluminum High-Tech Marble Effect Coating | Suitable for use on Gas, Induction, Electric and Ceramic hobs. (24cm)
 Brand Sovereign Stone
 Diameter 24 Centimetres
@@ -3767,7 +3767,7 @@ Brand Sovereign Stone
 Package Dimensions 44.1 x 27.4 x 8.6 cm; 660 Grams
 Diameter 24 Centimetres
 Item Weight 660 g
-",metal,other,660g,other,44.1,27.4,8.6
+",metal,other,660g,other,44.1,27.4,8.6,handle
 "Sapphire Collection P044 15 cm Non Stick Sauce Pan , Black
 Material Glass
 Finish type Non Stick
@@ -3810,7 +3810,7 @@ Capacity 1.6 litres
 Material Glass
 Special Features Helper handle, Covered
 Item Weight 281 g
-",glass,black,281g,1.6L,23,15.2,8
+",glass,black,281g,1.6L,23,15.2,8,handle
 "Paella Pan or Frying Pan with Lid - Kitchen Essentials - Sautéing, Roasting, Broiling - 36cm Aluminium Skillet- Stainless Steel Induction Base - German GREBLON Ceramic Coating (Black)
 Material Aluminium
 Brand INTIGNIS
@@ -3859,7 +3859,7 @@ Diameter 36 Centimetres
 Material Aluminium
 Special Features Oven safe, Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 1.76 kg
-",metal,black,1.76kg,other,36,36,5.5
+",metal,black,1.76kg,other,36,36,5.5,lid;handle
 "28CM Frying Pan with Lid,Nonstick Stone Derived Granite Pans，Granite Coating Omelette Skillet with Bakelite Heat-Resistant Handle, glass lid and wooden shovel Induction Compatible
 Material Aluminium
 Brand Indoor Ultima
@@ -3894,7 +3894,7 @@ Colour Stone
 Package Dimensions 37 x 35 x 12 cm; 2.5 Kilograms
 Material Aluminium
 Item Weight 2.5 kg
-",metal,other,2.5kg,other,37,35,12
+",metal,other,2.5kg,other,37,35,12,lid;handle
 "Andrew James Griddle Pan for All Hobs Including Induction | Oven-Proof Non-Stick Aluminium Pan with Removable Handle | Delicious Chargrilled Meat Chicken Fish & Veg
 Material Aluminium
 Brand Andrew James
@@ -3925,7 +3925,7 @@ Is oven safe Yes
 Product Dimensions 50 x 31 x 4.4 cm; 1.34 Kilograms
 Warranty description 2 year warranty ( no registration required ).
 Batteries required No
-",metal,black,1.34kg,other,50,31,4.4
+",metal,black,1.34kg,other,50,31,4.4,handle
 "Tefal C6360602 Everest Frying Pan with Thermospot, Aluminium, Stone Effect, 28 cm
 Material Aluminium
 Brand Tefal
@@ -3964,7 +3964,7 @@ Product Dimensions 47.5 x 30 x 7.5 cm; 1.17 Kilograms
 Material Aluminium
 Special Features Covered
 Item Weight 1.17 kg
-",metal,other,1.17kg,other,47.5,30,7.5
+",metal,other,1.17kg,other,47.5,30,7.5,handle
 "MICHELANGELO Frying Pan with Lid 30cm, Hard Anodized Non Stick Frying Pans 30cm, Induction Frying Pan 30cm, Granite Frying Pan with Lid with Stainless Steel Handle, Frying Pan for Induction Hob
 Material Anodized Aluminium
 Brand MICHELANGELO
@@ -4005,7 +4005,7 @@ Diameter 30 Centimetres
 Material Anodized Aluminium
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Dishwasher Safe, Skillets, Saucepans
 Item Weight 2.52 kg
-",metal,other,2.52kg,other,57.15,36.83,10.16
+",metal,other,2.52kg,other,57.15,36.83,10.16,lid;handle
 "MSC International 50162 Joie Whisky Egg Non-Stick Fry Pan, Black
 Model name Joie
 Material Nonstick-Coating
@@ -4044,7 +4044,7 @@ Product Dimensions 30.48 x 12.7 x 2.54 cm; 27 Grams
 Material Nonstick-Coating
 Special Features Covered
 Item Weight 27 g
-",metal,black,27g,other,30.5,12.7,2.5
+",metal,black,27g,other,30.5,12.7,2.5,other
 "Salter BW08650 Marble Gold Non-Stick Frying Pan, Forged Aluminium, 24 cm, Black
 Material Aluminium
 Brand Salter
@@ -4087,7 +4087,7 @@ Diameter 24 Centimetres
 Material Aluminium
 Special Features Covered
 Item Weight 670 g
-",metal,black,670g,other,44,24.6,5
+",metal,black,670g,other,44,24.6,5,handle
 "VonShef Large Multi Cooker - Aluminium 1500W Electric Frying Pan with Glass Steam Vent Lid, 42cm Diameter, Easy Clean Non-Stick Coated Surface & Cool Touch Handles - Sauté, Braise, Brown, Simmer, Stew
 Brand VonShef
 Material Aluminium
@@ -4134,7 +4134,7 @@ Power / Wattage 1500 watts
 Material Aluminium
 Special Features Thermostat
 Item Weight 3.9 kg
-",metal,black,3.9kg,2500ml,42,42,5
+",metal,black,3.9kg,2500ml,42,42,5,lid;handle;knob
 "Tower T800003RB Linear Non Stick Induction Saute Pan With Lid, Bonded Stainless Steel Base, Black And Rose Gold, 28 cm
 Material Aluminium
 Brand Tower
@@ -4175,7 +4175,7 @@ Product Dimensions 52 x 28 x 13 cm; 1.66 Kilograms
 Material Aluminium
 Special Features Rose Gold Plated Handles, Bonded Steel Base, Heat Resistant Linear Exterior, Tempered Glass Infuser Lid, Non-stick Interior, Aluminium Body, Handwash
 Item Weight 1.66 kg
-",metal,black,1.66kg,other,52,28,13
+",metal,black,1.66kg,other,52,28,13,lid;handle
 "Frying pan with lid Non-Stick - 28cm Mini Wok Deep Saute Pan Cooking Pans, Anti Scratch, Anti Stain, German Standard Greblon Stone Coating, Induction Skillet, Chemical Free Stir Fry (Black)
 Model name PL-28
 Material Aluminium
@@ -4224,7 +4224,7 @@ Capacity 4.5 litres
 Material Aluminium
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 2.34 kg
-",metal,black,2.34kg,4.5L,28,28,8.2
+",metal,black,2.34kg,4.5L,28,28,8.2,lid;handle
 "Le Creuset 51104300010202 TNS 30x9cm StirFrying Pan w/Helper Handle, Aluminium
 Stir Fry pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance).
 Deep side walls perfect for stir-frying, Ideal for lower-fat, higher surface temperature cooking, Heats evenly with lasting heat retention
@@ -4253,7 +4253,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 30x9cm Stir-frying Pan w/Helper Handle
 Item weight 2.08 Kilograms
-",metal,other,2.08kg,other,57.1,31.1,11.5
+",metal,other,2.08kg,other,57.1,31.1,11.5,handle
 "Le Creuset Durable Cast Iron Crepe Pan, With Long Lasting Enamel Coating and Ergonomic Handle, 27cm, Cerise, 201362706
 Model name L2036-2767
 Material Cast Iron
@@ -4302,7 +4302,7 @@ Capacity 2.5 litres
 Material Cast Iron
 Special Features Induction Stovetop Compatible
 Item Weight 2.04 kg
-",metal,red,2.04kg,2.5L,40.1,26.9,6.1
+",metal,red,2.04kg,2.5L,40.1,26.9,6.1,handle
 "SPARES2GO Extra Large Grill Pan, Rack & Dual Detachable Handles for Neff Oven Cookers
 Replacement Extra Large Enamel Grill Pan with Detachable Handles made for SPARES2GO to fit all models of Neff Oven Cooker
 Fits models: all makes and models of Neff oven / cooker (Please Double Check Measurements and Gallery Images before purchasing).
@@ -4325,7 +4325,7 @@ Model Number 02-UOCGP-115
 Package Dimensions 46 x 39 x 5.7 cm; 1.9 Kilograms
 Auto Shutoff No
 Item Weight 1.9 kg
-",metal,other,1.9kg,other,46,39,5.7
+",metal,other,1.9kg,other,46,39,5.7,handle;rack
 "Le Creuset 51101260010202 TNS 26x6.5cm Frying Pan w/Helper Handle, Aluminium
 Deep frying pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance), Glass lid sold separately
 6-layer construction including a 3-layer PFOA-free, reinforced non-stick coating, Metal utensil safe, Easy food release, No seasoning required
@@ -4356,7 +4356,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 26x6.5cm Frying Pan w/Helper Handle
 Item weight 5 Kilograms
-",metal,other,5kg,other,51.7,27.1,9.6
+",metal,other,5kg,other,51.7,27.1,9.6,lid;handle
 "Tramontina 62155/260 Grano Frying Pan, 18/10, 2.2 liters, Stainless Steel
 Model name Grano
 Material Stainless Steel
@@ -4401,7 +4401,7 @@ Capacity 2.2 litres
 Material Stainless Steel
 Special Features Gas Stovetop Compatible, Electric Stovetop Compatible, Induction Stovetop Compatible
 Item Weight 1.1 kg
-",metal,other,1.1kg,2.2L,47.6,27,9.6
+",metal,other,1.1kg,2.2L,47.6,27,9.6,handle
 "New Superior Cook 32cm Non-Stick Frying Pan
 Brand Tefal
 Has non-stick coating Yes
@@ -4422,7 +4422,7 @@ Brand Tefal
 Package Dimensions 50 x 32 x 9 cm; 880 Grams
 Special Features Covered
 Item Weight 880 g
-",metal,other,880g,other,50,32,9
+",metal,other,880g,other,50,32,9,handle
 "Tefal by Jamie Oliver E85602 Stainless Steel Pan 20 cm
 Non-stick coating
 Strong, encapsulated base suitable for use on induction cookers
@@ -4451,7 +4451,7 @@ Diameter 20 Centimetres
 Material Non-stick coating
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible
 Item Weight 670 g
-",metal,other,670g,other,3.81,20,34
+",metal,other,670g,other,3.81,20,34,handle
 "Valira Black Induction Grill Pan 28x28 Cm, 28 x 28 cm
 Model name 4541/25
 Material Stainless Steel
@@ -4494,7 +4494,7 @@ Product Dimensions 28 x 28 x 30 cm; 1.52 Kilograms
 Material Stainless Steel
 Special Features Induction_stovetop_compatible
 Item Weight 1.52 kg
-",metal,black,1.52kg,other,28,28,30
+",metal,black,1.52kg,other,28,28,30,handle
 "Cooks Professional Stainless Steel Sauté Pan with Glass Lid, 30cm, 4.5L, Non-Stick, Large Capacity, Suitable for All Hobs Including Induction (Sauté Pan with Side Handles)
 Large capacity; Great for large family meals, this 30cm diameter sauté pan has a capacity of 4.5 litres
 Non-stick; The non-stick ceramic interior makes for easy cleaning and will not blister or peel, these sauté pans are also dishwasher safe
@@ -4527,7 +4527,7 @@ Material Stainless Steel
 Auto Shutoff No
 Special Features Induction_stovetop_compatible, Dishwasher-safe
 Item Weight 2 kg
-",metal,silver,2kg,4L,30,30,6.5
+",metal,silver,2kg,4L,30,30,6.5,lid;handle
 "Eddingtons Lodge round frying pan with handle, 20.3 cm
 Model name FBA_L5SK3
 Material Cast Iron
@@ -4570,7 +4570,7 @@ Diameter 20.3 Centimetres
 Material Cast Iron
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 1.5 kg
-",metal,black,1.5kg,other,32.4,22,4.7
+",metal,black,1.5kg,other,32.4,22,4.7,handle
 "Le Creuset Toughened Non-Stick Deep Frying Pan, 30 cm, Black, 962002300
 Material Aluminium
 Brand LE CREUSET
@@ -4619,7 +4619,7 @@ Capacity 3.7 litres
 Material Aluminium
 Special Features Dishwasher-safe
 Item Weight 1.18 kg
-",metal,black,1.18kg,3.7L,57.2,31.2,6.4
+",metal,black,1.18kg,3.7L,57.2,31.2,6.4,lid;handle
 "MICHELANGELO 26cm Frying Pan with Lid, Hard Anodized Non Stick Frying Pans 26cm, Induction Frying Pan 26cm, Granite Frying Pan with Lid with Stainless Steel Handle, Frying Pan for Induction Hob
 Brand MICHELANGELO
 Diameter 26 Centimetres
@@ -4650,7 +4650,7 @@ Brand MICHELANGELO
 Package Dimensions 47.5 x 29.59 x 11 cm; 1.68 Kilograms
 Diameter 26 Centimetres
 Item Weight 1.68 kg
-",metal,other,1.68kg,other,47.5,29.59,11
+",metal,other,1.68kg,other,47.5,29.59,11,lid;handle
 "Salter BW05456BS Carbon Steel Pan for Life Pre-Seasoned Frying Pan, Oven Safe, 24 cm, Black
 The Salter Pan For Life is preseasoned with a unique PTFE-free wax layer, which is key to preparing healthier food packed with flavour.
 After washing away the protective layer with warm water, gently dry out on the hob and then spread a little oil in the pan to seal it.
@@ -4679,7 +4679,7 @@ Diameter 24 Centimetres
 Material Steel
 Special Features Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 780 g
-",metal,black,780g,other,44.70,24,4.20
+",metal,black,780g,other,44.70,24,4.20,other
 "Le Creuset Signature Enamelled Cast Iron Skillet Frying Pan With Helper Handle and Two Pouring Lips, For All Hob Types and Ovens, 23 cm, Marseille Blue, 201822320
 Model name 20182232000422
 Material Cast Iron
@@ -4730,7 +4730,7 @@ Number of pieces 1
 Batteries required No
 Import designation Imported
 Item weight 4.2 Pounds
-",metal,other,1.91kg,1200ml,26.7,38.9,4.1
+",metal,other,1.91kg,1200ml,26.7,38.9,4.1,handle
 "Amazon Basics Stainless Steel Non-Stick Induction Frying Pan - with Soft Touch Handle, PFOA&BPA Free - 28 cm
 Material Stainless Steel
 Brand Amazon Basics
@@ -4767,7 +4767,7 @@ Product Dimensions 49.2 x 29.11 x 8.99 cm; 249.48 Grams
 Material Stainless Steel
 Special Features Induction_stovetop_compatible
 Item Weight 249 g
-",metal,other,249g,other,49.2,29.1,9
+",metal,other,249g,other,49.2,29.1,9,handle
 "LE CREUSET Toughened Non-Stick Paella Pan, 32 cm
 Everyday cooking on medium-to-low heat settings, Heats evenly with lasting heat retention, Seals food with delicious caramelised flavours;
 Contents: 1 x LE CREUSET Toughened Non-Stick Paella Pan, 1 x Care and Use Booklet, Ø 32 cm, Dimensions: 41 x 32.9 x 5.4 cm, Weight: 1.38 kg, 52101320010101
@@ -4788,7 +4788,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x PAELLA PAN 32 CM
 Item weight 1.38 Kilograms
-",other,other,1.38kg,other,41,32.9,5.4
+",other,other,1.38kg,other,41,32.9,5.4,other
 "KICHLY  Pre Seasoned Cast Iron Skillet/Frying Pan  12.5 Inch (31.75 cm) Black
 Material Cast Iron
 Brand KICHLY
@@ -4829,7 +4829,7 @@ Material Cast Iron
 Auto Shutoff No
 Special Features Pre-Seasoned
 Item Weight 3.56 kg
-",metal,black,3.56kg,other,43.2,30.5,5.8
+",metal,black,3.56kg,other,43.2,30.5,5.8,other
 "Salter BW05746S Megastone Collection Non-Stick Forged Aluminium Frying Pan, 24 cm, Silver
 Material Aluminium
 Brand Salter
@@ -4868,7 +4868,7 @@ Product Dimensions 43 x 24.8 x 4.8 cm; 20.41 Grams
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Induction_Stovetop_Compatible
 Item Weight 20.4 g
-",metal,silver,20.4g,other,43,24.8,4.8
+",metal,silver,20.4g,other,43,24.8,4.8,handle
 "Copper Non Stick Frying Pan with Premium High Performance Stone Coating comes with Bakelite Wood Effect Handle 20cm | Perfect Healthy Dry Frying
 ENHANCE COOKING EXPERIENCE: Deco Express Copper Stone frying pan combines the highest culinary technology with unique style to create unsurpassed heat conductivity and culinary elegance. Allows for quick and even heat diffusion as well as enhancing the natural flavours of the food cooked in it.
 HEALTHY COOKING : This non stick frying pan is the perfect addition to your copper kitchen accessories. This High Performance Non-Stick System Copper Pan enables Healthy Dry Fry without Oil or butter!
@@ -4883,7 +4883,7 @@ EXTREMELY DURABLE : The ultimate tool in everyday cooking, Deco Express Copper f
 UNSURPASSED QUALITY: Professional-style Bakelite Heat Resistant handles offer a superior, soft feel grip and secure fixing.
 ","Package Dimensions 38 x 21.8 x 5.8 cm; 520 Grams
 Batteries required No
-",metal,other,520g,other,38,21.8,5.8
+",metal,other,520g,other,38,21.8,5.8,handle
 "ProCook Gourmet Non-Stick Induction Shallow Casserole Pan with Lid - 24cm - 2.9L - Induction Pan with Toughened Glass Lid and Non-Slip Stay-Cool Handles
 Material Glass
 Brand ProCook
@@ -4922,7 +4922,7 @@ Capacity 5.4 litres
 Material Glass
 Special Features Dishwasher-safe
 Item Weight 1.74 kg
-",glass,black,1.74kg,5.4L,35.8,25.6,10
+",glass,black,1.74kg,5.4L,35.8,25.6,10,lid;handle
 "FAVIA Die Casting Aluminum Nonstick Saucepan Milk Pan with Glass Lid Induction Compatible Dishwasher Safe PFOA Free (18cm Saucepan)
 Material Stainless Steel
 Brand FAVIA
@@ -4957,7 +4957,7 @@ Package Dimensions 22.6 x 22 x 12.8 cm; 1.36 Kilograms
 Volume Capacity 1500 Millilitres
 Material Stainless Steel
 Item Weight 1.36 kg
-",metal,other,1.36kg,1500ml,22.6,22,12.8
+",metal,other,1.36kg,1500ml,22.6,22,12.8,lid;handle
 "Tower Cerastone T81219 Forged Saucepan with Non-Stick Coating and Soft Touch Handle,22cm, Graphite
 Material Ceramic
 Finish type Non Stick
@@ -5000,7 +5000,7 @@ Number of pieces 3
 Warranty description 5.
 Batteries required No
 Item weight 1.28 Kilograms
-",metal,other,1.28kg,3100ml,22,38,15
+",metal,other,1.28kg,3100ml,22,38,15,handle
 "Le Creuset Toughened Non-Stick Sauté Pan without Lid, Ideal For All Hob Types Including Induction, Ø 26 cm, Black
 Sauté pan with Our Best-Ever Non-Stick Coating, now 4 x stronger* (* Independently laboratory tested for metal utensil abrasion resistance)
 Deep side walls perfect for sautéing, Ideal for lower-fat, higher surface temperature cooking, Heats evenly with lasting heat retention
@@ -5029,7 +5029,7 @@ Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 26x7.8cm Open Saute Pan w/Helper Handle
 Item weight 2 Kilograms
-",metal,other,2kg,other,53.1,29.1,10.7
+",metal,other,2kg,other,53.1,29.1,10.7,lid;handle
 "Tefal L2000652 Ingenio Essential Non-stick Frying Pan, 28 cm - Black
 Material Aluminium
 Brand Tefal
@@ -5074,7 +5074,7 @@ Diameter 28 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Microwave-Safe
 Item Weight 699 g
-",metal,black,699g,other,33.2,30.2,5
+",metal,black,699g,other,33.2,30.2,5,handle
 "Scoville Neverstick 28cm Frying Pan
 Material Aluminium
 Brand Scoville
@@ -5119,7 +5119,7 @@ Material Aluminium
 Auto Shutoff No
 Special Features Dishwasher-safe
 Item Weight 998 g
-",metal,black,998g,other,49,29,13
+",metal,black,998g,other,49,29,13,other
 "Le Creuset 51106240010002 TNS 24x2cm Crepe Pan, Aluminium
 Material Aluminium
 Brand LE CREUSET
@@ -5160,7 +5160,7 @@ Number of pieces 4
 Warranty description Lifetime.
 Batteries required No
 Included components 1 x TNS 24x2cm Crepe Pan
-",metal,other,1.34kg,other,46.2,24.6,7.7
+",metal,other,1.34kg,other,46.2,24.6,7.7,handle
 "Tefal H9120644 Frying Pan, 28cm, Jamie Oliver, Hard Anodised, Aluminium
 Material Aluminium Hard Anodised
 Brand Tefal
@@ -5195,7 +5195,7 @@ Dishwasher safe? Yes
 Is assembly required No
 Number of pieces 1
 Batteries required No
-",metal,other,1.95kg,other,50.5,12.5,32
+",metal,other,1.95kg,other,50.5,12.5,32,handle
 "Geepas 1500W Multifunctional Electric Skillet | Multi Cooker Ideal for Frying | Electric Frying Pan with Glass Lid & Non-Stick Surface | Adjustable Heat Setting & Cool Touch Handles | 2 Years Warranty
 Brand Geepas
 Material Aluminum, Bakelite
@@ -5232,7 +5232,7 @@ Colour Black
 Product Dimensions 44.5 x 13 x 31 cm; 2.7 Kilograms
 Material Aluminum, Bakelite
 Item Weight 2.7 kg
-",metal,black,2.7kg,other,44.5,13,31
+",metal,black,2.7kg,other,44.5,13,31,lid;handle
 "SQ Professional NEA Grill Die-Cast Magic Pan 32cm Double Sided (Rossa)
 Material Aluminium
 Brand SQ Professional
@@ -5265,7 +5265,7 @@ Product Dimensions 32 x 32 x 3.99 cm; 2 Kilograms
 Item diameter 32 Centimetres
 Batteries required No
 Item weight 4.41 Pounds
-",metal,red,2kg,other,32,32,4
+",metal,red,2kg,other,32,32,4,handle
 "Andrew James 42cm Electric Multicooker with Adjustable Temperature Control | 1500W | Non-Stick | Glass Lid | Easy Clean | Breakfast Dinner One Pot Cooking
 Brand Andrew James
 Material Stainless steel
@@ -5306,7 +5306,7 @@ Material Stainless steel
 Auto Shutoff No
 Special Features Glass_Lid, Thermostat, Non-Stick, Adjustable_Temperature
 Item Weight 4.5 kg
-",metal,black,4.5kg,other,42,40,10.5
+",metal,black,4.5kg,other,42,40,10.5,lid;handle
 "GreenPan Saute Pan with Helper Handle, Non Stick, Toxin Free Ceramic Sauté Pan - Induction & Oven Safe Cookware - 28 cm/4.2 Litre, Grey
 Model name Venice Pro
 Material Stainless Steel, Hard Anodised Aluminium
@@ -5355,7 +5355,7 @@ Is assembly required No
 Number of pieces 1
 Warranty description Limited lifetime warranty.
 Batteries required No
-",metal,black,1.74kg,4.2L,13.3,29.1,55.4
+",metal,black,1.74kg,4.2L,13.3,29.1,55.4,handle
 "Sapphire Collection 20 cm Non Stick Fry Pan
 Material Aluminium
 Brand Sapphire collection
@@ -5398,7 +5398,7 @@ Diameter 20 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe
 Item Weight 299 g
-",metal,black,299g,other,34.8,22.2,4.4
+",metal,black,299g,other,34.8,22.2,4.4,other
 "Le Creuset Cast Iron Skillet Pan and Handle Glove, 23 cm - Cerise
 23cm surface which is perfect for frying and sauteing
 Absorbs and spreads heat evenly, with excellent heat retention
@@ -5417,7 +5417,7 @@ Steam and grease barrier for extra protection
 Protects against hot metal handles
 ","Colour Cerise
 Material Cast Iron
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,handle
 "ProCook Professional Stainless Steel Non-Stick Frying Pan with Lid - 28cm - Large Induction Pan with Toughened Glass Lid and Heat-Resistant Handles
 ✅ EXCEPTIONAL MEALS > A broad, flat cooking surface makes the induction frying pan perfect for crisping bacon, searing steaks, frying eggs, browning onions, or making pancakes. The 28cm frying pan is large enough to create wonderful meals for the whole family
 ✅ PROFESSIONAL STANDARD > Constructed to a professional specification, the 0.8mm stainless steel body and 7mm impact-bonded base of the induction pan make it incredibly strong, durable and stable, and ensure an even distribution of heat across the pan for efficient cooking, reducing the chances of over-cooking or catching
@@ -5440,7 +5440,7 @@ Colour Silver
 Diameter 28 Centimetres
 Material Stainless Steel
 Special Features Induction_stovetop_compatible, Dishwasher-safe
-",metal,silver,other,other,other,other,other
+",metal,silver,other,other,other,other,other,lid;handle
 "Tefal Ingenio Essential Non-stick Saute Pan, 24 cm - Black
 Material Aluminium
 Finish type Black
@@ -5483,7 +5483,7 @@ Diameter 24 Centimetres
 Material Aluminium
 Special Features Dishwasher-Safe,Electric_Stovetop_Compatible,Gas_Stovetop_Compatible,Microwave-Safe
 Item Weight 640 g
-",metal,black,640g,other,27,26.4,7.2
+",metal,black,640g,other,27,26.4,7.2,handle
 "Sapphire Collection 24cm Non Stick Frying pan, Aluminium, Black
 Material Aluminium
 Brand Sapphire collection
@@ -5534,7 +5534,7 @@ Special Features Dishwasher-Safe, Induction Stovetop Compatible
 Batteries included? No
 Batteries Required? No
 Item Weight 154 g
-",metal,black,154g,other,42,25.6,4
+",metal,black,154g,other,42,25.6,4,other
 "Paella Cooking Set with 60cm Polished Steel Paella Pan, Gas Burner, Legs and Skimming Spoon
 60cm Quality Polished Steel Paella Pan
 20 Tapas Portions or 16 Main Servings
@@ -5549,7 +5549,7 @@ Batteries required No
 75cm reinforced Legs and 48cm Skimming Spoon Included
 Very Easy to use - Great results for your BBQ or Garden Party
 ","Batteries required No
-",metal,other,other,other,other,other,other
+",metal,other,other,other,other,other,other,other
 "Denby 193048875 Cast Iron Griddle Pan, Pomegranate, 25 cm
 Material Cast Iron
 Brand Denby
@@ -5582,7 +5582,7 @@ Product Dimensions 25 x 29 x 4 cm; 2.9 Kilograms
 Dishwasher safe? Yes
 Batteries required No
 Item weight 2.9 Kilograms
-",metal,other,2.9kg,other,25,29,4
+",metal,other,2.9kg,other,25,29,4,other
 "STAUB 1003305 Cast Iron Square American Grill Pan, 26 x 26 cm, Black
 Model name Amerikanische Grillpfanne
 Material Cast Iron
@@ -5633,7 +5633,7 @@ Warranty description 2 year manufacturer.
 Batteries required No
 Included components No
 Item weight 3.4 Kilograms
-",metal,black,3.4kg,other,70,26,5
+",metal,black,3.4kg,other,70,26,5,handle
 "STAUB Cast Iron Double Handle Grill Pan 28 x 28 cm Black
 Model name Rechteckige Grillpfanne mit zwei Griffen, 28 cm, schwarz
 Material Cast Iron
@@ -5682,7 +5682,7 @@ Capacity 1 litres
 Material Cast Iron
 Special Features Induction_stovetop_compatible
 Item Weight 800 g
-",metal,black,800g,1L,28,28,10
+",metal,black,800g,1L,28,28,10,handle
 "Le Creuset 3-Ply Stainless Steel Non-Stick Milk Pan, 14 x 8.5 cm
 Material Stainless Steel
 Brand LE CREUSET
@@ -5729,7 +5729,7 @@ Volume Capacity 1300 Millilitres
 Material Stainless Steel
 Special Features Dishwasher-safe
 Item Weight 1.04 kg
-",metal,silver,1.04kg,1300ml,35,17,11
+",metal,silver,1.04kg,1300ml,35,17,11,handle
 "GreenPan Frying Pan, Non Stick, Toxin Free Ceramic Pan - Induction & Oven Safe Cookware - 20 cm, Grey
 Venice Pro 20 cm non-stick fry pan to fit your everyday cooking needs and techniques from saute, stir fry, braise or sear, to fry or bake all-round pan ideal for cooking breakfast, lunch and dinner. Diameter base - 14.5cm
 GreenPan's healthy ceramic non-stick Thermolon Infinity coating is toxin-free at any temperature; PFAS-free for healthy cooking, lead or cadmium, no toxic fumes will release even when accidentally overheated
@@ -5756,7 +5756,7 @@ Is assembly required No
 Warranty description Limited lifetime warranty.
 Batteries required No
 Item weight 570 Grams
-",ceramic,other,570g,other,8.2,21.3,38.2
+",ceramic,other,570g,other,8.2,21.3,38.2,handle
 "Universal Oven Cooker Grill Pan Set (380mm x 280mm) fits Belling Cannon Cookers Creda Electra English Electric Export General Electric Homark Hotpoint Indesit Jackson Wrighton and many more
 This high-quality barbecue official universal is standard for almost all stoves
 Outstanding price/quality ratio for those, who want to replace their old grill
@@ -5775,4 +5775,4 @@ This product is an equivalent for the following references: UN14110U 6100403, 61
 ","Brand Spares4appliances
 Package Dimensions 40.4 x 30 x 4.6 cm; 1.2 Kilograms
 Item Weight 1.2 kg
-",other,other,1.2kg,other,40.4,30,4.6
+",other,other,1.2kg,other,40.4,30,4.6,handle

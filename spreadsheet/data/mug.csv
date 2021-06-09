@@ -1,4 +1,4 @@
-﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height
+﻿Input,UnstructuredText,StructuredText,Material,Colour,Weight,Volume,Length,Width,Height,Parts
 "Hydro Flask - Travel Coffee Mug 354 ml (12 oz) - Vacuum Insulated Stainless Steel Travel Mug with Handle and Press-In Lid - BPA-Free - Black
 Material Stainless Steel
 Colour Black
@@ -37,7 +37,7 @@ Product Dimensions 8.76 x 12.83 x 11.56 cm; 337.93 Grams
 Capacity 12 Fluid Ounces
 Material Stainless Steel
 Item Weight 338 g
-",metal,black,338g,354ml;12oz,8.8,12.8,11.6
+",metal,black,338g,354ml;12oz,8.8,12.8,11.6,lid;handle
 "VIROSA Mamacorn Mug, Like a Normal Mum, But More Awesome, Gift for Mothers Day
 Material Ceramic
 Colour White
@@ -74,7 +74,7 @@ Product Dimensions 10 x 10 x 10 cm; 430 Grams
 Capacity 312 Grams
 Material Ceramic
 Item Weight 430 g
-",ceramic,white,430g,312g,10,10,10
+",ceramic,white,430g,312g,10,10,10,handle
 "Neon Kactus 12oz/340ml | Hand Blown Borosilicate Glass Reusable Coffee Cup/Travel Mug | Food Grade Silicone Lid |Textured Thermal Sleeve |100% Plastic Free and Fully Recyclable - Super Sonic 12oz
 Material Glass, Borosilicate Glass
 Colour Super Sonic
@@ -113,7 +113,7 @@ Capacity 12 Fluid Ounces
 Material Glass, Borosilicate Glass
 Auto Shutoff No
 Item Weight 340 g
-",glass,blue,340g,12oz,9,9,13
+",glass,blue,340g,12oz,9,9,13,lid;cup
 "Luka Tech Handmade Enamel Butterfly Flower Glass Coffee Mugs Tea Cup with Spoon,Best Birthday Christmas Gifts for Her Women Mum Friends Mothers Day(Red-Tall)
 Material Enamel, Glass
 Colour Red-tall
@@ -142,7 +142,7 @@ Item dimensions L x W x H 15 x 10 x 10 centimetres
 Product Dimensions 15 x 10 x 10 cm; 2 Grams
 Batteries required No
 Item weight 2 Grams
-",glass,red,2g,other,15,10,10
+",glass,red,2g,other,15,10,10,cup
 "Le Creuset Stoneware Mug, 350 ml, Satin Black, 70302350000002
 Material Stoneware
 Colour Satin Black
@@ -181,7 +181,7 @@ Product Dimensions 9.1 x 12.3 x 9.35 cm; 410 Grams
 Capacity 350 Millilitres
 Material Stoneware
 Item Weight 410 g
-",other,black,410g,350ml,9.1,12.3,9.3
+",other,black,410g,350ml,9.1,12.3,9.3,other
 "Maxwell & Williams DI0215 Pete Cromer Coffee Cup / Tea Mug with 'Azure Kingfisher' Design, Porcelain, Turquoise, 375 ml
 Material Porcelain
 Colour Kingfisher
@@ -220,7 +220,7 @@ Product Dimensions 12.5 x 9 x 9 cm; 350 Grams
 Capacity 375 Millilitres
 Material Porcelain
 Item Weight 350 g
-",other,other,350g,375ml;13oz,12.5,9,9
+",other,other,350g,375ml;13oz,12.5,9,9,cup
 "GrassVillage Busier Than A Cucumber in a Woman's Prison Mug, Cup, White, Funny, Sarcasm Mug Fathers Day Xmas 11oz
 Material Ceramic
 Colour White
@@ -259,7 +259,7 @@ Capacity 312 Grams
 Material Ceramic
 Auto Shutoff No
 Item Weight 380 g
-",ceramic,white,380g,312g;11oz,9,9,9
+",ceramic,white,380g,312g;11oz,9,9,9,cup
 "'Reasons You Should Consider Being a cat' Funny Series Coffee Mug-11oz, Ceramic, White, 9 x 9 x 9 cm
 Material Ceramic
 Colour White
@@ -300,7 +300,7 @@ Diameter 9 Centimetres
 Capacity 312 Millilitres
 Material Ceramic
 Item Weight 330 g
-",ceramic,white,330g,11oz,9,9,9
+",ceramic,white,330g,11oz,9,9,9,other
 "20 OZ Large Coffee Mug, Smilatte M016 Plain Ceramic Boss Big Tea Cup with Handle for Dad Men, Red
 Material Ceramic
 Colour Red
@@ -337,7 +337,7 @@ Product Dimensions 10.3 x 6 x 12.3 cm; 670 Grams
 Capacity 567 Grams
 Material Ceramic
 Item Weight 670 g
-",ceramic,red,670g,567g;20oz,10.3,6,12.3
+",ceramic,red,670g,567g;20oz,10.3,6,12.3,handle;cup
 "Le Creuset Stoneware Mug, 350 ml, Coastal Blue, 70302354200002
 Material Stoneware
 Colour Coastal Blue
@@ -376,7 +376,7 @@ Product Dimensions 9.1 x 12.3 x 9.35 cm; 490 Grams
 Capacity 350 Millilitres
 Material Stoneware
 Item Weight 490 g
-",other,blue,490g,350ml,9.1,12.3,9.3
+",other,blue,490g,350ml,9.1,12.3,9.3,other
 "Funny mug - One Fart Away From A Poo - Adult Humour - Secret Santa gift - Christmas Present
 Material Ceramic
 Colour White
@@ -411,7 +411,7 @@ Capacity 330 Millilitres
 Material Ceramic
 Special Features Dishwasher-safe
 Item Weight 350 g
-",ceramic,white,350g,330ml,11.7,10.5,8.4
+",ceramic,white,350g,330ml,11.7,10.5,8.4,other
 "Beauty and the Beast Chip Mug - Officially Licensed Disney Merchandise
 Material Porcelain
 Colour Multi-colour
@@ -454,7 +454,7 @@ Capacity 220 Millilitres
 Volume Capacity 200 Millilitres
 Material Porcelain
 Item Weight 270 g
-",other,other,270g,220ml,11,11,10
+",other,other,270g,220ml,11,11,10,cup
 "Emoticon Poo Mug
 Material Ceramic
 Colour Brown
@@ -485,7 +485,7 @@ Colour Brown
 Product Dimensions 14.73 x 12.45 x 11.94 cm; 381.02 Grams
 Material Ceramic
 Item Weight 381 g
-",ceramic,other,381g,other,14.7,12.4,11.9
+",ceramic,other,381g,other,14.7,12.4,11.9,other
 "Zyliss E990001 Hot Mug Cafetiere | Plastic/Silicone | Grey | Coffee Travel Mug/Insulated Coffee Mug/Filter For Ground Coffee/Mug With Lid/Camping Mug | Dishwasher Safe | 5 Year Guarantee
 Material Plastic
 Colour Grey
@@ -522,7 +522,7 @@ Colour Grey
 Product Dimensions 12.1 x 8.9 x 11.4 cm; 201 Grams
 Material Plastic
 Item Weight 201 g
-",plastic,grey,201g,other,12.1,8.9,11.4
+",plastic,grey,201g,other,12.1,8.9,11.4,lid
 "Boxer Gifts MU3049 Keeps Me from Unraveling Novelty Knitting Mug , Ceramic, 12oz
 Material Ceramic
 Brand Boxer Gifts
@@ -553,7 +553,7 @@ Product Dimensions 10 x 11 x 8.5 cm; 460 Grams
 Capacity 12 Fluid Ounces
 Material Ceramic
 Item Weight 460 g
-",ceramic,other,420g,12oz,10,11,8.5
+",ceramic,other,420g,12oz,10,11,8.5,other
 "Friends Central Perk Cappuccino Mug, Ceramic Coffee or Tea Cup, 296 ml
 Material Ceramic
 Colour Friends
@@ -594,7 +594,7 @@ Capacity 300 Millilitres
 Material Ceramic
 Special Features Cappuccino mug
 Item Weight 358 g
-",ceramic,other,358g,300ml,11,13,9
+",ceramic,other,358g,300ml,11,13,9,cup
 "Thermos ThermoCafé Translucent Desk Mug, Lagoon, 450 ml
 Material Stainless Steel, Plastic
 Colour Translucent Lagoon
@@ -637,7 +637,7 @@ Product Dimensions 13 x 9 x 12 cm; 210 Grams
 Capacity 450 Millilitres
 Material Stainless Steel, Plastic
 Item Weight 210 g
-",metal,other,210g,450ml,13,9,12
+",metal,other,210g,450ml,13,9,12,lid;lock
 "Creative Tops C000236 Alphabet Mug with Novelty 'K' Design, Fine China, Multi-Colour, 350 ml (11 of 26 Letter Mugs)
 Material Fine China
 Brand Creative Tops
@@ -668,7 +668,7 @@ Package Dimensions 23.3 x 17.5 x 13.2 cm; 440 Grams
 Capacity 350 Millilitres
 Material Fine China
 Item Weight 440 g
-",other,other,440g,350ml,11.5,9,8
+",other,other,440g,350ml,11.5,9,8,other
 "Build-On Brick Mug DIY Creative Building Blocks Coffee Cups Novelty Christmas Gift(Black)
 Material Plastic
 Colour Black Updated
@@ -707,7 +707,7 @@ Package Dimensions 14.4 x 13 x 10.2 cm; 200 Grams
 Capacity 350 Millilitres
 Material Plastic
 Item Weight 200 g
-",plastic,black,200g,350ml;12oz,14.4,13,10.2
+",plastic,black,200g,350ml;12oz,14.4,13,10.2,cup
 "Pyramid MG25847 STAR WARS THE MANDALORIAN MUG THIS IS THE WAY, White
 Material Ceramic
 Colour White
@@ -744,7 +744,7 @@ Series STAR WARS THE MANDALORIAN MUG THIS IS THE WAY
 Color White
 Are Batteries Included No
 Item Weight 380 g
-",ceramic,white,380g,325ml,8,11,10
+",ceramic,white,380g,325ml,8,11,10,other
 "Oldi Mug- Birthdays Christmas Funny Gift Presents Celebration Novelty Old Large Heavy Duty Handle Dino Coated Dishwasher/Microwave Safe Sublimation Ceramic (Pink Prime)
 Material Ceramic
 Colour Pink Prime
@@ -777,7 +777,7 @@ Package Dimensions 15 x 11.6 x 9.6 cm; 400 Grams
 Capacity 325 Millilitres
 Material Ceramic
 Item Weight 400 g
-",ceramic,pink,400g,325ml;10oz,15,11.6,9.6
+",ceramic,pink,400g,325ml;10oz,15,11.6,9.6,handle
 "Something Different Witches Brew Cauldron Mug Black
 Material Stoneware
 Colour Black
@@ -814,7 +814,7 @@ Capacity 0.4 litres
 Material Stoneware
 Auto Shutoff No
 Item Weight 249 g
-",other,black,249g,0.4L,11.2,11,9.4
+",other,black,249g,0.4L,11.2,11,9.4,other
 "Evecase Enamel flower Clear Lead-free Glass Coffee Mugs Tea Cup with Steel Spoon And Gift Box, Personalised Gifts For Women Wife Mum Teacher Friends Birthday Mothers Valentines Wedding Day - Yellow
 Material Glass
 Colour Yellow
@@ -847,7 +847,7 @@ Package Dimensions 15.6 x 13.3 x 11.6 cm; 340 Grams
 Is assembly required No
 Batteries required No
 Item weight 340 Grams
-",glass,yellow,340g,350ml,15.6,13.3,11.6
+",glass,yellow,340g,350ml,15.6,13.3,11.6,cup
 "UONO Tea Cup Coffee Mug White and Gold Porcelain Big Mug for All Your Tea Coffee Needs | 380ML | Gift for Men Women and for Everyone
 Material Porcelain
 Colour White and Gold
@@ -880,7 +880,7 @@ Capacity 380 Millilitres
 Material Porcelain
 Special Features Lightweight
 Item Weight 70 g
-",other,gold,70g,380ml,15,14.8,14.8
+",other,gold,70g,380ml,15,14.8,14.8,cup
 "Build-on Brick Coffee Mug, Funny DIY Novelty Cup with Building Blocks Creative Gift for Kids Men Women Xmas Birthday (Blue)
 Material Plastic
 Colour Blue
@@ -921,7 +921,7 @@ Capacity 350 Millilitres
 Material Plastic
 Auto Shutoff No
 Item Weight 240 g
-",plastic,blue,240g,350ml;12oz,14.5,13.7,10.2
+",plastic,blue,240g,350ml;12oz,14.5,13.7,10.2,cup
 "Opard 480ML Coffee Travel Mug Auto Seal Double Walled Vacuum Insulation Stainless Steel Coffee Cup with Leakproof Lid for Men and Women (Red)
 Material Stainless Steel
 Colour Red
@@ -954,7 +954,7 @@ Package Dimensions 22.8 x 8.4 x 8.4 cm; 350 Grams
 Capacity 480 Millilitres
 Material Stainless Steel
 Item Weight 350 g
-",metal,blue,350g,480ml,22.8,8.4,8.4
+",metal,blue,350g,480ml,22.8,8.4,8.4,lid;cup
 "Paladone Dungeons and Dragons D12 Dice Shaped Mug
 Material Ceramic, Chrome
 Brand Paladone
@@ -989,7 +989,7 @@ Product Dimensions 15 x 12 x 10 cm; 320 Grams
 Capacity 450 Millilitres
 Material Ceramic, Chrome
 Item Weight 320 g
-",ceramic,other,320g,450ml,15,12,10
+",ceramic,other,320g,450ml,15,12,10,cup
 "Inside Out Rainbows Mug - Pattern Inside and Out
 Brand Two Up Two Down
 Item weight 0.66 Pounds
@@ -1018,7 +1018,7 @@ Model Number 24-MB02_SML
 Package Dimensions 14.1 x 10.8 x 10.3 cm; 299.37 Grams
 Diameter 90 Millimetres
 Item Weight 299 g
-",other,other,299g,90ml,14.1,10.8,10.3
+",other,other,299g,90ml,14.1,10.8,10.3,handle
 "V&A 5150990 Creative Tops Voysey My Garden Fine Bone China Mug in Gift Box
 Material Bone China
 Brand V&A
@@ -1051,7 +1051,7 @@ Product Dimensions 13.5 x 10 x 11 cm; 300 Grams
 Capacity 16 Fluid Ounces
 Material Bone China
 Item Weight 300 g
-",other,other,300g,450ml;16oz,13.5,10,11
+",other,other,300g,450ml;16oz,13.5,10,11,other
 "Gaming Joystick Shaped Handle Mug with Pixel Decal
 Material Ceramic
 Brand Puckator
@@ -1080,7 +1080,7 @@ Product Dimensions 9.4 x 15.2 x 12.1 cm; 200 Grams
 Capacity 8.51 Kilograms
 Material Ceramic
 Item Weight 200 g
-",other,other,200g,other,9.4,15.2,12.1
+",other,other,200g,other,9.4,15.2,12.1,handle
 "Hica Coffee 14 oz Ceramic Coffee Mug with Handle - Matte Black
 Material Ceramic
 Colour Black
@@ -1113,7 +1113,7 @@ Package Dimensions 13.4 x 12.4 x 9.4 cm; 520 Grams
 Capacity 397 Grams
 Material Ceramic
 Item Weight 520 g
-",ceramic,black,520g,14oz,13.4,12.4,9.4
+",ceramic,black,520g,14oz,13.4,12.4,9.4,handle;cup
 "Funny Mugs with Quotes Yet,Despite the Look on My Face,You're Still Talking Coffee Mug for Girls Birthday Gifts
 Material Ceramic
 Brand Generic
@@ -1140,7 +1140,7 @@ Brand Generic
 Package Dimensions 15.2 x 11.4 x 9.4 cm; 420 Grams
 Material Ceramic
 Item Weight 420 g
-",ceramic,other,420g,11oz,15.2,11.4,9.4
+",ceramic,other,420g,11oz,15.2,11.4,9.4,other
 "C nt Funny Slogan Rude Mug
 Material Ceramic
 Brand Nostalgic
@@ -1175,7 +1175,7 @@ Product Dimensions 10.8 x 10.8 x 10.59 cm; 358.34 Grams
 Capacity 312 Grams
 Material Ceramic
 Item Weight 358 g
-",ceramic,other,358g,312g,10.8,10.8,10.6
+",ceramic,other,358g,312g,10.8,10.8,10.6,other
 "Bitcoin BTC Coffee/Tea Mug - 350ml / 12 oz, Coloured Inside, Gift, Crypto Mug
 Features full colour sublimation Bitcoin logo on both sides, dishwasher and microwave safe.
 100% pure white ceramic mug with Orange inside - great gift idea for Crypto coffee addicts who will appreciate for years, especially as wealthy degenerates.
@@ -1196,7 +1196,7 @@ Perfect gift for birthday, anniversary, wedding, retirement, graduation, friends
 Package Dimensions 11.9 x 10.4 x 8.8 cm; 360 Grams
 Capacity 350 Millilitres
 Item Weight 360 g
-",ceramic,other,360g,350ml;12oz,11.9,10.4,8.8
+",ceramic,other,360g,350ml;12oz,11.9,10.4,8.8,other
 "Tealyra - Sumo Ceramic Purple - Tea Cup Infuser - 400ml - Small Mug with Lid and Stainless Steel Filter for Loose Leaf Tea - Tea-for-One
 Material Ceramic
 Colour Purple
@@ -1229,7 +1229,7 @@ Package Dimensions 14.4 x 13.7 x 12 cm; 640 Grams
 Capacity 13.5 Fluid Ounces
 Material Ceramic
 Item Weight 640 g
-",ceramic,purple,640g,400ml;13.5oz,14.4,13.7,12
+",ceramic,purple,640g,400ml;13.5oz,14.4,13.7,12,lid;cup;filter
 "SULIVES Mug with Infuser and Lid - Glass Tea Cup with Stainless Steel Infuser Basket Green 400ml/13.5oz
 Material Glass, Borosilicate Glass
 Colour Green
@@ -1262,7 +1262,7 @@ Package Dimensions 15.4 x 11.8 x 9 cm; 340 Grams
 Capacity 400 Millilitres
 Material Glass, Borosilicate Glass
 Item Weight 340 g
-",glass,green,340g,400ml;13.5oz,15.4,11.8,9
+",glass,green,340g,400ml;13.5oz,15.4,11.8,9,lid;cup;filter
 "SULIVES Tea Cup with Lid,Porcelain Tea Mug with Stainless Steel Infuser, Gradient Large Ceramic Teacup, Perfect for Office and Home Use, Black, Navy Blue 400ml
 Material Porcelain, Wood, Stainless Steel, Ceramic
 Colour Dark Blue-
@@ -1295,7 +1295,7 @@ Package Dimensions 14 x 12.1 x 9.4 cm; 520 Grams
 Capacity 400 Millilitres
 Material Porcelain, Wood, Stainless Steel, Ceramic
 Item Weight 520 g
-",other,blue,520g,400ml,14,12.1,9.4
+",other,blue,520g,400ml,14,12.1,9.4,lid;handle;cup;filter
 "NEWANOVI Ceramic Cup Smooth Frosted Porcelain Mug, Coffee Mugs, Tea Cup, for Office and Home, Health Gift, Maximum Capacity 16.9oz, Pink
 Material Ceramic
 Colour Pink
@@ -1330,7 +1330,7 @@ Package Dimensions 15.7 x 15.1 x 12.9 cm; 500 Grams
 Capacity 500 Millilitres
 Material Ceramic
 Item Weight 500 g
-",ceramic,pink,500g,500ml;16.9oz,15.7,15.1,12.9
+",ceramic,pink,500g,500ml;16.9oz,15.7,15.1,12.9,handle;cup
 "Contigo West Loop Autoseal
 Material Stainless Steel
 Colour Latte
@@ -1381,7 +1381,7 @@ Manufacturer Contigo
 Item model number 2095796
 Product Dimensions 8 x 9 x 20.5 cm; 320 Grams
 ASIN B07TRG2Y58
-",metal,other,320g,470ml,8,9,20.5
+",metal,other,320g,470ml,8,9,20.5,lid;cup;lock
 "HapiLeap 3D Pure Hand-Painted Cute Animal Ceramic Coffee Mug Coffee Cup (Giraffe)
 Material Ceramic
 Colour Yellow
@@ -1422,7 +1422,7 @@ Product Dimensions 15.39 x 13.59 x 9.4 cm; 258.55 Grams
 Capacity 400 Millilitres
 Material Ceramic
 Item Weight 259 g
-",ceramic,yellow,259g,400ml;12oz,15.4,13.6,9.4
+",ceramic,yellow,259g,400ml;12oz,15.4,13.6,9.4,cup
 "Game of Thrones Heat Changing Latte Mug | Winter is Coming | 500ml
 Material Ceramic
 Colour Black
@@ -1465,7 +1465,7 @@ Material Ceramic
 Auto Shutoff No
 Special Features Heat sensitive
 Item Weight 500 g
-",ceramic,black,500g,500ml,12.5,8.5,15.5
+",ceramic,black,500g,500ml,12.5,8.5,15.5,other
 "Out of the Blue"" Camera Lens Mug with Stainless Steel Insert, Black, 9 x 9 x 15 cm
 Material Plastic
 Colour Black
@@ -1502,7 +1502,7 @@ Product Dimensions 9 x 9 x 15 cm; 108.86 Grams
 Capacity 350 Millilitres
 Material Plastic
 Item Weight 109 g
-",plastic,black,109g,350ml,9,9,15
+",plastic,black,109g,350ml,9,9,15,other
 "AMACOAM Jujube Wood Cup, Wooden Cup Wooden Tea Set Cup Natural Wood Mug for Coffee Beer Tea Juice Milk (2pcs/set)
 Material Wood
 Brand AMACOAM
@@ -1533,7 +1533,7 @@ Package Dimensions 16 x 8 x 7.4 cm; 180 Grams
 Capacity 200 Millilitres
 Material Wood
 Item Weight 180 g
-",wood,other,180g,200ml,16,8,7.4
+",wood,other,180g,200ml,16,8,7.4,cup
 "HASAGEI Travel Mug, Insulated Coffee Cup with Leakproof Lid - Vacuum Insulation Stainless Steel for Hot and Cold Water Coffee and Tea 380ml/13oz Black
 Material Stainless Steel
 Colour Black
@@ -1566,7 +1566,7 @@ Package Dimensions 15.8 x 9.8 x 9.4 cm; 290 Grams
 Capacity 380 Millilitres
 Material Stainless Steel
 Item Weight 290 g
-",metal,black,290g,380ml;18oz,15.8,9.8,9.4
+",metal,black,290g,380ml;18oz,15.8,9.8,9.4,lid;cup
 "Pyramid Mug, Porcelain, Multicoloured, 11 oz/315 ml
 Material Porcelain
 Colour Multicoloured
@@ -1601,7 +1601,7 @@ Product Dimensions 7.9 x 11 x 9.3 cm; 300 Grams
 Capacity 284 Millilitres
 Material Porcelain
 Item Weight 300 g
-",other,other,300g,315ml;11oz,7.9,11,9.3
+",other,other,300g,315ml;11oz,7.9,11,9.3,other
 "Paladone Game Boy Heat Changing Coffee Mug - For Gamers and Coffee Enthusiasts
 Material Ceramic
 Colour Multi-colour
@@ -1642,7 +1642,7 @@ Capacity 300 Millilitres
 Material Ceramic
 Compatible Models Té
 Item Weight 350 g
-",ceramic,other,350g,300ml,10,12,8
+",ceramic,other,350g,300ml,10,12,8,other
 "Sass & Belle I Can't Adult Today Mug
 Material Porcelain
 Colour White/Gold/Black
@@ -1689,7 +1689,7 @@ Number Of Pieces 1
 Batteries included? No
 Batteries Required? No
 Item Weight 370 g
-",other,white,370g,400ml,9.7,12.5,10.2
+",other,white,370g,400ml,9.7,12.5,10.2,other
 "BigMouth Inc The Bite Me Shark Mug
 Material Plastic
 Brand Big Mouth Toys
@@ -1718,7 +1718,7 @@ Capacity 454 Grams
 Material Plastic
 Auto Shutoff No
 Item Weight 499 g
-",plastic,other,499g,454g,19.3,10.2,10.9
+",plastic,other,499g,454g,19.3,10.2,10.9,other
 "Blue Sky Designs HARRY POTTER SELF STIRRING CAULDRON MUG
 Material Plastic
 Colour Black
@@ -1761,7 +1761,7 @@ Diameter 0.12 Centimetres
 Capacity 300 Millilitres
 Material Plastic
 Item Weight 230 g
-",plastic,black,230g,300ml,12,13,13
+",plastic,black,230g,300ml,12,13,13,lid
 "Cath Kidston China Stanley Mug Festive Party Animals 400ml in Pale Blue
 Colour White
 Brand Cath Kidston
@@ -1790,7 +1790,7 @@ Colour White
 Package Dimensions 14 x 13.7 x 13.6 cm; 390 Grams
 Capacity 400 Millilitres
 Item Weight 390 g
-",other,white,390g,400ml,14,13.7,13.6
+",other,white,390g,400ml,14,13.7,13.6,cup
 "NEWANOVI Ceramic Cup Smooth Frosted Porcelain Mug, Coffee Mugs, Tea Cup, for Office and Home, Health Gift, Maximum Capacity 12.2oz, White, Single one
 Material Ceramic
 Colour White
@@ -1825,7 +1825,7 @@ Package Dimensions 15.3 x 13.9 x 13.5 cm; 350 Grams
 Capacity 22 Grams
 Material Ceramic
 Item Weight 350 g
-",ceramic,white,350g,360ml;12.2oz,15.3,13.9,13.5
+",ceramic,white,350g,360ml;12.2oz,15.3,13.9,13.5,handle;cup
 "Amazon Brand - Umi Musical Guitar Coffee Mug with Lid and Handle, 400ml Ceramic Tea Cup
 Material Ceramic
 Colour Orange
@@ -1860,7 +1860,7 @@ Package Dimensions 19.8 x 17.4 x 12 cm; 690 Grams
 Capacity 400 Millilitres
 Material Ceramic
 Item Weight 690 g
-",ceramic,orange,690g,400ml;14oz,19.8,17.4,12
+",ceramic,orange,690g,400ml;14oz,19.8,17.4,12,lid;handle;cup;brush
 "Half Moon Bay MUGDPX03 Pixar Monsters Inc Scream Canister Shaped Heat Change Mug, Ceramic, 600 milliliters
 Material Ceramic
 Colour Yellow
@@ -1901,7 +1901,7 @@ Package Dimensions 18.9 x 13.7 x 11.1 cm; 500 Grams
 Capacity 600 Millilitres
 Material Ceramic
 Item Weight 500 g
-",ceramic,yellow,500g,600ml,18.9,13.7,11.1
+",ceramic,yellow,500g,600ml,18.9,13.7,11.1,other
 "Tirita Personalised Mug Initial with Name, Custom Gift for Mum, Dad, Kids or Girls. [03 - Pink Glitter Name] Printed Glitter, NOT Real Glitter
 Material Ceramic
 Colour 03 - Pink Glitter Name
@@ -1932,7 +1932,7 @@ Colour 03 - Pink Glitter Name
 Item Weight 350 Grams
 Material Ceramic
 Item Weight 350 g
-",ceramic,pink,350g,other,other,other,other
+",ceramic,pink,350g,other,other,other,other,other
 "Maxwell & Williams DI0094 Smile Style Colourful Bird Mug in Gift Box, 'Tango' Toucan, Porcelain, Multi Colour, 370 ml
 Material Porcelain
 Brand Maxwell & Williams
@@ -1967,7 +1967,7 @@ Product Dimensions 12.5 x 8.5 x 9.5 cm; 320 Grams
 Capacity 400 Millilitres
 Material Porcelain
 Item Weight 320 g
-",other,other,320g,400ml,12.5,8.5,9.5
+",other,other,320g,400ml,12.5,8.5,9.5,other
 "Gaiwan White Porcelain Large 500ml Teacup Sancai Tea Cup Set Lid Sun Beautiful Mountain (16oz large)
 Material Porcelain
 Colour White
@@ -2006,7 +2006,7 @@ Product Dimensions 13.5 x 13.1 x 9.4 cm; 400 Grams
 Capacity 454 Grams
 Material Porcelain
 Item Weight 400 g
-",other,white,400g,500ml;16oz,13.5,13.1,9.4
+",other,white,400g,500ml;16oz,13.5,13.1,9.4,lid;cup
 "Portmeirion SMTL78914-XG Sara Miller Tahiti Mug, Lemur, Ceramic
 Material Ceramic
 Brand Portmeirion
@@ -2031,7 +2031,7 @@ Package Dimensions 14.22 x 12.7 x 10.16 cm; 28.35 Grams
 Dishwasher safe? Yes
 Batteries required No
 Item weight 1 Ounces
-",ceramic,white,28.35g,340ml;12oz,14.22,12.7,10.16
+",ceramic,white,28.35g,340ml;12oz,14.22,12.7,10.16,other
 "Aardman Wallace and Gromit Mug - Wrong Trousers
 Material Ceramic
 Colour Blue
@@ -2062,7 +2062,7 @@ Package Dimensions 23 x 19.8 x 16.6 cm; 500 Grams
 Number of pieces 1
 Batteries required No
 Item weight 0.5 Kilograms
-",ceramic,blue,500g,500ml,23,19.8,16.6
+",ceramic,blue,500g,500ml,23,19.8,16.6,other
 "Coffee Cup Insulated, Reusable Travel Mug Double Walled Stainless Steel with Leakproof Lid for Hot Drinks and Beer 13oz ,Black
 Material Stainless Steel
 Colour Black
@@ -2103,7 +2103,7 @@ Product Dimensions 15 x 9.6 x 9.6 cm; 240 Grams
 Capacity 369 Grams
 Material Stainless Steel
 Item Weight 240 g
-",metal,black,240g,369g;13oz,15,9.6,9.6
+",metal,black,240g,369g;13oz,15,9.6,9.6,lid;cup
 "Medieval Dragon Beer Mug, Stainless Steel Coffee Cup Gift Mug for Dragon Collector, Themed Party Decoration,Viking Tankard Drinkware Mug for Coffee/Beverage/Juice 17oz.
 Material Stainless Steel
 Brand Arola
@@ -2134,7 +2134,7 @@ Package Dimensions 19.2 x 17.6 x 16.4 cm; 640 Grams
 Capacity 500 Millilitres
 Material Stainless Steel
 Item Weight 640 g
-",metal,other,640g,500ml;17oz,19.2,17.6,16.4
+",metal,other,640g,500ml;17oz,19.2,17.6,16.4,cup
 "Funny Weekend Coffee Mug, I Really Need a Day Between Saturday & Sunday Cups for Friend, White 11 Oz
 Material Ceramic
 Colour White
@@ -2167,7 +2167,7 @@ Package Dimensions 13.3 x 11.7 x 10.2 cm; 311.84 Grams
 Capacity 312 Grams
 Material Ceramic
 Item Weight 311 g
-",ceramic,white,311g,312g;11oz,13.3,11.7,10.2
+",ceramic,white,311g,312g;11oz,13.3,11.7,10.2,handle;cup
 "Black Pearl (Brew) by Happy Earth (350ml, Double Wall high Grade Stainless Steel, Vacuum Insulated Travel Mug with Splash Proof lid, BPA Free)
 Material Stainless Steel
 Colour Black Pearl
@@ -2200,7 +2200,7 @@ Package Dimensions 12.6 x 9.8 x 9.6 cm; 100 Grams
 Capacity 350 Millilitres
 Material Stainless Steel
 Item Weight 100 g
-",metal,other,100g,350ml,12.6,9.8,9.6
+",metal,other,100g,350ml,12.6,9.8,9.6,lid;cup
 "Bodum K11239-01 YO-YO Glass Mug with Tea Strainer (0.35 L/12 oz) - Black
 Material Glass
 Colour Black
@@ -2247,7 +2247,7 @@ Capacity 0.35 litres
 Volume Capacity 0.35 litres
 Material Glass
 Item Weight 363 g
-",glass,black,363g,0.35L;12oz,11.4,9.5,12.1
+",glass,black,363g,0.35L;12oz,11.4,9.5,12.1,lid;cup
 "WinnerEco Primitive Handmade Wooden Drinking Cup Coffee Mug Tea Cup Breakfast Beer Milk 7 fl oz
 Material Wood
 Colour B
@@ -2284,7 +2284,7 @@ Product Dimensions 7.49 x 7.49 x 8 cm; 68.03 Grams
 Capacity 6 Fluid Ounces
 Material Wood
 Item Weight 68 g
-",wood,black,68g,6oz,7.5,7.5,8
+",wood,black,68g,6oz,7.5,7.5,8,cup
 "Danxia Ceramic Constellation Mug Coffee Cup, Gold Plating, Porcelain, White (Virgo15 OZ)
 Material Ceramic
 Brand Danxia
@@ -2313,7 +2313,7 @@ Package Dimensions 15.4 x 13.2 x 12.2 cm; 500 Grams
 Capacity 400 Millilitres
 Material Ceramic
 Item Weight 500 g
-",ceramic,other,500g,400ml;14oz,15.4,13.2,12.2
+",ceramic,other,500g,400ml;14oz,15.4,13.2,12.2,cup
 "FLORIDITTA by Happy Earth (Reusable Eco-Friendly Coffee Cup 450ml, Made with Organic Natural Bamboo Fibre, can be Used as a Travel Mug or Home Coffee Mug)
 Material Bamboo
 Colour Floriditta
@@ -2356,7 +2356,7 @@ Dishwasher safe? Yes
 Number of pieces 1
 Batteries required No
 Item weight 195 Grams
-",other,other,195g,450ml,10,9,14
+",other,other,195g,450ml,10,9,14,lid;cup
 "Cute Mugs Ceramic Unicorn Mug Funny Coffee Mug Unique Milk Tea Cups with Lace Lid and Spoon for Kids, Women,Girls (Pink)
 Material Ceramic
 Colour Pink
@@ -2389,7 +2389,7 @@ Package Dimensions 14 x 12 x 9.5 cm; 500 Grams
 Capacity 369 Grams
 Material Ceramic
 Item Weight 500 g
-",ceramic,pink,500g,369g;13oz,14,12,9.5
+",ceramic,pink,500g,369g;13oz,14,12,9.5,lid;cup
 "Danxia Handcrafted Ceramic Coffee Mug 450 ml (C)
 Material Ceramic
 Colour C
@@ -2422,7 +2422,7 @@ Package Dimensions 17 x 15.9 x 14.3 cm; 410 Grams
 Capacity 450 Millilitres
 Material Ceramic
 Item Weight 410 g
-",ceramic,other,410g,450ml,17,15.9,14.3
+",ceramic,other,410g,450ml,17,15.9,14.3,cup
 "Disney Classic Collectable Tigger Coffee Mug Gift Boxed
 A stunning classic pencil illustration design Tigger mug with gilt handle
 Complete with black and gold foiled box, this makes a beautiful gift for a lover of Disneys wonderful characters.
@@ -2441,7 +2441,7 @@ Not suitable for microwave or dishwasher.
 ","Brand Disney
 Package Dimensions 14.3 x 11.6 x 9.4 cm; 440 Grams
 Item Weight 440 g
-",ceramic,other,440g,other,14.3,11.6,9.4
+",ceramic,other,440g,other,14.3,11.6,9.4,handle
 "Reusable Coffee Cup, Insulated Travel Mug Vacuum Stainless Steel with Spill Proof Lid, Great for Hot & Cold Drinks - Coffee, Tea, Milk and Wine,12oz/340ml (Silver)
 Colour Silver
 Brand WOODFIB
@@ -2470,7 +2470,7 @@ Colour Silver
 Package Dimensions 12.8 x 9.3 x 9.2 cm; 240 Grams
 Capacity 340 Millilitres
 Item Weight 240 g
-",metal,silver,240g,340ml;12oz,12.8,9.3,9.2
+",metal,silver,240g,340ml;12oz,12.8,9.3,9.2,lid;straw;cup
 "Harry Potter | Marauder's Map Heat Changing Mug | 400ml
 Material Ceramic
 Colour Marauder's Map Mug
@@ -2511,7 +2511,7 @@ Product Dimensions 9.5 x 12.5 x 10 cm; 406 Grams
 Capacity 300 Millilitres
 Material Ceramic
 Item Weight 406 g
-",ceramic,other,406g,400ml,9.5,12.5,10
+",ceramic,other,406g,400ml,9.5,12.5,10,other
 "Super Mario (Star Power) Iridescent 11Oz Mug Multicolour Standard
 Material Porcelain
 Colour Multicolored
@@ -2546,7 +2546,7 @@ Product Dimensions 7.9 x 11 x 9.3 cm; 356 Grams
 Capacity 315 Millilitres
 Material Porcelain
 Item Weight 356 g
-",other,other,356g,315ml;11oz,7.9,11,9.3
+",other,other,356g,315ml;11oz,7.9,11,9.3,other
 "Like. By Villeroy and Boch – Lave Gris Handleless Mug, 400 ml, Handleless Cup Made From Stoneware For special coffee moments, Dishwasher and Microwave-Safe
 Material Stoneware
 Colour Grey
@@ -2583,7 +2583,7 @@ Dishwasher safe? Yes
 Number of pieces 1
 Batteries required No
 Item weight 0.99 Pounds
-",other,grey,449g,400ml,12.5,9,10.5
+",other,grey,449g,400ml,12.5,9,10.5,handle;cup
 "Bodum 11068-01 Vacuum Travel Mug, 0.35 L - Small, Black
 Material Plastic
 Colour Black
@@ -2632,7 +2632,7 @@ Diameter 9.5 Centimetres
 Capacity 0.35 litres
 Material Plastic
 Item Weight 330 g
-",plastic,black,330g,0.35L;12oz,9.5,8.2,18.5
+",plastic,black,330g,0.35L;12oz,9.5,8.2,18.5,rubber band
 "Royal Worcester MMLS5629-XSM Wrendale Rosie Mug, Multi-Color, 310ml
 Material Bone China
 Colour Multi-color
@@ -2655,7 +2655,7 @@ Capacity 310 Millilitres
 Package Dimensions 14.7 x 12.7 x 10.5 cm; 340 Grams
 Number of pieces 1
 Batteries required No
-",other,other,340g,310ml,14.7,12.7,10.5
+",other,other,340g,310ml,14.7,12.7,10.5,other
 "Red Poppy Floral Fine China Mug - Gift Boxed
 Material Fine China
 Colour Multi
@@ -2692,7 +2692,7 @@ Product Dimensions 11 x 8 x 10 cm; 290 Grams
 Material Fine China
 Auto Shutoff No
 Item Weight 290 g
-",other,other,290g,other,11,8,10
+",other,other,290g,other,11,8,10,handle
 "Cymax 250 ml Cat Glass Cup Tea Mug with Fish Tea Infuser Strainer Filter, Perfect for Wedding, Birthday Gift,Mother Day,Father Day for Cat Lovers
 Material Glass
 Brand Cymax
@@ -2721,7 +2721,7 @@ Package Dimensions 18.9 x 17.8 x 10.3 cm; 360 Grams
 Capacity 250 Millilitres
 Material Glass
 Item Weight 360 g
-",glass,other,360g,250ml,18.9,17.8,10.3
+",glass,other,360g,250ml,18.9,17.8,10.3,lid;cup;filter
 "The Stig - Top Gear Heat Reveal Mug, Ideal Birthday Gift, Secret Santa Or Stocking Filler.
 11oz heat reveal mug In gift Box
 Featuring iconic Top Gear logo
@@ -2742,7 +2742,7 @@ Product size: top diameter 8cm x 9.5cm height
 Package Dimensions 11.8 x 11.3 x 10.3 cm; 427 Grams
 Material Ceramic
 Item Weight 427 g
-",other,other,427g,11oz,11.8,11.3,10.3
+",other,other,427g,11oz,11.8,11.3,10.3,other
 "Insulated Coffee Mug, Vacuum Coffee Cup Insulated Travel Mug Double Wall Steel Reusable Coffee Cup 18oz / 510ml with Leakproof Lid Eco-Friendly Reusable Cup for Coffee, Tea, and Beer
 Material Stainless Steel
 Brand Homkeen
@@ -2777,7 +2777,7 @@ Capacity 510 Millilitres
 Power / Wattage 1500 watts
 Material Stainless Steel
 Item Weight 300 g
-",metal,other,300g,510ml;18oz,17.8,9.7,9.3
+",metal,other,300g,510ml;18oz,17.8,9.7,9.3,lid;cup;lock
 "Pyramid MG25205 Mug, Porcelain, Multi-Colour
 Material Porcelain
 Colour Multi-colour
@@ -2810,7 +2810,7 @@ Number of pieces 1
 Warranty description None.
 Batteries required No
 Item weight 500 Grams
-",other,other,500g,315ml,7.9,11,9.3
+",other,other,500g,315ml,7.9,11,9.3,other
 "Sandalwood Handle Tea Mug, Chinese Ceramic Tea Cup, with Infuser and Lid, 13 oz Matte White
 Material Ceramic
 Brand DianMai
@@ -2839,7 +2839,7 @@ Package Dimensions 19 x 15.8 x 11.1 cm; 300 Grams
 Capacity 369 Grams
 Material Ceramic
 Item Weight 300 g
-",ceramic,white,300g,13oz,19,15.8,11.1
+",ceramic,white,300g,13oz,19,15.8,11.1,lid;handle;cup;filter
 "Colourful Día De Los Muertos Style Sugar Skull White Jumbo China Mug 28oz / 800ml
 Jumbo Mug with huge volume!
 Quality China
@@ -2866,7 +2866,7 @@ Capacity 800 Millilitres
 Volume Capacity 28 Fluid Ounces
 Material Porcelain
 Item Weight 820 g
-",other,white,820g,800ml;28oz,16,16,15
+",other,white,820g,800ml;28oz,16,16,15,other
 "Tiny Tatty Teddy Gift Boxed Mummy Mug, Ceramic
 Material Ceramic
 Brand Tiny Tatty Teddy
@@ -2891,7 +2891,7 @@ Capacity 330 Millilitres
 Item dimensions L x W x H 9 x 9 x 12 centimetres
 Product Dimensions 9 x 9 x 12 cm; 350 Grams
 Batteries required No
-",ceramic,other,350g,330ml,9,9,12
+",ceramic,other,350g,330ml,9,9,12,other
 "Mug Latte Heat Changing Boxed (500ml) - Anne Stokes (Dragon)
 Material Ceramic
 Brand ANNE STOKES
@@ -2924,7 +2924,7 @@ Dishwasher safe? No
 Number of pieces 1
 Batteries required No
 Item weight 1.17 Pounds
-",ceramic,black,530g,500ml,12,13,10
+",ceramic,black,530g,500ml,12,13,10,other
 "VANUODA Mermaid Coffee Mug - Ceramic Cup with Mermaid Tail Handle - Gifts for Women Wife Mum Her Grandma Girls Teacher Friends, Personalised Christmas Birthday Mother's Day Present (Blue)
 Material Ceramic
 Colour Blue
@@ -2967,7 +2967,7 @@ Diameter 12 Centimetres
 Capacity 330 Millilitres
 Material Ceramic
 Item Weight 280 g
-",ceramic,blue,280g,330ml,14,9,10
+",ceramic,blue,280g,330ml,14,9,10,handle;cup
 "Disney Classic Collectable Piglet Coffee Mug Gift Boxed
 Material Ceramic
 Colour White
@@ -3004,7 +3004,7 @@ Product Dimensions 15 x 12 x 10 cm; 430 Grams
 Capacity 350 Millilitres
 Material Ceramic
 Item Weight 430 g
-",other,other,430g,350ml,15,12,10
+",other,other,430g,350ml,15,12,10,other
 "Liverpool Fade Design Boxed Mug
 Material Composition 100% Ceramic
 Care Instructions Hand Wash Only
@@ -3039,7 +3039,7 @@ Item weight 0.9 Grams
 Capacity 310 Millilitres
 Theme Alphabets
 Item dimensions L x W x H 16.2 x 12.8 x 10.8 centimetres
-",ceramic,red,0.9g,310ml,16.2,12.8,10.8
+",ceramic,red,0.9g,310ml,16.2,12.8,10.8,other
 "Lovely Unique 3D Coffee Tea Ceramic Mug Cup with Tabby Cat Grey
 Material Ceramic
 Brand Angel's Pride
@@ -3066,7 +3066,7 @@ Package Dimensions 15.1 x 12 x 8.6 cm; 350 Grams
 Capacity 250 Millilitres
 Material Ceramic
 Item Weight 350 g
-",ceramic,other,350g,250ml,15.1,12,8.6
+",ceramic,other,350g,250ml,15.1,12,8.6,cup
 "Sass & Belle Queen Bee Mug
 Material Porcelain
 Colour Cream/Gold
@@ -3103,7 +3103,7 @@ Package Dimensions 20.6 x 16.2 x 11 cm; 460 Grams
 Capacity 400 Millilitres
 Material Porcelain
 Item Weight 460 g
-",other,cream,460g,400ml,20.6,16.2,11
+",other,cream,460g,400ml,20.6,16.2,11,other
 "Cornwall Mug - for Americano Coffee/Tea/Hot Chocolate/Cappuccino/Latte/for Visitors of Portreath, Newquay, Looe, Tintagel or Truro - British Souvenir from England UK for Home, Kitchen, Bar
 Brand Thomas benacci
 Item weight 352 Grams
@@ -3132,7 +3132,7 @@ Brand Thomas benacci
 Product Dimensions 8 x 8 x 10 cm; 352 Grams
 Capacity 350 Millilitres
 Item Weight 352 g
-",ceramic,other,352g,350ml,8,8,10
+",ceramic,other,352g,350ml,8,8,10,cup
 "GrassVillage Five Things I Like Almost As Much As Riding My Bike Novelty Gift Mug 11oz
 Material Ceramic
 Colour White
@@ -3165,7 +3165,7 @@ Package Dimensions 23.9 x 16.4 x 12 cm; 530 Grams
 Capacity 325 Millilitres
 Material Ceramic
 Item Weight 530 g
-",ceramic,white,530g,325ml;11oz,23.9,16.4,12
+",ceramic,white,530g,325ml;11oz,23.9,16.4,12,handle
 "Puckator MULP09 Mugs, Ceramic
 Material Ceramic
 Colour Bigdream# 540
@@ -3194,7 +3194,7 @@ Product Dimensions 8.5 x 12 x 10 cm; 320 Grams
 Number of pieces 1
 Batteries required No
 Item weight 0.32 Kilograms
-",ceramic,other,320g,300ml,8.5,12,10
+",ceramic,other,320g,300ml,8.5,12,10,other
 "Portmeirion Home & Gifts Mug-Role Model (Elephants), Bone China, Multi-Colour, 19 x 12 x 8 cm
 Material Bone China
 Colour Multi-colour
@@ -3235,7 +3235,7 @@ Product Dimensions 19 x 12 x 8 cm; 252 Grams
 Capacity 312 Grams
 Material Bone China
 Item Weight 252 g
-",other,other,252g,312g,19,12,8
+",other,other,252g,312g,19,12,8,other
 "Disney Toy Story Shaped Mug - Rex (Believe in Yourself)
 Material Ceramic
 Colour Multi-coloured
@@ -3280,7 +3280,7 @@ Diameter 9 Centimetres
 Capacity 300 Millilitres
 Material Ceramic
 Item Weight 350 g
-",other,other,350g,300ml,10,11.5,9
+",other,other,350g,300ml,10,11.5,9,handle
 "Boxed Life Behind Bars Cycling Fine China Mug 13x10x9cm
 Material Bone China
 Colour Cream
@@ -3323,7 +3323,7 @@ Capacity 8 Fluid Ounces
 Material Bone China
 Auto Shutoff No
 Item Weight 190 g
-",other,cream,190g,8oz,13,10,9
+",other,cream,190g,8oz,13,10,9,other
 "Playstation Playstation Icons Heat Change Coffee Mug | Amazon Exclusive
 Playstation heat change coffee mug: Inspired by one of the greatest video game consoles ever created, the PlayStation Controller Mug takes its design from the unmistakable original PlayStation.
 Boxed and ready to give: This 295ml mug comes in a decorative box for gifting. Hand wash only to keep your collectible like new. Not safe for microwave use. Caffeine not included
@@ -3346,7 +3346,7 @@ Model Number PP7560PS
 Package Dimensions 11.1 x 10.7 x 10.4 cm; 490 Grams
 Capacity 295 Millilitres
 Item Weight 490 g
-",other,other,490g,295ml,11.1,10.7,10.4
+",other,other,490g,295ml,11.1,10.7,10.4,cup
 "Frozen 2 (Olaf) Mug
 Material Ceramic
 Brand Disney
@@ -3373,7 +3373,7 @@ Item dimensions L x W x H 9.5 x 11.5 centimetres
 Number of pieces 1
 Batteries required No
 Item weight 0.3 Kilograms
-",ceramic,other,0.3kg,315ml;11oz,other,other,other
+",ceramic,other,0.3kg,315ml;11oz,other,other,other,other
 "Fluff You, You Fluffin' Fluff - Rude Cat Funny Coffee Mug
 Material Ceramic
 Colour White
@@ -3414,7 +3414,7 @@ Product Dimensions 9.5 x 8.2 x 8.2 cm; 340 Grams
 Capacity 312 Millilitres
 Material Ceramic
 Item Weight 340 g
-",ceramic,white,340g,312ml;11oz,9.5,8.2,8.2
+",ceramic,white,340g,312ml;11oz,9.5,8.2,8.2,other
 "Super Mario (Gold Coin Rush) Heat Change Mug, SCMG24854
 Material Porcelain
 Colour Multi-colour
@@ -3451,7 +3451,7 @@ Product Dimensions 7.9 x 11 x 9.3 cm; 370 Grams
 Capacity 320 Millilitres
 Material Porcelain
 Item Weight 370 g
-",other,other,370g,320ml,7.9,11,9.3
+",other,other,370g,320ml,7.9,11,9.3,other
 "Monsters Inc Shaped Mug - Pixar (Monsters Inc Mike), MUGDPX04
 Material Ceramic
 Colour Green
@@ -3490,7 +3490,7 @@ Product Dimensions 14 x 11 x 10 cm; 500 Grams
 Capacity 450 Millilitres
 Material Ceramic
 Item Weight 500 g
-",ceramic,green,500g,450ml,14,11,10
+",ceramic,green,500g,450ml,14,11,10,lid
 "Gift Republic Ecologie Insects Mug, Enamel, Multi, 13x9.5x8.5 cm GR270097
 Material Enamel
 Colour Multi
@@ -3529,7 +3529,7 @@ Product Dimensions 8.48 x 9.5 x 12.5 cm; 86.18 Grams
 Capacity 500 Millilitres
 Material Enamel
 Item Weight 86.2 g
-",other,other,86.2g,500ml,13,9.5,8.5
+",other,other,86.2g,500ml,13,9.5,8.5,other
 "Animal Crossing Cup Characters Melinda Tom Nook Nintendo Ceramic White Mug, MG25973
 Material Ceramic
 Colour Multicoloured
@@ -3564,7 +3564,7 @@ Package Dimensions 15.4 x 11.7 x 10.1 cm; 380 Grams
 Capacity 312 Grams
 Material Ceramic
 Item Weight 380 g
-",ceramic,other,380g,312g;11oz,15.4,11.7,10.1
+",ceramic,other,380g,312g;11oz,15.4,11.7,10.1,cup
 "Sass & Belle Cutie Cat Shaped Mug
 Colour Cream/Black
 Brand Sass & Belle
@@ -3597,7 +3597,7 @@ Colour Cream/Black
 Package Dimensions 18.3 x 15.4 x 12.4 cm; 390 Grams
 Capacity 400 Millilitres
 Item Weight 390 g
-",other,cream,390g,400ml,18.3,15.4,12.4
+",other,cream,390g,400ml,18.3,15.4,12.4,other
 "Newdora Reusable Coffee Cup Travel Mug Stainless Steel Double Walled Insulation Mug with Lid for Coffee Cocktail Milk Gifts Eco-Friendly 13oz/360ml(Iridescent)
 Material Stainless Steel
 Colour Iridescent
@@ -3630,7 +3630,7 @@ Package Dimensions 14.5 x 10 x 9.9 cm; 260 Grams
 Capacity 360 Millilitres
 Material Stainless Steel
 Item Weight 260 g
-",metal,other,260g,360ml;13oz,14.5,10,9.9
+",metal,other,260g,360ml;13oz,14.5,10,9.9,lid;rack;cup
 "Mason Cash 2001.881 Impressions Durable Stoneware 350ml Grey Mug, Ceramic, 13 x 9.7 x 8.4 cm
 Material Ceramic
 Colour Grey
@@ -3675,7 +3675,7 @@ Diameter 13 Centimetres
 Capacity 350 Millilitres
 Material Ceramic
 Item Weight 220 g
-",ceramic,grey,220g,350ml;12oz,13,9.7,8.4
+",ceramic,grey,220g,350ml;12oz,13,9.7,8.4,other
 "Mandalorian Heat Change Coffee Mug, Ceramic, 300 milliliters
 Material Ceramic
 Brand Paladone
@@ -3708,7 +3708,7 @@ Product Dimensions 29.5 x 29.5 x 8.5 cm; 400 Grams
 Capacity 300 Millilitres
 Material Ceramic
 Item Weight 400 g
-",ceramic,other,400g,300ml;10.55oz,29.5,29.5,8.5
+",ceramic,other,400g,300ml;10.55oz,29.5,29.5,8.5,cup
 "Funny Quotes Mug Good Morning I See the Assassins Have Failed Novelty Ceramic Coffee Mugs for Office Funny Gifts
 11 OZ ceramic funny coffee mugs
 This high-quality printed mug is dishwasher-safe and suitable for the microwave
@@ -3731,7 +3731,7 @@ Funny Mugs designed and Printed Exclusively by Faithful Prints and sold by Chorl
 Package Dimensions 12 x 10.4 x 8.8 cm; 420 Grams
 Material Ceramic
 Item Weight 420 g
-",ceramic,other,420g,11oz,12,10.4,8.8
+",ceramic,other,420g,11oz,12,10.4,8.8,other
 "16 oz Matte Texture Coffee Mug, Smilatte M052 Novelty Ceramic Cup for Latte Cappuccino Tea Hot Cocoa, Black
 Material Ceramic
 Colour Black
@@ -3770,7 +3770,7 @@ Capacity 16 Fluid Ounces
 Volume Capacity 454 Grams
 Material Ceramic
 Item Weight 360 g
-",ceramic,black,360g,16oz,8.4,8.4,11.4
+",ceramic,black,360g,16oz,8.4,8.4,11.4,cup
 "KitchenCraft Painted Ceramic Novelty Pug Mug, 350 ml (12.5 fl oz) - Cream / Brown
 Material Ceramic
 Colour Cream/Brown
@@ -3801,7 +3801,7 @@ Product Dimensions 11 x 15 x 9.5 cm; 340 Grams
 Item volume 350 Millilitres
 Number of pieces 1
 Batteries required No
-",ceramic,cream,340g,350ml;12.5oz,11,15,9.5
+",ceramic,cream,340g,350ml;12.5oz,11,15,9.5,handle;cup
 "Among Us - Heat Changing Magic Mug Cup Tea Coffee Gift
 Magic Heat Changing Mug - Why drink your hot coffee or tea from a regular cup/mug when you can drink it from this magic mug? The heat sensitive mug will change colour once you pour a hot beverage into it.
 The Perfect Unique Gift - Are you looking for a gift for a friend or family member? Give them this heat sensitive mug/cup and don't tell them what it can do. Then offer them some hot coffee or tea and watch their face as the colours of the mug magically change! That's one magical gift!
@@ -3822,7 +3822,7 @@ Not dishwasher or microwave safe, do not soak
 Package Dimensions 16.1 x 12.1 x 10.3 cm; 350 Grams
 Capacity 312 Millilitres
 Item Weight 350 g
-",ceramic,other,350g,312ml;11oz,16.1,12.1,10.3
+",ceramic,other,350g,312ml;11oz,16.1,12.1,10.3,cup
 "Gift Republic GR330036 Coffee Pill Pot Mug
 Material Porcelain
 Colour Multicolor
@@ -3859,7 +3859,7 @@ Colour Multicolor
 Product Dimensions 8.99 x 8.74 x 12.6 cm; 108 Grams
 Material Porcelain
 Item Weight 108 g
-",other,other,108g,other,9,8.7,12.6
+",other,other,108g,other,9,8.7,12.6,other
 "Danxia Handcrafted Ceramic Coffee Mug 450 ml (C)
 Material Ceramic
 Colour C
@@ -3892,7 +3892,7 @@ Package Dimensions 17 x 15.9 x 14.3 cm; 410 Grams
 Capacity 450 Millilitres
 Material Ceramic
 Item Weight 410 g
-",ceramic,other,410g,450ml,17,15.9,14.3
+",ceramic,other,410g,450ml,17,15.9,14.3,cup
 "Funny Novelty Christmas Gingers Mug and Pillowcase,Gingers are for Life Not Just for Christmas Mug and Pillowcase
 11oz funny novelty christmas gift mug
 18'' peach skin pillowcover
@@ -3911,7 +3911,7 @@ quality problem,refund or replace
 ","Brand Yizeda
 Package Dimensions 18.3 x 16.1 x 12.8 cm; 100 Grams
 Item Weight 100 g
-",other,other,100g,11oz,18.3,16.1,12.8
+",other,other,100g,11oz,18.3,16.1,12.8,other
 "Bone China Union Jack Mug
 Material Bone China
 Brand Lesser & Pavey
@@ -3934,7 +3934,7 @@ Model Number B01FKZVBRK_1
 Product Dimensions 12.5 x 11 x 7.49 cm; 299.37 Grams
 Material Bone China
 Item Weight 299 g
-",other,other,299g,other,12.5,11,7.5
+",other,other,299g,other,12.5,11,7.5,other
 "Thermos ThermoCafé 171136 Translucent Travel Mug, Red, 420 ml
 Material Plastic
 Colour Translucent Red
@@ -3971,7 +3971,7 @@ Product Dimensions 12 x 8.5 x 17.5 cm; 220 Grams
 Capacity 420 Millilitres
 Material Plastic
 Item Weight 220 g
-",plastic,red,220g,420ml,12,8.5,17.5
+",plastic,red,220g,420ml,12,8.5,17.5,lid;cup;lock
 "Price and Kensington Simplicity 13Oz Conical Mug, Porcelain, White, 12.6 x 9.3 x 10.5 cm
 Material Porcelain
 Colour White
@@ -4008,7 +4008,7 @@ Product Dimensions 12.6 x 9.3 x 10.5 cm; 280 Grams
 Capacity 375 Millilitres
 Material Porcelain
 Item Weight 280 g
-",other,white,280g,375ml,12.6,9.3,10.5
+",other,white,280g,375ml,12.6,9.3,10.5,other
 "Paladone Elf Clausometer Heat Change Mug - Officially Licensed Product, PP7315EL
 BUDDY THE ELF: Add a hot drink to this mug and watch as the Spirit Clausometer fills up on one side. On the other side it says “The best way to spread Christmas Cheer is singing loud for all to hear.”
 HOT ITEM: Whether you’re a coffee lover, tea fan, or hot chocolate connoisseur, this mug is for you. Made with durable material & a cool design, this cup will brighten your day at home or the office.
@@ -4031,7 +4031,7 @@ Model Number PP7315EL
 Package Dimensions 11.5 x 10.7 x 10.2 cm; 380 Grams
 Material Ceramic
 Item Weight 380 g
-",ceramic,other,380g,other,11.5,10.7,10.2
+",ceramic,other,380g,other,11.5,10.7,10.2,cup
 "Portmeirion Home & Gifts Wrendale Designs by Royal Worcester Duck Guard Mug, Bone China, Multi-Colour MMKC5629-XS
 Material Bone China
 Colour Multicoloured
@@ -4072,7 +4072,7 @@ Product Dimensions 17.6 x 13.79 x 13.41 cm; 300 Grams
 Capacity 11 Fluid Ounces
 Material Bone China
 Item Weight 300 g
-",other,other,300g,11oz,17.6,13.8,13.4
+",other,other,300g,11oz,17.6,13.8,13.4,other
 "MUGFFINS Mum Mugs -""Best Mum Ever"" (Model 3) - Funny Mothers Day Gifts from Daughters & sons
 Material Ceramic
 Colour 5
@@ -4111,7 +4111,7 @@ Capacity 350 Millilitres
 Volume Capacity 330 Millilitres
 Material Ceramic
 Item Weight 410 g
-",ceramic,white,410g,350ml;11oz,16,11,12
+",ceramic,white,410g,350ml;11oz,16,11,12,cup
 "KINGSO 480mL Travel Mug Tumbler with Straw and Leakproof Lid,Eco-Friendly Reusable Flask Coffee Cup Beer Pint Mug,Vacuum Insulated 18/8 Stainless Steel for Ice Cold or Warm Drinking Orange-Red
 Material Stainless Steel
 Colour Orange-red
@@ -4148,7 +4148,7 @@ Product Dimensions 21 x 10.5 x 10.5 cm; 350 Grams
 Capacity 480 Millilitres
 Material Stainless Steel
 Item Weight 350 g
-",metal,orange,350g,480ml;17oz,21,10.5,10.5
+",metal,orange,350g,480ml;17oz,21,10.5,10.5,lid;straw;cup
 "Cambridge CM05909 Large Polynesia Eco Travel Mug, Bamboo, Blue, 10 x 10 x 18 cm
 Material Bamboo
 Colour Polynesia
@@ -4187,7 +4187,7 @@ Product Dimensions 10 x 10 x 18 cm; 200 Grams
 Capacity 560 Millilitres
 Material Bamboo
 Item Weight 200 g
-",other,other,200g,560ml,10,10,18
+",other,other,200g,560ml,10,10,18,lid;cup
 "Portmeirion Home & Gifts SMGE78914-XG Mug Single, Blue
 Colour Blue
 Brand Portmeirion Home & Gifts
@@ -4212,7 +4212,7 @@ Package Dimensions 15.8 x 10.7 x 10.2 cm; 299.37 Grams
 Number of pieces 1
 Batteries required No
 Item weight 0.66 Pounds
-",other,blue,299g,12oz,15.8,10.7,10.2
+",other,blue,299g,12oz,15.8,10.7,10.2,other
 "TsunNee 450ML Electric Self Stirring Coffee Mug, Stainless Steel Auto Magnetic Mug, Auto Mixing Cup for Coffee Tea Hot Chocolate Milk Cocoa Protein, Pink
 Colour Pink
 Brand TsunNee
@@ -4241,7 +4241,7 @@ Colour Pink
 Package Dimensions 20.5 x 12.6 x 9.2 cm; 380 Grams
 Capacity 450 Millilitres
 Item Weight 380 g
-",metal,pink,380g,450ml,20.5,12.6,9.2
+",metal,pink,380g,450ml,20.5,12.6,9.2,lid;handle;straw;cup
 "Tennessee Titans NFL London Games 2018 Splatter Mug
 Material Ceramic
 Colour White
@@ -4266,7 +4266,7 @@ Colour White
 Package Dimensions 11.8 x 10.7 x 9.2 cm; 370 Grams
 Material Ceramic
 Item Weight 370 g
-",ceramic,white,370g,11oz,11.8,10.7,9.2
+",ceramic,white,370g,11oz,11.8,10.7,9.2,other
 "Scotland Mug - for Visitors of Edinburgh, Stirling, Fort William, Hebrides - Piper, Highland Cattle, Loch Ness Monster, Forth Bridge - for Americano Coffee/Tea/Hot Chocolate/Scottish Souvenir
 Brand Thomas benacci
 Item weight 352 Grams
@@ -4295,7 +4295,7 @@ Brand Thomas benacci
 Product Dimensions 8 x 8 x 10 cm; 352 Grams
 Capacity 350 Millilitres
 Item Weight 352 g
-",ceramic,other,352g,350ml,8,8,10
+",ceramic,other,352g,350ml,8,8,10,cup
 "L&P The Beatles Fine China Icons Quote Mug Tea Coffee Drinking Cup In Gift Box
 Material Bone China
 Brand L&P
@@ -4328,7 +4328,7 @@ Diameter 27 Centimetres
 Capacity 330 Millilitres
 Material Bone China
 Item Weight 370 g
-",other,other,370g,330ml,9.3,9,9
+",other,other,370g,330ml,9.3,9,9,cup
 "Funny Quotes Mug Good Morning I See the Assassins Have Failed Novelty Ceramic Coffee Mugs for Office Funny Gifts
 11 OZ ceramic funny coffee mugs
 This high-quality printed mug is dishwasher-safe and suitable for the microwave
@@ -4351,7 +4351,7 @@ Funny Mugs designed and Printed Exclusively by Faithful Prints and sold by Chorl
 Package Dimensions 12 x 10.4 x 8.8 cm; 420 Grams
 Material Ceramic
 Item Weight 420 g
-",ceramic,other,420g,11oz,12,10.4,8.8
+",ceramic,other,420g,11oz,12,10.4,8.8,other
 "Rabbit Design Fine China Mug with Gold Foil Detailing H803
 Rabbit design mug
 Made from fine china
@@ -4374,7 +4374,7 @@ Model Number H803
 Package Dimensions 12.19 x 11.18 x 10.16 cm; 320 Grams
 Material Bone China
 Item Weight 320 g
-",other,other,320g,other,12.19,11.18,10.16
+",other,other,320g,other,12.19,11.18,10.16,handle
 "Paladone PP6738LOO Looney Tunes Tweety Mug-Officially Licensed Warner Bros Merchandise, Dolomite
 CLASSIC CARTOON: Watch some Looney Tunes with this dolomite Tweety mug in hand. It features the iconic yellow bird known for escaping Sylvester’s devious plots against him.
 BOXED & READY TO GIVE: This mug comes in a decorative box for gifting. Hand wash only to keep your collectible like new. Not safe for microwave use. Caffeine not included.
@@ -4397,7 +4397,7 @@ Model Number PP6738LOO
 Package Dimensions 14.7 x 14.1 x 10.8 cm; 381 Grams
 Material Dolomite
 Item Weight 381 g
-",other,yellow,381g,other,14.7,14.1,10.8
+",other,yellow,381g,other,14.7,14.1,10.8,cup
 "Disney Aladdin Shaped Mug - Genie
 Material Ceramic
 Colour Aladdin (Genie)
@@ -4432,7 +4432,7 @@ Dishwasher safe? Yes
 Number of pieces 1
 Batteries required No
 Item weight 0.5 Kilograms
-",ceramic,other,500g,400ml,17.5,11,11
+",ceramic,other,500g,400ml,17.5,11,11,other
 "WAVEYU Ceramic Mug, Pink Coffee Mug Marble with Handle Decoration with Sparky Gold Girly Coffee Tea Cup for Girl Women for Ideal Gifts, 14 oz (Pink)
 Material Ceramic
 Colour Pink
@@ -4467,7 +4467,7 @@ Package Dimensions 12.19 x 10.41 x 8.38 cm; 396.89 Grams
 Capacity 397 Grams
 Material Ceramic
 Item Weight 396 g
-",ceramic,grey,396g,397g,12.19,10.41,8.38
+",ceramic,grey,396g,397g,12.19,10.41,8.38,handle;cup
 "Ridgemonkey Thermo-Mug - Grey/Green
 Material Plastic
 Colour Gunmetal Green
@@ -4506,7 +4506,7 @@ Manufacturer RidgeMonkey
 Item model number 10C5056210600009C10
 Package Dimensions 14 x 12.7 x 9.6 cm; 218 Grams
 ASIN B07CCMBPHR
-",plastic,green,218g,400ml,14,12.7,9.6
+",plastic,green,218g,400ml,14,12.7,9.6,lid;handle
 "Ambiente Fine Bone China Christmas Mug 0.4 Litre Nutcracker
 Decorated Mug Inside and Out
 10cm x 10.5cm - 0.4 L Mug
@@ -4527,7 +4527,7 @@ Ambiente
 Package Dimensions 20.1 x 14.1 x 11.6 cm; 310 Grams
 Material Bone China
 Item Weight 310 g
-",other,other,310g,0.4L,20.1,14.1,11.6
+",other,other,310g,0.4L,20.1,14.1,11.6,other
 "WIDDOP MAGICAL BEGINNINGS DI699 I LOVE YOU GRANDMA POOH MUG NEW IN BOX
 Material Ceramic
 Colour White
@@ -4552,7 +4552,7 @@ Colour White
 Product Dimensions 8.5 x 11.5 x 10.5 cm; 380 Grams
 Material Ceramic
 Item Weight 380 g
-",ceramic,white,380g,other,8.5,11.5,10.5
+",ceramic,white,380g,other,8.5,11.5,10.5,other
 "Caravan Mug (Dad)
 Brand Leonardo
 Package Dimensions 12.3 x 10 x 8.9 cm; 359 Grams
@@ -4561,7 +4561,7 @@ Item Weight 359 g
 ","Brand Leonardo
 Package Dimensions 12.3 x 10 x 8.9 cm; 359 Grams
 Item Weight 359 g
-",other,other,359g,other,12.3,10,8.9
+",other,other,359g,other,12.3,10,8.9,other
 "Sass & Belle Bohemian Stars Dad Mug
 Material Ceramic
 Colour Blue
@@ -4590,7 +4590,7 @@ Item dimensions L x W x H 10.3 x 11.8 x 10.2 centimetres
 Product Dimensions 10.3 x 11.8 x 10.2 cm; 330 Grams
 Number of pieces 1
 Batteries required No
-",ceramic,blue,330g,480ml,10.3,11.8,10.2
+",ceramic,blue,330g,480ml,10.3,11.8,10.2,other
 "It Takes a lot of Balls Novelty Golf Mug 11oz
 Designed and made in the UK by Personalised Store UK
 11oz capacity
@@ -4611,7 +4611,7 @@ Package Dimensions 15.2 x 11.7 x 9.7 cm; 446 Grams
 Capacity 312 Grams
 Volume Capacity 11 Fluid Ounces
 Item Weight 446 g
-",other,other,446g,312g;11oz,15.2,11.7,9.7
+",other,other,446g,312g;11oz,15.2,11.7,9.7,handle
 "Disney WIDDOP DI698 I LOVE YOU MUMMY DUMBO MUG NEW IN BOX
 Material Ceramic
 Colour White
@@ -4632,7 +4632,7 @@ Model Number DI698
 Colour White
 Material Ceramic
 Item Weight 380 g
-",ceramic,white,380g,other,other,other,other
+",ceramic,white,380g,other,other,other,other,other
 "Decdeal Flower Tea Cup, Enamel Craft Glass Coffee Mugs Lead-Free Drink Mug with Spoon&Cleaning Cloth&Gift Box,Personalised Gifts for Women Mum Teacher Sister Birthday Christmas Valentines Wedding Day
 Material Glass
 Colour Red
@@ -4673,7 +4673,7 @@ Volume Capacity 350 Millilitres
 Material Glass
 Special Features Teacher gifts, Birthday gifts for mum, Gifts for mum, Mother's Day gifts, Personalised gifts, Birthday gifts, Wedding Anniversary gifts, Birthday gifts for her, Grandma gifts, Valentine's Day gifts, Birthday gifts for women, Personalised gifts for women, Mugs for women
 Item Weight 570 g
-",glass,red,570g,350ml,17.9,16.1,10.7
+",glass,red,570g,350ml,17.9,16.1,10.7,handle;cup
 "Coffee Mug with Cute Soft Silicone Cat Lid Kneadable and Squeezable Creative Gifts Suitable for Office and Home Decompression Mug/Cup 350ML/12 OZ Black
 Material Ceramic
 Colour Black
@@ -4708,7 +4708,7 @@ Package Dimensions 20.2 x 16.1 x 11.4 cm; 540 Grams
 Capacity 340 Grams
 Material Ceramic
 Item Weight 540 g
-",ceramic,black,540g,350ml;12oz,20.2,16.1,11.4
+",ceramic,black,540g,350ml;12oz,20.2,16.1,11.4,lid;handle;cup
 "Puckator Miss Pretty London Ceramic Animal Shaped Head Mug-Tiger, Multi, Height 9.5cm Width 17cm Depth 12.5cm
 Material Ceramic
 Colour Multicolor
@@ -4735,7 +4735,7 @@ Colour Multicolor
 Package Dimensions 16.5 x 13.1 x 11.5 cm; 428 Grams
 Material Ceramic
 Item Weight 428 g
-",ceramic,other,428g,other,16.5,13.1,11.5
+",ceramic,other,428g,other,16.5,13.1,11.5,other
 "I'm an Engineer Cute Coffee Mug Ceramic Inspirational Gifts for Kids Women Girls Birthday Gifts
 Material Ceramic
 Brand Generic
@@ -4768,7 +4768,7 @@ Model Number Unknown
 Product Dimensions 11.99 x 10.49 x 8.79 cm; 371.95 Grams
 Material Ceramic
 Item Weight 372 g
-",ceramic,other,372g,11oz,12,10.5,8.8
+",ceramic,other,372g,11oz,12,10.5,8.8,other
 "SUNTQ Reusable Coffee Cups Travel - Coffee Travel Mug with Leakproof Lid - Thermal Mug Insulated Cup - Stainless Steel Coffee Travel Cup - for Hot and Cold Drinks (Black with Grip, 13oz/380ml)
 Material Stainless Steel
 Colour Black With Grip
@@ -4807,7 +4807,7 @@ Capacity 369 Grams
 Volume Capacity 380 Millilitres
 Material Stainless Steel
 Item Weight 298 g
-",metal,black,298g,380ml;13oz,9,9,15
+",metal,black,298g,380ml;13oz,9,9,15,lid;cup
 "Arabia Ceramic Moomin Mug Snow 300ml Blizzard - 1055333
 Material Ceramic
 Colour Blue
@@ -4842,7 +4842,7 @@ Package Dimensions 15.7 x 10.7 x 10.5 cm; 310 Grams
 Capacity 300 Millilitres
 Material Ceramic
 Item Weight 310 g
-",ceramic,other,310g,300ml;10oz,15.7,10.7,10.5
+",ceramic,other,310g,300ml;10oz,15.7,10.7,10.5,other
 "Paladone Dungeons and Dragons Heat Sensitive Mug - Colour Change 550ml (18 5floz) Mug
 Material Ceramic
 Colour Blue and Black
@@ -4879,7 +4879,7 @@ Product Dimensions 10 x 15 x 11 cm; 540 Grams
 Capacity 0.55 litres
 Material Ceramic
 Item Weight 540 g
-",ceramic,blue,540g,550ml;18oz,10,15,11
+",ceramic,blue,540g,550ml;18oz,10,15,11,cup
 "DC Comics MG1591 Wonder Woman Costume Mug, Wood, Multi-Colour, 15 x 10 x 9 cm
 Material Wood
 Colour Multi-colour
@@ -4914,7 +4914,7 @@ Product Dimensions 15 x 10 x 9 cm; 290 Grams
 Capacity 300 Millilitres
 Material Wood
 Item Weight 290 g
-",wood,other,290g,300ml,15,10,9
+",wood,other,290g,300ml,15,10,9,other
 "Circular and Co Reusable Coffee Cup 8oz/227ml - The World's First Travel Mug Made from Recycled Coffee Cups, 100% Leak-Proof, Sustainable & Insulated. (Black & Faraway Blue)
 Colour Black & Faraway Blue
 Brand Circular and Co
@@ -4947,7 +4947,7 @@ Colour Black & Faraway Blue
 Product Dimensions 8.5 x 8.5 x 17 cm; 180 Grams
 Capacity 227 Millilitres
 Item Weight 180 g
-",other,black,180g,227ml;8oz,8.5,8.5,17
+",other,black,180g,227ml;8oz,8.5,8.5,17,lid;cup
 "Nano Gauntlet Shaped Marvel Avengers: Endgame | 3D Oversized Ceramic Drinking Mug Tea Coffee, Dolomite
 Material Dolomite
 Brand Paladone
@@ -4980,7 +4980,7 @@ Product Dimensions 29.5 x 29.5 x 8.5 cm; 260 Grams
 Capacity 350 Millilitres
 Material Dolomite
 Item Weight 260 g
-",other,other,260g,350ml,29.5,29.5,8.5
+",other,other,260g,350ml,29.5,29.5,8.5,other
 "Opard Travel Mug Leakproof 350ml Double-Walled Vacuum Insulated Stainless Steel Coffee Mug BPA Fre (Black)
 Material Stainless Steel
 Colour Black
@@ -5005,4 +5005,4 @@ Brand Opard
 Capacity 350 Millilitres
 Package Dimensions 21.2 x 9.2 x 9.2 cm; 390 Grams
 Batteries required No
-",metal,other,390g,350ml;12oz,21.2,9.2,9.2
+",metal,other,390g,350ml;12oz,21.2,9.2,9.2,lid;brush;lock
