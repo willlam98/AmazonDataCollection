@@ -1259,7 +1259,7 @@ Capacity 0.8 litres
 Power / Wattage 2200 watts
 Special Features Cordless
 Item Weight 1.25 kg
-",metal,steel,1.25kg,0.8L,11.4,18.9,21,lid;cup;brush;filter
+",metal,other,1.25kg,0.8L,11.4,18.9,21,lid;cup;brush;filter
 "Electric Glass Pyramid Traditional Kettle. 1.7L Cordless Water Boiler for Tea and Water Retro Kettle with 2200W Strix Controls 100% Stainless Steel Inner Lid & Bottom
 [Sleek & Stylish Design ]- Combining glass, indicator light and retro appearance, provide great addition to complement your modern kitchen and office.
 [Maximum capacity 1.7L] - Do not ﬁll the water over the maximum level (1.7L) to avoid to spill out of the spout water when boiling and avoid to leak from the steam pipe when pouring water
@@ -1284,7 +1284,7 @@ Volume Capacity 1.7 litres
 Material Stainless Steel, Borosilicate Glass, Plastic
 Special Features Cordless
 Item Weight 1.66 kg
-",metal,steel,1.66kg,1.7L,31.2,23.2,23.2,lid;filter
+",metal,other,1.66kg,1.7L,31.2,23.2,23.2,lid;filter
 "De'Longhi Brillante KBJ3001W Kettle - White
 
 Exclusive plastic faceted Kettle in white with chromed details
@@ -1652,7 +1652,7 @@ Capacity 1.7 litres
 Volume Capacity 1.7 litres
 Power / Wattage 3 KW
 Item Weight 1.84 kg
-",metal,steel,1.84kg,1.7L,25.8,23.2,18.6,lid;cup;brush;filter
+",metal,other,1.84kg,1.7L,25.8,23.2,18.6,lid;cup;brush;filter
 "Aigostar Adam 30KHH - Glass Water Kettle with LED Lighting, 2200 Watts, 1.7 Liter, Boil-Dry Protection, BPA Free, Black. Exclusive Design
 【Illuminated LED Light】Featuring on illuminated display, the glass kettle can give you visual enjoyment while working, perfect for your kitchen or pantry.
 【Durable and Fast Kettle】Made from high borosilicate glass which is durable and stain resistant. With 2200-Watts power, it takes shorter time to boil up water. 1.7L capacity makes 6-8 cups, big enough for your daily water requirement and your family.
@@ -3535,7 +3535,7 @@ Material Glass/Stainless Steel
 Auto Shutoff Yes
 Special Features Blue illumination LED • Boil Dry & Overheat Protection • Non-slip 360-degrees rotary • Removable Filter • Fast boil kettle
 Item Weight 1.47 kg
-",metal,glass,1.47kg,1.7L,16,20,24,lid;handle;filter;led
+",metal,other,1.47kg,1.7L,16,20,24,lid;handle;filter;led
 "Daewoo SDA1666GE 1.7L Kettle with Stainless Steel Colour Changing Indicator Lights-Glossy Black Plastic with Safety Locking Lid-Cordless Design
 Safe to use - This kettle is designed with inbuilt boil dry protection via the stainless steel heating element, It will automatically switch off once the water inside has reached boiling temperature
 Coloured indicator lights - Utilising lights to indicate the kettle's status, The blue light will display when the kettle is placed on the base and switched off and the red light will illuminate when the kettle is switched on and heating
@@ -9192,7 +9192,7 @@ Manufacturer reference Bediffertfrwcbns2v-01
 Manufacturer Part Number Bediffertfrwcbns2v-01
 Wattage 120 watts
 Item Weight 850 g
-",metal,bronze,850g,1200ml,10,10,10,lid;cup
+",metal,brown,850g,1200ml,10,10,10,lid;cup
 "Cookworks Stainless Steel And Transparent Glass Kettle
 This Cookworks glass kettle is ideal for catch-up-with-friend's cuppas and help-me-wake-up coffees. Its transparent glass design not only looks pretty swanky but means that you can always keep an eye on the water level.
 It also illuminates blue when in use, flashy ay! The cordless design allows you to easily transport it to the hob to boil some veggies and to the sink to refill it.
